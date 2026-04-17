@@ -21,212 +21,212 @@ msgstr ""
 #. Description of the 'Arrear Start Date' (Date) field in DocType 'Arrear'
 #: hrms/payroll/doctype/arrear/arrear.json
 msgid " Salary slips starting on or after this date will be considered for arrear calculations"
-msgstr ""
+msgstr "Phiếu lương bắt đầu từ hoặc sau ngày này sẽ được xem xét để tính lương truy lĩnh"
 
 #. Label of the unlink_payment_on_cancellation_of_employee_advance (Check)
 #. field in DocType 'HR Settings'
 #: hrms/hr/doctype/hr_settings/hr_settings.json
 msgid " Unlink Payment on Cancellation of Employee Advance"
-msgstr ""
+msgstr "Hủy liên kết Thanh toán khi Hủy Tạm ứng Nhân viên"
 
 #: hrms/hr/report/employee_leave_balance/employee_leave_balance.py:23
 msgid "\"From Date\" can not be greater than or equal to \"To Date\""
-msgstr ""
+msgstr "\"Từ ngày\" không được lớn hơn hoặc bằng \"Đến ngày\""
 
 #: hrms/hr/report/employee_hours_utilization_based_on_timesheet/employee_hours_utilization_based_on_timesheet.py:86
 msgid "% Utilization (B + NB) / T"
-msgstr ""
+msgstr "% Sử dụng (B + NB) / T"
 
 #: hrms/hr/report/employee_hours_utilization_based_on_timesheet/employee_hours_utilization_based_on_timesheet.py:92
 msgid "% Utilization (B / T)"
-msgstr ""
+msgstr "% Sử dụng (B / T)"
 
 #: hrms/hr/doctype/employee_checkin/employee_checkin.py:183
 msgid "'employee_field_value' and 'timestamp' are required."
-msgstr ""
+msgstr "'employee_field_value' và 'timestamp' là bắt buộc."
 
 #: hrms/hr/utils.py:254
 #: hrms/payroll/doctype/payroll_period/payroll_period.py:69
 msgid ") for {0}"
-msgstr ""
+msgstr ") cho {0}"
 
 #: hrms/hr/doctype/employee_attendance_tool/employee_attendance_tool.js:54
 msgid "...Fetching Employees"
-msgstr ""
+msgstr "...Đang lấy dữ liệu Nhân viên"
 
 #. Option for the 'Rounding' (Select) field in DocType 'Leave Type'
 #: hrms/hr/doctype/leave_type/leave_type.json
 msgid "0.25"
-msgstr ""
+msgstr "0.25"
 
 #. Option for the 'Rounding' (Select) field in DocType 'Leave Type'
 #: hrms/hr/doctype/leave_type/leave_type.json
 msgid "0.5"
-msgstr ""
+msgstr "0.5"
 
 #. Option for the 'Send Emails At' (Select) field in DocType 'Daily Work
 #. Summary Group'
 #: hrms/hr/doctype/daily_work_summary_group/daily_work_summary_group.json
 msgid "00:00"
-msgstr ""
+msgstr "00:00"
 
 #. Option for the 'Send Emails At' (Select) field in DocType 'Daily Work
 #. Summary Group'
 #: hrms/hr/doctype/daily_work_summary_group/daily_work_summary_group.json
 msgid "01:00"
-msgstr ""
+msgstr "01:00"
 
 #. Option for the 'Send Emails At' (Select) field in DocType 'Daily Work
 #. Summary Group'
 #: hrms/hr/doctype/daily_work_summary_group/daily_work_summary_group.json
 msgid "02:00"
-msgstr ""
+msgstr "02:00"
 
 #. Option for the 'Send Emails At' (Select) field in DocType 'Daily Work
 #. Summary Group'
 #: hrms/hr/doctype/daily_work_summary_group/daily_work_summary_group.json
 msgid "03:00"
-msgstr ""
+msgstr "03:00"
 
 #. Option for the 'Send Emails At' (Select) field in DocType 'Daily Work
 #. Summary Group'
 #: hrms/hr/doctype/daily_work_summary_group/daily_work_summary_group.json
 msgid "04:00"
-msgstr ""
+msgstr "04:00"
 
 #. Option for the 'Send Emails At' (Select) field in DocType 'Daily Work
 #. Summary Group'
 #: hrms/hr/doctype/daily_work_summary_group/daily_work_summary_group.json
 msgid "05:00"
-msgstr ""
+msgstr "05:00"
 
 #. Option for the 'Send Emails At' (Select) field in DocType 'Daily Work
 #. Summary Group'
 #: hrms/hr/doctype/daily_work_summary_group/daily_work_summary_group.json
 msgid "06:00"
-msgstr ""
+msgstr "06:00"
 
 #. Option for the 'Send Emails At' (Select) field in DocType 'Daily Work
 #. Summary Group'
 #: hrms/hr/doctype/daily_work_summary_group/daily_work_summary_group.json
 msgid "07:00"
-msgstr ""
+msgstr "07:00"
 
 #. Option for the 'Send Emails At' (Select) field in DocType 'Daily Work
 #. Summary Group'
 #: hrms/hr/doctype/daily_work_summary_group/daily_work_summary_group.json
 msgid "08:00"
-msgstr ""
+msgstr "08:00"
 
 #. Option for the 'Send Emails At' (Select) field in DocType 'Daily Work
 #. Summary Group'
 #: hrms/hr/doctype/daily_work_summary_group/daily_work_summary_group.json
 msgid "09:00"
-msgstr ""
+msgstr "09:00"
 
 #. Option for the 'Rounding' (Select) field in DocType 'Leave Type'
 #: hrms/hr/doctype/leave_type/leave_type.json
 msgid "1.0"
-msgstr ""
+msgstr "1.0"
 
 #. Option for the 'Send Emails At' (Select) field in DocType 'Daily Work
 #. Summary Group'
 #: hrms/hr/doctype/daily_work_summary_group/daily_work_summary_group.json
 msgid "10:00"
-msgstr ""
+msgstr "10:00"
 
 #. Option for the 'Send Emails At' (Select) field in DocType 'Daily Work
 #. Summary Group'
 #: hrms/hr/doctype/daily_work_summary_group/daily_work_summary_group.json
 msgid "11:00"
-msgstr ""
+msgstr "11:00"
 
 #. Option for the 'Send Emails At' (Select) field in DocType 'Daily Work
 #. Summary Group'
 #: hrms/hr/doctype/daily_work_summary_group/daily_work_summary_group.json
 msgid "12:00"
-msgstr ""
+msgstr "12:00"
 
 #. Option for the 'Send Emails At' (Select) field in DocType 'Daily Work
 #. Summary Group'
 #: hrms/hr/doctype/daily_work_summary_group/daily_work_summary_group.json
 msgid "13:00"
-msgstr ""
+msgstr "13:00"
 
 #. Option for the 'Send Emails At' (Select) field in DocType 'Daily Work
 #. Summary Group'
 #: hrms/hr/doctype/daily_work_summary_group/daily_work_summary_group.json
 msgid "14:00"
-msgstr ""
+msgstr "14:00"
 
 #. Option for the 'Send Emails At' (Select) field in DocType 'Daily Work
 #. Summary Group'
 #: hrms/hr/doctype/daily_work_summary_group/daily_work_summary_group.json
 msgid "15:00"
-msgstr ""
+msgstr "15:00"
 
 #. Option for the 'Send Emails At' (Select) field in DocType 'Daily Work
 #. Summary Group'
 #: hrms/hr/doctype/daily_work_summary_group/daily_work_summary_group.json
 msgid "16:00"
-msgstr ""
+msgstr "16:00"
 
 #. Option for the 'Send Emails At' (Select) field in DocType 'Daily Work
 #. Summary Group'
 #: hrms/hr/doctype/daily_work_summary_group/daily_work_summary_group.json
 msgid "17:00"
-msgstr ""
+msgstr "17:00"
 
 #. Option for the 'Send Emails At' (Select) field in DocType 'Daily Work
 #. Summary Group'
 #: hrms/hr/doctype/daily_work_summary_group/daily_work_summary_group.json
 msgid "18:00"
-msgstr ""
+msgstr "18:00"
 
 #. Option for the 'Send Emails At' (Select) field in DocType 'Daily Work
 #. Summary Group'
 #: hrms/hr/doctype/daily_work_summary_group/daily_work_summary_group.json
 msgid "19:00"
-msgstr ""
+msgstr "19:00"
 
 #. Option for the 'Send Emails At' (Select) field in DocType 'Daily Work
 #. Summary Group'
 #: hrms/hr/doctype/daily_work_summary_group/daily_work_summary_group.json
 msgid "20:00"
-msgstr ""
+msgstr "20:00"
 
 #. Option for the 'Send Emails At' (Select) field in DocType 'Daily Work
 #. Summary Group'
 #: hrms/hr/doctype/daily_work_summary_group/daily_work_summary_group.json
 msgid "21:00"
-msgstr ""
+msgstr "21:00"
 
 #. Option for the 'Send Emails At' (Select) field in DocType 'Daily Work
 #. Summary Group'
 #: hrms/hr/doctype/daily_work_summary_group/daily_work_summary_group.json
 msgid "22:00"
-msgstr ""
+msgstr "22:00"
 
 #. Option for the 'Send Emails At' (Select) field in DocType 'Daily Work
 #. Summary Group'
 #: hrms/hr/doctype/daily_work_summary_group/daily_work_summary_group.json
 msgid "23:00"
-msgstr ""
+msgstr "23:00"
 
 #: hrms/payroll/doctype/bulk_salary_structure_assignment/bulk_salary_structure_assignment.js:272
 msgid "<b>Base</b> amount has not been set for the following employee(s): {0}"
-msgstr ""
+msgstr "Số tiền <b>Cơ bản</b> chưa được thiết lập cho (các) nhân viên sau: {0}"
 
 #. Description of the 'Password Policy' (Data) field in DocType 'Payroll
 #. Settings'
 #: hrms/payroll/doctype/payroll_settings/payroll_settings.json
 msgid "<b>Example:</b> SAL-{first_name}-{date_of_birth.year} <br>This will generate a password like SAL-Jane-1972"
-msgstr ""
+msgstr "<b>Ví dụ:</b> SAL-{first_name}-{date_of_birth.year} <br>Điều này sẽ tạo mật khẩu như SAL-Jane-1972"
 
 #: hrms/hr/doctype/leave_allocation/leave_allocation.py:314
 #: hrms/hr/doctype/leave_allocation/leave_allocation.py:322
 msgid "<b>Total Leaves Allocated</b> are more than the number of days in the allocation period"
-msgstr ""
+msgstr "<b>Tổng số phép được phân bổ</b> nhiều hơn số ngày trong kỳ phân bổ"
 
 #. Content of the 'Help' (HTML) field in DocType 'Salary Component'
 #: hrms/payroll/doctype/salary_component/salary_component.json
@@ -236,30 +236,30 @@ msgstr ""
 #. Content of the 'html_6' (HTML) field in DocType 'Taxable Salary Slab'
 #: hrms/payroll/doctype/taxable_salary_slab/taxable_salary_slab.json
 msgid "<h4>Condition Examples</h4>\n<ol>\n<li>Applying tax if employee born between 31-12-1937 and 01-01-1958 (Employees aged 60 to 80)<br>\n<code>Condition: date_of_birth&gt;date(1937, 12, 31) and date_of_birth&lt;date(1958, 01, 01)</code></li><br><li>Applying tax by employee gender<br>\n<code>Condition: gender==\"Male\"</code></li><br>\n<li>Applying tax by Salary Component<br>\n<code>Condition: base &gt; 10000</code></li></ol>"
-msgstr ""
+msgstr "<h4>Ví dụ về Điều kiện</h4>\n<ol>\n<li>Áp dụng thuế nếu nhân viên sinh trong khoảng từ 31-12-1937 đến 01-01-1958 (Nhân viên từ 60 đến 80 tuổi)<br>\n<code class=\"condition\">Condition: date_of_birth&gt;date(1937, 12, 31) and date_of_birth&lt;date(1958, 01, 01)</code></li><br><li>Áp dụng thuế theo giới tính nhân viên<br>\n<code class=\"condition\">Condition: gender==\"Male\"</code></li><br>\n<li>Áp dụng thuế theo Thành phần Lương<br>\n<code class=\"condition\">Condition: base &gt; 10000</code></li></ol>"
 
 #. Content of the 'Half Day Marked Employee Header' (HTML) field in DocType
 #. 'Employee Attendance Tool'
 #: hrms/hr/doctype/employee_attendance_tool/employee_attendance_tool.json
 msgid "<h5>Employees on Half Day</h5>"
-msgstr ""
+msgstr "<h5>Nhân viên nghỉ nửa ngày</h5>"
 
 #. Content of the 'Unmarked Employee Header' (HTML) field in DocType 'Employee
 #. Attendance Tool'
 #: hrms/hr/doctype/employee_attendance_tool/employee_attendance_tool.json
 msgid "<h5>Unmarked Employees</h5>"
-msgstr ""
+msgstr "<h5>Nhân viên chưa chấm công</h5>"
 
 #. Content of the 'Horizontal Break' (HTML) field in DocType 'Employee
 #. Attendance Tool'
 #: hrms/hr/doctype/employee_attendance_tool/employee_attendance_tool.json
 msgid "<hr>"
-msgstr ""
+msgstr "<hr>"
 
 #. Header text in the Payroll Workspace
 #: hrms/payroll/workspace/payroll/payroll.json
 msgid "<span class=\"h4\"><b>Transactions &amp; Reports</b></span>"
-msgstr ""
+msgstr "<span class=\"h4\"><b>Giao dịch &amp; Báo cáo</b></span>"
 
 #. Header text in the Shift & Attendance Workspace
 #: hrms/hr/workspace/shift_&_attendance/shift_&_attendance.json
@@ -268,21 +268,21 @@ msgstr "<span style=\"font-size: 18px;\"><b>Danh mục &amp; Báo cáo</b></span
 
 #: hrms/public/js/utils/index.js:166
 msgid "<table class='table table-bordered'><tr><th>{0}</th><th>{1}</th></tr>"
-msgstr ""
+msgstr "<table class='table table-bordered'><tr><th>{0}</th><th>{1}</th></tr>"
 
 #: hrms/hr/doctype/job_requisition/job_requisition.py:57
 msgid "A Job Requisition for {0} requested by {1} already exists: {2}"
-msgstr ""
+msgstr "Yêu cầu tuyển dụng cho {0} do {1} yêu cầu đã tồn tại: {2}"
 
 #: hrms/controllers/employee_reminders.py:123
 #: hrms/controllers/employee_reminders.py:216
 msgid "A friendly reminder of an important date for our team."
-msgstr ""
+msgstr "Lời nhắc về một ngày quan trọng cho đội ngũ của chúng ta."
 
 #: hrms/hr/utils.py:250
 #: hrms/payroll/doctype/payroll_period/payroll_period.py:65
 msgid "A {0} exists between {1} and {2} ("
-msgstr ""
+msgstr "Đã tồn tại một {0} giữa {1} và {2} ("
 
 #. Option for the 'Status' (Select) field in DocType 'Attendance'
 #. Option for the 'Status for Other Half' (Select) field in DocType
@@ -301,165 +301,165 @@ msgstr ""
 #: hrms/hr/report/monthly_attendance_sheet/monthly_attendance_sheet.py:736
 #: hrms/payroll/doctype/payroll_settings/payroll_settings.json
 msgid "Absent"
-msgstr ""
+msgstr "Vắng mặt"
 
 #. Label of the absent_days (Float) field in DocType 'Salary Slip'
 #: hrms/payroll/doctype/salary_slip/salary_slip.json
 #: hrms/payroll/report/salary_register/salary_register.py:185
 msgid "Absent Days"
-msgstr ""
+msgstr "Số ngày vắng mặt"
 
 #: hrms/hr/report/shift_attendance/shift_attendance.py:178
 msgid "Absent Records"
-msgstr ""
+msgstr "Bản ghi vắng mặt"
 
 #: hrms/payroll/report/salary_payments_via_ecs/salary_payments_via_ecs.py:56
 msgid "Account No"
-msgstr ""
+msgstr "Số tài khoản"
 
 #: hrms/payroll/doctype/payroll_entry/payroll_entry.py:155
 msgid "Account type should be set {0} for payroll payable account {1}, please set and try again"
-msgstr ""
+msgstr "Loại tài khoản phải được thiết lập là {0} cho tài khoản lương phải trả {1}, vui lòng thiết lập và thử lại"
 
 #: hrms/hr/doctype/expense_claim_type/expense_claim_type.py:45
 msgid "Account {0} does not match with Company {1}"
-msgstr ""
+msgstr "Tài khoản {0} không khớp với Công ty {1}"
 
 #. Label of the accounting_dimensions_tab (Tab Break) field in DocType 'Payroll
 #. Entry'
 #: hrms/payroll/doctype/payroll_entry/payroll_entry.json
 msgid "Accounting & Payment"
-msgstr ""
+msgstr "Kế toán & Thanh toán"
 
 #. Label of a Card Break in the Expenses Workspace
 #. Label of a Card Break in the Payroll Workspace
 #: hrms/hr/workspace/expenses/expenses.json
 #: hrms/payroll/workspace/payroll/payroll.json
 msgid "Accounting Reports"
-msgstr ""
+msgstr "Báo cáo kế toán"
 
 #: hrms/payroll/doctype/salary_component/salary_component.py:105
 msgid "Accounts not set for Salary Component {0}"
-msgstr ""
+msgstr "Chưa thiết lập tài khoản cho Thành phần lương {0}"
 
 #. Option for the 'Transaction Type' (Select) field in DocType 'Employee
 #. Benefit Ledger'
 #: hrms/payroll/doctype/employee_benefit_ledger/employee_benefit_ledger.json
 msgid "Accrual"
-msgstr ""
+msgstr "Dồn tích"
 
 #. Label of the accrual_arrears (Table) field in DocType 'Arrear'
 #. Label of the accrual_arrears (Table) field in DocType 'Payroll Correction'
 #: hrms/payroll/doctype/arrear/arrear.json
 #: hrms/payroll/doctype/payroll_correction/payroll_correction.json
 msgid "Accrual Arrears"
-msgstr ""
+msgstr "Dồn tích quá hạn"
 
 #. Label of the accrual_component (Check) field in DocType 'Salary Component'
 #. Label of the accrual_component (Check) field in DocType 'Salary Detail'
 #: hrms/payroll/doctype/salary_component/salary_component.json
 #: hrms/payroll/doctype/salary_detail/salary_detail.json
 msgid "Accrual Component"
-msgstr ""
+msgstr "Thành phần dồn tích"
 
 #: hrms/payroll/doctype/salary_component/salary_component.py:112
 msgid "Accrual Component can only be set for Earning Salary Components."
-msgstr ""
+msgstr "Thành phần dồn tích chỉ có thể được thiết lập cho các Thành phần lương Thu nhập."
 
 #: hrms/payroll/doctype/salary_component/salary_component.py:132
 msgid "Accrual Component can only be set for Flexible Benefit Salary Components with accrual payout methods."
-msgstr ""
+msgstr "Thành phần dồn tích chỉ có thể được thiết lập cho các Thành phần lương Phúc lợi linh hoạt có phương thức chi trả dồn tích."
 
 #: hrms/payroll/doctype/salary_component/salary_component.py:124
 msgid "Accrual Component must be set for Flexible Benefit Salary Components with accrual payout methods."
-msgstr ""
+msgstr "Thành phần dồn tích phải được thiết lập cho các Thành phần lương Phúc lợi linh hoạt có phương thức chi trả dồn tích."
 
 #: hrms/payroll/doctype/payroll_entry/payroll_entry.py:667
 msgid "Accrual Journal Entry for salaries from {0} to {1}"
-msgstr ""
+msgstr "Bút toán dồn tích cho lương từ {0} đến {1}"
 
 #. Option for the 'Payout Method' (Select) field in DocType 'Salary Component'
 #: hrms/payroll/doctype/salary_component/salary_component.json
 msgid "Accrue and payout at end of payroll period"
-msgstr ""
+msgstr "Dồn tích và chi trả vào cuối kỳ lương"
 
 #. Option for the 'Payout Method' (Select) field in DocType 'Salary Component'
 #: hrms/payroll/doctype/salary_component/salary_component.json
 msgid "Accrue per cycle, pay only on claim"
-msgstr ""
+msgstr "Dồn tích theo chu kỳ, chỉ thanh toán khi có yêu cầu"
 
 #. Label of the accrued_benefits (Table) field in DocType 'Salary Slip'
 #: hrms/payroll/doctype/salary_slip/salary_slip.json
 msgid "Accrued Benefits"
-msgstr ""
+msgstr "Phúc lợi dồn tích"
 
 #. Name of a report
 #. Label of a Workspace Sidebar Item
 #: hrms/payroll/report/accrued_earnings_report/accrued_earnings_report.json
 #: hrms/workspace_sidebar/tax_&_benefits.json
 msgid "Accrued Earnings Report"
-msgstr ""
+msgstr "Báo cáo thu nhập dồn tích"
 
 #: hrms/payroll/doctype/employee_benefit_ledger/employee_benefit_ledger.py:123
 msgid "Accrued amount {0} is less than paid amount {1} for Benefit {2} in payroll period {3}"
-msgstr ""
+msgstr "Số tiền dồn tích {0} thấp hơn số tiền đã thanh toán {1} cho Phúc lợi {2} trong kỳ lương {3}"
 
 #: hrms/hr/doctype/attendance_request/attendance_warnings.html:8
 msgid "Action on Submission"
-msgstr ""
+msgstr "Hành động sau khi Xác nhận"
 
 #. Label of the activity_name (Data) field in DocType 'Employee Boarding
 #. Activity'
 #: hrms/hr/doctype/employee_boarding_activity/employee_boarding_activity.json
 msgid "Activity Name"
-msgstr ""
+msgstr "Tên hoạt động"
 
 #. Label of the amount (Currency) field in DocType 'Employee Tax Exemption
 #. Proof Submission Detail'
 #: hrms/payroll/doctype/employee_tax_exemption_proof_submission_detail/employee_tax_exemption_proof_submission_detail.json
 msgid "Actual Amount"
-msgstr ""
+msgstr "Số tiền thực tế"
 
 #. Label of the actual_encashable_days (Float) field in DocType 'Leave
 #. Encashment'
 #: hrms/hr/doctype/leave_encashment/leave_encashment.json
 #: hrms/hr/doctype/leave_encashment/leave_encashment.py:163
 msgid "Actual Encashable Days"
-msgstr ""
+msgstr "Số ngày quy đổi thực tế"
 
 #. Label of the actual_overtime_duration (Float) field in DocType 'Attendance'
 #: hrms/hr/doctype/attendance/attendance.json
 msgid "Actual Overtime Duration"
-msgstr ""
+msgstr "Thời gian tăng ca thực tế"
 
 #: hrms/hr/doctype/leave_application/leave_application.py:484
 msgid "Actual balances aren't available because the leave application spans over different leave allocations. You can still apply for leaves which would be compensated during the next allocation."
-msgstr ""
+msgstr "Không thể hiển thị số dư thực tế vì đơn xin nghỉ phép kéo dài qua các kỳ phân bổ phép khác nhau. Bạn vẫn có thể xin nghỉ phép, số ngày này sẽ được bù vào kỳ phân bổ tiếp theo."
 
 #. Label of the add_day_wise_dates (Button) field in DocType 'Leave Block List'
 #: hrms/hr/doctype/leave_block_list/leave_block_list.json
 msgid "Add Day-wise Dates"
-msgstr ""
+msgstr "Thêm ngày theo từng ngày"
 
 #: hrms/hr/employee_property_update.js:43
 msgid "Add Employee Property"
-msgstr ""
+msgstr "Thêm tài sản nhân viên"
 
 #: frontend/src/components/ExpensesTable.vue:123
 msgid "Add Expense"
-msgstr ""
+msgstr "Thêm chi phí"
 
 #: hrms/public/js/performance/performance_feedback.js:95
 msgid "Add Feedback"
-msgstr ""
+msgstr "Thêm phản hồi"
 
 #: frontend/src/components/ExpenseTaxesTable.vue:118
 msgid "Add Tax"
-msgstr ""
+msgstr "Thêm thuế"
 
 #: hrms/hr/employee_property_update.js:116
 msgid "Add to Details"
-msgstr ""
+msgstr "Thêm vào chi tiết"
 
 #. Label of the carry_forward (Check) field in DocType 'Leave Allocation'
 #. Label of the carry_forward (Check) field in DocType 'Leave Policy
@@ -6296,47 +6296,47 @@ msgstr "Bút toán hoàn trả khoản vay"
 
 #: hrms/hr/utils.py:821
 msgid "Loan cannot be repayed from salary for Employee {0} because salary is processed in currency {1}"
-msgstr ""
+msgstr "Khoản vay không thể hoàn trả từ lương cho Nhân viên {0} vì lương được xử lý bằng loại tiền tệ {1}"
 
 #: frontend/src/components/CheckInPanel.vue:145
 msgid "Locating..."
-msgstr ""
+msgstr "Đang tìm kiếm..."
 
 #. Label of the device_id (Data) field in DocType 'Employee Checkin'
 #: hrms/hr/doctype/employee_checkin/employee_checkin.json
 msgid "Location / Device ID"
-msgstr ""
+msgstr "Địa điểm / ID Thiết bị"
 
 #. Label of the lodging_required (Check) field in DocType 'Travel Itinerary'
 #: hrms/hr/doctype/travel_itinerary/travel_itinerary.json
 msgid "Lodging Required"
-msgstr ""
+msgstr "Yêu cầu chỗ ở"
 
 #: frontend/src/views/Profile.vue:107
 msgid "Log Out"
-msgstr ""
+msgstr "Đăng xuất"
 
 #. Label of the log_type (Select) field in DocType 'Employee Checkin'
 #: frontend/src/views/attendance/EmployeeCheckinList.vue:25
 #: hrms/hr/doctype/employee_checkin/employee_checkin.json
 msgid "Log Type"
-msgstr ""
+msgstr "Loại nhật ký"
 
 #: hrms/hr/doctype/employee_checkin/employee_checkin.py:109
 msgid "Log Type is required for check-ins falling in the shift: {0}."
-msgstr ""
+msgstr "Loại nhật ký là bắt buộc đối với các lần điểm danh thuộc ca: {0}."
 
 #: frontend/src/views/InvalidEmployee.vue:7
 msgid "Login Failed"
-msgstr ""
+msgstr "Đăng nhập thất bại"
 
 #: frontend/src/views/Login.vue:8
 msgid "Login to Frappe HR"
-msgstr ""
+msgstr "Đăng nhập vào Frappe HR"
 
 #: frontend/src/components/CheckInPanel.vue:132
 msgid "Longitude: {0}°"
-msgstr ""
+msgstr "Kinh độ: {0}°"
 
 #. Label of the lower_range (Currency) field in DocType 'Job Applicant'
 #. Label of the lower_range (Currency) field in DocType 'Job Opening'
@@ -6345,42 +6345,42 @@ msgstr ""
 #: hrms/hr/doctype/job_opening/job_opening.json
 #: hrms/hr/web_form/job_application/job_application.json
 msgid "Lower Range"
-msgstr ""
+msgstr "Phạm vi thấp hơn"
 
 #: hrms/payroll/report/salary_payments_via_ecs/salary_payments_via_ecs.py:61
 msgid "MICR"
-msgstr ""
+msgstr "MICR"
 
 #: hrms/payroll/doctype/payroll_entry/payroll_entry.js:184
 msgid "Make Bank Entry"
-msgstr ""
+msgstr "Tạo bút toán ngân hàng"
 
 #. Label of the mandatory_benefit_application (Check) field in DocType 'Payroll
 #. Settings'
 #: hrms/payroll/doctype/payroll_settings/payroll_settings.json
 msgid "Mandatory Benefit Application"
-msgstr ""
+msgstr "Đơn đăng ký phúc lợi bắt buộc"
 
 #: hrms/public/js/utils/index.js:37
 msgid "Mandatory fields required for this action:"
-msgstr ""
+msgstr "Các trường bắt buộc cho hành động này:"
 
 #. Option for the 'KRA Evaluation Method' (Select) field in DocType 'Appraisal
 #. Cycle'
 #: hrms/hr/doctype/appraisal_cycle/appraisal_cycle.json
 msgid "Manual Rating"
-msgstr ""
+msgstr "Đánh giá thủ công"
 
 #. Option for the 'Allocated Via' (Select) field in DocType 'Earned Leave
 #. Schedule'
 #: hrms/hr/doctype/earned_leave_schedule/earned_leave_schedule.json
 msgid "Manually"
-msgstr ""
+msgstr "Thủ công"
 
 #: hrms/hr/report/monthly_attendance_sheet/monthly_attendance_sheet.js:38
 #: hrms/public/js/salary_slip_deductions_report_filters.js:21
 msgid "Mar"
-msgstr ""
+msgstr "Tháng 3"
 
 #: hrms/hr/doctype/attendance/attendance_list.js:16
 #: hrms/hr/doctype/attendance/attendance_list.js:24
@@ -6388,95 +6388,95 @@ msgstr ""
 #: hrms/hr/doctype/employee_attendance_tool/employee_attendance_tool.js:232
 #: hrms/hr/doctype/shift_type/shift_type.js:13
 msgid "Mark Attendance"
-msgstr ""
+msgstr "Điểm danh"
 
 #. Label of the mark_auto_attendance_on_holidays (Check) field in DocType
 #. 'Shift Type'
 #: hrms/hr/doctype/shift_type/shift_type.json
 msgid "Mark Auto Attendance on Holidays"
-msgstr ""
+msgstr "Tự động điểm danh vào ngày lễ"
 
 #: hrms/hr/doctype/appraisal_cycle/appraisal_cycle.js:58
 #: hrms/hr/doctype/appraisal_cycle/appraisal_cycle.js:62
 #: hrms/hr/doctype/employee_onboarding/employee_onboarding.js:67
 #: hrms/hr/doctype/goal/goal_tree.js:257
 msgid "Mark as Completed"
-msgstr ""
+msgstr "Đánh dấu là Đã hoàn thành"
 
 #: hrms/hr/doctype/appraisal_cycle/appraisal_cycle.js:67
 msgid "Mark as In Progress"
-msgstr ""
+msgstr "Đánh dấu là Đang thực hiện"
 
 #: hrms/hr/doctype/interview/interview.py:100
 msgid "Mark as {0}"
-msgstr ""
+msgstr "Đánh dấu là {0}"
 
 #: hrms/hr/doctype/attendance/attendance_list.js:108
 msgid "Mark attendance as {0} for {1} on selected dates?"
-msgstr ""
+msgstr "Đánh dấu điểm danh là {0} cho {1} vào các ngày đã chọn?"
 
 #. Description of the 'Enable Auto Attendance' (Check) field in DocType 'Shift
 #. Type'
 #: hrms/hr/doctype/shift_type/shift_type.json
 msgid "Mark attendance based on 'Employee Checkin' for Employees assigned to this shift."
-msgstr ""
+msgstr "Điểm danh dựa trên 'Check-in nhân viên' cho các nhân viên được phân công vào ca này."
 
 #: hrms/hr/doctype/shift_type/shift_type.py:136
 msgid "Mark attendance for existing check-in/out logs before changing shift settings"
-msgstr ""
+msgstr "Điểm danh cho các nhật ký check-in/out hiện có trước khi thay đổi cài đặt ca làm việc"
 
 #: hrms/hr/doctype/goal/goal_tree.js:262
 msgid "Mark {0} as Completed?"
-msgstr ""
+msgstr "Đánh dấu {0} là Đã hoàn thành?"
 
 #: hrms/hr/doctype/goal/goal_list.js:81
 msgid "Mark {0} {1} as {2}?"
-msgstr ""
+msgstr "Đánh dấu {0} {1} là {2}?"
 
 #. Label of the marked_attendance_section (Section Break) field in DocType
 #. 'Employee Attendance Tool'
 #: hrms/hr/doctype/employee_attendance_tool/employee_attendance_tool.json
 msgid "Marked Attendance"
-msgstr ""
+msgstr "Đã điểm danh"
 
 #. Label of the marked_attendance_html (HTML) field in DocType 'Employee
 #. Attendance Tool'
 #: hrms/hr/doctype/employee_attendance_tool/employee_attendance_tool.json
 msgid "Marked Attendance HTML"
-msgstr ""
+msgstr "HTML Điểm danh đã đánh dấu"
 
 #: hrms/hr/doctype/employee_attendance_tool/employee_attendance_tool.js:286
 msgid "Marking Attendance"
-msgstr ""
+msgstr "Đang điểm danh"
 
 #. Label of the max_amount_eligible (Currency) field in DocType 'Employee
 #. Benefit Claim'
 #: hrms/payroll/doctype/employee_benefit_claim/employee_benefit_claim.json
 msgid "Max Amount Eligible For Claim"
-msgstr ""
+msgstr "Số tiền tối đa được phép thanh toán"
 
 #. Label of the max_benefit_amount (Currency) field in DocType 'Employee
 #. Benefit Application Detail'
 #: hrms/payroll/doctype/employee_benefit_application_detail/employee_benefit_application_detail.json
 msgid "Max Benefit Amount"
-msgstr ""
+msgstr "Số tiền phúc lợi tối đa"
 
 #. Label of the max_benefit_amount (Currency) field in DocType 'Salary
 #. Component'
 #: hrms/payroll/doctype/salary_component/salary_component.json
 msgid "Max Benefit Amount (Yearly)"
-msgstr ""
+msgstr "Số tiền phúc lợi tối đa (Hàng năm)"
 
 #. Label of the max_benefits (Currency) field in DocType 'Salary Structure'
 #: hrms/payroll/doctype/salary_structure/salary_structure.json
 msgid "Max Benefits (Amount)"
-msgstr ""
+msgstr "Phúc lợi tối đa (Số tiền)"
 
 #. Label of the max_benefits (Currency) field in DocType 'Employee Benefit
 #. Application'
 #: hrms/payroll/doctype/employee_benefit_application/employee_benefit_application.json
 msgid "Max Benefits (Yearly)"
-msgstr ""
+msgstr "Phúc lợi tối đa (Hàng năm)"
 
 #. Label of the max_amount (Currency) field in DocType 'Employee Tax Exemption
 #. Category'
@@ -6485,172 +6485,172 @@ msgstr ""
 #: hrms/payroll/doctype/employee_tax_exemption_category/employee_tax_exemption_category.json
 #: hrms/payroll/doctype/employee_tax_exemption_sub_category/employee_tax_exemption_sub_category.json
 msgid "Max Exemption Amount"
-msgstr ""
+msgstr "Số tiền miễn thuế tối đa"
 
 #: hrms/payroll/doctype/employee_tax_exemption_sub_category/employee_tax_exemption_sub_category.py:31
 msgid "Max Exemption Amount cannot be greater than maximum exemption amount {0} of Tax Exemption Category {1}"
-msgstr ""
+msgstr "Số tiền miễn thuế tối đa không được lớn hơn mức miễn thuế tối đa {0} của Danh mục miễn thuế {1}"
 
 #. Label of the max_taxable_income (Currency) field in DocType 'Income Tax Slab
 #. Other Charges'
 #: hrms/payroll/doctype/income_tax_slab_other_charges/income_tax_slab_other_charges.json
 msgid "Max Taxable Income"
-msgstr ""
+msgstr "Thu nhập chịu thuế tối đa"
 
 #. Label of the max_working_hours_against_timesheet (Float) field in DocType
 #. 'Payroll Settings'
 #: hrms/payroll/doctype/payroll_settings/payroll_settings.json
 msgid "Max working hours against Timesheet"
-msgstr ""
+msgstr "Số giờ làm việc tối đa theo Bảng chấm công"
 
 #. Label of the max_benefits (Currency) field in DocType 'Salary Structure
 #. Assignment'
 #: hrms/payroll/doctype/salary_structure_assignment/salary_structure_assignment.json
 msgid "Maximum Benefit Amount"
-msgstr ""
+msgstr "Số tiền phúc lợi tối đa"
 
 #. Label of the maximum_carry_forwarded_leaves (Float) field in DocType 'Leave
 #. Type'
 #: hrms/hr/doctype/leave_type/leave_type.json
 msgid "Maximum Carry Forwarded Leaves"
-msgstr ""
+msgstr "Số ngày phép tối đa được chuyển sang kỳ sau"
 
 #. Label of the max_continuous_days_allowed (Int) field in DocType 'Leave Type'
 #: hrms/hr/doctype/leave_type/leave_type.json
 msgid "Maximum Consecutive Leaves Allowed"
-msgstr ""
+msgstr "Số ngày nghỉ tối đa liên tiếp được cho phép"
 
 #: hrms/hr/doctype/leave_application/leave_application.py:575
 msgid "Maximum Consecutive Leaves Exceeded"
-msgstr ""
+msgstr "Vượt quá số ngày nghỉ tối đa liên tiếp"
 
 #. Label of the max_encashable_leaves (Int) field in DocType 'Leave Type'
 #: hrms/hr/doctype/leave_type/leave_type.json
 msgid "Maximum Encashable Leaves"
-msgstr ""
+msgstr "Số ngày phép tối đa được quy đổi thành tiền"
 
 #. Label of the max_amount (Currency) field in DocType 'Employee Tax Exemption
 #. Declaration Category'
 #: hrms/payroll/doctype/employee_tax_exemption_declaration_category/employee_tax_exemption_declaration_category.json
 msgid "Maximum Exempted Amount"
-msgstr ""
+msgstr "Số tiền miễn trừ tối đa"
 
 #. Label of the max_amount (Currency) field in DocType 'Employee Tax Exemption
 #. Proof Submission Detail'
 #: hrms/payroll/doctype/employee_tax_exemption_proof_submission_detail/employee_tax_exemption_proof_submission_detail.json
 msgid "Maximum Exemption Amount"
-msgstr ""
+msgstr "Số tiền miễn thuế tối đa"
 
 #. Label of the max_leaves_allowed (Float) field in DocType 'Leave Type'
 #: hrms/hr/doctype/leave_type/leave_type.json
 msgid "Maximum Leave Allocation Allowed per Leave Period"
-msgstr ""
+msgstr "Số ngày phép tối đa được phân bổ cho mỗi kỳ nghỉ"
 
 #. Label of the maximum_overtime_hours_allowed (Float) field in DocType
 #. 'Overtime Details'
 #: hrms/hr/doctype/overtime_details/overtime_details.json
 msgid "Maximum Overtime Hours Allowed"
-msgstr ""
+msgstr "Số giờ tăng ca tối đa được cho phép"
 
 #. Label of the maximum_overtime_hours_allowed (Float) field in DocType
 #. 'Overtime Type'
 #: hrms/hr/doctype/overtime_type/overtime_type.json
 msgid "Maximum Overtime Hours Allowed Per Day"
-msgstr ""
+msgstr "Số giờ tăng ca tối đa được cho phép mỗi ngày"
 
 #. Description of the 'Taxable Income Relief Threshold Limit' (Currency) field
 #. in DocType 'Income Tax Slab'
 #: hrms/payroll/doctype/income_tax_slab/income_tax_slab.json
 msgid "Maximum annual taxable income eligible for full tax relief. No tax is applied if income does not exceed this limit"
-msgstr ""
+msgstr "Thu nhập chịu thuế tối đa được hưởng miễn giảm thuế toàn phần. Không áp dụng thuế nếu thu nhập không vượt quá hạn mức này"
 
 #: hrms/hr/doctype/leave_encashment/leave_encashment.py:149
 msgid "Maximum encashable leaves for {0} are {1}"
-msgstr ""
+msgstr "Số ngày phép tối đa được quy đổi thành tiền cho {0} là {1}"
 
 #: hrms/hr/doctype/leave_policy/leave_policy.py:34
 msgid "Maximum leave allowed in the leave type {0} is {1}"
-msgstr ""
+msgstr "Số ngày nghỉ tối đa được cho phép trong loại nghỉ phép {0} là {1}"
 
 #: hrms/hr/report/monthly_attendance_sheet/monthly_attendance_sheet.js:40
 #: hrms/public/js/salary_slip_deductions_report_filters.js:23
 msgid "May"
-msgstr ""
+msgstr "Tháng 5"
 
 #. Label of the meal_preference (Select) field in DocType 'Travel Itinerary'
 #: hrms/hr/doctype/travel_itinerary/travel_itinerary.json
 msgid "Meal Preference"
-msgstr ""
+msgstr "Sở thích bữa ăn"
 
 #: hrms/setup.py:337
 msgid "Medical"
-msgstr ""
+msgstr "Y tế"
 
 #. Option for the 'Frequency' (Select) field in DocType 'Vehicle Service'
 #: hrms/hr/doctype/vehicle_service/vehicle_service.json
 msgid "Mileage"
-msgstr ""
+msgstr "Phụ cấp xăng xe"
 
 #. Label of the min_taxable_income (Currency) field in DocType 'Income Tax Slab
 #. Other Charges'
 #: hrms/payroll/doctype/income_tax_slab_other_charges/income_tax_slab_other_charges.json
 msgid "Min Taxable Income"
-msgstr ""
+msgstr "Thu nhập chịu thuế tối thiểu"
 
 #. Label of the minimum_year_for_gratuity (Int) field in DocType 'Gratuity
 #. Rule'
 #: hrms/payroll/doctype/gratuity_rule/gratuity_rule.json
 msgid "Minimum Year for Gratuity"
-msgstr ""
+msgstr "Số năm làm việc tối thiểu để hưởng trợ cấp thôi việc"
 
 #. Description of the 'Allow Leave Application After (Working Days)' (Int)
 #. field in DocType 'Leave Type'
 #: hrms/hr/doctype/leave_type/leave_type.json
 msgid "Minimum working days required since Date of Joining to apply for this leave"
-msgstr ""
+msgstr "Số ngày làm việc tối thiểu kể từ ngày gia nhập để được đăng ký loại nghỉ phép này"
 
 #: hrms/hr/doctype/employee_advance/employee_advance.py:95
 msgid "Missing Advance Account"
-msgstr ""
+msgstr "Thiếu tài khoản tạm ứng"
 
 #: hrms/payroll/doctype/salary_structure_assignment/salary_structure_assignment.py:118
 msgid "Missing Mandatory Field"
-msgstr ""
+msgstr "Thiếu trường bắt buộc"
 
 #: hrms/payroll/doctype/salary_structure_assignment/salary_structure_assignment.py:200
 msgid "Missing Opening Entries"
-msgstr ""
+msgstr "Thiếu bút toán số dư đầu kỳ"
 
 #: hrms/hr/doctype/full_and_final_statement/full_and_final_statement.py:79
 msgid "Missing Relieving Date"
-msgstr ""
+msgstr "Thiếu ngày thôi việc"
 
 #: hrms/payroll/report/provident_fund_deductions/provident_fund_deductions.py:18
 msgid "Missing Salary Components"
-msgstr ""
+msgstr "Thiếu các thành phần lương"
 
 #: hrms/payroll/doctype/salary_slip/salary_slip.py:1948
 msgid "Missing Tax Slab"
-msgstr ""
+msgstr "Thiếu bậc thuế"
 
 #. Label of the mode_of_travel (Select) field in DocType 'Travel Itinerary'
 #: hrms/hr/doctype/travel_itinerary/travel_itinerary.json
 msgid "Mode of Travel"
-msgstr ""
+msgstr "Phương thức di chuyển"
 
 #: hrms/hr/doctype/expense_claim/expense_claim.py:493
 msgid "Mode of payment is required to make a payment"
-msgstr ""
+msgstr "Yêu cầu chọn phương thức thanh toán để thực hiện thanh toán"
 
 #. Label of the month_to_date (Currency) field in DocType 'Salary Slip'
 #: hrms/payroll/doctype/salary_slip/salary_slip.json
 msgid "Month To Date"
-msgstr ""
+msgstr "Lũy kế từ đầu tháng"
 
 #. Label of the base_month_to_date (Currency) field in DocType 'Salary Slip'
 #: hrms/payroll/doctype/salary_slip/salary_slip.json
 msgid "Month To Date(Company Currency)"
-msgstr ""
+msgstr "Lũy kế từ đầu tháng ({0})"
 
 #. Name of a report
 #. Label of a Link in the HR Setup Workspace
@@ -6661,46 +6661,46 @@ msgstr ""
 #: hrms/hr/workspace/shift_&_attendance/shift_&_attendance.json
 #: hrms/workspace_sidebar/shift_&_attendance.json
 msgid "Monthly Attendance Sheet"
-msgstr ""
+msgstr "Bảng chấm công hàng tháng"
 
 #: hrms/hr/utils.py:280
 msgid "More than one selection for {0} not allowed"
-msgstr ""
+msgstr "Không được phép chọn nhiều hơn một mục cho {0}"
 
 #: hrms/payroll/doctype/additional_salary/additional_salary.py:348
 msgid "Multiple Additional Salaries with overwrite property exist for Salary Component {0} between {1} and {2}."
-msgstr ""
+msgstr "Tồn tại nhiều Lương bổ sung có thuộc tính ghi đè cho Thành phần lương {0} trong khoảng từ {1} đến {2}."
 
 #: hrms/hr/doctype/shift_assignment/shift_assignment.py:133
 msgid "Multiple Shift Assignments"
-msgstr ""
+msgstr "Nhiều phân công ca làm việc"
 
 #. Description of the 'Pay Rate Multipliers' (Section Break) field in DocType
 #. 'Overtime Type'
 #: hrms/hr/doctype/overtime_type/overtime_type.json
 msgid "Multipliers that adjust the hourly overtime amount for specific scenarios\n\n"
-msgstr ""
+msgstr "Các hệ số điều chỉnh số tiền tăng ca theo giờ cho các trường hợp cụ thể"
 
 #: frontend/src/views/employee_advance/List.vue:19
 msgid "My Advances"
-msgstr ""
+msgstr "Các khoản tạm ứng của tôi"
 
 #: frontend/src/views/expense_claim/List.vue:19
 msgid "My Claims"
-msgstr ""
+msgstr "Các yêu cầu thanh toán của tôi"
 
 #: frontend/src/views/leave/List.vue:19
 msgid "My Leaves"
-msgstr ""
+msgstr "Đơn xin nghỉ phép của tôi"
 
 #: frontend/src/components/RequestPanel.vue:36
 msgid "My Requests"
-msgstr ""
+msgstr "Yêu cầu của tôi"
 
 #: hrms/payroll/doctype/salary_slip/salary_slip.py:1393
 #: hrms/payroll/doctype/salary_slip/salary_slip.py:2618
 msgid "Name error"
-msgstr ""
+msgstr "Lỗi tên"
 
 #. Label of the name_of_organizer (Data) field in DocType 'Travel Request'
 #: hrms/hr/doctype/travel_request/travel_request.json
@@ -7892,175 +7892,175 @@ msgstr "Vui lòng chọn ít nhất một Yêu cầu ca làm việc để thực
 
 #: hrms/hr/utils.py:923
 msgid "Please select at least one employee to perform this action."
-msgstr ""
+msgstr "Vui lòng chọn ít nhất một nhân viên để thực hiện hành động này."
 
 #: hrms/public/js/utils/index.js:47
 msgid "Please select at least one row to perform this action."
-msgstr ""
+msgstr "Vui lòng chọn ít nhất một dòng để thực hiện hành động này."
 
 #: hrms/hr/report/monthly_attendance_sheet/monthly_attendance_sheet.py:55
 msgid "Please select company."
-msgstr ""
+msgstr "Vui lòng chọn công ty."
 
 #: hrms/hr/doctype/employee_advance/employee_advance.js:16
 #: hrms/hr/doctype/leave_encashment/leave_encashment.js:30
 msgid "Please select employee first"
-msgstr ""
+msgstr "Vui lòng chọn nhân viên trước."
 
 #: hrms/hr/doctype/appraisal_cycle/appraisal_cycle.py:136
 msgid "Please select employees to create appraisals for"
-msgstr ""
+msgstr "Vui lòng chọn các nhân viên để tạo đánh giá."
 
 #: hrms/hr/doctype/employee_attendance_tool/employee_attendance_tool.js:256
 msgid "Please select half day attendance status."
-msgstr ""
+msgstr "Vui lòng chọn trạng thái chuyên cần nửa ngày."
 
 #: hrms/hr/report/monthly_attendance_sheet/monthly_attendance_sheet.py:44
 msgid "Please select month and year."
-msgstr ""
+msgstr "Vui lòng chọn tháng và năm."
 
 #: hrms/hr/doctype/goal/goal.js:103
 msgid "Please select the Appraisal Cycle first."
-msgstr ""
+msgstr "Vui lòng chọn Chu kỳ đánh giá trước."
 
 #: hrms/hr/doctype/employee_attendance_tool/employee_attendance_tool.js:250
 msgid "Please select the attendance status."
-msgstr ""
+msgstr "Vui lòng chọn trạng thái chuyên cần."
 
 #: hrms/hr/doctype/employee_attendance_tool/employee_attendance_tool.js:243
 msgid "Please select the employees you want to mark attendance for."
-msgstr ""
+msgstr "Vui lòng chọn các nhân viên bạn muốn chấm công."
 
 #: hrms/payroll/doctype/salary_slip/salary_slip_list.js:15
 msgid "Please select the salary slips to email"
-msgstr ""
+msgstr "Vui lòng chọn các phiếu lương để gửi email."
 
 #: hrms/payroll/doctype/salary_structure/salary_structure.py:320
 msgid "Please set \"Default Payroll Payable Account\" in Company Defaults"
-msgstr ""
+msgstr "Vui lòng thiết lập \"Tài khoản phải trả lương mặc định\" trong Cài đặt công ty."
 
 #: hrms/regional/india/utils.py:18
 msgid "Please set Basic and HRA component in Company {0}"
-msgstr ""
+msgstr "Vui lòng thiết lập thành phần Lương cơ bản và Phụ cấp nhà ở trong Công ty {0}"
 
 #: hrms/hr/doctype/leave_encashment/leave_encashment.py:194
 msgid "Please set Earning Component for Leave type: {0}."
-msgstr ""
+msgstr "Vui lòng thiết lập Thành phần thu nhập cho Loại nghỉ phép: {0}."
 
 #: hrms/payroll/doctype/salary_slip/salary_slip.py:580
 msgid "Please set Payroll based on in Payroll settings"
-msgstr ""
+msgstr "Vui lòng thiết lập Căn cứ tính lương trong Cài đặt lương."
 
 #: hrms/payroll/doctype/gratuity/gratuity.py:202
 msgid "Please set Relieving Date for employee: {0}"
-msgstr ""
+msgstr "Vui lòng thiết lập Ngày thôi việc cho nhân viên: {0}"
 
 #: hrms/hr/report/monthly_attendance_sheet/monthly_attendance_sheet.js:186
 #: hrms/hr/report/monthly_attendance_sheet/monthly_attendance_sheet.py:52
 msgid "Please set a date range less than 90 days."
-msgstr ""
+msgstr "Vui lòng thiết lập khoảng thời gian ít hơn 90 ngày."
 
 #: hrms/payroll/doctype/payroll_entry/payroll_entry.py:397
 msgid "Please set account in Salary Component {0}"
-msgstr ""
+msgstr "Vui lòng thiết lập tài khoản trong Thành phần lương {0}"
 
 #: hrms/hr/doctype/leave_application/leave_application.py:727
 msgid "Please set default template for Leave Approval Notification in HR Settings."
-msgstr ""
+msgstr "Vui lòng thiết lập mẫu mặc định cho Thông báo phê duyệt nghỉ phép trong Cài đặt nhân sự."
 
 #: hrms/hr/doctype/leave_application/leave_application.py:702
 msgid "Please set default template for Leave Status Notification in HR Settings."
-msgstr ""
+msgstr "Vui lòng thiết lập mẫu mặc định cho Thông báo trạng thái nghỉ phép trong Cài đặt nhân sự."
 
 #: hrms/hr/doctype/employee_advance/employee_advance.py:79
 msgid "Please set the Advance Account {0} or in {1}"
-msgstr ""
+msgstr "Vui lòng thiết lập Tài khoản tạm ứng {0} hoặc trong {1}"
 
 #: hrms/hr/doctype/appraisal_cycle/appraisal_cycle.py:162
 msgid "Please set the Appraisal Template for all the {0} or select the template in the Employees table below."
-msgstr ""
+msgstr "Vui lòng thiết lập Mẫu đánh giá cho tất cả {0} hoặc chọn mẫu trong bảng Nhân viên bên dưới."
 
 #: hrms/hr/doctype/expense_claim/expense_claim.js:527
 msgid "Please set the Company"
-msgstr ""
+msgstr "Vui lòng thiết lập Công ty"
 
 #: hrms/payroll/doctype/salary_slip/salary_slip.py:385
 msgid "Please set the Date Of Joining for employee {0}"
-msgstr ""
+msgstr "Vui lòng thiết lập Ngày gia nhập cho nhân viên {0}"
 
 #: hrms/controllers/employee_boarding_controller.py:110
 msgid "Please set the Holiday List."
-msgstr ""
+msgstr "Vui lòng thiết lập Danh sách ngày lễ."
 
 #: hrms/hr/report/monthly_attendance_sheet/monthly_attendance_sheet.py:48
 msgid "Please set the date range."
-msgstr ""
+msgstr "Vui lòng thiết lập khoảng thời gian."
 
 #: hrms/hr/doctype/exit_interview/exit_interview.js:21
 #: hrms/hr/doctype/exit_interview/exit_interview.py:52
 msgid "Please set the relieving date for employee {0}"
-msgstr ""
+msgstr "Vui lòng thiết lập ngày thôi việc cho nhân viên {0}"
 
 #: hrms/hr/doctype/exit_interview/exit_interview.py:154
 msgid "Please set {0} and {1} in {2}."
-msgstr ""
+msgstr "Vui lòng thiết lập {0} và {1} trong {2}."
 
 #: hrms/hr/doctype/full_and_final_statement/full_and_final_statement.py:75
 msgid "Please set {0} for Employee {1}"
-msgstr ""
+msgstr "Vui lòng thiết lập {0} cho Nhân viên {1}"
 
 #: hrms/hr/doctype/department_approver/department_approver.py:98
 msgid "Please set {0} for the Employee: {1}"
-msgstr ""
+msgstr "Vui lòng thiết lập {0} cho Nhân viên: {1}"
 
 #: hrms/hr/doctype/shift_type/shift_type.js:21
 #: hrms/hr/doctype/shift_type/shift_type.js:26
 msgid "Please set {0}."
-msgstr ""
+msgstr "Vui lòng thiết lập {0}."
 
 #: hrms/overrides/employee_master.py:16
 msgid "Please setup Employee Naming System in Human Resource > HR Settings"
-msgstr ""
+msgstr "Vui lòng thiết lập Hệ thống đặt tên nhân viên trong Nhân sự > Cài đặt nhân sự"
 
 #: hrms/hr/doctype/upload_attendance/upload_attendance.py:171
 msgid "Please setup numbering series for Attendance via Setup > Numbering Series"
-msgstr ""
+msgstr "Vui lòng thiết lập chuỗi số cho Chuyên cần qua Thiết lập > Chuỗi số"
 
 #: hrms/hr/notification/training_feedback/training_feedback.html:6
 msgid "Please share your feedback to the training by clicking on 'Training Feedback' and then 'New'"
-msgstr ""
+msgstr "Vui lòng gửi phản hồi về khóa đào tạo bằng cách nhấp vào 'Phản hồi đào tạo' và sau đó chọn 'Mới'"
 
 #: hrms/hr/doctype/interview/interview.py:223
 msgid "Please specify the job applicant to be updated."
-msgstr ""
+msgstr "Vui lòng chỉ định ứng viên cần cập nhật."
 
 #: hrms/payroll/doctype/salary_structure_assignment/salary_structure_assignment.py:191
 msgid "Please specify {0} and {1} (if any), for the correct tax calculation in future salary slips."
-msgstr ""
+msgstr "Vui lòng chỉ định {0} và {1} (nếu có) để tính toán thuế chính xác cho các phiếu lương sau này."
 
 #: hrms/hr/doctype/appraisal_cycle/appraisal_cycle.py:182
 msgid "Please submit the {0} before marking the cycle as Completed"
-msgstr ""
+msgstr "Vui lòng xác nhận {0} trước khi đánh dấu chu kỳ là Đã hoàn thành"
 
 #: hrms/templates/emails/training_event.html:13
 msgid "Please update your status for this training event"
-msgstr ""
+msgstr "Vui lòng cập nhật trạng thái của bạn cho sự kiện đào tạo này"
 
 #. Label of the posted_on (Datetime) field in DocType 'Job Opening'
 #: hrms/hr/doctype/job_opening/job_opening.json
 msgid "Posted On"
-msgstr ""
+msgstr "Đăng vào"
 
 #. Label of the posting_date (Date) field in DocType 'Gratuity'
 #: hrms/payroll/doctype/gratuity/gratuity.json
 msgid "Posting date"
-msgstr ""
+msgstr "Ngày đăng"
 
 #. Label of the preferred_area_for_lodging (Data) field in DocType 'Travel
 #. Itinerary'
 #: hrms/hr/doctype/travel_itinerary/travel_itinerary.json
 msgid "Preferred Area for Lodging"
-msgstr ""
+msgstr "Khu vực lưu trú ưu tiên"
 
 #. Option for the 'Status' (Select) field in DocType 'Attendance'
 #. Option for the 'Status for Other Half' (Select) field in DocType
@@ -8079,95 +8079,95 @@ msgstr ""
 #: hrms/hr/report/monthly_attendance_sheet/monthly_attendance_sheet.py:737
 #: hrms/payroll/doctype/payroll_settings/payroll_settings.json
 msgid "Present"
-msgstr ""
+msgstr "Hiện diện"
 
 #: hrms/hr/report/shift_attendance/shift_attendance.py:166
 msgid "Present Records"
-msgstr ""
+msgstr "Bản ghi hiện tại"
 
 #. Label of the prevent_self_expense_approval (Check) field in DocType 'HR
 #. Settings'
 #: hrms/hr/doctype/hr_settings/hr_settings.json
 msgid "Prevent self approval for expense claims even if user has permissions"
-msgstr ""
+msgstr "Ngăn chặn tự phê duyệt yêu cầu thanh toán chi phí ngay cả khi người dùng có quyền"
 
 #. Label of the prevent_self_leave_approval (Check) field in DocType 'HR
 #. Settings'
 #: hrms/hr/doctype/hr_settings/hr_settings.json
 msgid "Prevent self approval for leaves even if user has permissions"
-msgstr ""
+msgstr "Ngăn chặn tự phê duyệt nghỉ phép ngay cả khi người dùng có quyền"
 
 #: hrms/payroll/doctype/salary_structure/salary_structure.js:155
 #: hrms/payroll/doctype/salary_structure/salary_structure.js:193
 #: hrms/payroll/doctype/salary_structure_assignment/salary_structure_assignment.js:73
 msgid "Preview Salary Slip"
-msgstr ""
+msgstr "Xem trước Phiếu lương"
 
 #. Label of the principal_amount (Currency) field in DocType 'Salary Slip Loan'
 #: hrms/payroll/doctype/salary_slip_loan/salary_slip_loan.json
 msgid "Principal Amount"
-msgstr ""
+msgstr "Số tiền gốc"
 
 #: hrms/payroll/report/salary_register/salary_register.html:40
 msgid "Printed On {0}"
-msgstr ""
+msgstr "In ngày {0}"
 
 #: hrms/setup.py:376 hrms/setup.py:377
 msgid "Privilege Leave"
-msgstr ""
+msgstr "Nghỉ phép hưởng nguyên lương"
 
 #: hrms/setup.py:394
 msgid "Probation"
-msgstr ""
+msgstr "Thử việc"
 
 #: hrms/setup.py:408
 msgid "Probationary Period"
-msgstr ""
+msgstr "Thời gian thử việc"
 
 #. Label of the process_attendance_after (Date) field in DocType 'Shift Type'
 #: hrms/hr/doctype/shift_type/shift_type.json
 msgid "Process Attendance After"
-msgstr ""
+msgstr "Xử lý chuyên cần sau"
 
 #. Label of the process_payroll_accounting_entry_based_on_employee (Check)
 #. field in DocType 'Payroll Settings'
 #: hrms/payroll/doctype/payroll_settings/payroll_settings.json
 #: hrms/setup.py:848
 msgid "Process Payroll Accounting Entry based on Employee"
-msgstr ""
+msgstr "Xử lý bút toán lương theo nhân viên"
 
 #: hrms/hr/doctype/shift_assignment_tool/shift_assignment_tool.js:123
 #: hrms/hr/doctype/shift_assignment_tool/shift_assignment_tool.js:130
 #: hrms/hr/doctype/shift_assignment_tool/shift_assignment_tool.js:132
 msgid "Process Requests"
-msgstr ""
+msgstr "Xử lý yêu cầu"
 
 #. Option for the 'Action' (Select) field in DocType 'Shift Assignment Tool'
 #: hrms/hr/doctype/shift_assignment_tool/shift_assignment_tool.json
 msgid "Process Shift Requests"
-msgstr ""
+msgstr "Xử lý yêu cầu ca làm việc"
 
 #. Description of the 'Pay Via Payment Entry' (Check) field in DocType 'Leave
 #. Encashment'
 #: hrms/hr/doctype/leave_encashment/leave_encashment.json
 msgid "Process leave encashment via a separate Payment Entry instead of Salary Slip"
-msgstr ""
+msgstr "Xử lý quy đổi phép thành tiền qua Phiếu thanh toán riêng thay vì Phiếu lương"
 
 #: hrms/hr/doctype/shift_assignment_tool/shift_assignment_tool.js:289
 msgid "Process {0} Shift Request(s) as <b>{1}</b>?"
-msgstr ""
+msgstr "Xử lý <b>{1}</b> yêu cầu Ca làm việc {0}?"
 
 #: hrms/hr/doctype/shift_assignment_tool/shift_assignment_tool.js:305
 msgid "Processing Requests"
-msgstr ""
+msgstr "Đang xử lý yêu cầu"
 
 #: hrms/hr/doctype/shift_assignment_tool/shift_assignment_tool.py:326
 msgid "Processing Requests..."
-msgstr ""
+msgstr "Đang xử lý yêu cầu..."
 
 #: hrms/hr/doctype/shift_assignment_tool/shift_assignment_tool.py:298
 msgid "Processing of Shift Requests has been queued. It may take a few minutes."
-msgstr ""
+msgstr "Việc xử lý yêu cầu Ca làm việc đã được đưa vào hàng đợi. Có thể mất vài phút."
 
 #. Name of a report
 #. Label of a Link in the Payroll Workspace
@@ -8176,16 +8176,16 @@ msgstr ""
 #: hrms/payroll/workspace/payroll/payroll.json
 #: hrms/workspace_sidebar/payroll.json
 msgid "Professional Tax Deductions"
-msgstr ""
+msgstr "Khấu trừ thuế thu nhập chuyên nghiệp"
 
 #. Label of the proficiency (Rating) field in DocType 'Employee Skill'
 #: hrms/hr/doctype/employee_skill/employee_skill.json
 msgid "Proficiency"
-msgstr ""
+msgstr "Thành thạo"
 
 #: hrms/hr/report/project_profitability/project_profitability.py:183
 msgid "Profit"
-msgstr ""
+msgstr "Lợi nhuận"
 
 #. Name of a report
 #. Label of a Link in the Shift & Attendance Workspace
@@ -8199,46 +8199,46 @@ msgstr "Khả năng sinh lời của dự án"
 #. Label of the promotion_date (Date) field in DocType 'Employee Promotion'
 #: hrms/hr/doctype/employee_promotion/employee_promotion.json
 msgid "Promotion Date"
-msgstr ""
+msgstr "Ngày thăng tiến"
 
 #: hrms/hr/employee_property_update.js:172
 msgid "Property already added"
-msgstr ""
+msgstr "Tài sản đã được thêm"
 
 #. Name of a report
 #. Label of a Link in the Payroll Workspace
 #: hrms/payroll/report/provident_fund_deductions/provident_fund_deductions.json
 #: hrms/payroll/workspace/payroll/payroll.json
 msgid "Provident Fund Deductions"
-msgstr ""
+msgstr "Khấu trừ quỹ dự phòng"
 
 #. Label of the public_holiday_multiplier (Float) field in DocType 'Overtime
 #. Type'
 #: hrms/hr/doctype/overtime_type/overtime_type.json
 msgid "Public Holiday Multiplier"
-msgstr ""
+msgstr "Hệ số ngày lễ"
 
 #. Label of the publish_applications_received (Check) field in DocType 'Job
 #. Opening'
 #: hrms/hr/doctype/job_opening/job_opening.json
 msgid "Publish Applications Received"
-msgstr ""
+msgstr "Công khai đơn đăng ký đã nhận"
 
 #. Label of the publish_salary_range (Check) field in DocType 'Job Opening'
 #: hrms/hr/doctype/job_opening/job_opening.json
 msgid "Publish Salary Range"
-msgstr ""
+msgstr "Công khai dải lương"
 
 #. Label of the publish (Check) field in DocType 'Job Opening'
 #: hrms/hr/doctype/job_opening/job_opening.json
 msgid "Publish on website"
-msgstr ""
+msgstr "Công khai trên website"
 
 #. Label of the section_break_8 (Section Break) field in DocType 'Employee
 #. Advance'
 #: hrms/hr/doctype/employee_advance/employee_advance.json
 msgid "Purpose & Amount"
-msgstr ""
+msgstr "Mục đích & Số tiền"
 
 #. Name of a DocType
 #. Label of the purpose_of_travel (Data) field in DocType 'Purpose of Travel'
@@ -8250,25 +8250,25 @@ msgstr ""
 #: hrms/hr/workspace/expenses/expenses.json
 #: hrms/workspace_sidebar/expenses.json
 msgid "Purpose of Travel"
-msgstr ""
+msgstr "Mục đích chuyến đi"
 
 #: frontend/src/views/AppSettings.vue:128
 msgid "Push Notification permission denied"
-msgstr ""
+msgstr "Từ chối quyền thông báo đẩy"
 
 #: frontend/src/views/AppSettings.vue:96
 msgid "Push notifications disabled"
-msgstr ""
+msgstr "Thông báo đẩy đã bị tắt"
 
 #: frontend/src/views/AppSettings.vue:80
 msgid "Push notifications have been disabled on your site"
-msgstr ""
+msgstr "Thông báo đẩy đã bị tắt trên trang web của bạn"
 
 #. Label of the questionnaire_email_sent (Check) field in DocType 'Exit
 #. Interview'
 #: hrms/hr/doctype/exit_interview/exit_interview.json
 msgid "Questionnaire Email Sent"
-msgstr ""
+msgstr "Đã gửi email bảng câu hỏi"
 
 #. Label of the quick_filters_section (Section Break) field in DocType 'Leave
 #. Control Panel'
@@ -8280,21 +8280,21 @@ msgstr ""
 #: hrms/hr/doctype/shift_assignment_tool/shift_assignment_tool.json
 #: hrms/payroll/doctype/bulk_salary_structure_assignment/bulk_salary_structure_assignment.json
 msgid "Quick Filters"
-msgstr ""
+msgstr "Bộ lọc nhanh"
 
 #: frontend/src/components/QuickLinks.vue:3 frontend/src/views/Home.vue:6
 msgid "Quick Links"
-msgstr ""
+msgstr "Liên kết nhanh"
 
 #. Description of the 'Checkin Radius' (Int) field in DocType 'Shift Location'
 #: hrms/hr/doctype/shift_location/shift_location.json
 msgid "Radius within which check-in is allowed (in meters)"
-msgstr ""
+msgstr "Bán kính cho phép điểm danh (tính bằng mét)"
 
 #. Label of the rate_goals_manually (Check) field in DocType 'Appraisal'
 #: hrms/hr/doctype/appraisal/appraisal.json
 msgid "Rate Goals Manually"
-msgstr ""
+msgstr "Thiết lập mục tiêu tỷ lệ thủ công"
 
 #. Label of the rating_criteria (Table) field in DocType 'Appraisal Template'
 #: hrms/hr/doctype/appraisal_template/appraisal_template.json
@@ -11751,5 +11751,6 @@ msgid "{0}d"
 msgstr "Ngày {0}"
 
 #: hrms/hr/doctype/job_requisition/job_requisition.js:22
+
 msgid "{} {} open for this position."
 msgstr "{} {} đang trống cho vị trí này."
