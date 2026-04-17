@@ -26920,7 +26920,7 @@ msgstr "Vĩ độ"
 #: erpnext/setup/workspace/home/home.json
 #: erpnext/support/doctype/issue/issue.json erpnext/workspace_sidebar/crm.json
 msgid "Lead"
-msgstr "Chì"
+msgstr "Khách hàng tiềm năng"
 
 #: erpnext/crm/doctype/lead/lead.py:556
 msgid "Lead -> Prospect"
@@ -49385,7 +49385,7 @@ msgstr "Giá trị tồn kho theo Nhóm mặt hàng"
 #. Name of a report
 #: erpnext/stock/report/stock_and_account_value_comparison/stock_and_account_value_comparison.json
 msgid "Stock and Account Value Comparison"
-msgstr "So sánh giá trị cổ phiếu và tài khoản"
+msgstr "So sánh giá trị tồn kho và tài khoản"
 
 #. Label of the stock_tab (Tab Break) field in DocType 'Company'
 #: erpnext/setup/doctype/company/company.json

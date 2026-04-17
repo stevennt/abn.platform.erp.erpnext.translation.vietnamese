@@ -11077,7 +11077,7 @@ msgstr "Khung nền tảng"
 #: frappe/www/login.html:63 frappe/www/login.html:161 frappe/www/login.py:50
 #: frappe/www/login.py:146
 msgid "Frappe"
-msgstr "sinh tố"
+msgstr "Frappe"
 
 #: frappe/public/js/frappe/ui/toolbar/about.js:28
 msgid "Frappe Blog"
@@ -17475,7 +17475,7 @@ msgstr "Không có máy in nào khả dụng."
 
 #: frappe/core/doctype/rq_worker/rq_worker_list.js:5
 msgid "No RQ Workers connected. Try restarting the bench."
-msgstr "Không có Công nhân RQ nào được kết nối. Hãy thử khởi động lại băng ghế dự bị."
+msgstr "Không có Công nhân RQ nào được kết nối. Hãy thử khởi động lại bench."
 
 #: frappe/public/js/frappe/form/link_selector.js:143
 msgid "No Results"
@@ -24230,7 +24230,7 @@ msgstr "Trường tên người gửi"
 #. Option for the 'Service' (Select) field in DocType 'Email Account'
 #: frappe/email/doctype/email_account/email_account.json
 msgid "Sendgrid"
-msgstr "Gửi lưới"
+msgstr "Sendgrid"
 
 #. Option for the 'Delivery Status' (Select) field in DocType 'Communication'
 #. Option for the 'Status' (Select) field in DocType 'Email Queue'
@@ -24337,7 +24337,7 @@ msgstr "Tập lệnh máy chủ"
 
 #: frappe/utils/safe_exec.py:98
 msgid "Server Scripts are disabled. Please enable server scripts from bench configuration."
-msgstr "Tập lệnh máy chủ bị vô hiệu hóa. Vui lòng kích hoạt tập lệnh máy chủ từ cấu hình băng ghế dự bị."
+msgstr "Tập lệnh máy chủ bị vô hiệu hóa. Vui lòng kích hoạt tập lệnh máy chủ từ cấu hình bench."
 
 #: frappe/core/doctype/server_script/server_script.js:39
 msgid "Server Scripts feature is not available on this site."
@@ -25305,7 +25305,7 @@ msgstr "Skype"
 #. Option for the 'Channel' (Select) field in DocType 'Notification'
 #: frappe/email/doctype/notification/notification.json
 msgid "Slack"
-msgstr "Chập chờn"
+msgstr "Slack"
 
 #. Label of the slack_webhook_url (Link) field in DocType 'Notification'
 #: frappe/email/doctype/notification/notification.json
@@ -27405,7 +27405,7 @@ msgstr "Loại tài liệu này không có trường mồ côi để cắt"
 
 #: frappe/core/doctype/doctype/doctype.py:1082
 msgid "This doctype has pending migrations, run 'bench migrate' before modifying the doctype to avoid losing changes."
-msgstr "Loại tài liệu này có các lần di chuyển đang chờ xử lý, hãy chạy 'di chuyển băng ghế dự bị' trước khi sửa đổi loại tài liệu để tránh mất các thay đổi."
+msgstr "Loại tài liệu này có các lần di chuyển đang chờ xử lý, hãy chạy 'bench migrate ghế dự bị' trước khi sửa đổi loại tài liệu để tránh mất các thay đổi."
 
 #: frappe/model/delete_doc.py:152
 msgid "This document can not be deleted right now as it's being modified by another user. Please try again after some time."
