@@ -9,6 +9,6 @@ Bạn cũng có thể thêm Vĩ độ và Kinh độ của vị trí. Khi một 
 
 Bản đồ của vị trí cũng được hiển thị:
 
-<img class="screenshot" alt="Asset" src="https://docs.erpnext.com/docs/v13/assets/img/asset/asset-location.png">
+<img class="screenshot" alt="Asset" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/asset/asset-location.png">
 
 {next}

@@ -10,15 +10,15 @@
 
 Bạn có thể thiết lập nhiều cổng thanh toán GoCardless nếu cần. Việc lựa chọn tài khoản cổng thanh toán sẽ quyết định tài khoản GoCardless nào được sử dụng để thanh toán.
 
-![GoCardless Settings](https://docs.erpnext.com/docs/v13/assets/img/setup/integrations/gocardless_account.png)
+![GoCardless Settings](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/integrations/gocardless_account.png)
 
 Khi kích hoạt dịch vụ, hệ thống sẽ tạo một bản ghi Cổng thanh toán (Payment Gateway) và một tài khoản trong Hệ thống tài khoản với loại tài khoản là Ngân hàng.
 
-![GoCardless COA](https://docs.erpnext.com/docs/v13/assets/img/setup/integrations/gocardless_coa.png)
+![GoCardless COA](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/integrations/gocardless_coa.png)
 
 Nó cũng sẽ tạo một tài khoản cổng thanh toán. Bạn có thể thay đổi tài khoản ngân hàng mặc định nếu cần và tạo một mẫu cho yêu cầu thanh toán.
 
-![Payment Gateway Account](https://docs.erpnext.com/docs/v13/assets/img/setup/integrations/payment_gateway_account_gocardless.png)
+![Payment Gateway Account](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/integrations/payment_gateway_account_gocardless.png)
 
 Sau khi cấu hình Tài khoản cổng thanh toán, hệ thống của bạn có thể chấp nhận các thanh toán trực tuyến thông qua GoCardless.
 

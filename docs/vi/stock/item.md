@@ -21,7 +21,7 @@ Trước khi tạo và sử dụng một Mặt hàng, bạn nên tạo các mụ
 1. Chọn một Nhóm mặt hàng.
 1. Nhập số lượng tồn kho đầu kỳ và đơn giá bán tiêu chuẩn.
 3. Lưu.
-  ![Item Saved](https://docs.erpnext.com/docs/v13/assets/img/stock/item-saved.png)
+  ![Item Saved](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/item-saved.png)
 
 ### 2.1 Thuộc tính Mặt hàng
 
@@ -65,7 +65,7 @@ Dành cho Ấn Độ:
 
 * **Thương hiệu**: Nếu bạn có nhiều thương hiệu, hãy lưu chúng trong mục Bán hàng > Thương hiệu và chọn trước chúng khi tạo Mặt hàng mới.
 * **Mô tả**: Mô tả của mặt hàng. Văn bản từ Mã mặt hàng sẽ được tự động lấy theo mặc định.
-  ![Item brand and description](https://docs.erpnext.com/docs/v13/assets/img/stock/item-brand-description.png)
+  ![Item brand and description](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/item-brand-description.png)
 
 ### 3.2 Mã vạch
 
@@ -82,7 +82,7 @@ Mã vạch có thể được ghi lại trong Mặt hàng để quét nhanh và 
 
   Thời hạn bảo hành là khoảng thời gian mà một sản phẩm đã mua có thể được trả lại hoặc đổi mới.
 
-  <img class="screenshot" alt="Item Warranty" src="https://docs.erpnext.com/docs/v13/assets/img/stock/item-inventory.png">
+  <img class="screenshot" alt="Item Warranty" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/item-inventory.png">
 
 * **Đơn vị tính trọng lượng**: Đơn vị tính của mặt hàng. Có thể là Cái, Kilo, v.v. Đơn vị tính trọng lượng bạn sử dụng nội bộ có thể khác với đơn vị tính mua hàng.
 * **Trọng lượng trên mỗi đơn vị**: Trọng lượng thực tế trên mỗi đơn vị của mặt hàng. Ví dụ: 1 kilo bánh quy hoặc 10 bánh quy mỗi gói.
@@ -101,7 +101,7 @@ Khi tồn kho của một mặt hàng giảm xuống dưới một số lượng
 
 * **Loại Yêu cầu vật tư**: Loại [Yêu cầu vật tư](material-request.md) mà kho sẽ được đặt hàng lại. Điều này phụ thuộc vào việc bạn mua Mặt hàng, tự sản xuất hay chuyển giữa các Kho.
 
-  <img alt="Item Reorder" class="screenshot" src="https://docs.erpnext.com/docs/v13/assets/img/stock/item-reorder.png">
+  <img alt="Item Reorder" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/item-reorder.png">
 
 > **Lưu ý**: Yêu cầu vật tư được tạo vào lúc 12 giờ đêm tùy thuộc vào mức đặt hàng lại đã thiết lập.
 
@@ -116,7 +116,7 @@ Lưu ý rằng nếu bạn bán hàng nghìn mặt hàng, và nếu các mặt h
 
 Trong ERPNext, bạn sẽ phải ghi Số serial trong một số bút toán kế toán. Nếu sản phẩm của bạn không phải là Mặt hàng tiêu dùng lâu bền lớn, nếu nó không có bảo hành và không có khả năng bị thu hồi, hãy tránh việc cấp số serial.
 
-<img alt="Serial No modal" class="screenshot" src="https://docs.erpnext.com/docs/v13/assets/img/stock/serial_no_modal.gif">
+<img alt="Serial No modal" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/serial_no_modal.gif">
 
 ### 3.7 Lô hàng
 

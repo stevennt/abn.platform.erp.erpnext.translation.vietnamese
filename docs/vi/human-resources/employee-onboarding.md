@@ -36,7 +36,7 @@ Trước khi tạo Tiếp nhận Nhân viên, bạn nên tạo các tài liệu 
 1. Lưu và Xác nhận.
 
 
-  <img class="screenshot" alt="Onboarding Template" src="https://docs.erpnext.com/docs/v13/assets/img/human-resources/employee-onboarding1.png">
+  <img class="screenshot" alt="Onboarding Template" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/employee-onboarding1.png">
 
 
 
@@ -57,7 +57,7 @@ Mẫu Tiếp nhận Nhân viên là một bản kế hoạch chứa danh sách c
 1. Nhập Phòng ban, Chức danh và Cấp bậc Nhân viên (tùy chọn).
 1. Đề cập các Hoạt động để tiếp nhận. Đối với mỗi Hoạt động, bạn cũng có thể đề cập Người dùng hoặc Vai trò, hoặc một trong hai, người mà Hoạt động này sẽ được giao.
 
-  <img class="screenshot" alt="Onboarding Template" src="https://docs.erpnext.com/docs/v13/assets/img/human-resources/onboarding-template.png">
+  <img class="screenshot" alt="Onboarding Template" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/onboarding-template.png">
 
 
 ### 3.2 Nhiệm vụ và Phân công
@@ -66,11 +66,11 @@ Khi Xác nhận Tiếp nhận Nhân viên, một [Project](/docs/v13/user/manual
 
 Bạn có thể xem các Dự án và Nhiệm vụ đã được tạo như hiển thị dưới đây:
 
-<img class="screenshot" alt="Onboarding Template" src="https://docs.erpnext.com/docs/v13/assets/img/human-resources/project-task.png">
+<img class="screenshot" alt="Onboarding Template" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/project-task.png">
 
 Ngoài ra, mỗi Hoạt động có thể được gán trọng số dựa trên tầm quan trọng của nó.
 
-<img class="screenshot" alt="Tasks and Assignments" src="https://docs.erpnext.com/docs/v13/assets/img/human-resources/employee-onboarding3.png">
+<img class="screenshot" alt="Tasks and Assignments" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/employee-onboarding3.png">
 
 Dựa trên tiến độ của các Nhiệm vụ, tiến độ có thể được cập nhật trong quy trình Tiếp nhận Nhân viên.
 
@@ -79,7 +79,7 @@ Dựa trên tiến độ của các Nhiệm vụ, tiến độ có thể đượ
 
 Bạn có thể tạo trực tiếp một Nhân viên thông qua DocType Employee Onboarding (nếu chưa được tạo) sau khi tất cả các nhiệm vụ tiếp nhận bắt buộc đã hoàn thành.
 
-<img class="screenshot" alt="Onboarding Template" src="https://docs.erpnext.com/docs/v13/assets/img/human-resources/onboarding-employee.png">
+<img class="screenshot" alt="Onboarding Template" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/onboarding-employee.png">
 
 
 ## 4. Các chủ đề liên quan

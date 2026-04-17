@@ -23,7 +23,7 @@ Trước khi tạo Thư mời nhận việc, bạn nên tạo nội dung sau:
 1. Nhấn vào Lưu.
 1. Sau khi lưu, hãy đi tới Chế độ xem in (Print View) để xem và lưu tệp PDF của Thư mời nhận việc.
 
-    <img class="screenshot" alt="Appointment Letter" src="https://docs.erpnext.com/docs/v13/assets/img/human-resources/appointment-letter.png">
+    <img class="screenshot" alt="Appointment Letter" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/appointment-letter.png">
 
 > **Lưu ý:** Thư mời nhận việc chỉ có thể được tạo dựa trên một [Job Applicant](/docs/v13/user/manual/en/human-resources/job-applicant)
 
@@ -36,11 +36,11 @@ Trước khi tạo Thư mời nhận việc, bạn nên tạo nội dung sau:
 1. Điền Lời chào (Introduction), Các điều khoản (Terms) và Lời kết (Closing Statement).
 1. Nhấn vào Lưu.
 
-    <img class="screenshot" alt="Appointment Letter" src="https://docs.erpnext.com/docs/v13/assets/img/human-resources/appointment-letter-template.png">
+    <img class="screenshot" alt="Appointment Letter" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/appointment-letter-template.png">
 
 > **Lưu ý:** Khi chọn Mẫu Thư mời nhận việc trong Thư mời nhận việc, nội dung sẽ được tự động điền.
 
 ### 3.2 Mẫu in (Print Format)
 Bạn có thể tạo mẫu in mới hoặc sử dụng các mẫu in tiêu chuẩn có sẵn.
 
-![Appointment Letter](https://docs.erpnext.com/docs/v13/assets/img/human-resources/standard-appointment-letter.png)
+![Appointment Letter](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/standard-appointment-letter.png)

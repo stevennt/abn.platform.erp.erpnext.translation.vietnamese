@@ -2,7 +2,7 @@
 
 Bạn có thể tìm thấy tất cả các cài đặt liên quan đến việc đặt lịch hẹn trong Cài đặt Đặt lịch hẹn.
 
-![Appointment Booking Settings](https://docs.erpnext.com/docs/v13/assets/img/crm/appointment-booking-settings.png)
+![Appointment Booking Settings](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/crm/appointment-booking-settings.png)
 
 ## 1. Cho phép lập lịch hẹn
 

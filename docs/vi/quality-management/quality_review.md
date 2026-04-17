@@ -23,7 +23,7 @@ Trước khi tạo và sử dụng Đánh giá Chất lượng, bạn nên tạo
 1. Trong phần Xem xét của bảng Xem xét, để lại nhận xét về một Mục tiêu Chất lượng.
 1. Lưu.
 
-    ![Quality Review](https://docs.erpnext.com/docs/v13/assets/img/quality-management/quality-review.gif)
+    ![Quality Review](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/quality-management/quality-review.gif)
 
 > Lưu ý: Nếu Quy trình Chất lượng được liên kết với Mục tiêu Chất lượng, Quy trình Chất lượng sẽ được lấy tự động vào Đánh giá Chất lượng.
 

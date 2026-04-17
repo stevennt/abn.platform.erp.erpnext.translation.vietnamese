@@ -9,7 +9,7 @@ Tùy thuộc vào loại sản phẩm, bạn có thể phân loại một mặt 
 > Trang chủ > Kho > Mặt hàng và Định giá > Nhóm mặt hàng
 
 Đây là giao diện cây Nhóm mặt hàng:
-<img class="screenshot" alt="Item Group Tree" src="https://docs.erpnext.com/docs/v13/assets/img/stock/item-group-tree.png">
+<img class="screenshot" alt="Item Group Tree" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/item-group-tree.png">
 
 ## 1. Cách tạo một Nhóm mặt hàng
 
@@ -19,7 +19,7 @@ Tùy thuộc vào loại sản phẩm, bạn có thể phân loại một mặt 
 1. Để biến mục con này thành một nút danh mục/nhóm, hãy tích vào Nhóm nút.
 1. Nhấn vào Tạo mới.
 
-<img class="screenshot" alt="Add Item Group" src="https://docs.erpnext.com/docs/v13/assets/img/stock/item-group-new.gif">
+<img class="screenshot" alt="Add Item Group" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/item-group-new.gif">
 
 ### 1.2 Xóa một Nhóm mặt hàng
 

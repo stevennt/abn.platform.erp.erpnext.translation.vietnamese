@@ -15,7 +15,7 @@ Công cụ tạo Hóa đơn đầu kỳ cho phép nhập dữ liệu của các 
 
 3. Đánh dấu vào ô "Create Missing Party" sẽ tự động tạo khách hàng hoặc nhà cung cấp nếu chưa có dựa trên tên được cung cấp trong cột Đối tác (Party).
 
-    <img class="screenshot" alt="Opening Invoice Creation Tool" src="https://docs.erpnext.com/docs/v13/assets/img/setup/opening-invoice-creation-tool.png">
+    <img class="screenshot" alt="Opening Invoice Creation Tool" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/opening-invoice-creation-tool.png">
 
 4. Điền vào bảng Hóa đơn. Bảng bao gồm các trường sau:
     - **Party (Đối tác)**: Bạn có thể chọn Khách hàng/Nhà cung cấp hiện có hoặc nhập tên của một đối tác mới, đối tác này sẽ được tự động tạo.

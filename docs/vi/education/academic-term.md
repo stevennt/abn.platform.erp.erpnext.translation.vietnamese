@@ -9,7 +9,7 @@
 
 Biểu mẫu **Academic Term** trong ERPNext cho phép bạn tạo các học kỳ trong một Năm học. Dựa trên lịch trình học kỳ, hãy nhập ngày bắt đầu và ngày kết thúc cho lịch trình và tạo Học kỳ.
 
-![Academic Term](https://docs.erpnext.com/docs/v13/assets/img/education/education-term.png)
+![Academic Term](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-term.png)
 
 Nếu Học kỳ đã được chỉ định trong [Education Settings](/docs/v13/user/manual/en/education/education-settings) thì nó sẽ trở thành Học kỳ mặc định trong tất cả các biểu mẫu và có thể chỉnh sửa nếu cần.
 

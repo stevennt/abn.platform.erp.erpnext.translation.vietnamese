@@ -27,18 +27,18 @@
 
 1. Chọn quy tắc phân công.
 
-    ![Assignment Rule](https://docs.erpnext.com/docs/v13/assets/img/automation/assignment-rule-select.png)
+    ![Assignment Rule](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/automation/assignment-rule-select.png)
 
     * **Round Robin**: Phân công mỗi chứng từ cho một Người dùng theo thứ tự tuần tự.
     * **Load Balancing**: Phân công các chứng từ mới cho Người dùng có số lượng công việc được phân công ít nhất.
 
         Chọn danh sách Người dùng mà Quy tắc phân công này sẽ áp dụng:
-        ![Users in Assignment Rule](https://docs.erpnext.com/docs/v13/assets/img/automation/auto-assign-2.png)
+        ![Users in Assignment Rule](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/automation/auto-assign-2.png)
 
     * **Based on Field**: Được giới thiệu trong v13, quy tắc này có thể được sử dụng để phân công một chứng từ cho Người dùng được thiết lập trong trường đã cấu hình.
 
         Chọn trường liên kết Người dùng (User link field) để xác định Quy tắc phân công này sẽ áp dụng cho ai:
-        ![Field Assign](https://docs.erpnext.com/docs/v13/assets/img/automation/field-auto-assign.png)
+        ![Field Assign](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/automation/field-auto-assign.png)
 
 
 1. Lưu.
@@ -53,7 +53,7 @@ Issue có độ ưu tiên cao *File Upload not working* đã được phân côn
 
 Bạn cũng có thể thiết lập nhiều quy tắc phân công tự động cho mỗi DocType, quy tắc nào có Priority cao nhất sẽ được áp dụng trước.
 
-![Assignment Rule with Higher Priority](https://docs.erpnext.com/docs/v13/assets/img/automation/assignment-rule-with-higher-priority.png)
+![Assignment Rule with Higher Priority](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/automation/assignment-rule-with-higher-priority.png)
 
 
 assignment-rule-with-higher-priority
@@ -66,7 +66,7 @@ Ví dụ:
 
 Nếu bạn muốn thiết lập hạn chót cho việc phân công Issue dựa trên ngày "Resolution By" của Issue đó, bạn có thể thực hiện bằng cách chọn trường "Resolution By" trong tùy chọn `Due Date Based On` trong Quy tắc phân công.
 
-![Due Date Based On](https://docs.erpnext.com/docs/v13/assets/img/automation/assignment-rule-due-date-based-on.png)
+![Due Date Based On](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/automation/assignment-rule-due-date-based-on.png)
 
 **Lưu ý:**
 

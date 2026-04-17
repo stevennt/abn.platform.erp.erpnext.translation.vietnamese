@@ -10,4 +10,4 @@ Bản thân danh sách UoM chỉ lưu trữ tên. Các tỷ lệ chuyển đổi
 
 Ví dụ, ở đây 1 Kg xấp xỉ bằng 2.2 Pounds và hệ số chuyển đổi chính xác được lưu trữ như sau:
 
-![UoM conversion factor](https://docs.erpnext.com/docs/v13/assets/img/stock/uom_convert.png)
+![UoM conversion factor](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/uom_convert.png)

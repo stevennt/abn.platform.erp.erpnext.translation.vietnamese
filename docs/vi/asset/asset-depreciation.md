@@ -26,7 +26,7 @@ Các loại khấu hao trong ERPNext:
 ## 1. Khấu hao theo lịch trình
 Vào ngày đã lập lịch, hệ thống tạo một bút toán khấu hao bằng cách tạo một Bút toán (Journal Entry) và chính Bút toán đó sẽ được hiển thị trong bảng khấu hao để tham chiếu. Ngày khấu hao tiếp theo (Next Depreciation Date) và Giá trị hiện tại (Current Value) cũng được cập nhật sau khi Xác nhận bút toán khấu hao.
 
-<img class="screenshot" alt="Asset" src="https://docs.erpnext.com/docs/v13/assets/img/asset/depreciation-entry.png">
+<img class="screenshot" alt="Asset" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/asset/depreciation-entry.png">
 
 ## 2. Bút toán kế toán khi khấu hao
 Trong bút toán khấu hao:
@@ -39,12 +39,12 @@ Các tài khoản liên quan có thể được thiết lập trong Danh mục T
 ## 3. Bút toán khấu hao tự động
 Bạn có thể bật tính năng tự động ghi bút toán khấu hao từ [Accounts Settings](/docs/v13/user/manual/en/accounts/accounts-settings). Việc này sẽ tự động tạo bút toán khấu hao vào ngày đã lập lịch thông qua bộ lập lịch (scheduler). Nếu không, bạn phải tạo Bút toán thủ công bằng cách nhấp vào "Make > Depreciation Entry" trong dòng Lịch trình khấu hao (Depreciation Schedule) tương ứng.
 
-<img class="screenshot" alt="Asset" src="https://docs.erpnext.com/docs/v13/assets/img/asset/depreciation-schedule.png">
+<img class="screenshot" alt="Asset" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/asset/depreciation-schedule.png">
 
 ## 4. Ví dụ
 Để hiểu rõ hơn, giá trị thuần của tài sản vào các ngày khấu hao khác nhau được hiển thị trong một biểu đồ đường.
 
-<img class="screenshot" alt="Asset" src="https://docs.erpnext.com/docs/v13/assets/img/asset/asset-submit.png">
+<img class="screenshot" alt="Asset" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/asset/asset-submit.png">
 
 ### 5. Các chủ đề liên quan
 1. [Bảo trì Tài sản](/docs/v13/user/manual/en/asset/asset-maintenance)

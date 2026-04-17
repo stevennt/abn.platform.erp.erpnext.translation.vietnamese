@@ -11,15 +11,15 @@ Các phân tích này có thể được tìm thấy tại:
 ## 1. Báo cáo Phân tích Bán hàng
 Đi tới **Selling > Analytics > Sales Analytics**. Báo cáo Phân tích Bán hàng trông như sau:
 
-  ![Sales Analytics Sections](https://docs.erpnext.com/docs/v13/assets/img/selling/sales-analytics-sections.png)
+  ![Sales Analytics Sections](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/selling/sales-analytics-sections.png)
 
 Thanh công cụ cung cấp các bộ lọc để chọn dữ liệu sẽ được sử dụng. Sử dụng các lựa chọn thả xuống, dữ liệu hiển thị có thể được tinh chỉnh. Khi các lựa chọn được thực hiện, dữ liệu sẽ được phản ánh trong cửa sổ dữ liệu cũng như cửa sổ biểu đồ.
 
-![Sales Analytics Filters](https://docs.erpnext.com/docs/v13/assets/img/selling/sales-analytics-filters.png)
+![Sales Analytics Filters](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/selling/sales-analytics-filters.png)
 
 Trong cửa sổ dữ liệu, có thể thực hiện các lựa chọn để mở rộng hoặc thu gọn dữ liệu cần phân tích. Mỗi ô có thể được chọn hoặc bỏ chọn. Không có giới hạn cho việc so sánh dữ liệu, vì vậy một cấp độ cao hơn có thể được so sánh với một cấp độ thấp hơn.
 
-   ![Sales Analytics Result](https://docs.erpnext.com/docs/v13/assets/img/selling/sales-analytics-data-window.gif)
+   ![Sales Analytics Result](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/selling/sales-analytics-data-window.gif)
 
 Sử dụng nút 'Set Chart', bạn có thể thiết lập các giá trị cho các trường X và Y, sử dụng các loại biểu đồ khác nhau và chọn màu sắc.
 
@@ -33,7 +33,7 @@ Sử dụng nút 'Set Chart', bạn có thể thiết lập các giá trị cho 
 
 Các giai đoạn trước thường bao gồm các giai đoạn sau. Tuy nhiên, nếu một giai đoạn trước bị bỏ qua, bạn có thể thấy kết quả trái ngược với logic như hai **Báo giá** được tạo ra từ một **Cơ hội** (vì việc tạo một **Cơ hội** trước là không bắt buộc).
 
-![Sales Funnel](https://docs.erpnext.com/docs/v13/assets/img/selling/sales-funnel.png)
+![Sales Funnel](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/selling/sales-funnel.png)
 
 Sau khi một phạm vi ngày đã được chọn, biểu đồ sẽ được cập nhật, biểu đồ phản ánh các thay đổi và các nhãn liên quan.
 
@@ -41,7 +41,7 @@ Sau khi một phạm vi ngày đã được chọn, biểu đồ sẽ được c
 Đi tới **Selling > Analytics**.
 Để hiểu về doanh thu, việc xem xét dữ liệu từ góc độ khách hàng mới và khách hàng hiện tại thường rất hữu ích. Báo cáo này giúp trực quan hóa lòng trung thành của khách hàng. Có hai cửa sổ trong báo cáo này: Cửa sổ Bộ lọc và Cửa sổ Dữ liệu.
 
-![Customer Acquisition and Loyalty](https://docs.erpnext.com/docs/v13/assets/img/selling/acquisition-and-loyalty.png)
+![Customer Acquisition and Loyalty](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/selling/acquisition-and-loyalty.png)
 
 Khi truy cập Cửa sổ Bộ lọc, có thể áp dụng công ty và phạm vi ngày. Dữ liệu được cập nhật trong Cửa sổ Dữ liệu khi các thay đổi được áp dụng.
 
@@ -51,7 +51,7 @@ Trong Cửa sổ Dữ liệu, có thể truy cập các cột thông tin.
 * **Sắp xếp**: Để sắp xếp dữ liệu trong các cột, hãy nhấp vào phía bên phải của tiêu đề cột và bạn sẽ thấy các tùy chọn để sắp xếp tăng dần, giảm dần, đặt lại sắp xếp, hoặc xóa một cột.
 * **Lọc**: Các hộp văn bản bên dưới tiêu đề cột hoạt động như các bộ lọc tức thì. Nhập một số vào đó và tất cả các bản ghi khớp sẽ được hiển thị.
 
-![Customer Acquisition and Loyalty](https://docs.erpnext.com/docs/v13/assets/img/selling/customer-acquisition-and-loyalty.gif)
+![Customer Acquisition and Loyalty](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/selling/customer-acquisition-and-loyalty.gif)
 
 Trong phần Key Reports của module Selling có các báo cáo cho Khách hàng không hoạt động (Inactive Customers), Mặt hàng đã đặt cần giao (Ordered Items To Be Delivered), Tóm tắt giao dịch theo Nhân viên bán hàng (Sales Person-wise Transaction Summary), Lịch sử bán hàng theo Mặt hàng (Item-wise Sales History), Xu hướng Báo giá (Quotation Trends), Xu hướng Đơn bán hàng (Sales Order Trends).
 

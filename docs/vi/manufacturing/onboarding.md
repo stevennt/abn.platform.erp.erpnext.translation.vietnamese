@@ -3,7 +3,7 @@
 
 ERPNext được tích hợp sẵn đầy đủ cho tất cả các yêu cầu của một doanh nghiệp sản xuất như quản lý Kho, Trạm làm việc / Máy móc, Công đoạn, Thành phẩm, Nguyên vật liệu, theo dõi Định mức nguyên vật liệu, lập kế hoạch và thực hiện Lệnh sản xuất, thu mua, và nhiều tính năng khác nữa.
 
-<img class="screenshot" alt="BOM" src="https://docs.erpnext.com/docs/v13/assets/img/manufacturing/onboarding.png">
+<img class="screenshot" alt="BOM" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/onboarding.png">
 
 ## 1. Dữ liệu danh mục
 
@@ -53,6 +53,6 @@ Xem video sau để biết về các tính năng trong phân hệ sản xuất.
  <iframe src="https://www.youtube.com/embed/xE74wdQU5cc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
-<!-- <img class="screenshot" alt="Task" src="https://docs.erpnext.com/docs/v13/assets/img/manufacturing/manufacturing.png"> -->
+<!-- <img class="screenshot" alt="Task" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/manufacturing.png"> -->
 
 {next}

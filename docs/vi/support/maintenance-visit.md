@@ -7,7 +7,7 @@
 > Home > Support > Maintenance > Maintenance Visit
 
 Một Chuyến thăm bảo trì thường được tạo từ một Đơn bán hàng loại 'Maintenance'.
-![SO Maintenance Visit](https://docs.erpnext.com/docs/v13/assets/img/support/so-maintenance-visit.png)
+![SO Maintenance Visit](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/support/so-maintenance-visit.png)
 
 ## 1. Điều kiện tiên quyết
 
@@ -24,7 +24,7 @@ Một Chuyến thăm bảo trì thường được tạo từ một Đơn bán h
 1. Nhập Mô tả về việc bảo trì, chọn Nhân viên bán hàng thực hiện bảo trì, và nhập công việc đã thực hiện.
 1. Lưu.
 
-    ![Maintenance Visit](https://docs.erpnext.com/docs/v13/assets/img/support/maintenance-visit.png)
+    ![Maintenance Visit](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/support/maintenance-visit.png)
 
 ### 2.1 Các tùy chọn bổ sung khi Tạo Chuyến thăm bảo trì
 

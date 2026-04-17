@@ -25,12 +25,12 @@ Một bản Đôn đốc nợ được tạo dựa trên một Hóa đơn bán h
 1. Ngày và giờ hạch toán sẽ được đặt theo thời gian hiện tại, bạn có thể chỉnh sửa sau khi tích vào ô kiểm bên dưới Posting Time để tạo một bút toán lùi ngày.
 1. Lưu và Xác nhận.
 
- ![Dunning example](https://docs.erpnext.com/docs/v13/assets/img/accounts/new-dunning.png)
+ ![Dunning example](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/new-dunning.png)
 
 ### 2.1 Loại đôn đốc (Dunning Type) là gì?
 Loại đôn đốc lưu trữ các giá trị mặc định cho số ngày quá hạn, phí đôn đốc, lãi suất và các khối văn bản sẽ được đưa vào. Ví dụ, Loại đôn đốc "Thông báo lần 1" sẽ không có bất kỳ khoản phí nào, nhưng Loại đôn đốc "Thông báo lần 2" sẽ có phí đôn đốc và lãi suất tính trên số tiền còn nợ.
 
- ![Dunning Type](https://docs.erpnext.com/docs/v13/assets/img/accounts/dunning-document-type.png)
+ ![Dunning Type](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/dunning-document-type.png)
 
 ### 2.2 Trạng thái
 
@@ -45,7 +45,7 @@ Loại đôn đốc lưu trữ các giá trị mặc định cho số ngày quá
 
 Một Bút toán thanh toán có thể được tạo từ Đôn đốc nợ. Thông tin sẽ được lấy cùng với các chi tiết của Hóa đơn bán hàng mà nó đối chiếu.
 
-![Dunning Payment](https://docs.erpnext.com/docs/v13/assets/img/accounts/dunning-payment-entry.png)
+![Dunning Payment](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/dunning-payment-entry.png)
 
 ## 4. Các chủ đề liên quan
 1. [Payment Entry](payment-entry.md)

@@ -11,6 +11,6 @@ Nếu bạn muốn tạo một bút toán thanh toán duy nhất để đối tr
 
 ### Demo về Bút toán thanh toán hàng loạt
 
-![Đối trừ Bút toán thanh toán với nhiều Hóa đơn bán hàng](https://docs.erpnext.com/docs/v13/assets/img/articles/bulk-payment.gif)
+![Đối trừ Bút toán thanh toán với nhiều Hóa đơn bán hàng](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/bulk-payment.gif)
 
 {next}

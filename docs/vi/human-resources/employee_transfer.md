@@ -25,7 +25,7 @@ Trong ERPNext, bạn có thể ghi lại việc Điều chuyển Nhân viên san
 
 > Lưu ý: Nếu mục Create New Employee ID được tích chọn, một Nhân viên mới sẽ được tạo với các thay đổi thuộc tính trong bảng Chi tiết Điều chuyển và Nhân viên cũ sẽ được đánh dấu là đã thôi việc. Việc phân bổ nghỉ phép cho Nhân viên mới phải được tạo thủ công từ Kỳ nghỉ phép.
 
-<img class="screenshot" alt="Employee Transfer" src="https://docs.erpnext.com/docs/v13/assets/img/human-resources/employee-transfer.png">
+<img class="screenshot" alt="Employee Transfer" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/employee-transfer.png">
 
 
 

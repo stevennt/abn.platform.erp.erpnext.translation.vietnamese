@@ -9,7 +9,7 @@ Khi khách hàng đặt hàng, nhân viên phục vụ sẽ chọn số bàn và
 
 Để đặt hàng, bạn có thể chọn một mặt hàng và nhấn phím enter để mặt hàng đó được cập nhật vào bảng mặt hàng.
 
-<img class="screenshot" alt="Order Entry" src="https://docs.erpnext.com/docs/v13/assets/img/restaurant/order-entry.png">
+<img class="screenshot" alt="Order Entry" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/restaurant/order-entry.png">
 
 Bạn cũng có thể chọn các mặt hàng bằng bộ chọn mặt hàng theo phong cách POS.
 
@@ -17,10 +17,10 @@ Bạn cũng có thể chọn các mặt hàng bằng bộ chọn mặt hàng the
 
 Khi đến lúc thanh toán, bạn chỉ cần chọn hóa đơn và có thể chọn khách hàng cũng như phương thức thanh toán. Khi Lưu, một Hóa đơn bán hàng sẽ được tạo và phần đơn hàng sẽ trở nên trống.
 
-<img class="screenshot" alt="Order Entry" src="https://docs.erpnext.com/docs/v13/assets/img/restaurant/order-entry-bill.png">
+<img class="screenshot" alt="Order Entry" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/restaurant/order-entry-bill.png">
 
 ### Hóa đơn bán hàng
 
 Để in hóa đơn, bạn có thể nhấp vào Liên kết hóa đơn và in hóa đơn.
 
-<img class="screenshot" alt="Sales Invoice" src="https://docs.erpnext.com/docs/v13/assets/img/restaurant/restaurant-invoice.png">
+<img class="screenshot" alt="Sales Invoice" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/restaurant/restaurant-invoice.png">

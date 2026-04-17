@@ -21,7 +21,7 @@ Tạo bản ghi Tài sản cho từng tài sản mà công ty bạn sở hữu m
 1. Tích vào **Is Existing Asset.**
 1. Lưu.
 
- ![Opening Stock Balance](https://docs.erpnext.com/docs/v13/assets/img/accounts/asset-opening-balance.png)
+ ![Opening Stock Balance](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/asset-opening-balance.png)
 
 > Để biết thêm chi tiết về Tài sản, [vui lòng truy cập trang này](https://docs.erpnext.com/docs/v13/user/manual/en/asset/asset).
 
@@ -37,6 +37,6 @@ Khi bạn tạo một Tài sản mà có tích vào ô 'Is Existing Asset', Sổ
 1. Chọn tài khoản 'Temporary Opening' trong cột Tài khoản (Account) và nhập số tiền chênh lệch vào cột Có (Credit).
 1. Thiết lập 'Is Opening' thành Yes.
 
-![Journal Entry Fixed Asset Opening](https://docs.erpnext.com/docs/v13/assets/img/accounts/journal-entry-fixed-asset.png)
+![Journal Entry Fixed Asset Opening](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/journal-entry-fixed-asset.png)
 
 {next}

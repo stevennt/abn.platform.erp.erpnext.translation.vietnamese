@@ -7,7 +7,7 @@ Ngoài các quyền của người dùng và vai trò, bạn cũng có thể chi
 
 Để chia sẻ một tài liệu, hãy mở tài liệu đó, nhấp vào biểu tượng "+" dưới phần chia sẻ và chọn người dùng mà bạn muốn chia sẻ:
 
-<img class="screenshot" src="https://docs.erpnext.com/docs/v13/assets/img/setup/users/share.png">
+<img class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/users/share.png">
 
 Trong cửa sổ bật lên, bạn có thể chọn tất cả người dùng hoặc một người dùng cụ thể.
 

@@ -32,12 +32,12 @@ Trước khi tạo và sử dụng Quy tắc sắp xếp hàng vào kho, bạn n
 ## 2. Cách tạo Quy tắc sắp xếp hàng vào kho
 
 1. Đi tới danh sách Quy tắc sắp xếp hàng vào kho, nhấn vào Mới.
- <img class='screenshot' alt='Unsaved Putaway Rule' src='https://docs.erpnext.com/docs/v13/assets/img/stock/unsaved-putaway-rule.png'>
+ <img class='screenshot' alt='Unsaved Putaway Rule' src='https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/unsaved-putaway-rule.png'>
 
 1. Thiết lập Công ty và Chọn một Mặt hàng.
 1. Chọn Kho mà quy tắc này sẽ được áp dụng.
 1. Thiết lập Sức chứa. Bạn cũng có thể chọn một Đơn vị tính nếu muốn thiết lập Sức chứa theo một Đơn vị tính khác. Sức chứa theo Đơn vị tính tồn kho sẽ được thiết lập tự động.
- <img class='screenshot' alt='Multi UOM Putaway Rule' src='https://docs.erpnext.com/docs/v13/assets/img/stock/multi-uom-putaway-rule.png'>
+ <img class='screenshot' alt='Multi UOM Putaway Rule' src='https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/multi-uom-putaway-rule.png'>
 
 1. Thiết lập Độ ưu tiên. Độ ưu tiên có thể bắt đầu từ 1 trở đi, trong đó 1 là độ ưu tiên cao nhất.
 1. Lưu.
@@ -56,22 +56,22 @@ Quy tắc này là duy nhất cho mỗi sự kết hợp giữa Mặt hàng và 
 Như đã đề cập trước đó, các Quy tắc sắp xếp hàng vào kho được áp dụng cho **Phiếu nhập hàng** và **Phiếu kho** (Nhập vật tư & Chuyển vật tư).
 
 Một ô kiểm có tên **Áp dụng Quy tắc sắp xếp hàng vào kho** (Apply Putaway Rule) sẽ phân bổ các mặt hàng vào các Kho dựa trên các Quy tắc sắp xếp hàng vào kho.
- <img class='screenshot' alt='Apply Putaway Rule checkbox' src='https://docs.erpnext.com/docs/v13/assets/img/stock/apply-putaway-rule.png'>
+ <img class='screenshot' alt='Apply Putaway Rule checkbox' src='https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/apply-putaway-rule.png'>
 
 Các Quy tắc sắp xếp hàng vào kho được áp dụng khi tích vào ô kiểm này. Chúng cũng được áp dụng lại khi Lưu nếu ô kiểm này được bật.
 
 Hãy cùng xem ví dụ thực tế:
 
 1. Đây là một Đơn mua hàng với yêu cầu 5 Thùng (60 Cái) Nước khoáng.
- <img class='screenshot' alt='Purchase Order' src='https://docs.erpnext.com/docs/v13/assets/img/stock/po-putaway-demo.png'>
+ <img class='screenshot' alt='Purchase Order' src='https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/po-putaway-demo.png'>
 
 1. Hai Quy tắc sắp xếp hàng vào kho đang hoạt động đã được tạo dưới đây với sức chứa mỗi quy tắc là 4 Thùng (48 Cái). Một quy tắc có độ ưu tiên cao hơn quy tắc kia.
- <img class='screenshot' alt='Active Putaway Rules List' src='https://docs.erpnext.com/docs/v13/assets/img/stock/active-putaway-rules-list.png'>
+ <img class='screenshot' alt='Active Putaway Rules List' src='https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/active-putaway-rules-list.png'>
 
 1. Một Phiếu nhập hàng được tạo từ Đơn mua hàng này.
 
 1. Khi tích vào **Áp dụng Quy tắc sắp xếp hàng vào kho**, một dòng gồm 5 Thùng sẽ được chia nhỏ và phân bổ theo các quy tắc.
- <img class='screenshot' alt='Putaway Rules applied in a Purchase Receipt' src='https://docs.erpnext.com/docs/v13/assets/img/stock/pr-putaway-apply.gif'>
+ <img class='screenshot' alt='Putaway Rules applied in a Purchase Receipt' src='https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/pr-putaway-apply.gif'>
 
 1. Đầu tiên, 4 trong số 5 Thùng được đưa vào Kho 'Finished Goods - UPI'. Khi Kho này đạt đến sức chứa, hệ thống sẽ phân bổ phần còn lại (1 Thùng) vào Kho 'Stores - UPI'.
 
@@ -81,7 +81,7 @@ Báo cáo **Tổng hợp Sức chứa Kho** (Warehouse Capacity Summary) hiển 
 
 Chỉ những Kho có Quy tắc sắp xếp hàng vào kho mới được liệt kê ở đây. Nút **Chỉnh sửa Sức chứa** (Edit Capacity) cho phép chỉnh sửa sức chứa của Quy tắc sắp xếp hàng vào kho.
 
- <img class='screenshot' alt='Warehouse Capacity Summary' src='https://docs.erpnext.com/docs/v13/assets/img/stock/warehouse-capacity-summary.png'>
+ <img class='screenshot' alt='Warehouse Capacity Summary' src='https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/warehouse-capacity-summary.png'>
 
 
 ## 6. Các loại hình áp dụng sắp xếp hàng vào kho

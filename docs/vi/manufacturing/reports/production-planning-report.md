@@ -5,7 +5,7 @@
 
 > Trang chủ > Sản xuất > Báo cáo > Báo cáo Lập kế hoạch sản xuất
 
-<img class="screenshot" alt="Task" src="https://docs.erpnext.com/docs/v13/assets/img/manufacturing/production-planning-report.png">
+<img class="screenshot" alt="Task" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/production-planning-report.png">
 
 Báo cáo này sẽ giúp người dùng lập kế hoạch cho thành phẩm cũng như nguyên vật liệu dựa trên dữ liệu của Đơn bán hàng / Lệnh sản xuất / Yêu cầu vật tư (với loại yêu cầu là Sản xuất). Hầu hết, trong trường hợp sản xuất theo đơn đặt hàng, báo cáo này giúp bạn lập kế hoạch sản xuất thành phẩm cũng như nguyên vật liệu.
 

@@ -26,7 +26,7 @@ Trước khi tạo Sự kiện Đào tạo, bạn nên tạo các tài liệu sa
 1. Ngoài ra, bạn cũng có thể viết một mô tả ngắn về Sự kiện trong ô Mô tả.
 1. Lưu và Xác nhận.
 
-    <img class="screenshot" alt="Employee" src="https://docs.erpnext.com/docs/v13/assets/img/human-resources/training-event.png">
+    <img class="screenshot" alt="Employee" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/training-event.png">
 
 > **Lưu ý:** Tích vào ô 'Có chứng chỉ' nếu Sự kiện Đào tạo là một khóa học có cấp chứng chỉ.
 
@@ -39,7 +39,7 @@ Bạn có thể mời nhân viên của mình tham dự Sự kiện Đào tạo.
 
 Theo mặc định, trạng thái của nhân viên sẽ là 'Mở'.
 
-<img class="screenshot" alt="Employee" src="https://docs.erpnext.com/docs/v13/assets/img/human-resources/training-event-employee.png">
+<img class="screenshot" alt="Employee" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/training-event-employee.png">
 
 Khi bạn xác nhận Sự kiện Đào tạo, một thông báo sẽ được gửi đến nhân viên để thông báo rằng buổi Đào tạo đã được lập lịch. Thông báo này được gửi qua Email Cảnh báo "Đào tạo đã được lập lịch". Bạn có thể sửa đổi Email Cảnh báo này để tùy chỉnh nội dung tin nhắn.
 

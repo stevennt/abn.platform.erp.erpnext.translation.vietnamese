@@ -20,7 +20,7 @@ Bạn có thể định nghĩa hoặc chọn mẫu Chuỗi đặt tên từ:
 1. Chọn giao dịch mà bạn muốn tạo chuỗi. Hệ thống sẽ cập nhật chuỗi hiện tại trong hộp văn bản.
 2. Chỉnh sửa chuỗi theo yêu cầu với các tiền tố duy nhất cho mỗi chuỗi.
   Tiền tố đầu tiên sẽ là tiền tố mặc định. Mỗi Chuỗi đặt tên mới phải được thêm vào một dòng mới. Chuỗi đặt tên mới được thêm sẽ có sẵn trong tài liệu.
-  ![Multiple naming series](https://docs.erpnext.com/docs/v13/assets/img/setup/settings/multiple-naming-series.gif)
+  ![Multiple naming series](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/settings/multiple-naming-series.gif)
 
 3. Nếu bạn muốn người dùng phải chọn rõ ràng một chuỗi thay vì dùng mặc định, hãy tích vào ô “User must always select”.
   Sẽ không có chuỗi đặt tên mặc định nếu ô này được tích.
@@ -36,7 +36,7 @@ Bạn cũng có thể hiển thị năm tài chính trong Chuỗi đặt tên. T
 
 Như bạn có thể thấy, trong ảnh chụp màn hình sau của một Hóa đơn bán hàng, năm 2019 được liệt kê:
 
-![Fiscal year in Naming Series](https://docs.erpnext.com/docs/v13/assets/img/setup/settings/year-naming-series.png)
+![Fiscal year in Naming Series](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/settings/year-naming-series.png)
 
 
 ## 3. Cập nhật giá trị hiện tại cho Chuỗi đặt tên hiện có

@@ -26,11 +26,11 @@ Ví dụ, nếu họ đưa khách hàng đi ăn trưa, họ có thể tạo yêu
 1. Trong Chi tiết kế toán, chọn Tài khoản phải trả mặc định của Công ty.
 1. Lưu và Xác nhận.
 
-<img class="screenshot" alt="Expense Claim" src="https://docs.erpnext.com/docs/v13/assets/img/human-resources/expense_claim.png">
+<img class="screenshot" alt="Expense Claim" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/expense_claim.png">
 
 Thiết lập ID nhân viên, ngày, danh sách các khoản chi và các loại thuế tương ứng cần được thanh toán và nhấn “Xác nhận” bản ghi.
 
-<img class="screenshot" alt="Expense Claim" src="https://docs.erpnext.com/docs/v13/assets/img/human-resources/expense-claim-expenses.png">
+<img class="screenshot" alt="Expense Claim" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/expense-claim-expenses.png">
 
 Quy trình yêu cầu thanh toán chi phí
 <div class="embed-container">
@@ -51,10 +51,10 @@ Người phê duyệt Yêu cầu thanh toán chi phí có thể cập nhật “
 ### Hạch toán chi phí
 
 Khi xác nhận Yêu cầu thanh toán chi phí, hệ thống sẽ hạch toán chi phí vào tài khoản chi phí và tài khoản nhân viên.
-<img class="screenshot" alt="Expense Claim" src="https://docs.erpnext.com/docs/v13/assets/img/human-resources/expense_claim_book.png">
+<img class="screenshot" alt="Expense Claim" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/expense_claim_book.png">
 
 Người dùng có thể xem các yêu cầu thanh toán chi phí chưa thanh toán bằng cách sử dụng báo cáo "Yêu cầu thanh toán chi phí chưa yêu cầu"
-<img class="screenshot" alt="Expense Claim" src="https://docs.erpnext.com/docs/v13/assets/img/human-resources/unclaimed_expense_claims.png">
+<img class="screenshot" alt="Expense Claim" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/unclaimed_expense_claims.png">
 
 ### Thanh toán cho Yêu cầu thanh toán chi phí
 
@@ -68,7 +68,7 @@ Người dùng có thể xem các yêu cầu thanh toán chi phí chưa thanh to
 
 > Lưu ý: Số tiền này không nên được gộp chung với Lương vì khi đó số tiền sẽ bị tính thuế đối với Nhân viên.
 
-<img class="screenshot" alt="Expense Claim" src="https://docs.erpnext.com/docs/v13/assets/img/human-resources/expense_claim_payment_entry.png">
+<img class="screenshot" alt="Expense Claim" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/expense_claim_payment_entry.png">
 
 Ngoài ra, một Bút toán thanh toán có thể được lập cho một nhân viên và tất cả các Yêu cầu thanh toán chi phí còn tồn đọng sẽ được đưa vào.
 
@@ -80,10 +80,10 @@ Thiết lập Loại thanh toán là "Trả tiền", Loại đối tác là Nhâ
 
 * Để Liên kết Yêu cầu thanh toán chi phí với Công việc hoặc Dự án, hãy chỉ định Công việc hoặc Dự án khi thực hiện Yêu cầu thanh toán chi phí.
 
-<img class="screenshot" alt="Expense Claim - Project Link" src="https://docs.erpnext.com/docs/v13/assets/img/project/project-expense-claim-1.png">
+<img class="screenshot" alt="Expense Claim - Project Link" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/project/project-expense-claim-1.png">
 
 Điều này sẽ cập nhật chi phí Dự án với các số tiền trong Yêu cầu thanh toán chi phí.
 
-<img class="screenshot" alt="Expense Claim - Project Link" src="https://docs.erpnext.com/docs/v13/assets/img/project/project-expense-claim-2.png">
+<img class="screenshot" alt="Expense Claim - Project Link" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/project/project-expense-claim-2.png">
 
 {next}

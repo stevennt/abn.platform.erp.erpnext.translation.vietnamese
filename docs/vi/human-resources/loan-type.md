@@ -16,7 +16,7 @@ Trong ERPNext, bạn có thể xác định các Loại khoản vay khác nhau, 
 1. Tùy chọn, bạn cũng có thể nhập Số tiền khoản vay tối đa và Mô tả về Loại khoản vay.
 1. Lưu.
 
-    <img class="screenshot" alt="Loan Type" src="https://docs.erpnext.com/docs/v13/assets/img/human-resources/loan-type.png">
+    <img class="screenshot" alt="Loan Type" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/loan-type.png">
 
 ## 2. Các chủ đề liên quan
 

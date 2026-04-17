@@ -18,7 +18,7 @@ Thu nhập khác của nhân viên cũng rất quan trọng để tính toán ng
 1. Nhập Số tiền (Amount) và Nguồn (Source) của nó.
 1. Lưu (Save) và Xác nhận (Submit).
 
-<img class="screenshot" alt="Employee Other Income" src="https://docs.erpnext.com/docs/v13/assets/img/human-resources/employee-other-income.png">
+<img class="screenshot" alt="Employee Other Income" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/employee-other-income.png">
 
 ## 2. Các chủ đề liên quan
 

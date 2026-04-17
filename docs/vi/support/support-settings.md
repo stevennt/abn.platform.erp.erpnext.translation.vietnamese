@@ -6,7 +6,7 @@
 Để truy cập Cài đặt Hỗ trợ, hãy đi tới:
 > Trang chủ > Hỗ trợ > Cài đặt > Cài đặt Hỗ trợ
 
-![Support Settings](https://docs.erpnext.com/docs/v13/assets/img/support/support-settings.png)
+![Support Settings](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/support/support-settings.png)
 
 ## 1. Thỏa thuận mức độ dịch vụ
 ### 1.1 Theo dõi Thỏa thuận mức độ dịch vụ

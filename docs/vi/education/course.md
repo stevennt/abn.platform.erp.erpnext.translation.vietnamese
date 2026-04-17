@@ -5,7 +5,7 @@
 
 Ví dụ, nếu trong một học kỳ cụ thể, Chuyên ngành Kinh tế là một chương trình được giảng dạy tại học viện, thì Phương pháp Toán học cho Kinh tế sẽ là một Khóa học nằm trong chương trình đó.
 
-![Course](https://docs.erpnext.com/docs/v13/assets/img/education/education-program-workflow.png)
+![Course](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-program-workflow.png)
 
 Một khóa học sẽ có một tập hợp các [chủ đề](/docs/v13/user/manual/en/education/topic) nằm trong phạm vi của nó.
 
@@ -29,7 +29,7 @@ Trước khi tạo một khóa học, bạn nên tạo:
 5. Thêm Mô tả cho khóa học.
 6. Lưu.
 
- ![Course](https://docs.erpnext.com/docs/v13/assets/img/education/education-course-1.png)
+ ![Course](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-course-1.png)
 
 ## 3. Các tính năng
 
@@ -40,7 +40,7 @@ Trước khi tạo một khóa học, bạn nên tạo:
 1. **Thang điểm mặc định**: Một [Thang điểm](/docs/v13/user/manual/en/education/grading_scale) mặc định có thể được thiết lập cho khóa học, trong đó bạn có thể xác định mức độ đạt được của sinh viên dựa trên điểm số họ đạt được cho khóa học.
 2. **Tiêu chí đánh giá**: Bạn có thể xác định [Tiêu chí đánh giá](/docs/v13/user/manual/en/education/assessment_criteria) cho khóa học này, trong đó dựa trên các tham số đánh giá khác nhau, sự hiểu biết của sinh viên về môn học sẽ được đánh giá.
 
- ![Course](https://docs.erpnext.com/docs/v13/assets/img/education/education-course-2.png)
+ ![Course](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-course-2.png)
 
 ## 4. Các hành động khác
 
@@ -51,7 +51,7 @@ Sau khi khóa học đã được tạo, các tài liệu sau có thể được
 3. [Lịch trình khóa học](/docs/v13/user/manual/en/education/course-schedule)
 4. [Kế hoạch đánh giá](/docs/v13/user/manual/en/education/assessment_plan)
 
- ![Course](https://docs.erpnext.com/docs/v13/assets/img/education/education-course-3.png)
+ ![Course](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-course-3.png)
 
 ## 5. Video hướng dẫn về Khóa học
 

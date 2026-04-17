@@ -9,11 +9,11 @@ Tuy nhiên, khi bạn chỉ cần lập kế hoạch cho các mặt hàng nguyê
 
 * Sau khi Đơn bán hàng của bạn đã được Xác nhận, hãy nhấp vào **Make** và chọn **Request for Raw Materials**.
 
-![Request For Raw Materials](https://docs.erpnext.com/docs/v13/assets/img/selling/request-for-raw-materials.png)
+![Request For Raw Materials](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/selling/request-for-raw-materials.png)
 
 * Một hộp thoại sẽ mở ra và hiển thị tất cả các Thành phẩm có BOM.
 
-![Request For Raw Materials Dialog](https://docs.erpnext.com/docs/v13/assets/img/selling/request-for-raw-materials-dialog.png)
+![Request For Raw Materials Dialog](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/selling/request-for-raw-materials-dialog.png)
 
 * Tại đây, bạn có thể thay đổi BOM theo ý muốn và chọn các tùy chọn cần thiết.
 
@@ -21,10 +21,10 @@ Giả sử, việc bật **Include Exploded Items** sẽ lấy các Nguyên vậ
 
 * Nhấp vào Make, và Yêu cầu vật tư của bạn sẽ được tạo.
 
-![Submitted Material Request](https://docs.erpnext.com/docs/v13/assets/img/selling/material-request-submitted.png)
+![Submitted Material Request](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/selling/material-request-submitted.png)
 
 Yêu cầu vật tư được tạo cho Nguyên vật liệu của Thành phẩm có trong Đơn bán hàng.
 
-![Material Request](https://docs.erpnext.com/docs/v13/assets/img/selling/created-mr-from-sales-order.png)
+![Material Request](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/selling/created-mr-from-sales-order.png)
 
 {next}

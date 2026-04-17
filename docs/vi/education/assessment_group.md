@@ -5,7 +5,7 @@
 
 Ví dụ, nếu bạn muốn thực hiện đánh giá cho mỗi Học kỳ trong một Năm học, hãy thiết lập Nhóm đánh giá như sau.
 
-![Assessment Group](https://docs.erpnext.com/docs/v13/assets/img/education/education-assessment-group.png)
+![Assessment Group](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-assessment-group.png)
 
 Để truy cập Nhóm đánh giá, hãy đi tới
 

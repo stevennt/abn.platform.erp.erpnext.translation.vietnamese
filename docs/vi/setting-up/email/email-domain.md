@@ -15,7 +15,7 @@ Nếu bạn muốn gửi và nhận email trên tài khoản ERPNext của mình
 
 ERPNext tạo sẵn một tên miền email mẫu sử dụng example.com để bạn tham khảo. Bạn nên thêm tên miền mới của mình nếu muốn sử dụng nó trong tài khoản ERPNext.
 
-<img class="screenshot" alt="Email Domain" src="https://docs.erpnext.com/docs/v13/assets/img/setup/email/email-domain.png">
+<img class="screenshot" alt="Email Domain" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/email/email-domain.png">
 
 ## 1. Cách tạo một Tên miền Email
 1. Đi tới danh sách Tên miền Email, nhấn vào Mới.
@@ -43,7 +43,7 @@ ERPNext tạo sẵn một tên miền email mẫu sử dụng example.com để 
 
 Sau khi bạn nhấn Lưu, các cài đặt này sẽ được ERPNext xác thực và Tên miền Email sẽ được Lưu. Đôi khi việc này có thể mất vài giây và bạn có thể phải chờ đợi. Tên miền email này sau đó sẽ có sẵn trong một danh sách thả xuống gọi là Domain trong màn hình Tài khoản Email.
 
-![Email domain in email account](https://docs.erpnext.com/docs/v13/assets/img/setup/email/email-domain1.png)
+![Email domain in email account](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/email/email-domain1.png)
 
 #### Đã nhập mọi thứ nhưng vẫn không thể thiết lập Tên miền Email?
 

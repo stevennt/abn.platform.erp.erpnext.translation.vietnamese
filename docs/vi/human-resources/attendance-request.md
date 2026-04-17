@@ -22,7 +22,7 @@ Trước khi tạo Yêu cầu Chấm công, bạn nên tạo các mục sau trư
 1. Lưu và Xác nhận.
 
 
-    <img class="screenshot"  alt="Attendance Request" src="https://docs.erpnext.com/docs/v13/assets/img/human-resources/attendance-request.png">
+    <img class="screenshot"  alt="Attendance Request" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/attendance-request.png">
 
 > **Lưu ý 1:** Bạn có thể tích vào ô 'Half Day' và nhập Ngày trong trường hợp chấm công cho nửa ngày.
 
@@ -32,15 +32,15 @@ Trước khi tạo Yêu cầu Chấm công, bạn nên tạo các mục sau trư
 
 
 
-<img class="screenshot"  alt="Attendance Request Submit" src="https://docs.erpnext.com/docs/v13/assets/img/human-resources/attendance-request-submission.png">
+<img class="screenshot"  alt="Attendance Request Submit" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/attendance-request-submission.png">
 
 Như thấy bên dưới, các bản ghi Attendance tương ứng được liên kết với Yêu cầu Chấm công đã gửi.
 
- <img class="screenshot"  alt="Attendance Request Linked" src="https://docs.erpnext.com/docs/v13/assets/img/human-resources/attendance-request-link.png">
+ <img class="screenshot"  alt="Attendance Request Linked" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/attendance-request-link.png">
 
 Nếu bạn Hủy Yêu cầu Chấm công, các chứng từ Attendance đã liên kết được tạo ra cũng sẽ bị Hủy.
 
- <img class="screenshot"  alt="Attendance Request Cancelled" src="https://docs.erpnext.com/docs/v13/assets/img/human-resources/attendance-request-cancelled.png">
+ <img class="screenshot"  alt="Attendance Request Cancelled" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/attendance-request-cancelled.png">
 
 
 ## 3. Các chủ đề liên quan

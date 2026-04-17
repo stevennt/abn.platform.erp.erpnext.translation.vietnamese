@@ -23,7 +23,7 @@ Khi tạo một Cổ đông mới, họ cần được phát hành cổ phần t
 1. Thiết lập đơn giá cho một cổ phần, số tiền sẽ được tính toán dựa trên số lượng cổ phần.
 1. Lưu và Xác nhận.
 
- ![Share Transfer](https://docs.erpnext.com/docs/v13/assets/img/accounts/sharetransfer-issue.png)
+ ![Share Transfer](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/sharetransfer-issue.png)
 
 Sau khi xác nhận, một Bút toán có thể được tạo để cập nhật sổ cái bằng cách sử dụng nút **Create Journal Entry**.
 

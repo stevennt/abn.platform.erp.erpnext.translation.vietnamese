@@ -21,8 +21,8 @@ Các Đánh giá bệnh nhân trong Phục hồi chức năng cung cấp bằng 
 7. Bạn cũng có thể thêm Thời gian và Nhận xét trong khi đánh giá các tham số riêng lẻ trong bảng Đánh giá.
 8. Xác nhận.
 
-<img class="screenshot" alt="ERPNext Healthcare" src="https://docs.erpnext.com/docs/v13/assets/img/healthcare/patient-assessment.png">
-<img class="screenshot" alt="ERPNext Healthcare" src="https://docs.erpnext.com/docs/v13/assets/img/healthcare/assessment-parameter.png">
+<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/patient-assessment.png">
+<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/assessment-parameter.png">
 
 ## 2. Các chủ đề liên quan
 1. [Mẫu đánh giá bệnh nhân](/docs/v13/user/manual/en/healthcare/patient_assessment_template)

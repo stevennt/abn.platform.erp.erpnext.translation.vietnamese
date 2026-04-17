@@ -19,7 +19,7 @@ Các chi tiết này sẽ xuất hiện trong Mẫu in của các giao dịch nh
   * Logo Image: Nhấp vào nút Attach để đính kèm một hình ảnh. Sau khi hình ảnh được chèn vào, mã HTML cho nó sẽ được tạo tự động.
   * Các thông tin khác (như Địa chỉ, mã số thuế, v.v.) mà bạn muốn đưa vào Tiêu đề thư của mình.
 
-    <img class="screenshot" alt="Print Heading" src="https://docs.erpnext.com/docs/v13/assets/img/setup/print/letter-head.png">
+    <img class="screenshot" alt="Print Heading" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/print/letter-head.png">
 
   > Nếu bạn muốn đặt đây là Tiêu đề thư mặc định, hãy nhấp vào "Default Letter Head".
 
@@ -27,11 +27,11 @@ Các chi tiết này sẽ xuất hiện trong Mẫu in của các giao dịch nh
 
 Bạn có thể thiết lập Tiêu đề thư dựa trên HTML để thực hiện các thay đổi:
 
-![Letter Head based on](https://docs.erpnext.com/docs/v13/assets/img/setup/print/letter-head-based-on.gif)
+![Letter Head based on](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/print/letter-head-based-on.gif)
 
 Đây là cách Tiêu đề thư hiển thị trong bản in của tài liệu.
 
-<img class="screenshot" alt="Print Heading" src="https://docs.erpnext.com/docs/v13/assets/img/setup/print/letter-head-1.png">
+<img class="screenshot" alt="Print Heading" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/print/letter-head-1.png">
 
 > Lưu ý rằng Footer sẽ chỉ hiển thị khi bản in của tài liệu được xem dưới dạng PDF. Footer sẽ không hiển thị trong bản xem trước bản in dựa trên HTML.
 

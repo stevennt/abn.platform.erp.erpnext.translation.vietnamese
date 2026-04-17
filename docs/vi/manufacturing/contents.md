@@ -5,7 +5,7 @@ Phân hệ Sản xuất trong ERPNext bao gồm tất cả các tính năng cầ
 
 Các loại hình sản xuất khác nhau như sản xuất để tồn kho (make to stock), sản xuất theo đơn hàng (make to order), và sản xuất theo thiết kế riêng (engineer to order) đều có thể được quản lý trong phân hệ Sản xuất của ERPNext.
 
-<img class="screenshot" alt="Manufacturing Desk" src="https://docs.erpnext.com/docs/v13/assets/img/manufacturing/manufacturing-desk.png">
+<img class="screenshot" alt="Manufacturing Desk" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/manufacturing-desk.png">
 
 ## 1. Các chủ đề
 

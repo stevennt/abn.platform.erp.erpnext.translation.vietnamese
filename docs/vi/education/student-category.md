@@ -11,13 +11,13 @@ Khi một Học sinh được đăng ký vào một [Chương trình học](/doc
 
 > Home > Education > Settings > Student Category
 
-![Student Category](https://docs.erpnext.com/docs/v13/assets/img/education/education-student-category-1.png)
+![Student Category](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-student-category-1.png)
 
 ## 1. Cách tạo Nhóm học sinh
 
 Để tạo một nhóm học sinh mới, hãy nhấp vào New Student Category và nhập tên của Nhóm học sinh.
 
-![Student Category](https://docs.erpnext.com/docs/v13/assets/img/education/education-student-category-2.gif)
+![Student Category](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-student-category-2.gif)
 
 Bạn có thể chọn Nhóm học sinh khi lập Cấu trúc học phí (Fee Structure) và theo đó, học sinh từ các nhóm đã chọn có thể được lọc ra khi lập Lịch thu học phí (Fee Schedule).
 

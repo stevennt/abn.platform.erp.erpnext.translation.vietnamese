@@ -12,7 +12,7 @@ Báo cáo Đối chiếu ngân hàng cung cấp sự chênh lệch giữa số d
 
 Đây là giao diện của một bản Đối chiếu ngân hàng:
 
-<img class="screenshot" alt="Bank Reconciliation statement" src="https://docs.erpnext.com/docs/v13/assets/img/accounts/bank-reconciliation-2.png">
+<img class="screenshot" alt="Bank Reconciliation statement" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/bank-reconciliation-2.png">
 
 Trong báo cáo, hãy kiểm tra xem trường 'Balance as per bank' có khớp với Sao kê tài khoản ngân hàng hay không. Nếu khớp, điều đó có nghĩa là Ngày thanh toán (Clearance Date) đã được cập nhật chính xác cho tất cả các bút toán ngân hàng. Nếu có sự sai lệch, đó là do các bút toán ngân hàng chưa được cập nhật Ngày thanh toán.
 
@@ -31,7 +31,7 @@ Trong báo cáo, hãy kiểm tra xem trường 'Balance as per bank' có khớp 
 
 Bằng cách này, bạn sẽ có thể đồng bộ hóa sao kê ngân hàng và các bút toán vào hệ thống.
 
-<img class="screenshot" alt="Bank Reconciliation" src="https://docs.erpnext.com/docs/v13/assets/img/accounts/bank-reconciliation.png">
+<img class="screenshot" alt="Bank Reconciliation" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/bank-reconciliation.png">
 
 ## 3. Các loại công cụ đối chiếu
 
@@ -56,7 +56,7 @@ ERPNext có hai công cụ đối chiếu:
 
 1. Tải xuống bản sao kê ngân hàng từ trang web của ngân hàng bạn.
 
- <img class="screenshot" alt="Reconcile bank transactions" src="https://docs.erpnext.com/docs/v13/assets/img/accounts/sample_bank_statement.png">
+ <img class="screenshot" alt="Reconcile bank transactions" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/sample_bank_statement.png">
  Đảm bảo rằng bạn có ít nhất ngày, nợ/có (debit/credit) và tiền tệ trên mỗi dòng của sao kê ngân hàng.
 
 Để tải lên Sao kê ngân hàng của bạn, hãy đi tới:
@@ -70,10 +70,10 @@ hoặc chỉ cần tìm kiếm 'Bank Statement Import' trong thanh tìm kiếm (
 1. Nhấp vào 'Map Columns' để nhập sơ đồ ánh xạ giữa các cột trong Sao kê ngân hàng đã tải lên và DocType Giao dịch ngân hàng (Bank Transaction).
 1. Nhấp vào Start Import để bắt đầu quá trình nhập. Các Giao dịch ngân hàng sẽ được tạo thông qua một tác vụ chạy ngầm, mặc dù tiến trình sẽ được hiển thị tại đây.
 
- <img class="screenshot" alt="Reconcile bank transactions" src="https://docs.erpnext.com/docs/v13/assets/img/accounts/bank_transaction_upload.gif">
+ <img class="screenshot" alt="Reconcile bank transactions" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/bank_transaction_upload.gif">
 
 1. Sơ đồ ánh xạ được thực hiện sẽ được lưu trong tài liệu Ngân hàng (Bank) được liên kết với Tài khoản ngân hàng tương ứng. Trong lần tải lên tiếp theo, sơ đồ ánh xạ sẽ được lấy từ đây nhưng hệ thống cho phép người dùng thay đổi nếu cần. Sơ đồ ánh xạ đã thay đổi cũng sẽ được cập nhật trong tài liệu Ngân hàng.
- <img class="screenshot" alt="Reconcile bank transactions" src="https://docs.erpnext.com/docs/v13/assets/img/accounts/bank_configuration.png">
+ <img class="screenshot" alt="Reconcile bank transactions" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/bank_configuration.png">
 
 
 #### 3.2.2 Đồng bộ hóa tài khoản ngân hàng
@@ -91,7 +91,7 @@ hoặc chỉ cần tìm kiếm 'Bank Reconciliation Tool' trong thanh tìm kiế
 1. Đảm bảo rằng số dư đầu kỳ từ ERPNext khớp với số dư đầu kỳ của Sao kê ngân hàng của bạn.
 1. Nhập Số dư cuối kỳ của Sao kê ngân hàng.
 1. Việc Lưu tài liệu sẽ hiển thị các giao dịch ngân hàng khớp.
- <img class="screenshot" alt="Reconcile bank transactions" src="https://docs.erpnext.com/docs/v13/assets/img/accounts/bank_reconciliation_tool.png">
+ <img class="screenshot" alt="Reconcile bank transactions" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/bank_reconciliation_tool.png">
 
 1. Mục tiêu cuối cùng của Đối chiếu ngân hàng là làm cho số tiền chênh lệch bằng không (màu xanh lá cây) bằng cách khớp với một chứng từ hiện có hoặc tạo một chứng từ mới.
 1. Đối với tất cả các giao dịch ngân hàng có trong Sao kê ngân hàng nhưng chưa có ngày thanh toán, hãy nhấp vào nút Actions để Khớp/Tạo chứng từ (Match/ Create Vouchers).

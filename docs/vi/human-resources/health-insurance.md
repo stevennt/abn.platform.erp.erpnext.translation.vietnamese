@@ -15,11 +15,11 @@ ERPNext cho phép bạn lưu chi tiết Bảo hiểm sức khỏe cho Nhân viê
 1. Nhập Health Insurance Name.
 1. Lưu.
 
-    <img class="screenshot" alt="Employee" src="https://docs.erpnext.com/docs/v13/assets/img/human-resources/health-insurance.png">
+    <img class="screenshot" alt="Employee" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/health-insurance.png">
 
 Ngoài ra, trong hồ sơ chính của Nhân viên, bạn có thể đính kèm Health Insurance Provider Name và điền Health Insurance No.
 
-<img class="screenshot" alt="Employee" src="https://docs.erpnext.com/docs/v13/assets/img/human-resources/employee-health-insurance.png">
+<img class="screenshot" alt="Employee" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/employee-health-insurance.png">
 
 ## 2. Các chủ đề liên quan
 

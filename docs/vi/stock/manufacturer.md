@@ -15,10 +15,10 @@ Trong ERPNext, Nhà sản xuất có thể được sử dụng để định da
 1. Nhập tên Nhà sản xuất và nhập mô tả nếu cần.
 1. Lưu.
 
-    ![Manufacturer](https://docs.erpnext.com/docs/v13/assets/img/stock/manufacturer.png)
+    ![Manufacturer](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/manufacturer.png)
 
 Sau khi tạo Nhà sản xuất, thông tin này có thể được thiết lập trong biểu mẫu Mặt hàng với Mã số bộ phận của Nhà sản xuất để định danh.
-![Manufacturer](https://docs.erpnext.com/docs/v13/assets/img/stock/manufacturer-part.png)
+![Manufacturer](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/manufacturer-part.png)
 
 ### 1.1 Chi tiết bổ sung
 Các chi tiết sau có thể được thiết lập cho một Nhà sản xuất:

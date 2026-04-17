@@ -17,26 +17,26 @@ Nếu người dùng đã bật chế độ nhà phát triển (developer mode),
 
 Nếu chế độ nhà phát triển bị tắt, người dùng có thể gán các vai trò cho trang và báo cáo bằng cách sử dụng trang "Phân quyền Vai trò cho Trang và Báo cáo".
 
-<img alt="Tools to assign custom roles to the page" class="screenshot" src="https://docs.erpnext.com/docs/v13/assets/img/users-and-permissions/role-permission-for-page-and-report.png">
+<img alt="Tools to assign custom roles to the page" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/users-and-permissions/role-permission-for-page-and-report.png">
 
 ### 1.1 Đặt lại về mặc định
 
 Sử dụng nút "Đặt lại về mặc định", người dùng có thể xóa các quyền tùy chỉnh đã áp dụng cho một trang hoặc báo cáo. Sau đó, các quyền mặc định sẽ được áp dụng cho trang hoặc báo cáo đó.
 
-<img alt="Reset the default roles" class="screenshot" src="https://docs.erpnext.com/docs/v13/assets/img/users-and-permissions/reset-roles-permission-for-page-report.png">
+<img alt="Reset the default roles" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/users-and-permissions/reset-roles-permission-for-page-report.png">
 
 ## Thiết lập Phân quyền Vai trò từ Trang/Báo cáo với tư cách là Nhà phát triển
 ### Phân quyền Vai trò Cho Trang
 1. Đi đến: Trang chủ > Nhà phát triển > Trang.
 1. Thêm một dòng và chọn những vai trò khác có thể truy cập Trang.
 
-    <img alt="Assign roles to the page" class="screenshot" src="https://docs.erpnext.com/docs/v13/assets/img/users-and-permissions/roles-for-page.png">
+    <img alt="Assign roles to the page" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/users-and-permissions/roles-for-page.png">
 
 ### Phân quyền Vai trò Cho Báo cáo
 1. Đi đến: Trang chủ > Nhà phát triển > Báo cáo.
 1. Thêm các dòng với các vai trò có thể truy cập Báo cáo.
 
-    <img alt="Assign roles to the report" class="screenshot" src="https://docs.erpnext.com/docs/v13/assets/img/users-and-permissions/roles-for-report.png">
+    <img alt="Assign roles to the report" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/users-and-permissions/roles-for-report.png">
 
 ### 3. Các chủ đề liên quan
 1. [Vai trò và Hồ sơ Vai trò](/docs/v13/user/manual/en/setting-up/users-and-permissions/role-and-role-profile)

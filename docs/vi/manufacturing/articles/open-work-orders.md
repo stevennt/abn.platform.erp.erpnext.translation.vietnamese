@@ -2,7 +2,7 @@
 
 Chúng ta có thể dễ dàng xác định tiến độ sản xuất của một số mặt hàng nhất định trong tổ chức của mình bằng cách sử dụng Lệnh sản xuất đang mở trong ERPNext.
 
-<img class="screenshot" alt="Sales Funnel" src="https://docs.erpnext.com/docs/v13/assets/img/manufacturing/open-work-order.png">
+<img class="screenshot" alt="Sales Funnel" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/open-work-order.png">
 
 Trong báo cáo này, người dùng có thể xem những mặt hàng nào cần được sản xuất, tổng số lượng cần sản xuất và cả những mặt hàng đã được sản xuất trước đó. Để biết thêm chi tiết, người dùng có thể nhấp vào lệnh sản xuất, ví dụ: MFG-WO-2018-00005.
 

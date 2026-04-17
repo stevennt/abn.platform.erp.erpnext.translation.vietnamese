@@ -17,7 +17,7 @@ Các khoản miễn trừ từ lương chịu thuế thường bị giới hạn
 Bạn có thể cấu hình Danh mục miễn thuế cho nhân viên bằng cách đi tới:
 > Human resources > Payroll Setup > Employee Tax Exemption Category > New Employee Tax Exemption Category
 
-<img class="screenshot" alt="Employee Tax Exemption Category" src="https://docs.erpnext.com/docs/v13/assets/img/human-resources/employee-tax-exemption-category.png">
+<img class="screenshot" alt="Employee Tax Exemption Category" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/employee-tax-exemption-category.png">
 
 ### Danh mục phụ miễn thuế cho nhân viên
 Dưới mỗi danh mục, có thể có nhiều mục mà các khoản miễn trừ được cho phép. Ví dụ, tại Ấn Độ, các danh mục phụ dưới 80C có thể là Phí bảo hiểm nhân thọ.
@@ -25,7 +25,7 @@ Dưới mỗi danh mục, có thể có nhiều mục mà các khoản miễn tr
 Bạn có thể cấu hình Danh mục phụ miễn thuế cho nhân viên bằng cách đi tới:
 > Human resources > Payroll Setup > Employee Tax Exemption Sub Category > New Employee Tax Sub Exemption Category
 
-<img class="screenshot" alt="Employee Tax Exemption Sub Category" src="https://docs.erpnext.com/docs/v13/assets/img/human-resources/employee-tax-exemption-subcategory.png">
+<img class="screenshot" alt="Employee Tax Exemption Sub Category" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/employee-tax-exemption-subcategory.png">
 
 ### Miễn thuế HRA - Khu vực, Ấn Độ
 Đối với năm tài chính 2018-19, tại Ấn Độ, khoản miễn thuế Phụ cấp thuê nhà (HRA) từ thu nhập chịu thuế là mức thấp nhất trong các mức sau:

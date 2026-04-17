@@ -8,7 +8,7 @@ Yêu cầu Phúc lợi Nhân viên cho phép Nhân viên -
 Bạn có thể tạo một Yêu cầu Phúc lợi Nhân viên mới bằng cách đi tới,
 > Nhân sự > Bảng lương > Yêu cầu Phúc lợi Nhân viên > Yêu cầu Phúc lợi Nhân viên Mới
 
-<img class="screenshot" alt="Employee Benefit Claim" src="https://docs.erpnext.com/docs/v13/assets/img/human-resources/employee-benefit-claim.png">
+<img class="screenshot" alt="Employee Benefit Claim" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/employee-benefit-claim.png">
 
 Tại đây, Nhân viên có thể xem số tiền đủ điều kiện theo Phân bổ Cấu trúc Lương của họ và yêu cầu số tiền mà họ muốn nhận như một phần của kỳ Lương tiếp theo. Bất kỳ số tiền còn lại nào mà nhân viên không yêu cầu trong một Kỳ tính lương sẽ được chi trả như một phần của kỳ Lương cuối cùng.
 

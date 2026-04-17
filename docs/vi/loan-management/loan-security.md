@@ -6,13 +6,13 @@
 
 Trong quá trình thực hiện khoản vay, nếu khoản vay mà khách hàng đang đăng ký là khoản vay có tài sản đảm bảo, thì cần phải thế chấp một loại tài sản đảm bảo nào đó cho khoản vay đó. Tài sản đảm bảo khoản vay xác định loại tài sản thực tế sẽ được thế chấp cho một Khoản vay.
 
-<img class="screenshot" alt="Make Loan Security" src="https://docs.erpnext.com/docs/v13/assets/img/loan-management/loan-security-flow.png">
+<img class="screenshot" alt="Make Loan Security" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/loan-management/loan-security-flow.png">
 
 Để truy cập danh sách Tài sản đảm bảo khoản vay, hãy đi đến:
 > Home > Loan Management > Loan Security > Loan Security
 
 
-<img class="screenshot" alt="Loan Security" src="https://docs.erpnext.com/docs/v13/assets/img/loan-management/loan-security.png">
+<img class="screenshot" alt="Loan Security" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/loan-management/loan-security.png">
 
 
 ## 1. Điều kiện tiên quyết

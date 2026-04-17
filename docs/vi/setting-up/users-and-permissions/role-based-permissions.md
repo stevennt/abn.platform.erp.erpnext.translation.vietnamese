@@ -11,7 +11,7 @@ Sau khi các vai trò được gán cho một người dùng, quyền truy cập
 Để bắt đầu sử dụng Trình quản lý Quyền Vai trò, hãy đi tới:
 > Home > Users and Permissions > Role Permissions Manager
 
-<img alt="Manage Read, Write, Create, Submit, Amend access using the Role Permissions Manager" class="screenshot" src="https://docs.erpnext.com/docs/v13/assets/img/users-and-permissions/setting-up-permissions-leave-application.png">
+<img alt="Manage Read, Write, Create, Submit, Amend access using the Role Permissions Manager" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/users-and-permissions/setting-up-permissions-leave-application.png">
 
 Quyền được áp dụng dựa trên sự kết hợp của:
 
@@ -45,28 +45,28 @@ Quyền được áp dụng dựa trên sự kết hợp của:
 * Nó nên được tạo bởi một Nhân viên.
   Đối với việc này, Vai trò Nhân viên nên được cấp các quyền Đọc, Ghi, Tạo.
 
-  <img class="screenshot" alt="Giving Read, Write and Create Permissions to Employee for Leave Application"  src="https://docs.erpnext.com/docs/v13/assets/img/users-and-permissions/setting-up-permissions-employee-role.png">
+  <img class="screenshot" alt="Giving Read, Write and Create Permissions to Employee for Leave Application"  src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/users-and-permissions/setting-up-permissions-employee-role.png">
 
 * Một **Nhân viên** chỉ nên có thể truy cập Đơn xin nghỉ phép của chính mình.
   Do đó, bản ghi Quyền Người dùng nên được tạo cho mỗi sự kết hợp giữa Người dùng-Nhân viên.
 
-  <img class="screenshot" alt="Limiting access to Leave Applications for a user with Employee Role via User Permissions Manager" src="https://docs.erpnext.com/docs/v13/assets/img/users-and-permissions/setting-up-permissions-employee-user-permissions.png">
+  <img class="screenshot" alt="Limiting access to Leave Applications for a user with Employee Role via User Permissions Manager" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/users-and-permissions/setting-up-permissions-employee-user-permissions.png">
 
 * Nếu bạn muốn một **Nhân viên** chỉ có thể chọn một tài liệu trong một tài liệu khác mà không có quyền đọc toàn bộ tài liệu đó, thì chỉ cấp quyền Chọn (Select) cho vai trò Nhân viên.
 
-  <img class="screenshot" alt="Limiting access to Leave Applications for a user with Employee Role via User Permissions Manager" src="https://docs.erpnext.com/docs/v13/assets/img/users-and-permissions/setting-up-select-permissions-employee.png">
+  <img class="screenshot" alt="Limiting access to Leave Applications for a user with Employee Role via User Permissions Manager" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/users-and-permissions/setting-up-select-permissions-employee.png">
 
 * **Quản lý nhân sự** nên có thể xem tất cả các Đơn xin nghỉ phép.
   Tạo một Quy tắc Phân quyền cho Quản lý nhân sự ở Cấp độ 0, với quyền Đọc. Mục 'Apply User Permissions' nên được tắt.
 
-  <img class="screenshot" alt="Giving Submit and Cancel permissions to HR Manager for Leave Applications. 'Apply User Permissions' is unchecked to give full access." src="https://docs.erpnext.com/docs/v13/assets/img/users-and-permissions/setting-up-permissions-hr-manager-role.png">
+  <img class="screenshot" alt="Giving Submit and Cancel permissions to HR Manager for Leave Applications. 'Apply User Permissions' is unchecked to give full access." src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/users-and-permissions/setting-up-permissions-hr-manager-role.png">
 
 * **Người phê duyệt nghỉ phép** nên có thể xem và cập nhật Đơn xin nghỉ phép của các nhân viên dưới quyền họ.
   Người phê duyệt nghỉ phép được cấp quyền Đọc và Ghi ở Cấp độ 0. Các Tài liệu Nhân viên liên quan nên được liệt kê trong Quyền Người dùng của Người phê duyệt nghỉ phép. (Nỗ lực này được giảm bớt cho những Người phê duyệt nghỉ phép được đề cập trong Tài liệu Nhân viên bằng cách tạo các bản ghi Quyền Người dùng bằng lập trình).
 
-  <img class="screenshot" alt="Giving Read, Write and Submit permissions to Leave Approver for Leave Applications.'Apply User Permissions' is checked to limit access based on Employee." src="https://docs.erpnext.com/docs/v13/assets/img/users-and-permissions/setting-up-permissions-leave-approver-role.png">
+  <img class="screenshot" alt="Giving Read, Write and Submit permissions to Leave Approver for Leave Applications.'Apply User Permissions' is checked to limit access based on Employee." src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/users-and-permissions/setting-up-permissions-leave-approver-role.png">
 
 * Nó chỉ nên được Phê duyệt/Từ chối bởi Người dùng nhân sự hoặc Người phê duyệt nghỉ phép.
   Trường Trạng thái của Đơn xin nghỉ phép được đặt ở Cấp độ 1. Người dùng nhân sự và Người phê duyệt nghỉ phép được cấp quyền Đọc và Ghi cho Cấp độ 0, trong khi tất cả những người khác (All) được cấp quyền Đọc cho Cấp độ 1.
 
-  <img class="screenshot" alt="Limiting read access for a set of fields to certain Role" src="https://docs.erpnext.com/docs/v13/assets/img/users-and-permissions/setting-up-permissions-leave-approver-role.png">
+  <img class="screenshot" alt="Limiting read access for a set of fields to certain Role" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/users-and-permissions/setting-up-permissions-leave-approver-role.png">

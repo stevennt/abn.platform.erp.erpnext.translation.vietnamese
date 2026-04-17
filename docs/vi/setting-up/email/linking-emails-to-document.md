@@ -16,11 +16,11 @@ Việc Tổng hợp Email diễn ra trong Liên hệ, Khách hàng và Nhà cung
 
 1. Trong một Liên hệ, hãy thêm các Liên kết (Links) cho Khách hàng hoặc Nhà cung cấp tương ứng.
 
-    <img class="screenshot" alt="Add Customer/Supplier in Contact" src="https://docs.erpnext.com/docs/v13/assets/img/setup/email/contact-link.png">
+    <img class="screenshot" alt="Add Customer/Supplier in Contact" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/email/contact-link.png">
 
 1. Bây giờ, khi một Email được gửi đến hoặc nhận từ Liên hệ có liên kết với Khách hàng hoặc Nhà cung cấp, email đó sẽ được liên kết với Khách hàng hoặc Nhà cung cấp được đề cập trong phần Liên kết của Liên hệ.
 
-    <img class="screenshot" alt="With Filters" src="https://docs.erpnext.com/docs/v13/assets/img/setup/email/email_aggregation.gif">
+    <img class="screenshot" alt="With Filters" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/email/email_aggregation.gif">
 
 ## 2. Liên kết Email tự động với Tài liệu
 
@@ -28,13 +28,13 @@ Liên kết Email tự động sẽ liên kết một Email với Tài liệu đ
 
 1. Bật Liên kết Email tự động trong Tài khoản Email (Email Account). Tính năng này chỉ có thể được sử dụng với một Tài khoản Email tại một thời điểm.
 
-    <img class="screenshot" alt="Add Customer/Supplier in Contact" src="https://docs.erpnext.com/docs/v13/assets/img/setup/email/enable_email_link.png">
+    <img class="screenshot" alt="Add Customer/Supplier in Contact" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/email/enable_email_link.png">
 
 1. Sau khi tính năng này được bật, bạn sẽ thấy một ID Email duy nhất được tạo ra bằng cách sử dụng ID Email được đề cập trong Tài khoản Email.
 
 1. Bây giờ bạn có thể sao chép ID Email bằng cách nhấp vào nó và bạn có thể gửi hoặc nhận Email bằng ID Email duy nhất này. Nếu một Email chứa ID Email duy nhất này trong phần Người nhận (Recipients), Cc hoặc Bcc, hệ thống sẽ liên kết Email đó với Tài liệu đã được chỉ định.
 
-    <img class="screenshot" alt="Add Customer/Supplier in Contact" src="https://docs.erpnext.com/docs/v13/assets/img/setup/email/email_link.gif">
+    <img class="screenshot" alt="Add Customer/Supplier in Contact" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/email/email_link.gif">
 
 ### 3. Các chủ đề liên quan
 1. [Báo cáo Email tự động](/docs/v13/user/manual/en/setting-up/email/auto-email-reports)

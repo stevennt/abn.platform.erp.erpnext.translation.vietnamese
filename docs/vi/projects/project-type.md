@@ -5,7 +5,7 @@
 
 Dự án Nội bộ, Dự án Bên ngoài có thể là các ví dụ về Loại Dự án và đã được tạo sẵn trong hệ thống. Bạn có thể chọn thêm các Loại Dự án khác. Điều này sẽ rất hữu ích khi bạn đang xem xét các Dự án và muốn lọc thông tin dựa trên Loại Dự án.
 
-<img class="screenshot" alt="Project Template" src="https://docs.erpnext.com/docs/v13/assets/img/project/projects-project-type1.png">
+<img class="screenshot" alt="Project Template" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/project/projects-project-type1.png">
 
 Để truy cập Loại Dự án, hãy đi tới:
 

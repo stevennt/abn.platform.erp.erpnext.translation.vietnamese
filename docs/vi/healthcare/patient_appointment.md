@@ -3,7 +3,7 @@
 
 ERPNext Healthcare cho phép bạn đặt Hẹn khám bệnh cho bất kỳ ngày nào và thông báo cho bệnh nhân qua Email hoặc SMS. Bạn có thể dễ dàng sắp xếp các cuộc hẹn cho từng Chuyên gia y tế dựa trên lịch trình sẵn có của họ.
 
-<!-- <img class="screenshot" alt="ERPNext Healthcare" src="https://docs.erpnext.com/docs/v13/assets/img/healthcare/appointment_calendar.png"> -->
+<!-- <img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/appointment_calendar.png"> -->
 
 Để tạo một Hẹn khám bệnh, hãy đi tới:
 
@@ -20,7 +20,7 @@ Trước khi tạo Hẹn khám bệnh, các thông tin sau cần được tạo 
 
 Bạn có thể đặt lịch hẹn cho một Bệnh nhân đã đăng ký bằng cách tìm kiếm Bệnh nhân theo ID Bệnh nhân, Tên, Email hoặc Số điện thoại di động. Bạn cũng có thể đăng ký Bệnh nhân mới ngay từ màn hình Hẹn khám bằng cách chọn "Create a new Patient" trong trường Patient.
 
-  <img class="screenshot" alt="ERPNext Healthcare" src="https://docs.erpnext.com/docs/v13/assets/img/healthcare/patient_appointment_link.png">
+  <img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/patient_appointment_link.png">
 
 ## 2. Cách tạo Hẹn khám bệnh
 
@@ -33,9 +33,9 @@ Bạn có thể đặt lịch hẹn cho một Bệnh nhân đã đăng ký bằn
 7. Sau đó nhấp vào nút **Check Availability**. Nó sẽ cho phép bạn chọn Khoa y tế, Chuyên gia y tế và Ngày mà cuộc hẹn sẽ được đặt. Sau khi chọn các chi tiết, tất cả các khung giờ trống của chuyên gia sẽ được lấy từ [Practitioner Schedule](/docs/v13/user/manual/en/healthcare/practitioner_schedule) và hiển thị với các chỉ báo trạng thái cho ngày đã chọn. Bạn có thể chọn một khung giờ và nhấn **Book**.
 8. Sau khi đã đặt, thời gian dự kiến của cuộc hẹn, Đơn vị dịch vụ theo Chuyên gia và Trạng thái phù hợp sẽ được thiết lập trong tài liệu.
 
-<img class="screenshot" alt="ERPNext Healthcare" src="https://docs.erpnext.com/docs/v13/assets/img/healthcare/check_availability.png">
+<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/check_availability.png">
 
-<img class="screenshot" alt="ERPNext Healthcare" src="https://docs.erpnext.com/docs/v13/assets/img/healthcare/appointment.png">
+<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/appointment.png">
 
 ## 3. Các tính năng
 
@@ -43,13 +43,13 @@ Bạn có thể đặt lịch hẹn cho một Bệnh nhân đã đăng ký bằn
 
 Bạn có thể nhấp vào chế độ xem "Calendar" từ chế độ xem danh sách Patient Appointment. Các loại cuộc hẹn có thể được phân biệt bằng cách thiết lập trường "Color" trong [Appointment Type](/docs/v13/user/manual/en/healthcare/appointment_type)
 
-<img class="screenshot" alt="ERPNext Healthcare" src="https://docs.erpnext.com/docs/v13/assets/img/healthcare/healthcare-appointments.png">
+<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/healthcare-appointments.png">
 
 ### 3.2 Thay đổi lịch hẹn (Appointment Rescheduling)
 
 Bạn có thể thay đổi lịch trình cuộc hẹn bằng cách nhấp vào nút **Reschedule** trong tài liệu và thực hiện các bước tương tự.
 
-<img class="screenshot" alt="ERPNext Healthcare" src="https://docs.erpnext.com/docs/v13/assets/img/healthcare/reschedule.png">
+<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/reschedule.png">
 
 ### 3.3 Quản lý lịch trình
 
@@ -61,13 +61,13 @@ Khi đặt lịch, hệ thống cũng kiểm tra việc Trùng lịch hẹn và 
 
 Trong phần "More Info" của tài liệu Patient Appointment, người dùng có thể thêm "Notes" (Ghi chú) và cũng có thể chọn "Referring Practitioner" (Chuyên gia chuyển tuyến) để giúp theo dõi việc chuyển tuyến.
 
-<img class="screenshot" alt="ERPNext Healthcare" src="https://docs.erpnext.com/docs/v13/assets/img/healthcare/more_info.png">
+<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/more_info.png">
 
 ### 3.5 Thông báo SMS cho Bệnh nhân ngoại trú
 
 Bạn có thể tùy chọn cấu hình [Healthcare Settings](/docs/v13/user/manual/en/healthcare/healthcare_settings) trong ERPNext để tự động gửi thông báo SMS cho Bệnh nhân về việc xác nhận đặt lịch thông qua "Out-Patient SMS Alerts".
 
-<img class="screenshot" alt="ERPNext Healthcare" src="https://docs.erpnext.com/docs/v13/assets/img/healthcare/outpatient_sms_alert.png">
+<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/outpatient_sms_alert.png">
 
 ### 3.6 Tự động hóa Hóa đơn cuộc hẹn
 

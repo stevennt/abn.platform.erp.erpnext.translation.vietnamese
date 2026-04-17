@@ -6,11 +6,11 @@ Việc quản lý ADT (Nhập viện, Xuất viện, Chuyển viện) trong mộ
 ## Nhập viện
 Một Bác sĩ có thể yêu cầu nhập viện cho bệnh nhân từ màn hình Patient Encounter bằng cách sử dụng lệnh `Order Admission`.
 
-<img class="screenshot" alt="ERPNext Healthcare" src="https://docs.erpnext.com/docs/v13/assets/img/healthcare/ip_order_admission.png">
+<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/ip_order_admission.png">
 
 Là một phần của Lệnh Nhập viện (Admission Order), bác sĩ có thể cung cấp các chi tiết cần thiết về loại giường tại khoa mà Bệnh nhân cần được nhập viện, và bất kỳ hướng dẫn nhập viện nào khác cho nhân viên.
 
-<img class="screenshot" alt="ERPNext Healthcare" src="https://docs.erpnext.com/docs/v13/assets/img/healthcare/ip_admission_order.png">
+<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/ip_admission_order.png">
 
 Khi thực hiện lệnh nhập viện cho bệnh nhân, ERPNext Healthcare sẽ tạo một Inpatient Record cho Bệnh nhân với tất cả các hướng dẫn do Bác sĩ cung cấp. Bất kỳ đơn thuốc, xét nghiệm hoặc lệnh thủ thuật nào được kê trong Encounter tương ứng sẽ được chuyển vào hồ sơ nội trú (IP record).
 
@@ -18,7 +18,7 @@ Khi thực hiện lệnh nhập viện cho bệnh nhân, ERPNext Healthcare sẽ
 
 Nhân viên tiếp nhận nội trú có thể xem Inpatient Record với trạng thái _Admission Scheduled_ (Đã lên lịch nhập viện) và phân bổ Khoa cho Bệnh nhân tùy theo tình trạng sẵn có. Nút `Admit` trong Inpatient Record sẽ cho phép nhân viên tiếp nhận chọn giường tại khoa cho Bệnh nhân và tiến hành nhập viện.
 
-<img class="screenshot" alt="ERPNext Healthcare" src="https://docs.erpnext.com/docs/v13/assets/img/healthcare/ip_admit_patient.png">
+<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/ip_admit_patient.png">
 
 Sau khi một Đơn vị Dịch vụ (Service Unit) được chỉ định cho bệnh nhân, trạng thái của Inpatient Record sẽ được cập nhật thành _Admitted_ (Đã nhập viện).
 
@@ -26,11 +26,11 @@ Sau khi một Đơn vị Dịch vụ (Service Unit) được chỉ định cho b
 
 Tương tự như Lên lịch Nhập viện, các Patient Encounter dành cho Bệnh nhân đã nhập viện sẽ có tùy chọn `Order Discharge` (Lệnh Xuất viện), kích hoạt trạng thái của Inpatient Record thành _Discharge Scheduled_ (Đã lên lịch xuất viện).
 
-<img class="screenshot" alt="ERPNext Healthcare" src="https://docs.erpnext.com/docs/v13/assets/img/healthcare/ip_order_discharge.png">
+<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/ip_order_discharge.png">
 
 Bác sĩ có thể yêu cầu xuất viện cho bệnh nhân nội trú thông qua Patient Encounter hoặc Inpatient Record. Lệnh Xuất viện cho phép Bác sĩ chọn nội dung của `Discharge Notes` (Ghi chú xuất viện) (hoặc Tóm tắt xuất viện), nội dung này sẽ được cập nhật vào tài liệu Inpatient Record của bệnh nhân. Bác sĩ có thể chọn các xét nghiệm, thuốc và thủ thuật đã được bao gồm trong quá trình điều trị của Bệnh nhân tại cơ sở để in trong ghi chú xuất viện và có thể thêm các nhận xét của mình để in.
 
-<img class="screenshot" alt="ERPNext Healthcare" src="https://docs.erpnext.com/docs/v13/assets/img/healthcare/ip_discharge_order.png">
+<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/ip_discharge_order.png">
 
 Nhân viên tiếp nhận có thể in Ghi chú Xuất viện từ Inpatient Record và sử dụng nút `Discharge` để ghi nhận việc bệnh nhân rời viện và chuyển trạng thái sang _Discharged_ (Đã xuất viện).
 
@@ -39,10 +39,10 @@ Nhân viên tiếp nhận có thể in Ghi chú Xuất viện từ Inpatient Rec
 ## Chuyển viện
 Inpatient Record lưu giữ tất cả dữ liệu liên quan đến thời gian lưu trú của Bệnh nhân tại cơ sở, bao gồm tất cả các giường tại khoa (Service Unit) đã sử dụng.
 
-<img class="screenshot" alt="ERPNext Healthcare" src="https://docs.erpnext.com/docs/v13/assets/img/healthcare/ip_transfer.png">
+<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/ip_transfer.png">
 
 Bạn luôn có thể chuyển một bệnh nhân từ Đơn vị Dịch vụ này sang Đơn vị Dịch vụ khác bằng nút `Transfer`. Thao tác này sẽ cho phép bạn chọn Đơn vị Dịch vụ mà Bệnh nhân sẽ được chuyển đến.
 
-<img class="screenshot" alt="ERPNext Healthcare" src="https://docs.erpnext.com/docs/v13/assets/img/healthcare/ip_transfer_patient.png">
+<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/ip_transfer_patient.png">
 
 {next}

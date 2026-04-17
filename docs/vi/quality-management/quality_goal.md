@@ -24,14 +24,14 @@ Trong bảng Mục tiêu, hãy nhập:
     1. Các Mục tiêu bao gồm các mục tiêu khác nhau cần phải hoàn thành để đáp ứng một Mục tiêu Chất lượng.
     1. Mục tiêu bao gồm giá trị mục tiêu bằng số của một Mục tiêu cần đạt được.
     1. Đơn vị tính để đo lường Mục tiêu. Ví dụ: Leads, Giờ, v.v.
-    ![Quality Goal](https://docs.erpnext.com/docs/v13/assets/img/quality-management/quality-goal.png)
+    ![Quality Goal](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/quality-management/quality-goal.png)
 1. Lưu.
 
 Trường Revision hiển thị số lần tài liệu đã được lưu.
 
 Tạo Mục tiêu Chất lượng:
 
-<img class="screenshot" alt="Quality management" src="https://docs.erpnext.com/docs/v13/assets/img/quality-management/creating-quality-goal.gif">
+<img class="screenshot" alt="Quality management" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/quality-management/creating-quality-goal.gif">
 
 ## 2. Các chủ đề liên quan
 

@@ -24,7 +24,7 @@ Trước khi tạo Thưởng giữ chân, bạn nên tạo các mục sau:
 1. Lưu và Xác nhận.
 1. Sau khi xác nhận, tài liệu 'Additional Salary' của 'Salary Component' đã chỉ định sẽ được tạo. Thông tin này sẽ được lấy khi chạy Payroll Entry.
 
- <img class="screenshot" alt="Retention Bonus" src="https://docs.erpnext.com/docs/v13/assets/img/human-resources/retention-bonus.png">
+ <img class="screenshot" alt="Retention Bonus" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/retention-bonus.png">
 
 ## 3. Các chủ đề liên quan
 

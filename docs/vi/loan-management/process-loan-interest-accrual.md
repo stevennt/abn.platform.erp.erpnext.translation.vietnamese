@@ -4,14 +4,14 @@
 
 **Bản ghi Quy trình tính lãi vay được tạo ra trong mỗi chu kỳ tính lãi vay dồn tích và cũng được sử dụng để xử lý thủ công việc tính lãi vay dồn tích.**
 
-<img class="screenshot" alt="Loan Application" src="https://docs.erpnext.com/docs/v13/assets/img/loan-management/process-loan-interest-accrual-flow.png">
+<img class="screenshot" alt="Loan Application" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/loan-management/process-loan-interest-accrual-flow.png">
 
 Để truy cập danh sách Quy trình tính lãi vay dồn tích, hãy đi đến:
 > Home > Loan Management > Loan Processes > Process Loan Interest Accrual
 
 Lãi vay sẽ được tính dồn tích hàng tháng vào ngày đầu tiên của mỗi tháng đối với các khoản vay theo yêu cầu (demand loans) và một ngày trước ngày thanh toán đối với các khoản vay có kỳ hạn (term loans) bởi một công việc chạy ngầm (background job). Nếu bạn muốn tính lãi dồn tích thủ công cho một khoản vay, bạn có thể thực hiện bằng cách sử dụng Quy trình tính lãi vay dồn tích.
 
-<img class="screenshot" alt="Loan Application" src="https://docs.erpnext.com/docs/v13/assets/img/loan-management/process-loan-interest-accrual.png">
+<img class="screenshot" alt="Loan Application" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/loan-management/process-loan-interest-accrual.png">
 
 ## 1. Điều kiện tiên quyết
 Trước khi tạo Quy trình tính lãi vay dồn tích, trước tiên bạn phải tạo:

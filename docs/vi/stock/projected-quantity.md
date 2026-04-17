@@ -9,7 +9,7 @@ Tồn kho dự kiến được hệ thống lập kế hoạch sử dụng để
 
 Việc kiểm soát chặt chẽ tồn kho dự kiến là rất quan trọng để xác định tình trạng thiếu hụt và tính toán đúng số lượng đặt hàng.
 
-<img class="screenshot" alt="Projected Quantity" src="https://docs.erpnext.com/docs/v13/assets/img/stock/projected_quantity.png">
+<img class="screenshot" alt="Projected Quantity" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/projected_quantity.png">
 
 Công thức để tính số lượng dự kiến như sau:
 

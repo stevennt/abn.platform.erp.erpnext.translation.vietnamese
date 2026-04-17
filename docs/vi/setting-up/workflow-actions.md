@@ -13,10 +13,10 @@ Hành động Quy trình sẽ chỉ gửi thông báo email nếu ô 'Send Email
 
 Nếu một Người dùng đủ điều kiện để thực hiện hành động trên một số quy trình, email sẽ được gửi đến người dùng đó với tài liệu liên quan được đính kèm. Từ đó, người dùng có thể `Approve` (Phê duyệt) hoặc `Reject` (Từ chối) Quy trình.
 
-![Workflow Action Email](https://docs.erpnext.com/docs/v13/assets/img/setup/workflow-actions-email.png)
+![Workflow Action Email](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/workflow-actions-email.png)
 
 Ngoài ra, người dùng sẽ thấy các mục nhập trong danh sách Hành động Quy trình của họ:
-![Workflow Action List](https://docs.erpnext.com/docs/v13/assets/img/setup/workflow-actions-list.png)
+![Workflow Action List](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/workflow-actions-list.png)
 
 **Lưu ý:**
 

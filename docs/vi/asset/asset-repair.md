@@ -24,7 +24,7 @@ Trước khi tạo và sử dụng Sửa chữa Tài sản, bạn nên tạo cá
 1. Thay đổi Trạng thái sửa chữa từ 'Pending' (Đang chờ), 'Completed' (Đã hoàn thành), hoặc 'Canceled' (Đã hủy).
 1. Lưu và Xác nhận.
 
-<img class="screenshot" alt="Asset" src="https://docs.erpnext.com/docs/v13/assets/img/asset/asset-repair.png">
+<img class="screenshot" alt="Asset" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/asset/asset-repair.png">
 
 ## 3. Các chủ đề liên quan
 1. [Asset Maintenance](/docs/v13/user/manual/en/asset/asset-maintenance)

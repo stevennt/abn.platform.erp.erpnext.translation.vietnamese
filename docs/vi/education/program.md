@@ -5,10 +5,10 @@
 
 Ví dụ, Chuyên ngành Kinh tế sẽ là một Chương trình được giảng dạy tại một học viện và sẽ có nhiều khóa học khác nhau bên trong.
 
-![Program](https://docs.erpnext.com/docs/v13/assets/img/education/education-program-workflow.png)
+![Program](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-program-workflow.png)
 
 Một chuyên ngành Kinh tế sẽ trông giống như thế này:
-![Program](https://docs.erpnext.com/docs/v13/assets/img/education/education-program-2.png)
+![Program](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-program-2.png)
 
 Để truy cập danh sách Chương trình, hãy đi đến:
 
@@ -29,13 +29,13 @@ Một chuyên ngành Kinh tế sẽ trông giống như thế này:
 4. Chọn và thêm các khóa học trong Chương trình.
 5. Lưu.
 
-    ![Program](https://docs.erpnext.com/docs/v13/assets/img/education/education-program-1.gif)
+    ![Program](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-program-1.gif)
 
 ### 2.1 Các cách khác để tạo Chương trình mới
 
 Một chương trình mới cũng có thể được tạo từ một khóa học theo cách sau:
 
-![Program](https://docs.erpnext.com/docs/v13/assets/img/education/education-program-3.gif)
+![Program](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-program-3.gif)
 
 ### 2.2 Các tùy chọn bổ sung khi tạo Chương trình mới
 
@@ -47,7 +47,7 @@ Một chương trình mới cũng có thể được tạo từ một khóa họ
     * **Intro Video (Video giới thiệu)**: Nhập liên kết cho video mà bạn muốn thêm làm Video giới thiệu cho Chương trình.
     * **Description (Mô tả)**: Thêm mô tả về Chương trình mà bạn muốn hiển thị trên cổng thông tin.
 
-        ![Program](https://docs.erpnext.com/docs/v13/assets/img/education/education-program-4.png)
+        ![Program](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-program-4.png)
 
 ## 3. Video hướng dẫn về Chương trình và Khóa học
 

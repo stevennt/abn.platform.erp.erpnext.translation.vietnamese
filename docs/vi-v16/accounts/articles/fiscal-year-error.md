@@ -19,13 +19,13 @@ Chỉ Người dùng được gán vai trò Quản trị viên hệ thống (Sys
 
 Sau khi Năm tài chính được Lưu, bạn sẽ thấy tùy chọn để thiết lập Năm tài chính đó làm Mặc định.
 
-![Set Fiscal Year as Default](https://docs.erpnext.com/docs/v13/assets/img/articles/set-fiscal-year-as-default.png)
+![Set Fiscal Year as Default](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/set-fiscal-year-as-default.png)
 
 Năm tài chính mặc định cũng sẽ được cập nhật trong phần thiết lập Mặc định toàn cầu (Global Default). Bạn có thể cập nhật Năm tài chính mặc định một cách thủ công từ:
 
 `Settings > Core > Global Default`
 
-![Current Fiscal Year Setting in Global Defaults](https://docs.erpnext.com/docs/v13/assets/img/articles/current-fiscal-year-in-global-defaults.png)
+![Current Fiscal Year Setting in Global Defaults](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/current-fiscal-year-in-global-defaults.png)
 
 Lưu Mặc định toàn cầu và Tải lại tài khoản ERPNext của bạn. Sau đó, Năm tài chính mặc định sẽ được tự động cập nhật trong các giao dịch của bạn.
 

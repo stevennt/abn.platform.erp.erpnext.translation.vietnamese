@@ -14,4 +14,4 @@ ERPNext cung cấp tính năng tích hợp với Google Maps để tính toán v
 
 ### Tính toán và tối ưu hóa Chuyến giao hàng
 - Sau khi tích hợp Google Maps thành công, bạn có thể tính toán thời gian đến dự kiến (ETA) cho một điểm dừng giao hàng hoặc tối ưu hóa các điểm dừng giao hàng
-  <img class="screenshot" src="https://docs.erpnext.com/docs/v13/assets/img/erpnext_integrations/google_maps.gif">
+  <img class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/erpnext_integrations/google_maps.gif">

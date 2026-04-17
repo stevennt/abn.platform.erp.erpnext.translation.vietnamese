@@ -11,7 +11,7 @@ Nhà tài trợ đơn giản là các liên hệ trong cơ sở dữ liệu ERPN
 
 > Non Profit > Donor > New
 
-<img class="screenshot" alt="Student" src="https://docs.erpnext.com/docs/v13/assets/img/non_profit/donor/donor.png">
+<img class="screenshot" alt="Student" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/non_profit/donor/donor.png">
 
 **Email:** Trường Email là id của DocType Thành viên.
 

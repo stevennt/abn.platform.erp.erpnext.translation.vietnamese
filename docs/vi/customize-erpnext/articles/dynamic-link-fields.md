@@ -13,7 +13,7 @@ Dưới đây là các bước để chèn Trường Dynamic Link tùy chỉnh. 
 
 Đầu tiên, chúng ta sẽ tạo một trường liên kết (link field) sẽ được liên kết với DocType.
 
-<img alt="Custom Link Field" class="screenshot" src="https://docs.erpnext.com/docs/v13/assets/img/customize/customize-dynamic-link-1.gif">
+<img alt="Custom Link Field" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/customize-dynamic-link-1.gif">
 
 Khi đề cập đến **DocType** trong trường Option, ý chúng ta là DocType cha. Giống như Báo giá là một DocType, có nhiều bản ghi Báo giá bên dưới nó. Tương tự, DocType cũng là một DocType có các Đơn bán hàng, Đơn mua hàng và các doctype khác được tạo dưới dạng các bản ghi DocType.
 
@@ -28,17 +28,17 @@ Khi đề cập đến **DocType** trong trường Option, ý chúng ta là DocT
 
 Vì vậy, việc liên kết trường này với DocType cha sẽ liệt kê tất cả các bản ghi DocType.
 
-<img alt="journal Voucher Link Field" class="screenshot" src="https://docs.erpnext.com/docs/v13/assets/img/customize/customize-dynamic-link.png">
+<img alt="journal Voucher Link Field" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/customize-dynamic-link.png">
 
 #### Bước 2: Chèn trường Dynamic Link
 
 Loại của trường tùy chỉnh này sẽ là "Dynamic Link". Trong trường Option, tên của trường liên kết DocType sẽ được đề cập.
 
-<img alt="Custom Dynamic Field" class="screenshot" src="https://docs.erpnext.com/docs/v13/assets/img/customize/customize-dynamic-link-2.gif">
+<img alt="Custom Dynamic Field" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/customize-dynamic-link-2.gif">
 
 Trường này sẽ cho phép chọn ID tài liệu, dựa trên giá trị được chọn trong trường liên kết DocType. Ví dụ, nếu chúng ta chọn Đơn bán hàng ở trường trước đó, trường Dynamic Link sẽ liệt kê tất cả các ID của Đơn bán hàng.
 
-<img alt="Custom Dynamic Field" class="screenshot" src="https://docs.erpnext.com/docs/v13/assets/img/customize/customize-dynamic-link-3.gif">
+<img alt="Custom Dynamic Field" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/customize-dynamic-link-3.gif">
 
 **Tùy chỉnh các tùy chọn trong trường liên kết DocType**
 

@@ -13,6 +13,6 @@ Trước khi nhập tài sản ngắn hạn, hãy đảm bảo rằng bạn đã
 
 > Để biết thêm chi tiết về Bút toán, [truy cập trang này](../journal-entry.
 
-![Opening Balance Current Assets](https://docs.erpnext.com/docs/v13/assets/img/accounts/opening-balance-current-assets.png.md)
+![Opening Balance Current Assets](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/opening-balance-current-assets.png.md)
 
 {next}

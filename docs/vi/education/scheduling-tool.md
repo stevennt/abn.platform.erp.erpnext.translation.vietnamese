@@ -3,7 +3,7 @@
 
 Công cụ này có thể được sử dụng để tạo 'Lịch trình khóa học'.
 
-<img class="screenshot" alt="Scheduling Tool" src="https://docs.erpnext.com/docs/v13/assets/img/education/schedule/scheduling-tool.png">
+<img class="screenshot" alt="Scheduling Tool" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/schedule/scheduling-tool.png">
 
 ## 1. Tạo Lịch trình khóa học
 

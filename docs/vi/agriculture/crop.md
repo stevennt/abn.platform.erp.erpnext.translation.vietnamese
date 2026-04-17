@@ -46,6 +46,6 @@ Nhấp 'Lưu'
 
 Biểu mẫu của bạn bây giờ sẽ trông giống như thế này
 
-<img class="screenshot" alt="Task" src="https://docs.erpnext.com/docs/v13/assets/img/agriculture/crops_and_land/crop.png">
+<img class="screenshot" alt="Task" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/agriculture/crops_and_land/crop.png">
 
 Lặp lại bước 2 cho bao nhiêu loại cây trồng tùy theo nhu cầu của bạn. Bạn có thể tiết kiệm thời gian bằng cách sao chép các cây trồng hiện có và chỉ sửa đổi các mục cần thiết.

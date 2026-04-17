@@ -9,7 +9,7 @@ Sổ tài chính **không** phải là một thiết lập bắt buộc. Nhưng 
 
 Trong nhiều trường hợp, đối với khấu hao tài sản cố định, một Công ty có thể sử dụng các phương pháp khấu hao khác nhau (Đường thẳng / Giá trị còn lại / Số dư giảm dần kép) cho các sổ tài chính khác nhau. Bạn có thể thiết lập các [lịch trình khấu hao](https://docs.erpnext.com/docs/v13/user/manual/en/asset/asset-depreciation) khác nhau cho mỗi Sổ tài chính. Sau đó, các khoản khấu hao tự động sẽ được ghi vào Sổ tài chính đó theo lịch trình.
 
-<img class="screenshot" alt="Finance Book" src="https://docs.erpnext.com/docs/v13/assets/img/accounts/finance-book.png">
+<img class="screenshot" alt="Finance Book" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/finance-book.png">
 
 #### Các chủ đề liên quan
 1. [Trung tâm chi phí](cost-center.md)

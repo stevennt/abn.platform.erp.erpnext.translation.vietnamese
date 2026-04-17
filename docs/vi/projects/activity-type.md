@@ -3,7 +3,7 @@
 
 **Loại hoạt động là một danh sách các loại hoạt động khác nhau để có thể lập Bảng chấm công.**
 
-<img class="screenshot" alt="Activity Type" src="https://docs.erpnext.com/docs/v13/assets/img/project/projects-activity-type.png">
+<img class="screenshot" alt="Activity Type" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/project/projects-activity-type.png">
 
 Để truy cập Loại hoạt động, hãy đi tới,
 

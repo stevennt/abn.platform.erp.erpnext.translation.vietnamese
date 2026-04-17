@@ -20,7 +20,7 @@ Lưu Chu kỳ cây trồng mới
 
 Nó sẽ trông giống như thế này
 
-<img class="screenshot" alt="Task" src="https://docs.erpnext.com/docs/v13/assets/img/agriculture/crops_and_land/crop_cycle.png">
+<img class="screenshot" alt="Task" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/agriculture/crops_and_land/crop_cycle.png">
 
 Lặp lại các bước này cho mọi Chu kỳ cây trồng mà bạn cần
 
@@ -28,4 +28,4 @@ Như bạn có thể thấy, một Dự án đã được tạo với cùng tên
 
 > Dự án > Dự án
 
-<img class="screenshot" alt="Task" src="https://docs.erpnext.com/docs/v13/assets/img/agriculture/crops_and_land/projects.png">
+<img class="screenshot" alt="Task" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/agriculture/crops_and_land/projects.png">

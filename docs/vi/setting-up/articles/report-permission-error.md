@@ -3,7 +3,7 @@
 
 **Câu hỏi:** Người dùng được gán các vai trò như Account User và Account Manager. Tuy nhiên, khi truy cập báo cáo Account Receivable, Người dùng lại nhận được thông báo lỗi không có quyền đối với Territory master.
 
-<img alt="Report Permission Error" class="screenshot" src="https://docs.erpnext.com/docs/v13/assets/img/articles/report-permission-1.png">
+<img alt="Report Permission Error" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/report-permission-1.png">
 
 **Trả lời:**
 
@@ -15,6 +15,6 @@ Theo hệ thống phân quyền trong ERPNext, để Người dùng có thể tr
 
 3. Để giải quyết vấn đề này, tôi đã gán quyền Read cho Account User đối với Territory master.
 
-    <img alt="Permission Manager" class="screenshot" src="https://docs.erpnext.com/docs/v13/assets/img/articles/report-permission-2.png">
+    <img alt="Permission Manager" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/report-permission-2.png">
 
 Sau khi cập nhật phân quyền này, Người dùng sẽ có thể truy cập báo cáo Account Receivable một cách bình thường.

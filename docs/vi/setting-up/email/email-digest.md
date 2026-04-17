@@ -17,7 +17,7 @@ Bản tin Email là một cách tuyệt vời để các quản lý cấp cao th
 
 Ví dụ:
 
-<img class="screenshot" alt="Email Digest" src="https://docs.erpnext.com/docs/v13/assets/img/setup/email/email-digest.png">
+<img class="screenshot" alt="Email Digest" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/email/email-digest.png">
 
 ### Các chủ đề liên quan
 1. [Báo cáo Email tự động](/docs/v13/user/manual/en/setting-up/email/auto-email-reports)

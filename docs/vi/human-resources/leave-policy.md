@@ -15,7 +15,7 @@ Nhiều doanh nghiệp thường áp dụng một Chính sách nghỉ phép chun
 1. Lưu và Xác nhận.
 
 
-	<img class="screenshot" alt="Leave Policy" src="https://docs.erpnext.com/docs/v13/assets/img/human-resources/leave-policy.png">
+	<img class="screenshot" alt="Leave Policy" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/leave-policy.png">
 
 Sau khi được xác nhận, bạn có thể áp dụng Chính sách nghỉ phép thông qua trang tổng quan, áp dụng cho một Nhân viên hoặc một Nhóm nhân viên (Employee Grade).
 

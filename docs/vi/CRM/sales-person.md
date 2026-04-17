@@ -18,7 +18,7 @@ Home > CRM > Settings > Sales Person
 4. Tích vào ô 'Group Node', nếu bạn muốn thêm nhiều Nhân viên bán hàng khác dưới Nhân viên bán hàng này.
 5. Nhấp vào 'Create New'.
 
-<img class="screenshot" alt="Sales Person Tree" src="https://docs.erpnext.com/docs/v13/assets/img/crm/sales-person-tree.gif">
+<img class="screenshot" alt="Sales Person Tree" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/crm/sales-person-tree.gif">
 
 ## 2. Các tính năng
 ### 2.1 Nhân viên bán hàng trong các giao dịch

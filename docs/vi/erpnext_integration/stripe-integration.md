@@ -7,15 +7,15 @@
 #### Thiết lập Stripe
 
 Để kích hoạt dịch vụ thanh toán Stripe, bạn cần cấu hình các tham số như Publishable Key, Secret Key
-<img class="screenshot" alt="Razorpay Settings" src="https://docs.erpnext.com/docs/v13/assets/img/setup/integrations/stripe_setting.png">
+<img class="screenshot" alt="Razorpay Settings" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/integrations/stripe_setting.png">
 
 Khi kích hoạt dịch vụ, hệ thống sẽ tạo bản ghi Cổng thanh toán (Payment Gateway) và tài khoản trong hệ thống tài khoản với loại tài khoản là Ngân hàng.
 
-<img class="screenshot" alt="Stripe COA" src="https://docs.erpnext.com/docs/v13/assets/img/setup/integrations/stripe_coa.png">
+<img class="screenshot" alt="Stripe COA" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/integrations/stripe_coa.png">
 
 Ngoài ra, hệ thống cũng sẽ tạo một mục Tài khoản Cổng thanh toán (Payment Gateway Account). Tài khoản Cổng thanh toán là trung tâm cấu hình, từ đây bạn có thể thiết lập tài khoản từ hệ thống tài khoản hiện có, cũng như mẫu nội dung email Yêu cầu thanh toán mặc định.
 
-<img class="screenshot" alt="Payment Gateway Account" src="https://docs.erpnext.com/docs/v13/assets/img/setup/integrations/payment_gateway_account_stripe.png">
+<img class="screenshot" alt="Payment Gateway Account" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/integrations/payment_gateway_account_stripe.png">
 
 Sau khi cấu hình Tài khoản Cổng thanh toán, hệ thống của bạn đã có thể chấp nhận các thanh toán trực tuyến.
 
@@ -25,12 +25,12 @@ Nếu bạn cần tính phí định kỳ thay vì thanh toán một lần, bạ
 
 Sau khi bạn đã tạo các gói thanh toán trong Stripe, hãy thêm một hoặc vài "Kế hoạch thanh toán" (Payment Plan) mới trong Frappe.
 
-<img class="screenshot" alt="Payment Plan" src="https://docs.erpnext.com/docs/v13/assets/img/setup/integrations/payment_plan.png">
+<img class="screenshot" alt="Payment Plan" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/integrations/payment_plan.png">
 
 
 Sau đó, khi bạn tạo yêu cầu thanh toán, hãy tích vào trường "Is a subscription" (Là một gói đăng ký) và hệ thống sẽ lấy các gói đăng ký tương ứng từ trong gói đăng ký đó.
 
-<img class="screenshot" alt="Payment Request" src="https://docs.erpnext.com/docs/v13/assets/img/setup/integrations/subscription_payment_request.png">
+<img class="screenshot" alt="Payment Request" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/integrations/subscription_payment_request.png">
 
 ERPNext sẽ tự động tạo một gói đăng ký mới cho khách hàng này trong Stripe.
 

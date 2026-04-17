@@ -3,7 +3,7 @@
 
 **Tiêu chí đánh giá là các tham số dựa trên đó bạn đánh giá Học sinh.**
 
-![Assessment Criteria](https://docs.erpnext.com/docs/v13/assets/img/education/education-assessment-criteria.png)
+![Assessment Criteria](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-assessment-criteria.png)
 
 Sau khi một bài đánh giá được thực hiện cho một Khóa học, điểm số đạt được sẽ được nhập dựa trên Tiêu chí đánh giá. Ví dụ, nếu bài đánh giá được thực hiện cho các môn khoa học, bạn có thể đánh giá Học sinh môn Khoa học dựa trên các tiêu chí khác nhau như Viết, Thực hành, Thuyết trình, v.v.
 

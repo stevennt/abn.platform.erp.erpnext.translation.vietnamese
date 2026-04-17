@@ -25,12 +25,12 @@ Trước khi tạo Phân bổ Chính sách Nghỉ phép, bạn nên tạo các m
 1. Lưu và Xác nhận.
 
 <img class="screenshot" alt="Leave Policy Assignment"
-    src="https://docs.erpnext.com/docs/v13/assets/img/human-resources/leave-policy-assignment.png">
+    src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/leave-policy-assignment.png">
 
 Khi xác nhận, Leave Allocation sẽ được tự động tạo dựa trên [Leave Policy](/docs/user/manual/en/human-resources/leave-policy) như hiển thị dưới đây.
 
 <img class="screenshot" alt="Leave Allocations"
-    src="https://docs.erpnext.com/docs/v13/assets/img/human-resources/granted-leaves.png">
+    src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/granted-leaves.png">
 
 ## 5. Tính năng
 ### 5.1 Phân bổ Chính sách Nghỉ phép hàng loạt
@@ -42,6 +42,6 @@ ERPNext cũng cho phép tạo nhiều Phân bổ Chính sách Nghỉ phép cho n
 1. Chọn Leave Policy và các ngày Effective From, Effective To.
 1. Nhấn vào Assign.
 
-<img class="screenshot" alt="Bulk Leave Policy Assignment" src="https://docs.erpnext.com/docs/v13/assets/img/human-resources/bulk-leave-policy-assignment.png">
+<img class="screenshot" alt="Bulk Leave Policy Assignment" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/bulk-leave-policy-assignment.png">
 
 Khi bạn nhấn vào assign, hệ thống sẽ tự động tạo và xác nhận Leave Policy Assignment, đồng thời phân bổ nghỉ phép dựa trên Leave Policy.

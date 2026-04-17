@@ -3,13 +3,13 @@
 
 Trong ERPNext, bạn có thể gửi bất kỳ tài liệu nào dưới dạng email (kèm theo tệp đính kèm PDF) bằng cách nhấp vào Menu > Email sau khi mở bất kỳ tài liệu nào.
 
-<img class="screenshot" alt="Send Email" src="https://docs.erpnext.com/docs/v13/assets/img/setup/email/send-email.gif">
+<img class="screenshot" alt="Send Email" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/email/send-email.gif">
 
 **Lưu ý:** Bạn phải thiết lập các [Tài khoản Email](/docs/v13/user/manual/en/setting-up/email/email-account) gửi đi để thực hiện việc này.
 
 Sau khi bạn nhấp vào gửi, email sẽ được thêm vào hàng đợi email. Nó sẽ ở trạng thái Đang gửi (Sending) cho đến khi được Gửi (Sent). Trạng thái của email được hiển thị trong hàng đợi, nếu việc gửi thất bại, bạn có thể gửi lại bằng cách nhấp vào Gửi ngay (Send Now).
 
-![Email Queue](https://docs.erpnext.com/docs/v13/assets/img/setup/email/email-queue.png)
+![Email Queue](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/email/email-queue.png)
 
 Các tùy chọn sau đây có sẵn khi gửi Email.
 
@@ -23,7 +23,7 @@ Các tùy chọn sau đây có sẵn khi gửi Email.
 
 Hai trường sau đây là các trường xuất hiện trên màn hình in:
 
-![Email Print Options](https://docs.erpnext.com/docs/v13/assets/img/setup/email/email-print-options.png)
+![Email Print Options](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/email/email-print-options.png)
 
 * **Select Print Format**: Mẫu in của tài liệu. Tìm hiểu thêm về Mẫu in [tại đây](/docs/v13/user/manual/en/setting-up/print/print-format).
 * **Select Languages**: Ngôn ngữ mà tệp PDF sẽ được tạo.

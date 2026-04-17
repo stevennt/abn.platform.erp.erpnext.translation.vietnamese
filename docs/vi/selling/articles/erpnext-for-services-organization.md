@@ -15,7 +15,7 @@ Việc thiết lập cho một công ty Dịch vụ khác biệt chủ yếu ở
 
 Để tạo một Mặt hàng Dịch vụ (không lưu kho), trong danh mục mặt hàng, hãy bỏ chọn trường "Maintain Stock".
 
-![Service Item](https://docs.erpnext.com/docs/v13/assets/img/selling/service-item.png)
+![Service Item](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/selling/service-item.png)
 
 Khi tạo Đơn bán hàng cho các dịch vụ, hãy chọn Loại đơn hàng (Order Type) là **Maintenance**. Đơn bán hàng loại Bảo trì cần ít thông tin chi tiết hơn so với đơn hàng mặt hàng tồn kho như Phiếu giao hàng, kho của mặt hàng, v.v.
 

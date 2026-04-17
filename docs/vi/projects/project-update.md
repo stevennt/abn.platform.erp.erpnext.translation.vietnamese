@@ -5,7 +5,7 @@
 
 Mỗi khi bạn muốn cập nhật cho các bên liên quan về dự án, bạn có thể gửi một bản Cập nhật Dự án cho họ.
 
-<img class="screenshot" alt="Project Template" src="https://docs.erpnext.com/docs/v13/assets/img/project/projects-project-update.png">
+<img class="screenshot" alt="Project Template" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/project/projects-project-update.png">
 
 Để truy cập Cập nhật Dự án, hãy đi đến:
 

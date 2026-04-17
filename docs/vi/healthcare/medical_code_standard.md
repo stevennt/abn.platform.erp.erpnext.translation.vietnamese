@@ -8,7 +8,7 @@ Mã hóa y tế là yêu cầu bắt buộc tại nhiều quốc gia để tuân
 
 > Trang chủ > Healthcare > Masters > Medical Code Standard
 
-<img class="screenshot" alt="ERPNext Healthcare" src="https://docs.erpnext.com/docs/v13/assets/img/healthcare/medical_code_standard.png">
+<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/medical_code_standard.png">
 
 Có hai hệ thống phân loại mã hóa y tế phổ biến đang được sử dụng — Phân loại Quốc tế về Bệnh tật (ICD) và Thuật ngữ Thủ thuật Hiện hành (CPT).
 

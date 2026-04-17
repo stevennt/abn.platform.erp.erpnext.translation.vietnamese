@@ -13,7 +13,7 @@ Trong ERPNext, tất cả các Giá Mặt hàng được lưu trữ riêng biệ
 
 > Home > Selling/Buying/Stock > Items and Pricing > Price List
 
-<img class="screenshot" alt="Price List" src="https://docs.erpnext.com/docs/v13/assets/img/stock/price-list.png">
+<img class="screenshot" alt="Price List" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/price-list.png">
 
 ## 1. Cách sử dụng Bảng giá
 

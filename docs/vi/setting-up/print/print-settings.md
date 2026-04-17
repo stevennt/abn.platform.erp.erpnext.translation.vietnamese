@@ -8,7 +8,7 @@ Vì ERPNext là một ứng dụng chạy trên trình duyệt, lệnh in thực
 Để chỉnh sửa Cài đặt In, hãy đi tới:
 > Trang chủ > Cài đặt > Cài đặt In
 
-<img class="screenshot" alt="Print Settings" src="https://docs.erpnext.com/docs/v13/assets/img/setup/print/print-settings.png">
+<img class="screenshot" alt="Print Settings" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/print/print-settings.png">
 
 Có nhiều cấu hình khác nhau có sẵn trong Cài đặt In. Hãy cùng tìm hiểu về chúng.
 
@@ -40,10 +40,10 @@ Theo cài đặt này, sẽ chỉ có bốn cột trong Mẫu in, cụ thể là
 Giá trị của các cột khác (như tên, mô tả, hình ảnh, số serial, v.v.) sẽ được nối chuỗi trong cột Mô tả.
 
 Khi ô kiểm không được tích, mẫu in trông như thế này:
-![Incompact Print Format Settings](https://docs.erpnext.com/docs/v13/assets/img/setup/print/incompact-print.png)
+![Incompact Print Format Settings](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/print/incompact-print.png)
 
 Đây là giao diện của Mẫu in Thu gọn:
-![Compact Print Format Settings](https://docs.erpnext.com/docs/v13/assets/img/setup/print/compact-print.png)
+![Compact Print Format Settings](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/print/compact-print.png)
 
 
 ### 2.3 Cho phép In cho bản Nháp

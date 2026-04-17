@@ -25,7 +25,7 @@ Trước khi tạo và sử dụng Gói sản phẩm, bạn nên tạo các mụ
 1. Bạn có thể nhập mô tả để sử dụng nội bộ.
 3. Nhập các sản phẩm cần đóng gói vào bảng Mặt hàng và nhập số lượng của chúng.
 4. Lưu.
-<img class="screenshot" alt="Product Bundle" src="https://docs.erpnext.com/docs/v13/assets/img/selling/product-bundle.png">
+<img class="screenshot" alt="Product Bundle" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/selling/product-bundle.png">
 
 ### 2.1 Chọn Mặt hàng cha
 
@@ -47,7 +47,7 @@ Lưu ý: "Mặt hàng cha" chỉ là ảo, vì vậy sản phẩm chính của b
 
 Khi thực hiện các giao dịch Bán hàng (Hóa đơn bán hàng, Đơn bán hàng, Phiếu giao hàng), Mặt hàng cha sẽ được chọn trong bảng mặt hàng chính.
 
-<img class="screenshot" alt="Product Bundle" src="https://docs.erpnext.com/docs/v13/assets/img/selling/product-bundle.gif">
+<img class="screenshot" alt="Product Bundle" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/selling/product-bundle.gif">
 
 Khi chọn một Mặt hàng cha trong bảng mặt hàng chính, các mặt hàng con của nó sẽ được lấy vào bảng Phiếu đóng gói của giao dịch. Nếu mặt hàng con là mặt hàng có số serial, bạn sẽ có thể chỉ định Số serial của nó
 ngay tại bảng Phiếu đóng gói. Khi Xác nhận giao dịch, hệ thống sẽ giảm mức tồn kho của các mặt hàng con từ kho được chỉ định trong bảng Phiếu đóng gói.

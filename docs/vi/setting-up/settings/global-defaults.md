@@ -12,7 +12,7 @@ Hoặc tìm kiếm từ thanh tìm kiếm.
 
 Bất cứ khi nào một tài liệu mới được tạo, các giá trị này sẽ được thiết lập làm mặc định.
 
-<img class="screenshot" alt="Global Defaults" src="https://docs.erpnext.com/docs/v13/assets/img/setup/settings/global-defaults.png">
+<img class="screenshot" alt="Global Defaults" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/settings/global-defaults.png">
 
 * Công ty mặc định
 * Năm tài chính hiện tại

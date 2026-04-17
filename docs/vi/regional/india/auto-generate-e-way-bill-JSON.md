@@ -20,11 +20,11 @@ Theo quy định về GST, đơn vị vận chuyển nên mang theo e-Way Bill k
 
 1. Bây giờ bạn sẽ thấy một nút có nhãn **e-Way Bill JSON** dưới menu **Make** ở góc trên bên phải.
 
-	![Create E-way Bill JSON](https://docs.erpnext.com/docs/v13/assets/img/regional/india/create-e-way-bill-json.png)
+	![Create E-way Bill JSON](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/regional/india/create-e-way-bill-json.png)
 
 1. Nếu bạn muốn tạo tệp JSON cho nhiều hóa đơn, bạn có thể chọn các hóa đơn liên quan từ Danh sách Hóa đơn bán hàng và tìm nút **Generate e-Way Bill JSON** dưới menu **Actions** ở góc trên bên phải.
 
-	![Create Multiple E-way Bill JSON](https://docs.erpnext.com/docs/v13/assets/img/regional/india/create-multiple-e-way-bill-json.png)
+	![Create Multiple E-way Bill JSON](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/regional/india/create-multiple-e-way-bill-json.png)
 
 1. Khi nhấp vào nút này, dữ liệu của bạn sẽ được xác thực theo <a href="https://docs.ewaybillgst.gov.in/html/formatdownloadnew.html">lược đồ JSON</a> và tệp JSON được tự động tạo sẽ được tải xuống thiết bị của bạn.
 
@@ -36,8 +36,8 @@ Theo quy định về GST, đơn vị vận chuyển nên mang theo e-Way Bill k
 
 1. Chọn và tải lên tệp đã được tự động tạo. Bạn có thể yên tâm bỏ qua bất kỳ cảnh báo nào liên quan đến Số chứng từ (Document No.) do Hệ thống e-Way Bill đưa ra.
 
-	<img class="screenshot" src="https://docs.erpnext.com/docs/v13/assets/img/regional/india/ewb_warning.png">
-	![](https://docs.erpnext.com/docs/v13/assets/img/regional/india/)
+	<img class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/regional/india/ewb_warning.png">
+	![](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/regional/india/)
 
 1. Hệ thống e-Way Bill hiện sẽ hiển thị mô tả về (các) e-Way Bill mà bạn đang cố gắng tạo. Nếu mọi thứ trông có vẻ ổn và không gặp lỗi nào, bạn có thể tiến hành tạo (các) e-Way Bill bằng cách nhấp vào nút **Generate**.
 
@@ -48,6 +48,6 @@ Theo quy định về GST, đơn vị vận chuyển nên mang theo e-Way Bill k
 
 Bây giờ bạn có thể nhập Số e-Way Bill vào Hóa đơn bán hàng của mình để tham chiếu sau này.
 
-![E-way Bill Number in Invoice](https://docs.erpnext.com/docs/v13/assets/img/regional/india/e-way-bill-number-in-invoice.png)
+![E-way Bill Number in Invoice](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/regional/india/e-way-bill-number-in-invoice.png)
 
 {next}

@@ -51,7 +51,7 @@ Cập nhật giá trị tính giá, đây sẽ là giá trị trên mỗi đơn 
 
 Theo hệ thống tính giá tồn kho thường xuyên, bút toán kế toán được tạo cho mọi giao dịch kho. Hệ thống kế toán bút toán kép yêu cầu Tổng Nợ phải khớp với Tổng Có trong một bút toán. Khi Xác nhận Phiếu kho, hệ thống sẽ ghi Nợ tài khoản Kho bằng tổng giá trị của các mặt hàng. Để cân bằng điều này, chúng ta sử dụng tài khoản Mở đầu Tạm thời làm Tài khoản chênh lệch.
 
-<img alt="Difference Account" class="screenshot" src="https://docs.erpnext.com/docs/v13/assets/img/articles/difference-account-1.png">
+<img alt="Difference Account" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/difference-account-1.png">
 
 #### Bước 9: Lưu và Xác nhận Phiếu kho
 

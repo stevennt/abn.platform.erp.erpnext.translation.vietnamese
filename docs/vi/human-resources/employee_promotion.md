@@ -25,7 +25,7 @@ Trước khi tạo Thăng tiến Nhân viên, bạn nên tạo các tài liệu 
 1. Nhập Ngày thăng tiến.
 1. Trong bảng Chi tiết Thăng tiến Nhân viên, chọn Thuộc tính và thiết lập giá trị Hiện tại và Mới.
 
-    <img class="screenshot" alt="Employee Promotion" src="https://docs.erpnext.com/docs/v13/assets/img/human-resources/employee-promotion.png">
+    <img class="screenshot" alt="Employee Promotion" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/employee-promotion.png">
 
 > Lưu ý: Tài liệu Thăng tiến có thể được Xác nhận vào hoặc sau Ngày thăng tiến. Sau khi được Xác nhận, tất cả các thay đổi được thêm vào bảng Chi tiết Thăng tiến sẽ được áp dụng cho Nhân viên. ERPNext cũng lưu giữ hồ sơ về tất cả các lần thăng tiến của Nhân viên trong bảng Lịch sử làm việc trong tài liệu Nhân viên.
 

@@ -28,7 +28,7 @@ Các hướng dẫn thêm về việc cài đặt Ứng dụng QZ Tray có thể
 5. Điền vào trường **Raw Commands** các lệnh thô cần thiết để gửi đến máy in.
 6. Nhấp Lưu.
 
-  ![Raw Commands Print Format](https://docs.erpnext.com/docs/v13/assets/img/setup/print/raw-command-print-format.png)
+  ![Raw Commands Print Format](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/print/raw-command-print-format.png)
 
 Hiện tại, bất kỳ ngôn ngữ máy in dựa trên chuỗi nào cũng có thể được sử dụng trong trường `Raw Commands` trong mẫu in. Việc viết các lệnh thô yêu cầu kiến thức về ngôn ngữ gốc của máy in do nhà sản xuất máy in cung cấp. Vui lòng tham khảo hướng dẫn dành cho nhà phát triển do nhà sản xuất máy in cung cấp về cách viết các lệnh gốc của họ.
 
@@ -51,15 +51,15 @@ Có hai cách để gửi lệnh In thô đến máy in của bạn.
 1. Chọn mẫu in phù hợp. Đối với mẫu in bằng Lệnh thô, thông báo "No Preview available" sẽ được hiển thị thay cho bản xem trước bản in.
 2. Nhấp vào nút in.
 3. Vui lòng cho phép yêu cầu kết nối từ QZ Tray cho các hành động mà bạn đã khởi tạo (Phím tắt: Alt + A).
-   -  ![QZ Tray Prompt](https://docs.erpnext.com/docs/v13/assets/img/setup/print/qz-tray-prompt.png)
+   -  ![QZ Tray Prompt](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/print/qz-tray-prompt.png)
 4. Bạn có thể được yêu cầu chọn "print format - printer mapping" (mẫu in - ánh xạ máy in).
    -  Việc ánh xạ này được sử dụng để gửi lệnh in đến máy in phù hợp.
    -  Máy in cần phải được cài đặt trên máy tính của bạn để có thể ánh xạ nó với một mẫu in.
-     ![print format - printer mapping](https://docs.erpnext.com/docs/v13/assets/img/setup/print/printer-settings.png)
+     ![print format - printer mapping](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/print/printer-settings.png)
    -  Việc ánh xạ này được lưu cục bộ trên cùng một máy tính và sẽ phải được thiết lập trên mỗi máy khách.
    -  Bạn cũng có thể chỉnh sửa việc này bằng cách nhấp vào nút **Printer Settings**.
 
-      ![Raw Printing from Print View](https://docs.erpnext.com/docs/v13/assets/img/setup/print/raw-printing-from-print-view.gif)
+      ![Raw Printing from Print View](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/print/raw-printing-from-print-view.gif)
 
 ### 2.2 Gọi các hàm In thô từ một client script
 

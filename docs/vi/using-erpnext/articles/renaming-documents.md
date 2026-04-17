@@ -13,11 +13,11 @@ Kiểm tra [Danh sách các tài liệu có thể đổi tên](/docs/v13/user/ma
 
 **Bước 2**: Từ menu thả xuống, chọn tùy chọn 'Rename'.
 
-![Document Renaming](https://docs.erpnext.com/docs/v13/assets/img/using-erpnext/using-rename-documents-1.gif)
+![Document Renaming](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/using-erpnext/using-rename-documents-1.gif)
 
 Ngoài ra, bạn cũng có thể nhấp vào Tiêu đề của tài liệu, một cửa sổ pop-up sẽ hiện ra, tại đó bạn có thể thay đổi tên của tài liệu mà bạn muốn đổi tên.
 
-![Document Renaming](https://docs.erpnext.com/docs/v13/assets/img/using-erpnext/using-rename-documents-2.gif)
+![Document Renaming](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/using-erpnext/using-rename-documents-2.gif)
 
 ### Ảnh hưởng của việc Đổi tên
 

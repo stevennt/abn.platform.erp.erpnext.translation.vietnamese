@@ -4,7 +4,7 @@ Cài đặt Bán hàng là nơi bạn có thể xác định các thuộc tính 
 
 Hãy cùng xem từng tùy chọn có sẵn trong Cài đặt Bán hàng trong ERPNext.
 
-<img class="screenshot" alt="Selling Settings" src="https://docs.erpnext.com/docs/v13/assets/img/selling/selling-settings.png">
+<img class="screenshot" alt="Selling Settings" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/selling/selling-settings.png">
 
 Để truy cập Cài đặt Bán hàng, hãy đi tới:
 > Home > Selling > Settings > Selling Settings
@@ -50,7 +50,7 @@ Nếu bạn muốn việc tạo Đơn bán hàng là bắt buộc trước khi t
 
 Cấu hình này có thể được ghi đè cho một khách hàng cụ thể bằng cách bật hộp kiểm "Allow Sales Invoice Creation Without Sales Order" trong danh mục khách hàng.
 
-<img alt="Sales Order Required" class="screenshot" src="https://docs.erpnext.com/docs/v13/assets/img/selling/so-required.png">
+<img alt="Sales Order Required" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/selling/so-required.png">
 
 ### 3.2 Delivery Note Required (Yêu cầu Phiếu giao hàng)
 
@@ -58,7 +58,7 @@ Cấu hình này có thể được ghi đè cho một khách hàng cụ thể b
 
 Cấu hình này có thể được ghi đè cho một khách hàng cụ thể bằng cách bật hộp kiểm "Allow Sales Invoice Creation Without Delivery Note" trong danh mục khách hàng.
 
-<img alt="Delivery Note Required" class="screenshot" src="https://docs.erpnext.com/docs/v13/assets/img/selling/dn-required.png">
+<img alt="Delivery Note Required" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/selling/dn-required.png">
 
 ### 3.3 Sales Update Frequency (Tần suất cập nhật bán hàng)
 Tần suất mà tiến độ dự án và chi tiết giao dịch của công ty sẽ được cập nhật. Theo mặc định là cho Mỗi giao dịch, bạn cũng có thể thiết lập là Hàng ngày hoặc Hàng tháng nếu bạn có nhiều giao dịch mỗi ngày.

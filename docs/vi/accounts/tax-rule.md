@@ -22,7 +22,7 @@ Trước khi tạo và sử dụng Quy tắc Thuế, bạn nên tạo các mục
 1. Trong phần Tax Type, chọn loại thuế sẽ được áp dụng cho Bán hàng (Sales) hoặc Mua hàng (Purchase).
 1. Chọn Mẫu Thuế (Tax Template) cần áp dụng.
 1. Lưu.
- <img class="screenshot" alt="Tax Rule" src="https://docs.erpnext.com/docs/v13/assets/img/accounts/tax-rule.png">
+ <img class="screenshot" alt="Tax Rule" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/tax-rule.png">
 
 Bạn có thể liệt kê các Mặt hàng trực tuyến bằng mô-đun Website. Việc chọn 'Use for Shopping Cart' sẽ sử dụng Quy tắc Thuế này cho cả các giao dịch trong Giỏ hàng. Để biết thêm, hãy truy cập trang [Giỏ hàng](https://docs.erpnext.com/docs/v13/user/manual/en/website/shopping-cart).
 
@@ -53,15 +53,15 @@ Hãy cùng cấu hình Quy tắc Thuế để hệ thống tự động áp dụ
 
 Tạo một Mẫu Thuế và Phí Bán hàng như hiển thị bên dưới.
 
-![City Specific To Zipcode](https://docs.erpnext.com/docs/v13/assets/img/accounts/city-specific-tax.png)
+![City Specific To Zipcode](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/city-specific-tax.png)
 
 Tạo một Quy tắc Thuế như hiển thị bên dưới.
 
-![Tax Rule](https://docs.erpnext.com/docs/v13/assets/img/accounts/tax-rule.png)
+![Tax Rule](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/tax-rule.png)
 
 Khi bạn chọn một khách hàng và địa chỉ thanh toán của khách hàng đó có thành phố là 'Malibu', hệ thống sẽ tự động áp dụng các loại thuế phù hợp.
 
-![Tax Rule in Sales Invoice](https://docs.erpnext.com/docs/v13/assets/img/accounts/tax-rule-in-sales-invoice.gif)
+![Tax Rule in Sales Invoice](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/tax-rule-in-sales-invoice.gif)
 
 ### 5. Các chủ đề liên quan
 1. [Quy tắc định giá](pricing-rule.md)

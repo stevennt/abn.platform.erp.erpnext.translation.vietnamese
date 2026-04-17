@@ -18,7 +18,7 @@ Giả sử bạn có 20 báo giá mà trong đó bạn đã chọn 'Tất cả k
 1. Chọn giới hạn, tức là số lượng tài liệu (Báo giá) cần được cập nhật.
 1. Nhấp vào Cập nhật.
 
-    ![Bulk Update](https://docs.erpnext.com/docs/v13/assets/img/setup/bulk-update.png)
+    ![Bulk Update](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/bulk-update.png)
 
 > Lưu ý: Bạn chỉ có thể cập nhật các trường có thể được cập nhật bình thường trong một giai đoạn cụ thể. Ví dụ: ngày có hiệu lực không thể được cập nhật đối với các Báo giá đã được Xác nhận.
 

@@ -5,7 +5,7 @@ Khách hàng có thể được lập hóa đơn dựa trên tổng số giờ m
 
 **Một hóa đơn bán hàng có thể được tạo từ mỗi Timesheet đã được Xác nhận bởi nhân viên để dùng cho việc lập hóa đơn cho khách hàng.**
 
-<img class="screenshot" alt="Sales Invoice" src="https://docs.erpnext.com/docs/v13/assets/img/project/projects-sales-invoice-from-timesheet.png">
+<img class="screenshot" alt="Sales Invoice" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/project/projects-sales-invoice-from-timesheet.png">
 
 ## 1. Cách tạo Hóa đơn bán hàng từ Timesheet
 
@@ -18,7 +18,7 @@ Khách hàng có thể được lập hóa đơn dựa trên tổng số giờ m
 
 Để lấy thông tin tự động vào Hóa đơn bán hàng, hãy nhấp vào nút **Get items from**. Thông tin có thể được lấy từ Đơn bán hàng, Phiếu giao hàng hoặc Báo giá. Các chi tiết như Đơn mua hàng của Khách hàng (Customer PO), Địa chỉ và Số điện thoại liên hệ, Tiền tệ và Bảng giá, các Mặt hàng sẽ được tự động điền.
 
-<img class="screenshot"alt="Sales Invoice" src="https://docs.erpnext.com/docs/v13/assets/img/project/timesheet/timesheet-billing-to-sales-invoice.gif">
+<img class="screenshot"alt="Sales Invoice" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/project/timesheet/timesheet-billing-to-sales-invoice.gif">
 
 ## 2. Các tính năng
 

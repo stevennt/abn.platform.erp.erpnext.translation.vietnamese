@@ -17,12 +17,12 @@ Nếu bạn đang trong hoạt động bán lẻ, bạn sẽ muốn Điểm bán
 1. Thiết lập Tài khoản xóa nợ (Write Off Account) và Trung tâm chi phí xóa nợ (Write Off Cost Center) để ghi lại các giao dịch.
 1. Thiết lập các phương thức thanh toán trong bảng, mặc định sẽ là tiền mặt nếu không có gì được thiết lập ở đây. Chỉ những phương thức được thiết lập ở đây mới có sẵn khi sử dụng POS. Sau khi thêm các phương thức thanh toán, hãy đặt một trong số chúng làm phương thức thanh toán mặc định bằng cách tích vào ô kiểm.
 
- ![Payment Method in POS Profile](https://docs.erpnext.com/docs/v13/assets/img/accounts/payment-method-in-pos.png)
+ ![Payment Method in POS Profile](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/payment-method-in-pos.png)
 
 1. Thiết lập số tiền mặc định cho các phương thức thanh toán (khuyến nghị: 0).
 1. Lưu.
 
- ![POS Profile](https://docs.erpnext.com/docs/v13/assets/img/accounts/pos-profile.png)
+ ![POS Profile](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/pos-profile.png)
 
 ### 1.1 Các tùy chọn bổ sung khi tạo Hồ sơ POS
 
@@ -46,7 +46,7 @@ Theo mặc định, tất cả Người dùng Bán hàng đều có thể truy c
 
 **Thiết lập Hồ sơ POS làm mặc định**: Khi tích vào ô Mặc định (Default) trong bảng, Hồ sơ POS hiện tại sẽ trở thành Hồ sơ POS mặc định cho Người dùng đó. Vì vậy, lần tới khi Người dùng đăng nhập vào hệ thống, Hồ sơ POS sẽ được thiết lập mặc định.
 
-![POS User](https://docs.erpnext.com/docs/v13/assets/img/accounts/pos-profile-default.png)
+![POS User](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/pos-profile-default.png)
 
 > Lưu ý: Nếu bạn chỉ định một Người dùng cụ thể, cài đặt POS sẽ chỉ được áp dụng cho Người dùng đó. Nếu tùy chọn Người dùng được để trống, cài đặt sẽ được áp dụng cho tất cả người dùng. Để hiểu cách POS hoạt động, hãy truy cập trang [Point of Sale](point-of-sales.md).
 
@@ -54,11 +54,11 @@ Theo mặc định, tất cả Người dùng Bán hàng đều có thể truy c
 ### 2.2 Thiết lập Nhóm mặt hàng và Nhóm khách hàng
 Khi thiết lập Nhóm mặt hàng/Nhóm khách hàng trong Hồ sơ POS, nhóm đó sẽ tự động được chọn khi thực hiện các giao dịch với Hồ sơ POS.
 
-![Filters in POS Profile](https://docs.erpnext.com/docs/v13/assets/img/accounts/filters-in-pos-profile.png)
+![Filters in POS Profile](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/filters-in-pos-profile.png)
 
 ### 2.3 Cài đặt in
 
-![POS Print Settings](https://docs.erpnext.com/docs/v13/assets/img/accounts/pos-profile-in-print-settings.png)
+![POS Print Settings](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/pos-profile-in-print-settings.png)
 
 #### Mẫu in cho Trực tuyến
 Bạn có thể thiết lập một Mẫu in để quyết định bố cục của tài liệu được in sẽ trông như thế nào. Để biết thêm, hãy truy cập trang [Print Format](https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/print/print-format).
@@ -84,4 +84,4 @@ Sau đó, các mục sau có thể được cấu hình trong Hồ sơ POS:
 * [Print Format](https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/print/print-format)
 * [Customer Group](https://docs.erpnext.com/docs/v13/user/manual/en/CRM/customer-group)
 
-![POS Offline](https://docs.erpnext.com/docs/v13/assets/img/pos-setting/pos-profil
+![POS Offline](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/pos-setting/pos-profil

@@ -18,7 +18,7 @@ Trong ERPNext, bạn có thể tạo một Chương trình đào tạo và lập
 1. Chọn Nhà cung cấp (không bắt buộc) trong trường hợp mời một đơn vị cung cấp/chuyên gia bên ngoài đến thực hiện đào tạo.
 1. Ngoài ra, bạn cũng có thể viết một mô tả ngắn về Chương trình đào tạo trong ô Mô tả (không bắt buộc).
 
-    <img class="screenshot" alt="Training Program" src="https://docs.erpnext.com/docs/v13/assets/img/human-resources/training-program.png">
+    <img class="screenshot" alt="Training Program" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/training-program.png">
 
 > **Lưu ý:** Theo mặc định, Trạng thái của Chương trình đào tạo là 'Scheduled' (Đã lập lịch). Tuy nhiên, bạn có thể thay đổi trạng thái thành 'Completed' (Đã hoàn thành) hoặc 'Cancelled' (Đã hủy) tùy theo yêu cầu.
 

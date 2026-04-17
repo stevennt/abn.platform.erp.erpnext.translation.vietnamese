@@ -27,7 +27,7 @@ Trước khi tạo Ứng viên tuyển dụng, bạn nên tạo các mục sau:
 
 > **Lưu ý:** Nếu bạn chọn Nguồn là Nhân viên giới thiệu, bạn sẽ phải chọn tên Nhân viên trong trường Tên nguồn (Source Name).
 
-<img class="screenshot" alt="Job Applicant" src="https://docs.erpnext.com/docs/v13/assets/img/human-resources/job-applicant.png">
+<img class="screenshot" alt="Job Applicant" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/job-applicant.png">
 
 ## 3. Các tính năng
 
@@ -44,7 +44,7 @@ Giả sử bạn liên kết Đơn ứng tuyển với một email job@example.c
 
 * Trong mục 'Append To', chọn 'Job Applicant'
 
-<img class="screenshot" alt="Email Account" src="https://docs.erpnext.com/docs/v13/assets/img/human-resources/email-account.png">
+<img class="screenshot" alt="Email Account" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/email-account.png">
 
 ## 4. Các chủ đề liên quan
 

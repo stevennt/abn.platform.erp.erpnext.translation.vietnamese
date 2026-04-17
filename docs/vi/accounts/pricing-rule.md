@@ -33,7 +33,7 @@ Trước khi tạo và sử dụng Quy tắc định giá, bạn nên tạo các
 1. Thiết lập tiêu đề cho quy tắc.
 1. Chọn Áp dụng cho (Apply On) từ Mã mặt hàng (Item Code), Nhóm mặt hàng (Item Group), Thương hiệu (Brand), hoặc Giao dịch (Transaction).
 1. Chọn bạn muốn áp dụng Chiết khấu giá (Price discount) hay Chiết khấu sản phẩm (Product discount). Nếu bạn muốn tặng sản phẩm miễn phí, hãy chọn chiết khấu sản phẩm.
- ![Pricing Rule](https://docs.erpnext.com/docs/v13/assets/img/accounts/pricing-rule.png)
+ ![Pricing Rule](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/pricing-rule.png)
 
 1. Đối với một mặt hàng duy nhất, chọn Mã mặt hàng và chọn các mặt hàng đó.
 1. Nếu bạn muốn Quy tắc định giá được áp dụng cho tất cả các mặt hàng, hãy chọn 'Nhóm mặt hàng' và chọn **Tất cả nhóm mặt hàng** (nhóm mặt hàng cha).
@@ -81,7 +81,7 @@ Xét một kịch bản trong đó Số tiền tối thiểu là 1.500 và Số 
 ### 3.1 Áp dụng quy tắc cho mục khác (Apply Rule On Other)
 Tính năng này kiểm tra điều kiện trên Mặt hàng thứ nhất nhưng áp dụng quy tắc cho một Mặt hàng khác.
 
-![Apply Pricing Rule on Other Item](https://docs.erpnext.com/docs/v13/assets/img/accounts/pricing-rule-on-other-item.png)
+![Apply Pricing Rule on Other Item](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/pricing-rule-on-other-item.png)
 
 Ví dụ, thiết lập Mặt hàng 1 và Mặt hàng 2 trong bảng 'Áp dụng quy tắc cho' và thiết lập 'Áp dụng quy tắc cho mục khác' cho Mặt hàng 3. Bây giờ, nếu giao dịch có Mặt hàng 1, Mặt hàng 2 và Mặt hàng 3, Quy tắc định giá sẽ áp dụng cho Mặt hàng 3 vì hai Mặt hàng đầu tiên đã có mặt trong giao dịch.
 
@@ -104,7 +104,7 @@ Chỉ định số lượng tối thiểu, số lượng tối đa, số tiền 
 
 Lưu ý rằng nếu số lượng hoặc số tiền thấp hơn hoặc vượt quá các giới hạn được thiết lập ở đây, Quy tắc định giá sẽ không được áp dụng. Tuy nhiên, nó sẽ được áp dụng nếu bạn đã bật các tùy chọn Điều kiện hỗn hợp hoặc Lũy kế.
 
-![Pricing Rule Quantity and Amount](https://docs.erpnext.com/docs/v13/assets/img/accounts/pricing-rule-quantity-and-amount.png)
+![Pricing Rule Quantity and Amount](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/pricing-rule-quantity-and-amount.png)
 
 ### 3.4 Hiệu lực (Validity)
 Bạn cũng có thể thiết lập một khoảng thời gian để Quy tắc định giá có hiệu lực. Điều này hữu ích cho một s

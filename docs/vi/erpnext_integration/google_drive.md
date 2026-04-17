@@ -17,6 +17,6 @@ ERPNext cung cấp tính năng tích hợp với Google Drive để tất cả n
 ### Tải bản sao lưu lên Google Drive
 - Sau khi Tích hợp Google Drive thành công, bạn có thể tải bản sao lưu hệ thống cũng như tất cả các tệp công khai và riêng tư của bạn lên Google Drive.
 - Để sao lưu dữ liệu lên Google Drive, hãy nhấn vào **Take Backup**. Quá trình sao lưu sẽ chạy ngầm và bạn sẽ được thông báo về trạng thái sao lưu.
-  <img class="screenshot" src="https://docs.erpnext.com/docs/v13/assets/img/erpnext_integrations/google_drive.gif">
+  <img class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/erpnext_integrations/google_drive.gif">
 
 > **Lưu ý**: Nếu kích thước bản sao lưu đã nén vượt quá 1GB (Gigabyte), hệ thống sẽ tải bản sao lưu mới nhất hiện có lên Google Drive thay vì tạo một tệp sao lưu mới.

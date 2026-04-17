@@ -23,7 +23,7 @@ Tạo Ứng dụng bằng liên kết `https://www.linkedin.com/developers`, đi
 1. Share on LinkedIn
 2. Sign In with LinkedIn
 3. Marketing Developer Platform
-![LinkedIn Developer App Product](https://docs.erpnext.com/docs/v13/assets/img/crm/linkedin-dev-products.png)
+![LinkedIn Developer App Product](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/crm/linkedin-dev-products.png)
 
 ### 1.2 Cấu hình Redirect URLs:
 
@@ -31,26 +31,26 @@ Tạo Ứng dụng bằng liên kết `https://www.linkedin.com/developers`, đi
 2. Trong phần **OAuth 2.0 settings**, thêm **Redirect URLs**:
 `https://{yoursite}/api/method/erpnext.crm.doctype.linkedin_settings.linkedin_settings.callback`
 3. Nhấp vào **Update** để thực hiện thay đổi.
-![LinkedIn Redirect URL](https://docs.erpnext.com/docs/v13/assets/img/crm/linkedin-redirect-urls.png)
+![LinkedIn Redirect URL](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/crm/linkedin-redirect-urls.png)
 
 ## 2. Cách thiết lập Cài đặt LinkedIn
 
 Để truy cập Cài đặt LinkedIn, hãy đi tới:
 > Home > CRM > Settings > LinkedIn Settings
 
-![LinkedIn Settings](https://docs.erpnext.com/docs/v13/assets/img/crm/linkedin-settings.png)
+![LinkedIn Settings](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/crm/linkedin-settings.png)
 
 ### Company ID
 Bạn lấy Company ID từ URL Công ty LinkedIn của mình.
-![LinkedIn Company ID](https://docs.erpnext.com/docs/v13/assets/img/crm/linkedin-company-id.png)
+![LinkedIn Company ID](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/crm/linkedin-company-id.png)
 
 ### Consumer Key và Consumer Secret
 Bạn lấy **Consumer Key** và **Consumer Secret** từ tài khoản LinkedIn Developer của mình, đi tới:
 > `https://www.linkedin.com/developers/` > My Apps > `{Your App}` > Auth
 
-![LinkedIn Client](https://docs.erpnext.com/docs/v13/assets/img/crm/linkedin-client.png)
+![LinkedIn Client](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/crm/linkedin-client.png)
 
 Sau khi bạn Lưu tài liệu bằng cách điền **Company ID**, **Consumer Key**, và **Consumer Secret**, hệ thống sẽ chuyển hướng đến trang đăng nhập của LinkedIn. Bằng cách cung cấp thông tin đăng nhập LinkedIn hợp lệ và nhấp vào Allow (Cho phép), thành viên sẽ phê duyệt yêu cầu của ứng dụng để truy cập dữ liệu thành viên của họ và tương tác với LinkedIn thay mặt họ.
-![Authorize LinkedIn](https://docs.erpnext.com/docs/v13/assets/img/crm/authorize-linkedin.jpg)
+![Authorize LinkedIn](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/crm/authorize-linkedin.jpg)
 
 {next}

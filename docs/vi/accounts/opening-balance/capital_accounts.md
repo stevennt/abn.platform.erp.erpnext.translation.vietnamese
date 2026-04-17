@@ -13,6 +13,6 @@ Trước khi nhập các tài khoản vốn, hãy đảm bảo rằng bạn đã
 
 > Để tìm hiểu chi tiết về Bút toán, [vui lòng truy cập trang này](../journal-entry.md).
 
-![Opening Entry Capital Accounts](https://docs.erpnext.com/docs/v13/assets/img/accounts/opening-balance-capital-accounts.png)
+![Opening Entry Capital Accounts](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/opening-balance-capital-accounts.png)
 
 {next}

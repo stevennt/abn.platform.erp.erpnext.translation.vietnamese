@@ -5,7 +5,7 @@
 
 > Home > Manufacturing > Reports > Quality Inspection Summary
 
-<img class="screenshot" alt="Task" src="https://docs.erpnext.com/docs/v13/assets/img/manufacturing/quality-inspection-summary.png">
+<img class="screenshot" alt="Task" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/quality-inspection-summary.png">
 
 Báo cáo này sẽ cung cấp thông tin về các Kiểm tra chất lượng cũng như trạng thái của các Kiểm tra chất lượng như Đã chấp nhận hoặc Đã từ chối.
 

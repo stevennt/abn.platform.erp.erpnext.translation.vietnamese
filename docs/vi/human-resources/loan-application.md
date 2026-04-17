@@ -21,7 +21,7 @@ Trước khi tạo Đơn vay vốn, bạn nên tạo các chứng từ sau:
 1. Chọn [Phương thức hoàn trả](#31-phương-thức-hoàn-trả) và dựa trên thông tin khoản vay, các thông tin như Tổng số tiền phải trả và Lãi sẽ được tính toán.
 1. Lưu và Xác nhận.
 
-  <img class="screenshot" alt="Loan Application" src="https://docs.erpnext.com/docs/v13/assets/img/human-resources/loan-application.png">
+  <img class="screenshot" alt="Loan Application" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/loan-application.png">
 
 ## 3. Các tính năng
 
@@ -36,7 +36,7 @@ Có hai loại Phương thức hoàn trả trong Đơn vay vốn:
 * Sau khi lưu, dựa trên Lãi suất, Tổng lãi phải trả và Tổng số tiền phải trả sẽ được tính toán cùng với Kỳ hạn (tính theo tháng).
 * Xác nhận.
 
-  <img class="screenshot" alt="Repayment Fixed Amount Per Period" src="https://docs.erpnext.com/docs/v13/assets/img/human-resources/repayment1.png">
+  <img class="screenshot" alt="Repayment Fixed Amount Per Period" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/repayment1.png">
 
 #### 2. Hoàn trả theo Số kỳ hạn
 
@@ -45,7 +45,7 @@ Có hai loại Phương thức hoàn trả trong Đơn vay vốn:
 * Sau khi lưu, dựa trên Lãi suất, Tổng lãi phải trả và Tổng số tiền phải trả sẽ được tính toán cùng với Số tiền hoàn trả hàng tháng.
 * Xác nhận.
 
-  <img class="screenshot" alt="Repayment Fixed Amount Per Period" src="https://docs.erpnext.com/docs/v13/assets/img/human-resources/repayment2.png">
+  <img class="screenshot" alt="Repayment Fixed Amount Per Period" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/repayment2.png">
 
 ## 4. Các chủ đề liên quan
 

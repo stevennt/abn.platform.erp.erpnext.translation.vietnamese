@@ -25,7 +25,7 @@ Sau đây là các bước để quản lý và tạo bản ghi trong danh mục
 
 ####Bước 2: Khu vực Cha
 
-<img alt="Default Territories" class="screenshot" src="https://docs.erpnext.com/docs/v13/assets/img/articles/territory-2.png">
+<img alt="Default Territories" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/territory-2.png">
 
 Khi nhấp vào Khu vực Cha, bạn sẽ thấy tùy chọn để thêm khu vực con bên dưới nó. Tất cả các Nhóm Khu vực mặc định sẽ được liệt kê dưới Nhóm Cha có tên là "Tất cả khu vực". Bạn có thể thêm thêm các Nhóm Khu vực Cha hoặc con bên dưới nó.
 
@@ -43,11 +43,11 @@ Nếu Nút nhóm được chọn là Có, thì Khu vực này sẽ được tạ
 
 <div class="well">Chỉ các Nhóm Khu vực con mới có thể được chọn trong các danh mục và giao dịch khác.</div>
 
-<img alt="Default Territories" class="screenshot" src="https://docs.erpnext.com/docs/v13/assets/img/articles/territory-1.gif">
+<img alt="Default Territories" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/territory-1.gif">
 
 Sau đây là cách các Khu vực con sẽ được liệt kê dưới một Khu vực Cha.
 
-<img alt="Adding new Territories" class="screenshot" src="https://docs.erpnext.com/docs/v13/assets/img/articles/territory-3.png">
+<img alt="Adding new Territories" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/territory-3.png">
 
 Thực hiện theo các bước này, bạn cũng có thể quản lý các danh mục cây khác trong ERPNext.
 

@@ -3,7 +3,7 @@
 
 **Lưu bộ lọc là một công cụ cho phép bạn lưu một tập hợp các bộ lọc nhất định thường được áp dụng trong danh sách tài liệu hoặc báo cáo để bạn có thể tái sử dụng chúng.**
 
-![Save Filter](https://docs.erpnext.com/docs/v13/assets/img/using-erpnext/using-save-filter-1.png)
+![Save Filter](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/using-erpnext/using-save-filter-1.png)
 
 Để tìm hiểu thêm về các bộ lọc, hãy xem [Bộ lọc tìm kiếm](/docs/v13/user/manual/en/using-erpnext/articles/search-filter)
 
@@ -13,4 +13,4 @@ Trong trường hợp này, bạn có thể tạo một bộ lọc tùy chỉnh 
 
 Để lưu một Bộ lọc tùy chỉnh, bạn có thể đi tới tùy chọn 'Lưu bộ lọc' ở Thanh bên trái của danh sách hoặc báo cáo.
 
-![Save Filter](https://docs.erpnext.com/docs/v13/assets/img/using-erpnext/using-save-filter-1.gif)
+![Save Filter](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/using-erpnext/using-save-filter-1.gif)
