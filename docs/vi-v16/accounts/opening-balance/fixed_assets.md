@@ -1,0 +1,51 @@
+<!-- add-breadcrumbs -->
+# Cập nhật Tài sản cố định
+
+Để nhập tất cả các tài sản cố định hiện có, trước tiên hãy tạo bản ghi tài sản và sau đó tạo một Bút toán để cập nhật Sổ cái.
+
+## 1. Tạo bản ghi Tài sản
+
+> Để biết thêm chi tiết về Tài sản, [vui lòng truy cập trang này](../asset/asset.md).
+
+Tạo bản ghi Tài sản cho từng tài sản mà công ty bạn sở hữu mà chưa khấu hao hết.
+
+Để tạo một Tài sản mới:
+
+1. Tạo một [Mặt hàng](../../stock/item.md) với tùy chọn 'Is fixed Asset' được bật.
+1. Đi đến **Assets > Asset > New**.
+1. Nhập Tên tài sản (Asset Name).
+1. Nhập Mã mặt hàng (Item Code).
+1. Nhập Địa điểm (Location).
+1. Nhập Ngày mua (Purchase Date).
+1. Nhập Tổng giá trị (Gross Amount).
+1. Tích vào **Is Existing Asset.**
+1. **Lưu**.
+
+ ![Opening Stock Balance](https://docs.erpnext.com/docs/v16/assets/img/accounts/asset-opening-balance.png)
+
+> Để biết thêm chi tiết về Tài sản, [vui lòng truy cập trang này](../asset/asset.md).
+
+## 2. Tạo Bút toán để cập nhật Sổ cái
+
+Khi bạn tạo một Tài sản mà có tích vào ô 'Is Existing Asset', Sổ cái sẽ không được cập nhật. Bạn sẽ phải cập nhật giá trị thông qua một Bút toán.
+
+Để tạo một Bút toán mới:
+
+1. Đi đến: **Accounting > General Ledger > Journal Entry > New.**
+1. Nhập Ngày hạch toán (Posting Date).
+2. *Lưu ý: Trong phiên bản v16, bạn có thể sử dụng tính năng Ledger Preview để kiểm tra các dòng bút toán trước khi thực hiện **Xác nhận**.*
+1. Chọn các tài khoản tài sản cố định phù hợp trong cột Tài khoản (Account) và nhập giá trị vào cột Nợ (Debit).
+1. Chọn tài khoản 'Temporary Opening' trong cột Tài khoản (Account) và nhập số tiền chênh lệch vào cột Có (Credit).
+1. Thiết lập 'Is Opening' thành Yes.
+1. **Lưu**.
+1. **Xác nhận**.
+
+![Journal Entry Fixed Asset Opening](https://docs.erpnext.com/docs/v16/assets/img/accounts/journal-entry-fixed-asset.png)
+
+---
+**Thông tin cập nhật v16:**
+*   **Financial Report Templates:** Sử dụng mẫu báo cáo tài chính tùy chỉnh để quản lý tài sản tốt hơn.
+*   **Consolidated Trial Balance:** Bảng cân đối thử hợp nhất giúp kiểm tra giá trị tài sản trên toàn hệ thống.
+*   **Ledger Preview:** Kiểm tra trước các bút toán tài sản trước khi **Xác nhận** để tránh sai sót sổ cái.
+
+{next}
