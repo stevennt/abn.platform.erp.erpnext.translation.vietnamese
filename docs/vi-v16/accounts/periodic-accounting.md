@@ -30,7 +30,7 @@ Thay vì hệ thống tự động tạo Bút toán (JE) ngay khi có Phiếu nh
     * Nhấn **Lưu (Save)** để lưu bản nháp.
     * Nhấn **Xác nhận (Submit)** để hoàn tất ghi nhận vào sổ cái.
 
-![Minh họa giao diện Bút toán](../screenshots/accounts/journal-entry-new.png)
+![Minh họa giao diện Bút toán](../../screenshots/accounts/journal-entry-new.png)
 
 ## 4. Các tùy chọn và cài đặt liên quan
 * **Cấu hình Kho (Stock Settings):** Kiểm tra tùy chọn liên quan đến việc tự động tạo bút toán kế toán khi thực hiện giao dịch kho. Nếu sử dụng Kế toán theo kỳ, tùy chọn này cần được điều chỉnh để tránh trùng lặp dữ liệu.

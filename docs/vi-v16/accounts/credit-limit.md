@@ -55,6 +55,6 @@ Khi thiết lập Hạn mức tín dụng ở cấp độ Công ty, tất cả c
 
 ### 3. Các chủ đề liên quan
 1. [Payment Entry](payment-entry.md)
-1. [Customer](https://docs.erpnext.com/docs/v13/user/manual/en/CRM/customer)
+1. [Customer](../selling/customer-list.md)
 
 {next}

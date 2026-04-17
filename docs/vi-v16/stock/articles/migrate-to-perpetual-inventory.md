@@ -56,5 +56,5 @@ Giá trị tồn kho theo phương pháp thường xuyên được kích hoạt 
 * **Xem trước Sổ cái (Ledger Preview):** Xem nhanh các bút toán liên quan trực tiếp từ giao diện quản lý kho.
 
 #### 3. Các chủ đề liên quan
-1. [Kế toán hàng tồn kho](../accounting-of-inventory-stock.md)
-1. [Kiểm kê thường xuyên](../perpetual-inventory.md)
+1. [Kế toán hàng tồn kho](https://docs.erpnext.com/docs/v13/user/manual/en/accounting-of-inventory-stock)
+1. [Kiểm kê thường xuyên](https://docs.erpnext.com/docs/v13/user/manual/en/perpetual-inventory)

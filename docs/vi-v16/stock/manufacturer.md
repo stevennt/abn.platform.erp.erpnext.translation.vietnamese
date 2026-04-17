@@ -41,7 +41,7 @@ Khi sử dụng Nhà sản xuất để định danh Mặt hàng, hệ thống c
 ## 3. Các tính năng khác
 ### 3.1 Địa chỉ và Liên hệ
 
-Một [Địa chỉ](../setup/address.md) và [Liên hệ](../setup/contact.md) có thể được thiết lập cho Nhà sản xuất này để phục vụ việc quản lý thông tin liên lạc và vận chuyển.
+Một [Địa chỉ](https://docs.erpnext.com/docs/v13/user/manual/en/setup/address) và [Liên hệ](https://docs.erpnext.com/docs/v13/user/manual/en/setup/contact) có thể được thiết lập cho Nhà sản xuất này để phục vụ việc quản lý thông tin liên lạc và vận chuyển.
 
 ## 4. Các chủ đề liên quan
 1. [Mặt hàng](item.md)

@@ -1,6 +1,6 @@
 # Hoạch định nhu cầu vật tư (MRP)
 
-![Giao diện chính ERPNext](../screenshots/workspace-home.png)
+![Giao diện chính ERPNext](../../screenshots/workspace-home.png)
 
 ## 1. Giới thiệu tính năng
 **[Mới trong v16]** Hoạch định nhu cầu vật tư (Material Requirements Planning - MRP) là công cụ quản trị thông minh giúp doanh nghiệp tự động hóa việc tính toán nhu cầu nguyên vật liệu và thành phẩm. 

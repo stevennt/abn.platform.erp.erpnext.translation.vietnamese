@@ -48,7 +48,7 @@ Một mẫu thuế mặt hàng mặc định sẽ được áp dụng cho tất 
 ### 2.4 Cài đặt Website
 * **Hiển thị trên Website**: Các mặt hàng thuộc nhóm này sẽ được hiển thị trên website của bạn dưới Nhóm mặt hàng.
 * **Trọng số**: Đây là trọng số cho chính các Nhóm mặt hàng, các nhóm mặt hàng có trọng số cao hơn sẽ được hiển thị trước.
-* **Trình chiếu**: Một trình chiếu cho Nhóm mặt hàng, giống như trong một Mặt hàng. Truy cập trang [Trang chủ](../website/homepage.md) trong mô-đun Website để biết thêm.
+* **Trình chiếu**: Một trình chiếu cho Nhóm mặt hàng, giống như trong một Mặt hàng. Truy cập trang [Trang chủ](https://docs.erpnext.com/docs/v13/user/manual/en/website/homepage) trong mô-đun Website để biết thêm.
 
 * **Mô tả**: Thông tin này sẽ xuất hiện trên trang Nhóm mặt hàng.
 * **Thông số kỹ thuật Website**: Nhãn và mô tả của nó cho một nhóm mặt hàng.

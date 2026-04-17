@@ -4,7 +4,7 @@
 
 Tính năng **Tự động đóng sổ kho (Automatic Closing Stock Posting)** trong ERPNext v16 cho phép hệ thống tự động tính toán và ghi nhận giá trị chênh lệch tồn kho vào sổ cái (General Ledger) vào cuối kỳ kế toán. Tính năng này giúp loại bỏ quy trình đóng sổ thủ công phức tạp, đảm bảo giá trị tồn kho trên Bảng cân đối kế toán luôn khớp với giá trị thực tế trong kho.
 
-![Ảnh minh họa cài đặt tài khoản](../screenshots/accounts/accounts-settings.png)
+![Ảnh minh họa cài đặt tài khoản](../../screenshots/accounts/accounts-settings.png)
 
 ---
 

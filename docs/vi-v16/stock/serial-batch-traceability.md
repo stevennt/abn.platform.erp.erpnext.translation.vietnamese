@@ -55,5 +55,5 @@ Dùng khi khách hàng phản hồi về một sản phẩm cụ thể.
 
 * [Quản lý Tồn kho (Stock Management)](../stock/management.md)
 * [Quản lý Lô hàng và Số Serial (Batch & Serial Management)](../stock/batch-serial.md)
-* [Quy trình Kiểm tra chất lượng (Quality Inspection)](../quality/inspection.md)
+* [Quy trình Kiểm tra chất lượng (Quality Inspection)](https://docs.erpnext.com/docs/v13/user/manual/en/quality/inspection)
 * [Quản lý Kho (Warehouse Management)](../stock/warehouse.md)

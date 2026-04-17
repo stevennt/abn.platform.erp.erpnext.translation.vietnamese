@@ -25,7 +25,7 @@ Trước khi tạo và sử dụng Quy tắc định giá, bạn nên tạo các
 
 1. [Mặt hàng](../stock/item.md)
 1. [Nhóm mặt hàng](../stock/item-group.md)
-1. [Khách hàng](../crm/customer.md)
+1. [Khách hàng](../selling/customer-list.md)
 1. [Nhà cung cấp](../buying/supplier.md)
 
 ## 2. Cách tạo Quy tắc định giá
@@ -91,6 +91,6 @@ Thiết lập xem Quy tắc định giá là dành cho việc Bán hay Mua Mặt
 
 Dựa trên lựa chọn của bạn, bạn có thể thiết lập khả năng áp dụng cho một trong các danh mục chính sau.
 
-* [Khách hàng](../crm/customer.md)
-* [Nhóm khách hàng](../crm/customer-group.md)
+* [Khách hàng](../selling/customer-list.md)
+* [Nhóm khách hàng](https://docs.erpnext.com/docs/v13/user/manual/en/crm/customer-group)
 * Khu vực (/crm/territory.md)

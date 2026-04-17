@@ -32,7 +32,7 @@ Trong Mua hàng:
 ## 1. Điều kiện tiên quyết
 Một Bút toán thanh toán cũng có thể được tạo trực tiếp sau đó liên kết với một đơn hàng/hóa đơn sau. Trước khi tạo và sử dụng Bút toán thanh toán, lời khuyên là nên tạo các mục sau trước:
 
-1. [Khách hàng](../crm/customer.md)
+1. [Khách hàng](../selling/customer-list.md)
 1. [Nhà cung cấp](../buying/supplier.md)
 1. [Tài khoản ngân hàng](bank-account.md)
 
@@ -47,7 +47,7 @@ Nếu bạn đang thực hiện theo Chu trình Bán hàng/Mua hàng, bạn sẽ
 Thiết lập:
 
 1. [Hệ thống tài khoản](chart-of-accounts.md)
-1. [Công ty](../setting-up/company-setup.md) (để có các tài khoản mặc định)
+1. [Công ty](https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/company-setup) (để có các tài khoản mặc định)
 
 ## 2. Cách tạo Bút toán thanh toán
 Khi Xác nhận một chứng từ mà từ đó có thể thực hiện Bút toán thanh toán, bạn sẽ thấy tùy chọn Thanh toán dưới nút **Create**.
@@ -57,7 +57,7 @@ Khi Xác nhận một chứng từ mà từ đó có thể thực hiện Bút to
 1. Thay đổi ngày hạch toán.
 1. Loại thanh toán (Payment Type) sẽ được thiết lập dựa trên giao dịch mà bạn đang thực hiện. Các loại bao gồm 'Receive' (Nhận), 'Pay' (Chi) và 'Internal Transfer' (Chuyển khoản nội bộ).
 1. Loại đối tác (Party Type), Đối tác (Party), Tên đối tác (Party Name) sẽ được lấy tự động.
-1. Tài khoản nhận thanh toán (Account Paid To) và Tài khoản chi thanh toán (Account Paid From) sẽ được lấy theo thiết lập trong [mẫu Công ty](../setting-up/company-setup.md).
+1. Tài khoản nhận thanh toán (Account Paid To) và Tài khoản chi thanh toán (Account Paid From) sẽ được lấy theo thiết lập trong [mẫu Công ty](https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/company-setup).
 1. Số tiền đã thanh toán (Amount Paid) sẽ được lấy từ Hóa đơn.
 1. Lưu và Xác nhận.
  ![Payment Entry from SO](https://docs.erpnext.com/docs/v16/assets/img/accounts/payment-entry-from-invoice.gif)

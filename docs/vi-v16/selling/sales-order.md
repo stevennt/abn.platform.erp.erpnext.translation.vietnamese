@@ -13,7 +13,7 @@ Nó thường là một Hợp đồng ràng buộc với Khách hàng của bạ
 ## 1. Điều kiện tiên quyết
 Trước khi tạo và sử dụng Đơn bán hàng, bạn nên tạo các mục sau trước:
 
-* [Khách hàng](../crm/customer.md)
+* [Khách hàng](customer-list.md)
 * [Mặt hàng](../stock/item.md)
 
 ## 2. Cách tạo Đơn bán hàng

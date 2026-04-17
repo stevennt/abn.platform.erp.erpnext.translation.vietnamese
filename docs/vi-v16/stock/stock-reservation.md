@@ -63,5 +63,5 @@ Nếu đơn hàng bị hủy hoặc không cần giữ hàng nữa:
 ## 7. Liên kết đến trang liên quan
 
 * [Quản lý Tồn kho](../stock/overview.md)
-* [Quản lý Đơn bán hàng](../sales/so-overview.md)
+* [Quản lý Đơn bán hàng](https://docs.erpnext.com/docs/v13/user/manual/en/sales/so-overview)
 * [Quản lý Kho và Lô hàng](../stock/warehouse-batch.md)

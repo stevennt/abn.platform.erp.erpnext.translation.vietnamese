@@ -37,7 +37,7 @@ Trước khi tạo và sử dụng Báo giá, bạn nên tạo các thông tin s
 1. Đi đến danh sách Báo giá, nhấn vào Mới.
 2. Chọn Báo giá dành cho Khách hàng hay Khách hàng tiềm năng từ trường 'Quotation To'.
 3. Nhập tên Khách hàng/Khách hàng tiềm năng.
-    * *Lưu ý: Trong phiên bản v16, bạn có thể tạo nhanh Báo giá trực tiếp từ màn hình thông tin [Khách hàng](../user/manual/en/CRM/customer) thông qua nút bấm SO/Quotation.*
+    * *Lưu ý: Trong phiên bản v16, bạn có thể tạo nhanh Báo giá trực tiếp từ màn hình thông tin [Khách hàng](customer-list.md) thông qua nút bấm SO/Quotation.*
 4. Nhập ngày Có hiệu lực, sau ngày này số tiền báo giá sẽ được coi là không còn hiệu lực.
 5. Loại đơn hàng có thể là Bán hàng, Bảo trì, hoặc Giỏ hàng. Giỏ hàng dành cho giỏ hàng trên website và không nhằm mục đích được tạo từ đây.
 6. Thêm các Mặt hàng và số lượng của chúng vào bảng mặt hàng, giá sẽ được tự động lấy từ Giá mặt hàng. Bạn cũng có thể lấy các mặt hàng từ một Cơ hội bằng cách nhấn vào Lấy mặt hàng từ > Cơ hội.

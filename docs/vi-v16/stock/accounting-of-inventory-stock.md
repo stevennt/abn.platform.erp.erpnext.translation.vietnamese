@@ -5,7 +5,7 @@ Giá trị của hàng tồn kho hiện có được coi là Tài sản ngắn h
 
 ## 1. Kiểm kê thường xuyên (Auto/Perpetual Inventory)
 
-Trong quy trình này, đối với mỗi giao dịch kho, hệ thống sẽ ghi các bút toán kế toán liên quan để đồng bộ số dư kho và số dư kế toán. Đây là thiết lập mặc định trong ERPNext. Theo mặc định, Kiểm kê thường xuyên được bật trong [Công ty](../setup/company-setup.md).
+Trong quy trình này, đối với mỗi giao dịch kho, hệ thống sẽ ghi các bút toán kế toán liên quan để đồng bộ số dư kho và số dư kế toán. Đây là thiết lập mặc định trong ERPNext. Theo mặc định, Kiểm kê thường xuyên được bật trong [Công ty](https://docs.erpnext.com/docs/v13/user/manual/en/setup/company-setup).
 
 Khi bạn mua và nhận hàng (thông qua [PR](../stock/purchase-receipt.md) hoặc [PO](../stock/purchase-order.md)), các mặt hàng đó được ghi nhận là tài sản của công ty (tồn kho). Khi bạn bán và giao các mặt hàng đó (thông qua [DN](../stock/delivery-note.md)), một khoản chi phí (Giá vốn hàng bán - COGS) tương đương với giá trị của các mặt hàng sẽ được ghi nhận. 
 

@@ -5,7 +5,7 @@
 
 ## 1. Tạo bản ghi Tài sản
 
-> Để biết thêm chi tiết về Tài sản, [vui lòng truy cập trang này](../asset/asset.md).
+> Để biết thêm chi tiết về Tài sản, [vui lòng truy cập trang này](https://docs.erpnext.com/docs/v13/user/manual/en/asset/asset).
 
 Tạo bản ghi Tài sản cho từng tài sản mà công ty bạn sở hữu mà chưa khấu hao hết.
 
@@ -23,7 +23,7 @@ Tạo bản ghi Tài sản cho từng tài sản mà công ty bạn sở hữu m
 
  ![Opening Stock Balance](https://docs.erpnext.com/docs/v16/assets/img/accounts/asset-opening-balance.png)
 
-> Để biết thêm chi tiết về Tài sản, [vui lòng truy cập trang này](../asset/asset.md).
+> Để biết thêm chi tiết về Tài sản, [vui lòng truy cập trang này](https://docs.erpnext.com/docs/v13/user/manual/en/asset/asset).
 
 ## 2. Tạo Bút toán để cập nhật Sổ cái
 

@@ -1,7 +1,7 @@
 <!-- add-breadcrumbs -->
 # Nhập số dư tồn kho đầu kỳ cho Mặt hàng theo Số serial và Lô hàng
 
-Đối với các mặt hàng có quản lý Số serial và Lô hàng, việc nhập số dư tồn kho đầu kỳ được thực hiện thông qua Phiếu kho. [Nhấp vào đây để tìm hiểu cách quản lý tồn kho theo số serial trong ERPNext](../serial-no.html.md).
+Đối với các mặt hàng có quản lý Số serial và Lô hàng, việc nhập số dư tồn kho đầu kỳ được thực hiện thông qua Phiếu kho. [Nhấp vào đây để tìm hiểu cách quản lý tồn kho theo số serial trong ERPNext](https://docs.erpnext.com/docs/v13/user/manual/en/serial-no.html).
 
 **Câu hỏi:** Tại sao việc nhập Số dư đầu kỳ cho Mặt hàng theo Số serial và Lô hàng không thể cập nhật thông qua Đối chiếu tồn kho?
 

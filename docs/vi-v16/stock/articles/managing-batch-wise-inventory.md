@@ -11,7 +11,7 @@ Bạn có thể tạo một Lô hàng mới từ:
 
 `Kho > Chứng từ > Lô hàng > Mới`
 
-Đọc [Lô hàng](../batch.html.md) để tìm hiểu thêm.
+Đọc [Lô hàng](https://docs.erpnext.com/docs/v13/user/manual/en/batch.html) để tìm hiểu thêm.
 
 Đối với mặt hàng có quản lý theo lô, việc cập nhật Số lô (Batch No.) trong các giao dịch kho (Phiếu nhập hàng & Phiếu giao hàng) là bắt buộc.
 
