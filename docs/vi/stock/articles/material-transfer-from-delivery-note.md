@@ -2,7 +2,7 @@
 # Chuyển vật tư từ Phiếu giao hàng và Phiếu nhập hàng
 
 
-Trong ERPNext, bạn có thể tạo bút toán Chuyển vật tư từ chứng từ [Phiếu kho](/docs/v13/user/manual/en/stock/stock-entry.html). Tuy nhiên, có một số trường hợp trong việc Chuyển vật tư mà nó cần được thể hiện dưới dạng Phiếu giao hàng và Phiếu nhập hàng.
+Trong ERPNext, bạn có thể tạo bút toán Chuyển vật tư từ chứng từ [Phiếu kho](../stock-entry.html.md). Tuy nhiên, có một số trường hợp trong việc Chuyển vật tư mà nó cần được thể hiện dưới dạng Phiếu giao hàng và Phiếu nhập hàng.
 
 ## Chuyển vật tư từ Phiếu giao hàng
 
@@ -18,11 +18,11 @@ Xem xét các trường hợp này, tính năng Chuyển vật tư cũng đã đ
 
 #### Kích hoạt Kho mục tiêu
 
-DocType Phiếu giao hàng mặt hàng (Delivery Note Item) có một trường ẩn là Kho mục tiêu (Target Warehouse) (trước đây là Kho khách hàng - Customer Warehouse). Bạn có thể kích hoạt nó từ [Thiết lập kho](/docs/v13/user/manual/en/stock/stock-settings) bằng cách bật tùy chọn "Allow Material Transfer From Delivery Note and Sales Invoice".
+DocType Phiếu giao hàng mặt hàng (Delivery Note Item) có một trường ẩn là Kho mục tiêu (Target Warehouse) (trước đây là Kho khách hàng - Customer Warehouse). Bạn có thể kích hoạt nó từ [Thiết lập kho](../stock-settings.md) bằng cách bật tùy chọn "Allow Material Transfer From Delivery Note and Sales Invoice".
 
 Lưu ý rằng khách hàng được chọn phải đại diện cho cùng một công ty. Để thực hiện việc này, hãy bật tùy chọn 'Is Internal Customer' trong biểu mẫu khách hàng và chọn công ty của bạn trong trường 'Represents Company'.
 
-<!-- <img class="screenshot" alt="Delivery Note Material Transfer" src="{{docs_base_url}}/v13/assets/img/stock/customer-warehouse.gif"> -->
+<!-- <img class="screenshot" alt="Delivery Note Material Transfer" src="https://docs.erpnext.com/docs/v13/assets/img/stock/customer-warehouse.gif"> -->
 
 ### Chọn Kho
 
@@ -30,7 +30,7 @@ Khi tạo Phiếu giao hàng để Chuyển vật tư, đối với một mặt 
 
 Trong Kho khách hàng (Customer Warehouse), hãy chọn một Kho nơi vật tư sẽ được chuyển đến hoặc chọn một kho mục tiêu.
 
-<img class="screenshot" alt="Delivery Note Material Transfer" src="{{docs_base_url}}/v13/assets/img/stock/customer-warehouse-2.png">
+<img class="screenshot" alt="Delivery Note Material Transfer" src="https://docs.erpnext.com/docs/v13/assets/img/stock/customer-warehouse-2.png">
 
 Khi Xác nhận Phiếu giao hàng, tồn kho của mặt hàng sẽ được trừ khỏi "Kho xuất" và cộng vào "Kho khách hàng".
 
@@ -46,11 +46,11 @@ Dưới đây là các bước để sử dụng Phiếu nhập hàng để tạ
 
 #### Kích hoạt Kho nhà cung cấp
 
-Tương tự như Kho khách hàng được hiển thị ở trên, bước đầu tiên là kích hoạt Kho nhà cung cấp (Supplier Warehouse) từ [Thiết lập kho](/docs/v13/user/manual/en/stock/stock-settings) như đã hiển thị ở trên.
+Tương tự như Kho khách hàng được hiển thị ở trên, bước đầu tiên là kích hoạt Kho nhà cung cấp (Supplier Warehouse) từ [Thiết lập kho](../stock-settings.md) như đã hiển thị ở trên.
 
 Lưu ý rằng nhà cung cấp được chọn phải đại diện cho cùng một công ty. Để thực hiện việc này, hãy bật tùy chọn 'Is Internal Supplier' trong biểu mẫu Nhà cung cấp và chọn công ty của bạn trong trường 'Represents Company'.
 
-<!-- <img class="screenshot" alt="Delivery Note Material Transfer" src="{{docs_base_url}}/v13/assets/img/stock/supplier-warehouse-enable.gif"> -->
+<!-- <img class="screenshot" alt="Delivery Note Material Transfer" src="https://docs.erpnext.com/docs/v13/assets/img/stock/supplier-warehouse-enable.gif"> -->
 
 ### Chọn Kho
 
@@ -58,10 +58,10 @@ Khi tạo Phiếu nhập hàng để Chuyển vật tư, đối với một Mặ
 
 Đây là cách bạn tạo một Phiếu nhập hàng nội bộ từ một Phiếu giao hàng nội bộ:
 
-<img class="screenshot" alt="Purchase Receipt Material Transfer" src="{{docs_base_url}}/v13/assets/img/stock/supplier-warehouse-1.png">
+<img class="screenshot" alt="Purchase Receipt Material Transfer" src="https://docs.erpnext.com/docs/v13/assets/img/stock/supplier-warehouse-1.png">
 
 Trong Kho nhà cung cấp (Supplier Warehouse), hãy chọn một Kho nơi vật tư sẽ được chuyển đi.
 
-<img class="screenshot" alt="Purchase Receipt Material Transfer" src="{{docs_base_url}}/v13/assets/img/stock/supplier-warehouse.png">
+<img class="screenshot" alt="Purchase Receipt Material Transfer" src="https://docs.erpnext.com/docs/v13/assets/img/stock/supplier-warehouse.png">
 
 Khi Xác nhận Phiếu nhập hàng, tồn kho của mặt hàng sẽ được trừ khỏi "Kho nhà cung cấp" và cộng vào "Kho nhận".

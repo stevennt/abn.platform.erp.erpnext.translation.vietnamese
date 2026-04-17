@@ -20,7 +20,7 @@ Thứ tự ưu tiên để kiểm tra Hạn mức tín dụng như sau:
 1. Nếu bạn để Hạn mức tín dụng ở giá trị mặc định là 0, nó sẽ không có tác dụng.
 1. Lưu.
 
- ![Customer Credit Limit](/docs/v13/assets/img/accounts/customer-credit-limit.png)
+ ![Customer Credit Limit](https://docs.erpnext.com/docs/v13/assets/img/accounts/customer-credit-limit.png)
 
 ## 2. Các tính năng
 ### 2.1 Kiểm soát viên tín dụng (Credit Controller)
@@ -31,13 +31,13 @@ Bạn có thể cho phép người dùng có một vai trò cụ thể ghi đè 
 1. Đi đến: **Accounting > Settings > Accounts Settings**
 1. Thiết lập vai trò trong trường Credit Controller.
 
-![Credit Manager](/docs/v13/assets/img/accounts/credit-manager-role.png)
+![Credit Manager](https://docs.erpnext.com/docs/v13/assets/img/accounts/credit-manager-role.png)
 
 ### 2.2 Bỏ qua kiểm tra Hạn mức tín dụng cho Đơn bán hàng
 
 Đối với các khách hàng cụ thể, bạn có thể thiết lập để hạn mức tín dụng được kiểm tra dựa trên tổng số tiền của các hóa đơn bán hàng chưa thanh toán thay vì dựa trên các đơn bán hàng. Bạn có thể thực hiện việc này bằng cách tích vào ô 'Bypass credit limit check at Sales Order' trong phần 'Credit Limit and Payment Terms' của khách hàng.
 
-![Credit Limit Bypass in Sales Order](/docs/v13/assets/img/accounts/customer-credit-limit-bypass.png)
+![Credit Limit Bypass in Sales Order](https://docs.erpnext.com/docs/v13/assets/img/accounts/customer-credit-limit-bypass.png)
 
 ### 2.3 Hạn mức tín dụng cho Nhóm khách hàng
 Để thiết lập Hạn mức tín dụng ở cấp độ Nhóm khách hàng:
@@ -54,7 +54,7 @@ Khi thiết lập Hạn mức tín dụng ở cấp độ Công ty, tất cả c
 1. Mở Công ty và thiết lập Hạn mức tín dụng.
 
 ### 3. Các chủ đề liên quan
-1. [Payment Entry](/docs/v13/user/manual/en/accounts/payment-entry)
-1. [Customer](/docs/v13/user/manual/en/CRM/customer)
+1. [Payment Entry](payment-entry.md)
+1. [Customer](https://docs.erpnext.com/docs/v13/user/manual/en/CRM/customer)
 
 {next}

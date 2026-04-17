@@ -11,8 +11,8 @@ Từ một đơn hàng khung, các đơn bán hàng có thể được tạo ra 
 ## 1. Điều kiện tiên quyết
 Trước khi tạo và sử dụng Đơn hàng khung, bạn nên tạo các thông tin sau trước:
 
-* [Khách hàng](/docs/v13/user/manual/en/CRM/customer) hoặc [Nhà cung cấp](/docs/v13/user/manual/en/buying/supplier)
-* [Mặt hàng](/docs/v13/user/manual/en/stock/item)
+* [Khách hàng](https://docs.erpnext.com/docs/v13/user/manual/en/CRM/customer) hoặc [Nhà cung cấp](../buying/supplier.md)
+* [Mặt hàng](../stock/item.md)
 
 ## 2. Cách tạo Đơn hàng khung cho Bán hàng và Mua hàng
 
@@ -23,7 +23,7 @@ Trước khi tạo và sử dụng Đơn hàng khung, bạn nên tạo các thô
 1. Nhập Item Code, Số lượng và Đơn giá trong bảng Mặt hàng. Bạn cũng có thể ghi chú các Điều khoản và Điều kiện cho từng mặt hàng.
 1. Xác nhận.
 
-![Blanket Order Selling](/docs/v13/assets/img/selling/blanket-order-selling.gif)
+![Blanket Order Selling](https://docs.erpnext.com/docs/v13/assets/img/selling/blanket-order-selling.gif)
 
 ## 3. Các tính năng
 
@@ -43,12 +43,12 @@ Sau khi Đơn hàng khung đã được Xác nhận, bạn có thể tạo các 
 
 Bạn có thể xem các Đơn mua hàng, Đơn bán hàng và Báo giá liên quan đến Đơn hàng khung này thông qua Trang tổng quan.
 
-![Blanket Order Dashboard](/docs/v13/assets/img/selling/blanket-order-dashboard.png)
+![Blanket Order Dashboard](https://docs.erpnext.com/docs/v13/assets/img/selling/blanket-order-dashboard.png)
 
 **Lưu ý-** Có thể tạo nhiều Đơn bán hàng, Đơn mua hàng và Báo giá dựa trên một Đơn hàng khung.
 
 ### 4. Các chủ đề liên quan
-* [Đơn bán hàng](/docs/v13/user/manual/en/selling/sales-order)
-* [Đơn mua hàng](/docs/v13/user/manual/en/buying/purchase-order)
+* [Đơn bán hàng](sales-order.md)
+* [Đơn mua hàng](../buying/purchase-order.md)
 
 {next}

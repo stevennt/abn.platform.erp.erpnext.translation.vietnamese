@@ -45,8 +45,8 @@ Giá trị tồn kho theo phương pháp thường xuyên được kích hoạt 
 
 1. Đi tới: **Home > Accounting > Company**
 
-    <img class="screenshot" alt="Perpetual Inventory" src="{{docs_base_url}}/v13/assets/img/accounts/perpetual-1.png">
+    <img class="screenshot" alt="Perpetual Inventory" src="https://docs.erpnext.com/docs/v13/assets/img/accounts/perpetual-1.png">
 
 #### 2. Các chủ đề liên quan
-1. [Kế toán hàng tồn kho](/docs/v13/user/manual/en/stock/accounting-of-inventory-stock)
-1. [Kiểm kê thường xuyên](/docs/v13/user/manual/en/stock/perpetual-inventory)
+1. [Kế toán hàng tồn kho](../accounting-of-inventory-stock.md)
+1. [Kiểm kê thường xuyên](../perpetual-inventory.md)

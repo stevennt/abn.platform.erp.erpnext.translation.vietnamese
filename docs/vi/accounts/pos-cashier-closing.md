@@ -12,11 +12,11 @@ Một quầy bán lẻ có thể có nhiều người vận hành trong suốt c
 1. Nhập bất kỳ chi phí nào phát sinh trong ca như đồ ăn nhẹ, trà, cà phê, v.v.
 1. Trong bảng Thanh toán, nhập phương thức Thanh toán và số tiền đã nhận.
 1. Lưu và Xác nhận.
-    ![POS Cashier Closing](/docs/v13/assets/img/accounts/pos-cashier-closing.png)
+    ![POS Cashier Closing](https://docs.erpnext.com/docs/v13/assets/img/accounts/pos-cashier-closing.png)
 
 * **Custody**: Số tiền trong ngăn kéo tiền mặt.
 * **Returns**: Số tiền cho các Mặt hàng được Khách hàng trả lại.
 
-Từ đây, kế toán hoặc người có liên quan có thể thu gom, đối chiếu tiền mặt và thực hiện các [Bút toán](/docs/v13/user/manual/en/accounts/journal-entry) cần thiết để cập nhật sổ cái của Công ty.
+Từ đây, kế toán hoặc người có liên quan có thể thu gom, đối chiếu tiền mặt và thực hiện các [Bút toán](journal-entry.md) cần thiết để cập nhật sổ cái của Công ty.
 
 {next}

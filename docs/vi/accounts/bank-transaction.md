@@ -6,15 +6,15 @@ Biểu mẫu này hiển thị các giao dịch ngân hàng trong ERPNext.
 ## 1. Điều kiện tiên quyết
 Trước khi sử dụng Nhập giao dịch ngân hàng, bạn nên tạo các mục sau trước:
 
-1. [Ngân hàng](/docs/v13/user/manual/en/accounts/bank)
-1. [Tài khoản ngân hàng](/docs/v13/user/manual/en/accounts/bank-account)
+1. [Ngân hàng](bank.md)
+1. [Tài khoản ngân hàng](bank-account.md)
 
 ## 2. Cách sử dụng Giao dịch ngân hàng
 Một Nhập giao dịch ngân hàng không nhằm mục đích được tạo thủ công. Nó được tạo tự động bằng cách sử dụng:
 
-1. [Đối chiếu ngân hàng](/docs/v13/user/manual/en/accounts/bank-reconciliation)
+1. [Đối chiếu ngân hàng](bank-reconciliation.md)
     Hoặc
-1. [Tích hợp Plaid](/docs/v13/user/manual/en/erpnext_integration/plaid_integration) để đồng bộ hóa với các Ngân hàng
+1. [Tích hợp Plaid](https://docs.erpnext.com/docs/v13/user/manual/en/erpnext_integration/plaid_integration) để đồng bộ hóa với các Ngân hàng
 
 ### 2.1 Các trường bổ sung trong Giao dịch ngân hàng
 

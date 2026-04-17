@@ -26,7 +26,7 @@ Dưới đây là giải thích về các trường:
 * **Lặp lại vào ngày cuối cùng của tháng:** Các hóa đơn định kỳ sẽ được tạo vào ngày cuối cùng của mỗi tháng.
 * **Thông báo qua Email:** Các địa chỉ Email (cách nhau bằng dấu phẩy) mà hóa đơn định kỳ sẽ được gửi đến khi được tự động tạo.
 
-Đọc [Lặp lại tự động](/docs/v13/user/manual/en/automation/auto-repeat) để biết thêm chi tiết.
+Đọc [Lặp lại tự động](https://docs.erpnext.com/docs/v13/user/manual/en/automation/auto-repeat) để biết thêm chi tiết.
 
 ## 3. Xử lý ngoại lệ
 
@@ -35,7 +35,7 @@ Trong tình huống hóa đơn định kỳ không được tạo thành công, 
 Khi nhận được thông báo, nếu nguyên nhân thất bại được khắc phục (như sửa lại Địa chỉ Email) trong vòng 24 giờ, thì hóa đơn định kỳ sẽ được tạo tự động. Nếu vấn đề không được khắc phục trong thời gian đã nêu, thì chứng từ cho tháng/năm đó phải được tạo thủ công.
 
 ### 4. Các chủ đề liên quan
-1. [Hóa đơn bán hàng](/docs/v13/user/manual/en/accounts/sales-invoice)
-1. [Hóa đơn mua hàng](/docs/v13/user/manual/en/accounts/purchase-invoice)
-1. [Đơn bán hàng](/docs/v13/user/manual/en/selling/sales-order)
-1. [Đơn mua hàng](/docs/v13/user/manual/en/buying/purchase-order)
+1. [Hóa đơn bán hàng](../sales-invoice.md)
+1. [Hóa đơn mua hàng](../purchase-invoice.md)
+1. [Đơn bán hàng](../../selling/sales-order.md)
+1. [Đơn mua hàng](../../buying/purchase-order.md)

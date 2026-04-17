@@ -3,7 +3,7 @@
 
 **Bảng giá là một tập hợp các Giá Mặt hàng để Bán, để Mua, hoặc cả hai.**
 
-ERPNext cho phép bạn duy trì nhiều [Giá Mặt hàng](/docs/v13/user/manual/en/stock/item-price) Bán và Mua bằng cách sử dụng các Bảng giá.
+ERPNext cho phép bạn duy trì nhiều [Giá Mặt hàng](item-price.md) Bán và Mua bằng cách sử dụng các Bảng giá.
 
 Bảng giá có thể được sử dụng trong các trường hợp bạn có các mức giá khác nhau cho các khu vực khác nhau (dựa trên chi phí vận chuyển), cho các loại tiền tệ khác nhau, v.v. Một Mặt hàng có thể có nhiều mức giá dựa trên khách hàng, tiền tệ, khu vực, chi phí vận chuyển, v.v., những mức giá này có thể được lưu trữ dưới dạng các kế hoạch đơn giá khác nhau.
 
@@ -13,11 +13,11 @@ Trong ERPNext, tất cả các Giá Mặt hàng được lưu trữ riêng biệ
 
 > Home > Selling/Buying/Stock > Items and Pricing > Price List
 
-<img class="screenshot" alt="Price List" src="{{docs_base_url}}/v13/assets/img/stock/price-list.png">
+<img class="screenshot" alt="Price List" src="https://docs.erpnext.com/docs/v13/assets/img/stock/price-list.png">
 
 ## 1. Cách sử dụng Bảng giá
 
-* Bảng giá sẽ được sử dụng khi tạo [Giá Mặt hàng](/docs/v13/user/manual/en/stock/item-price) để theo dõi giá bán hoặc giá mua của một mặt hàng.
+* Bảng giá sẽ được sử dụng khi tạo [Giá Mặt hàng](item-price.md) để theo dõi giá bán hoặc giá mua của một mặt hàng.
 
 * Có thể chỉ định các quốc gia cụ thể trong Bảng giá.
 
@@ -32,4 +32,4 @@ Trong ERPNext, tất cả các Giá Mặt hàng được lưu trữ riêng biệ
 **Lưu ý**: Nếu bạn có nhiều Bảng giá, bạn có thể chọn một Bảng giá hoặc gắn nó với một Khách hàng (để nó được tự động chọn). Giá Mặt hàng của bạn sẽ tự động được cập nhật từ Bảng giá.
 
 ### Các chủ đề liên quan
-1. [Giá Mặt hàng](/docs/v13/user/manual/en/stock/item-price)
+1. [Giá Mặt hàng](item-price.md)

@@ -7,27 +7,27 @@ Việc mua đúng số lượng với số tiền hợp lý có thể tác độ
 
 ## 1. Chủ đề
 ### 1.1 Chu trình mua hàng
-1. [Yêu cầu báo giá](/docs/v13/user/manual/en/buying/request-for-quotation)
-1. [Đơn mua hàng](/docs/v13/user/manual/en/buying/purchase-order)
-1. [Mẫu thuế và phí mua hàng](/docs/v13/user/manual/en/buying/purchase-taxes-and-charges-template)
+1. [Yêu cầu báo giá](request-for-quotation.md)
+1. [Đơn mua hàng](purchase-order.md)
+1. [Mẫu thuế và phí mua hàng](purchase-taxes-and-charges-template.md)
 
 ### 1.2 Nhà cung cấp
-1. [Nhà cung cấp](/docs/v13/user/manual/en/buying/supplier)
-1. [Báo giá của nhà cung cấp](/docs/v13/user/manual/en/buying/supplier-quotation)
-1. [Bảng điểm nhà cung cấp](/docs/v13/user/manual/en/buying/supplier-scorecard)
+1. [Nhà cung cấp](supplier.md)
+1. [Báo giá của nhà cung cấp](supplier-quotation.md)
+1. [Bảng điểm nhà cung cấp](supplier-scorecard.md)
 
 ### 1.3 Thiết lập
-1. [Cài đặt mua hàng](/docs/v13/user/manual/en/buying/buying-settings)
-1. [Nhóm nhà cung cấp](/docs/v13/user/manual/en/buying/supplier-group)
+1. [Cài đặt mua hàng](buying-settings.md)
+1. [Nhóm nhà cung cấp](supplier-group.md)
 
 ## 2. Bài viết
 ### 2.1 Nhà cung cấp
-1. [Duy trì mã mặt hàng của nhà cung cấp trong Danh mục mặt hàng](/docs/v13/user/manual/en/buying/articles/maintaining-suppliers-part-no-in-item)
+1. [Duy trì mã mặt hàng của nhà cung cấp trong Danh mục mặt hàng](articles/maintaining-suppliers-part-no-in-item.md)
 
 ### 2.2 Khác
-1. [Mua hàng với đơn vị tính khác nhau](/docs/v13/user/manual/en/buying/articles/purchasing-in-different-unit)
-1. [Sửa đổi Đơn mua hàng sau khi Xác nhận](/docs/v13/user/manual/en/buying/articles/amending-purchase-order-after-submit)
-1. [Báo cáo theo dõi thu mua](/docs/v13/user/manual/en/buying/articles/procurement-tracker-report)
+1. [Mua hàng với đơn vị tính khác nhau](articles/purchasing-in-different-unit.md)
+1. [Sửa đổi Đơn mua hàng sau khi Xác nhận](articles/amending-purchase-order-after-submit.md)
+1. [Báo cáo theo dõi thu mua](articles/procurement-tracker-report.md)
 
 ## 3. Video
 ### 3.1 Mua hàng

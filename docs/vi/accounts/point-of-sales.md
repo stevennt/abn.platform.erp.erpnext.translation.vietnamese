@@ -13,7 +13,7 @@ Trong ERPNext, Hóa đơn bán hàng có thể được tạo từ POS. Có hai 
 ## 1. Điều kiện tiên quyết
 Trước khi tạo và sử dụng Điểm bán hàng, bạn nên tạo các mục sau trước:
 
-1. [Hồ sơ POS](/docs/v13/user/manual/en/accounts/pos-profile)
+1. [Hồ sơ POS](pos-profile.md)
 
 ## 2. Cách tạo Hóa đơn POS
 Sau khi bạn thiết lập hồ sơ POS, bạn có thể bắt đầu lập hóa đơn trên POS.
@@ -25,11 +25,11 @@ Sau khi bạn thiết lập hồ sơ POS, bạn có thể bắt đầu lập hó
 1. Để chỉnh sửa Đơn giá và Chiết khấu, bạn cần kích hoạt chúng trong Hồ sơ POS.
 1. Cần phải thiết lập một Kho mặc định để hoàn tất giao dịch. Nếu Kho được thiết lập trong cả Mặt hàng và hồ sơ POS, thì kho trong Hồ sơ POS sẽ được ưu tiên.
 1. Lưu ý rằng bạn cần phải có Mặt hàng trong Kho trước khi có thể bán. Nếu Mặt hàng không có sẵn, một dấu chấm đỏ sẽ hiển thị bên cạnh Mặt hàng khi được chọn.
-  ![Màn hình POS](/docs/v13/assets/img/accounts/pos-screen.png)
+  ![Màn hình POS](https://docs.erpnext.com/docs/v13/assets/img/accounts/pos-screen.png)
 1. Khi tất cả các Mặt hàng đã được thêm vào, hãy nhấp vào Thanh toán (Pay). Bạn sẽ được yêu cầu Xác nhận Hóa đơn bán hàng.
 1. Chọn phương thức thanh toán, Xác nhận (Submit)
 1. Sau đó, bạn có thể in hóa đơn POS.
-  ![Thanh toán POS](/docs/v13/assets/img/accounts/pos-checkout.gif)
+  ![Thanh toán POS](https://docs.erpnext.com/docs/v13/assets/img/accounts/pos-checkout.gif)
 
 Sau khi Hóa đơn bán hàng được Xác nhận, bạn có thể in hoặc gửi email trực tiếp cho khách hàng.
 
@@ -48,7 +48,7 @@ Nếu danh sách sản phẩm của bạn quá dài, hãy sử dụng trường 
 ### 2.3 Loại bỏ một Mặt hàng khỏi Giỏ hàng
 1. Chọn hàng trong giỏ hàng và nhấp vào nút 'Remove' (Xóa) trong bàn phím số.
 
-  ![Loại bỏ Mặt hàng khỏi POS](/docs/v13/assets/img/accounts/remove-item-from-pos.png)
+  ![Loại bỏ Mặt hàng khỏi POS](https://docs.erpnext.com/docs/v13/assets/img/accounts/remove-item-from-pos.png)
 
 2. Đặt Số lượng (Qty) thành bằng không để loại bỏ Mặt hàng khỏi hóa đơn POS. Có hai cách để loại bỏ một Mặt hàng.
   * Nếu Số lượng của Mặt hàng là 1, hãy nhấp vào dấu trừ để đưa nó về bằng không.
@@ -59,14 +59,14 @@ Nếu danh sách sản phẩm của bạn quá dài, hãy sử dụng trường 
 
 POS tính toán số tiền thừa mà khách hàng đã trả, người dùng có thể trả lại từ tài khoản tiền mặt. Người dùng phải thiết lập tài khoản cho số tiền thừa trong hồ sơ POS.
 
-  ![Thay đổi số tiền thừa trong POS](/docs/v13/assets/img/accounts/change-amount-in-pos.png)
+  ![Thay đổi số tiền thừa trong POS](https://docs.erpnext.com/docs/v13/assets/img/accounts/change-amount-in-pos.png)
 
 ## 3. Các tính năng
 
 ### 3.1 Thêm Khách hàng mới
 Trong POS, người dùng có thể chọn Khách hàng hiện có trong khi tạo đơn hàng hoặc tạo một khách hàng mới. Tính năng này cũng hoạt động ở chế độ ngoại tuyến. Người dùng cũng có thể thêm chi tiết khách hàng như số điện thoại, địa chỉ, v.v. trên biểu mẫu. Khách hàng đã được tạo từ POS sẽ được đồng bộ hóa khi có kết nối internet.
 
-![Thêm Khách hàng mới trong POS](/docs/v13/assets/img/accounts/pos-add-new-customer.gif)
+![Thêm Khách hàng mới trong POS](https://docs.erpnext.com/docs/v13/assets/img/accounts/pos-add-new-customer.gif)
 
 ### 3.2 Các bút toán kế toán (Bút toán sổ cái) cho Điểm bán hàng:
 
@@ -83,29 +83,29 @@ Có:
   * Xóa bỏ (tùy chọn)
   * Tài khoản cho Số tiền thừa (tùy chọn)
 
-Để xem các bút toán sau khi xác nhận [Hóa đơn bán hàng](/docs/v13/user/manual/en/accounts/sales-invoice), hãy nhấp vào **Xem sổ cái (View Ledger)**.
+Để xem các bút toán sau khi xác nhận [Hóa đơn bán hàng](sales-invoice.md), hãy nhấp vào **Xem sổ cái (View Ledger)**.
 
 ### 3.3 Email
 
 Bạn cũng có thể gửi biên lai qua email.
 
-![Gửi Email kèm Biên lai POS](/docs/v13/assets/img/accounts/pos-email.png)
+![Gửi Email kèm Biên lai POS](https://docs.erpnext.com/docs/v13/assets/img/accounts/pos-email.png)
 
 ### 3.4 Chứng từ đóng POS
 
 Vào cuối ngày, thu ngân có thể đóng ca POS của mình bằng cách tạo một Chứng từ đóng POS.
 Nhấp vào Menu và chọn 'Close the POS'. Chọn khoảng thời gian, Hồ sơ POS của bạn và người dùng của bạn để truy xuất tất cả các doanh thu đã đăng ký.
 
-Để đóng theo ca hoặc theo thu ngân, hãy sử dụng [Đóng ca thu ngân POS](/docs/v13/user/manual/en/accounts/pos-cashier-closing).
+Để đóng theo ca hoặc theo thu ngân, hãy sử dụng [Đóng ca thu ngân POS](pos-cashier-closing.md).
 
-![Nhập đóng POS](/docs/v13/assets/img/accounts/pos-closing-entry.png)
+![Nhập đóng POS](https://docs.erpnext.com/docs/v13/assets/img/accounts/pos-closing-entry.png)
 
 Nhập số tiền đã thu được cho mỗi phương thức thanh toán. Nếu bạn nhận thấy bất kỳ sự khác biệt nào giữa số tiền trên hệ thống và số tiền mặt thực tế thu được, hãy tạo một Bút toán chênh lệch (Difference Posting).
 
 ### 4. Các chủ đề liên quan
-1. [Hóa đơn bán hàng](/docs/v13/user/manual/en/accounts/sales-invoice)
-1. [Đơn mua hàng](/docs/v13/user/manual/en/buying/purchase-order)
-1. [Bút toán thanh toán](/docs/v13/user/manual/en/accounts/payment-entry)
-1. [Yêu cầu thanh toán](/docs/v13/user/manual/en/accounts/payment-request)
+1. [Hóa đơn bán hàng](sales-invoice.md)
+1. [Đơn mua hàng](../buying/purchase-order.md)
+1. [Bút toán thanh toán](payment-entry.md)
+1. [Yêu cầu thanh toán](payment-request.md)
 
 {next}

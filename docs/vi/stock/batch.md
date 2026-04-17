@@ -12,9 +12,9 @@ Việc này được thực hiện dựa trên Mặt hàng. Nếu Mặt hàng đ
 ## 1. Điều kiện tiên quyết
 Trước khi tạo và sử dụng Lô hàng, bạn nên tạo các mục sau trước:
 
-* [Mặt hàng](/docs/v13/user/manual/en/stock/item)
+* [Mặt hàng](item.md)
 * Bật 'Has Batch No' trong danh mục Mặt hàng
-    ![Batch No Enabled](/docs/v13/assets/img/stock/batch-no-enabled.png)
+    ![Batch No Enabled](https://docs.erpnext.com/docs/v13/assets/img/stock/batch-no-enabled.png)
 
 
 ## 2. Cách tạo Lô hàng mới
@@ -29,25 +29,25 @@ Trước khi tạo và sử dụng Lô hàng, bạn nên tạo các mục sau tr
 1. Nếu có bất kỳ giao dịch nào đã được thực hiện với mặt hàng đó, số lô không thể được thiết lập hoặc hủy thiết lập.
 1. Lưu.
 
-Khi tính năng Lô hàng được bật cho một Mặt hàng, tùy chọn [giữ lại hàng mẫu (retain sample stock)](/docs/v13/user/manual/en/stock/retain-sample-stock) cũng sẽ khả dụng.
+Khi tính năng Lô hàng được bật cho một Mặt hàng, tùy chọn [giữ lại hàng mẫu (retain sample stock)](retain-sample-stock.md) cũng sẽ khả dụng.
 
 ### 2.1 Tự động tạo Lô hàng
 Nếu bạn muốn tự động tạo lô hàng tại thời điểm làm Phiếu nhập hàng, bạn phải tích vào 'Automatically Create New Batch' trong danh mục Mặt hàng:
 
-<img class="screenshot" alt="Item Setup for Batches" src="{{docs_base_url}}/v13/assets/img/stock/item_setup_for_batch.png">
+<img class="screenshot" alt="Item Setup for Batches" src="https://docs.erpnext.com/docs/v13/assets/img/stock/item_setup_for_batch.png">
 
 ## 3. Các tính năng
 ### 3.1 Chia tách và Di chuyển Lô hàng
 
 Khi bạn mở một lô hàng, bạn sẽ thấy tất cả số lượng thuộc về lô đó trên trang.
 
-<img class="screenshot" alt="Batch View" src="{{docs_base_url}}/v13/assets/img/stock/batch_view.png">
+<img class="screenshot" alt="Batch View" src="https://docs.erpnext.com/docs/v13/assets/img/stock/batch_view.png">
 
 * Để di chuyển lô hàng từ Kho này sang Kho khác, bạn có thể nhấn vào nút **Move**.
 
 * Bạn cũng có thể chia nhỏ lô hàng bằng cách nhấn vào nút **Split**. Việc này sẽ tạo ra một Lô hàng mới dựa trên Lô hàng này và số lượng sẽ được chia giữa các lô.
 
-    ![Split Batch](/docs/v13/assets/img/stock/batch_split.png)
+    ![Split Batch](https://docs.erpnext.com/docs/v13/assets/img/stock/batch_split.png)
 
 * Nếu bạn thiết lập ngày hết hạn, Lô hàng sẽ hiển thị 'Not Expired' (Chưa hết hạn) cho đến ngày hết hạn, sau đó nó sẽ hiển thị 'Expired' (Đã hết hạn). Nếu không thiết lập ngày, Lô hàng sẽ hiển thị 'Not Set' (Chưa thiết lập).
 
@@ -65,6 +65,6 @@ Ngày hết hạn của Lô (so sánh với ngày hạch toán của giao dịch
 Khi tìm kiếm Batch ID mà không nhập giá trị trong trường Kho, bộ lọc Số lượng thực tế sẽ không được áp dụng.
 
 ### 4. Các chủ đề liên quan
-1. [Số serial](/docs/v13/user/manual/en/stock/serial-no)
-1. [Nhập số dư tồn kho đầu kỳ cho Mặt hàng theo Số serial và Lô hàng](/docs/v13/user/manual/en/stock/articles/opening-stock-balance-entry-for-serialized-and-batch-item)
-1. [Quản lý tồn kho theo Lô hàng](/docs/v13/user/manual/en/stock/articles/managing-batch-wise-inventory)
+1. [Số serial](serial-no.md)
+1. [Nhập số dư tồn kho đầu kỳ cho Mặt hàng theo Số serial và Lô hàng](articles/opening-stock-balance-entry-for-serialized-and-batch-item.md)
+1. [Quản lý tồn kho theo Lô hàng](articles/managing-batch-wise-inventory.md)

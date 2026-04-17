@@ -23,7 +23,7 @@ Khi tạo một Cổ đông mới, họ cần được phát hành cổ phần t
 1. Thiết lập đơn giá cho một cổ phần, số tiền sẽ được tính toán dựa trên số lượng cổ phần.
 1. Lưu và Xác nhận.
 
- ![Share Transfer](/docs/v13/assets/img/accounts/sharetransfer-issue.png)
+ ![Share Transfer](https://docs.erpnext.com/docs/v13/assets/img/accounts/sharetransfer-issue.png)
 
 Sau khi xác nhận, một Bút toán có thể được tạo để cập nhật sổ cái bằng cách sử dụng nút **Create Journal Entry**.
 
@@ -42,7 +42,7 @@ Loại chuyển nhượng (Transfer Types):
 **Share Type (Loại cổ phần)**: Hai tùy chọn mặc định trong ERPNext là Cổ phần ưu đãi (Preference) và Cổ phần phổ thông (Equity). Điều này chỉ cho biết loại cổ phần, có thể thêm nhiều loại khác tùy theo cấu trúc Công ty của bạn.
 
 ### 2. Các chủ đề liên quan
-1. [Shareholder](/docs/v13/user/manual/en/accounts/shareholder)
-1. [Share Reports](/docs/v13/user/manual/en/accounts/share-reports)
+1. [Shareholder](shareholder.md)
+1. [Share Reports](share-reports.md)
 
 {next}

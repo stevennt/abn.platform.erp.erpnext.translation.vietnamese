@@ -20,7 +20,7 @@ Nếu luật pháp hiện hành không cho phép bạn hủy Hóa đơn bán hà
 3. Nếu bạn cũng muốn trả lại mặt hàng thông qua chính Hóa đơn bán hàng, hãy kiểm tra trường "Update Stock".
 4. Lưu và Xác nhận Giấy báo có.
 
-<img class="screenshot" alt="Create sales return" src="/docs/v13/assets/img/stock/sales-return-against-payment.png">
+<img class="screenshot" alt="Create sales return" src="https://docs.erpnext.com/docs/v13/assets/img/stock/sales-return-against-payment.png">
 
 Theo bút toán này, các mặt hàng đã bán sẽ được nhập lại vào Kho của bạn. Đồng thời, khoản thanh toán nhận được từ Khách hàng sẽ được đảo ngược.
 

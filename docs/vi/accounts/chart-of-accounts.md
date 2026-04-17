@@ -9,7 +9,7 @@ Hệ thống tài khoản là một chế độ xem dạng cây của tên các 
 
 Đối với mỗi công ty, Hệ thống tài khoản biểu thị cách phân loại các bút toán kế toán, chủ yếu dựa trên các yêu cầu theo quy định (thuế, tuân thủ các quy định của chính phủ).
 
-![CoA Tree](/docs/v13/assets/img/accounts/chart-of-accounts-tree.png)
+![CoA Tree](https://docs.erpnext.com/docs/v13/assets/img/accounts/chart-of-accounts-tree.png)
 
 Hệ thống tài khoản giúp bạn trả lời các câu hỏi như:
 
@@ -27,20 +27,20 @@ Với tư cách là người quản lý doanh nghiệp, việc thấy được t
 > Home > Accounting > Accounting Masters > Chart of Accounts
 
 ## 1. Cách Tạo/Chỉnh sửa Tài khoản
-ERPNext đi kèm với một bộ Hệ thống tài khoản tiêu chuẩn. Thay vì tạo/sửa đổi, bạn cũng có thể sử dụng công cụ [Chart of Accounts Importer](/docs/v13/user/manual/en/setting-up/chart-of-accounts-importer). Lưu ý rằng Hệ thống tài khoản hiện tại sẽ bị ghi đè khi sử dụng công cụ này.
+ERPNext đi kèm với một bộ Hệ thống tài khoản tiêu chuẩn. Thay vì tạo/sửa đổi, bạn cũng có thể sử dụng công cụ [Chart of Accounts Importer](https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/chart-of-accounts-importer). Lưu ý rằng Hệ thống tài khoản hiện tại sẽ bị ghi đè khi sử dụng công cụ này.
 
 1. Đi tới danh sách Hệ thống tài khoản.
 
  Tại đây bạn có thể mở các tài khoản nhóm chứa các tài khoản khác. Có các tùy chọn để "Thêm con" (Add Child) trong một tài khoản, Chỉnh sửa hoặc Xóa tài khoản đó.
 
- <img class="screenshot" alt="Chart of Accounts" src="{{docs_base_url}}/v13/assets/img/accounts/chart-of-accounts-add.gif">
+ <img class="screenshot" alt="Chart of Accounts" src="https://docs.erpnext.com/docs/v13/assets/img/accounts/chart-of-accounts-add.gif">
 
 1. Tùy chọn để tạo tài khoản con sẽ chỉ xuất hiện nếu bạn nhấp vào loại Tài khoản là Nhóm (thư mục).
 1. Nhập tên cho tài khoản.
 1. Nhập mã số cho tài khoản.
 1. Tích vào 'Is Group' nếu bạn muốn đây là một tài khoản nhóm có thể chứa các tài khoản khác.
 1. Chọn Loại Tài khoản (Account Type). Việc chọn mục này rất quan trọng vì một số trường chỉ cho phép chọn các loại tài khoản cụ thể.
-1. Thay đổi tiền tệ nếu tài khoản này sẽ được sử dụng cho các giao dịch với các loại tiền tệ khác nhau. Theo mặc định, đó là tiền tệ của Công ty. Để biết thêm, hãy truy cập trang [Multi Currency Accounting](/docs/v13/user/manual/en/accounts/multi-currency-accounting).
+1. Thay đổi tiền tệ nếu tài khoản này sẽ được sử dụng cho các giao dịch với các loại tiền tệ khác nhau. Theo mặc định, đó là tiền tệ của Công ty. Để biết thêm, hãy truy cập trang [Multi Currency Accounting](multi-currency-accounting.md).
 1. Nhấp vào **Create New**.
 
 Thông thường, bạn có thể muốn tạo các Tài khoản cho:
@@ -50,7 +50,7 @@ Thông thường, bạn có thể muốn tạo các Tài khoản cho:
  * Doanh thu bán sản phẩm, Doanh thu dịch vụ, v.v. trong mục **Income** (Thu nhập).
  * Nhà xưởng, máy móc, nội thất, v.v. trong mục **Fixed Assets** (Tài sản cố định).
 
-![Chart of Accounts](/docs/v13/assets/img/accounts/coa-root-accounts.png)
+![Chart of Accounts](https://docs.erpnext.com/docs/v13/assets/img/accounts/coa-root-accounts.png)
 
 > Mẹo: Các Tài khoản với các loại tiền tệ khác nhau được tạo ra khi bạn nhận hoặc thực hiện thanh toán bằng các loại tiền tệ khác nhau. Ví dụ, nếu bạn ở Ấn Độ và giao dịch với Hoa Kỳ, bạn có thể cần tạo các tài khoản như 'Debtors US', 'Creditors US', v.v.
 
@@ -81,7 +81,7 @@ Khác với các tài khoản Bảng cân đối kế toán, các tài khoản B
 
 Trong ERPNext, việc theo dõi Báo cáo Kết quả kinh doanh rất dễ dàng thông qua biểu đồ Lợi nhuận và Thua lỗ.
 
-![Profit and Loss Report]({{docs_base_url}}/v13/assets/img/accounts/profit-and-loss-report.png)
+![Profit and Loss Report](https://docs.erpnext.com/docs/v13/assets/img/accounts/profit-and-loss-report.png)
 
 
 Lưu ý rằng, vào ngày đầu tiên của năm, bạn chưa tạo ra bất kỳ lợi nhuận hay thua lỗ nào, nhưng bạn vẫn có tài sản, do đó các tài khoản bảng cân đối kế toán không bao giờ trở về bằng không vào đầu hoặc cuối một kỳ.

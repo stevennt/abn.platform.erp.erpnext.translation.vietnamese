@@ -24,7 +24,7 @@ Chúng tôi khuyên bạn nên bắt đầu sử dụng ERPNext cho kế toán t
 1. Khoản phải trả (AP) tức là các hóa đơn chưa thanh toán mà Nhà cung cấp đã gửi cho bạn
 
 
-Nếu trước đây bạn đã sử dụng phần mềm kế toán khác, bạn nên **đóng** các báo cáo tài chính trong phần mềm đó trước. Số dư cuối kỳ của các tài khoản nên được cập nhật làm số dư đầu kỳ trong ERPNext. Trước khi bắt đầu cập nhật số dư đầu kỳ, hãy đảm bảo rằng [Hệ thống tài khoản](/docs/v13/user/manual/en/accounts/chart-of-accounts) của bạn đã có đầy đủ các Tài khoản cần thiết.
+Nếu trước đây bạn đã sử dụng phần mềm kế toán khác, bạn nên **đóng** các báo cáo tài chính trong phần mềm đó trước. Số dư cuối kỳ của các tài khoản nên được cập nhật làm số dư đầu kỳ trong ERPNext. Trước khi bắt đầu cập nhật số dư đầu kỳ, hãy đảm bảo rằng [Hệ thống tài khoản](chart-of-accounts.md) của bạn đã có đầy đủ các Tài khoản cần thiết.
 
 Các bút toán đầu kỳ có thể được tạo bằng Công cụ tạo Hóa đơn đầu kỳ trong ERPNext.
 
@@ -32,21 +32,21 @@ Các bút toán đầu kỳ có thể được tạo bằng Công cụ tạo Hó
 
 ## 2. Số dư đầu kỳ của Tài sản
 
-2.1 [Tài sản cố định](/docs/v13/user/manual/en/accounts/opening-balance/fixed_assets)
+2.1 [Tài sản cố định](opening-balance/fixed_assets.md)
 
-2.2 [Tài sản tồn kho](/docs/v13/user/manual/en/stock/opening-stock)
+2.2 [Tài sản tồn kho](../stock/opening-stock.md)
 
-2.3 [Khoản phải thu](/docs/v13/user/manual/en/accounts/opening-balance/accounts_receivable)
+2.3 [Khoản phải thu](opening-balance/accounts_receivable.md)
 
-2.4 [Tài sản lưu động](/docs/v13/user/manual/en/accounts/opening-balance/current_assets)
+2.4 [Tài sản lưu động](opening-balance/current_assets.md)
 
 ## 3. Số dư đầu kỳ của Nợ phải trả
 
-3.1 [Tài khoản vốn](/docs/v13/user/manual/en/accounts/opening-balance/capital_accounts)
+3.1 [Tài khoản vốn](opening-balance/capital_accounts.md)
 
-3.2 [Nợ ngắn hạn](/docs/v13/user/manual/en/accounts/opening-balance/current_liabilities)
+3.2 [Nợ ngắn hạn](opening-balance/current_liabilities.md)
 
-3.3 [Khoản phải trả](/docs/v13/user/manual/en/accounts/opening-balance/accounts_payable)
+3.3 [Khoản phải trả](opening-balance/accounts_payable.md)
 
 ## 4. Xác minh Số dư đầu kỳ
 
@@ -61,9 +61,9 @@ Sau khi tất cả tài sản và nợ phải trả đã được nhập, số d
 </div>
 
 ### 6. Các chủ đề liên quan
-1. [Hệ thống tài khoản](/docs/v13/user/manual/en/accounts/chart-of-accounts)
-1. [Bút toán](/docs/v13/user/manual/en/accounts/journal-entry)
-1. [Bút toán thanh toán](/docs/v13/user/manual/en/accounts/payment-entry)
-1. [Đối chiếu thanh toán](/docs/v13/user/manual/en/accounts/payment-reconciliation)
+1. [Hệ thống tài khoản](chart-of-accounts.md)
+1. [Bút toán](journal-entry.md)
+1. [Bút toán thanh toán](payment-entry.md)
+1. [Đối chiếu thanh toán](payment-reconciliation.md)
 
 {next}

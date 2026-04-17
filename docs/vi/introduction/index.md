@@ -69,10 +69,10 @@ Dưới đây là một video để giúp bạn bắt đầu:
 ### Chủ đề
 Bạn cũng có thể xem các chủ đề sau:
 
-1. [Tôi có cần một hệ thống ERP không?](/docs/v13/user/manual/en/introduction/do-i-need-an-erp)
-- [Nguồn mở](/docs/v13/user/manual/en/introduction/open-source)
-- [Bắt đầu với ERPNext](/docs/v13/user/manual/en/introduction/getting-started-with-erpnext)
-- [Người dẫn đầu](/docs/v13/user/manual/en/introduction/the-champion)
-- [Chiến lược triển khai](/docs/v13/user/manual/en/introduction/implementation-strategy)
-- [Các quy trình chính](/docs/v13/user/manual/en/introduction/key-workflows)
-- [Khái niệm và Thuật ngữ](/docs/v13/user/manual/en/introduction/concepts-and-terms)
+1. [Tôi có cần một hệ thống ERP không?](do-i-need-an-erp.md)
+- [Nguồn mở](open-source.md)
+- [Bắt đầu với ERPNext](getting-started-with-erpnext.md)
+- [Người dẫn đầu](the-champion.md)
+- [Chiến lược triển khai](implementation-strategy.md)
+- [Các quy trình chính](key-workflows.md)
+- [Khái niệm và Thuật ngữ](concepts-and-terms.md)

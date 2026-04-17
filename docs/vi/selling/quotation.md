@@ -10,7 +10,7 @@ Trong một giao dịch bán hàng, khách hàng có thể yêu cầu một bả
 
 Một quy trình bán hàng điển hình trông như sau:
 
-![Make Quotation from Opportunity](/docs/v13/assets/img/selling/selling-flow-quo.png)
+![Make Quotation from Opportunity](https://docs.erpnext.com/docs/v13/assets/img/selling/selling-flow-quo.png)
 
 Một Báo giá bao gồm các chi tiết về:
 
@@ -29,9 +29,9 @@ Một Báo giá bao gồm các chi tiết về:
 ## 1. Điều kiện tiên quyết
 Trước khi tạo và sử dụng Báo giá, bạn nên tạo các thông tin sau trước:
 
-* [Khách hàng](/docs/v13/user/manual/en/CRM/customer)
-* [Khách hàng tiềm năng](/docs/v13/user/manual/en/CRM/lead)
-* [Mặt hàng](/docs/v13/user/manual/en/stock/item)
+* [Khách hàng](https://docs.erpnext.com/docs/v13/user/manual/en/CRM/customer)
+* [Khách hàng tiềm năng](https://docs.erpnext.com/docs/v13/user/manual/en/CRM/lead)
+* [Mặt hàng](../stock/item.md)
 
 ## 2. Cách tạo Báo giá
 1. Đi đến danh sách Báo giá, nhấn vào Mới.
@@ -45,7 +45,7 @@ Trước khi tạo và sử dụng Báo giá, bạn nên tạo các thông tin s
 
 Bạn cũng có thể tạo Báo giá từ một Cơ hội như sau.
 
-![Make Quotation from Opportunity](/docs/v13/assets/img/selling/make-quote-from-opp.png)
+![Make Quotation from Opportunity](https://docs.erpnext.com/docs/v13/assets/img/selling/make-quote-from-opp.png)
 
 ## 3. Các tính năng
 
@@ -60,8 +60,8 @@ Trong phần này có bốn trường:
 ### 3.2 Tiền tệ và Bảng giá
 Bạn có thể thiết lập tiền tệ mà báo giá/đơn bán hàng sẽ được gửi đi. Nếu bạn thiết lập một Bảng giá, thì giá mặt hàng sẽ được lấy từ bảng đó. Việc tích vào Bỏ qua Quy tắc định giá sẽ bỏ qua các Quy tắc định giá đã thiết lập trong Accounts > Pricing Rule.
 
-Đọc về [Bảng giá](/docs/v13/user/manual/en/stock/price-lists)
-và [Giao dịch đa tiền tệ](/docs/v13/user/manual/en/accounts/articles/managing-transactions-in-multiple-currency)
+Đọc về [Bảng giá](../stock/price-lists.md)
+và [Giao dịch đa tiền tệ](../accounts/articles/managing-transactions-in-multiple-currency.md)
 để biết thêm chi tiết.
 
 ### 3.3 Bảng Mặt hàng
@@ -71,7 +71,7 @@ Bảng này có thể được mở rộng bằng cách nhấp vào hình tam gi
 * **Trong phần Chiết khấu và Biên lợi nhuận**, bạn có thể thêm biên lợi nhuận bổ sung hoặc đưa ra mức chiết khấu. Cả hai đều có thể được thiết lập dựa trên số tiền hoặc phần trăm. Đơn giá cuối cùng sẽ được hiển thị bên dưới trong phần Đơn giá. Bạn có thể chỉ định một Mẫu thuế mặt hàng được tạo riêng cho một mặt hàng.
 * **Trọng lượng mặt hàng** sẽ được lấy về nếu đã được thiết lập trong danh mục Mặt hàng.
 * Trong phần **Kho và Tham chiếu**, kho sẽ được lấy từ danh mục Mặt hàng, đây là kho nơi có tồn kho của bạn.
-* Trong phần **Lập kế hoạch**, bạn có thể thấy Số lượng dự kiến và số lượng thực tế hiện có. Để biết thêm về các trường này, [nhấp vào đây](/docs/v13/user/manual/en/stock/projected-quantity). Nếu bạn nhấp vào nút 'Số dư kho', nó sẽ đưa bạn đến một DocType nơi bạn có thể tạo báo cáo tồn kho cho mặt hàng đó.
+* Trong phần **Lập kế hoạch**, bạn có thể thấy Số lượng dự kiến và số lượng thực tế hiện có. Để biết thêm về các trường này, [nhấp vào đây](../stock/projected-quantity.md). Nếu bạn nhấp vào nút 'Số dư kho', nó sẽ đưa bạn đến một DocType nơi bạn có thể tạo báo cáo tồn kho cho mặt hàng đó.
 * **Giỏ hàng**, ghi chú bổ sung dành cho các giao dịch trên website. Các ghi chú về mặt hàng sẽ được lấy về đây khi được thêm thông qua giỏ hàng. Ví dụ: làm món ăn cay hơn. *Được giới thiệu trong v12*
 * **Ngắt trang** Sẽ tạo một điểm ngắt trang ngay trước mặt hàng này khi in.
 
@@ -82,21 +82,21 @@ Bảng này có thể được mở rộng bằng cách nhấp vào hình tam gi
 Tổng số lượng, đơn giá và trọng lượng tịnh của tất cả các mặt hàng sẽ được hiển thị bên dưới bảng mặt hàng. Đơn giá hiển thị ở đây là giá trước thuế.
 
 ### 3.4 Thuế và Phí
-Để thêm thuế vào Báo giá, bạn có thể chọn [Mẫu Thuế và Phí bán hàng](/docs/v13/user/manual/en/selling/sales-taxes-and-charges-template) hoặc thêm thuế thủ công trong bảng Thuế và Phí bán hàng.
+Để thêm thuế vào Báo giá, bạn có thể chọn [Mẫu Thuế và Phí bán hàng](sales-taxes-and-charges-template.md) hoặc thêm thuế thủ công trong bảng Thuế và Phí bán hàng.
 
 Tổng thuế và phí sẽ được hiển thị bên dưới bảng. Nhấp vào Chi tiết thuế sẽ hiển thị tất cả các thành phần và số tiền.
 
-![Taxes in Quotation](/docs/v13/assets/img/selling/quotation-taxes.png)
+![Taxes in Quotation](https://docs.erpnext.com/docs/v13/assets/img/selling/quotation-taxes.png)
 
-Để thêm thuế tự động thông qua Danh mục thuế, hãy truy cập [trang này](/docs/v13/user/manual/en/accounts/tax-category).
+Để thêm thuế tự động thông qua Danh mục thuế, hãy truy cập [trang này](../accounts/tax-category.md).
 
 #### Quy tắc vận chuyển
-Quy tắc vận chuyển giúp thiết lập chi phí vận chuyển một Mặt hàng. Chi phí thường sẽ tăng theo khoảng cách vận chuyển. Để biết thêm, hãy truy cập trang [Quy tắc vận chuyển](/docs/v13/user/manual/en/selling/shipping-rule).
+Quy tắc vận chuyển giúp thiết lập chi phí vận chuyển một Mặt hàng. Chi phí thường sẽ tăng theo khoảng cách vận chuyển. Để biết thêm, hãy truy cập trang [Quy tắc vận chuyển](shipping-rule.md).
 
 ### 3.5 Chiết khấu bổ sung
 Ngoài việc đưa ra chiết khấu cho từng mặt hàng, bạn có thể thêm một khoản chiết khấu cho toàn bộ báo giá trong phần này. Khoản chiết khấu này có thể dựa trên Tổng cộng, tức là sau thuế/phí hoặc Tổng ròng, tức là trước thuế/phí. Chiết khấu bổ sung có thể được áp dụng dưới dạng phần trăm hoặc số tiền.
 
-Đọc [Áp dụng chiết khấu](/docs/v13/user/manual/en/selling/articles/applying-discount) để biết thêm chi tiết.
+Đọc [Áp dụng chiết khấu](articles/applying-discount.md) để biết thêm chi tiết.
 
 ### 3.6 Điều khoản thanh toán
 Đôi khi việc thanh toán không được thực hiện cùng một lúc. Tùy thuộc vào thỏa thuận, một nửa

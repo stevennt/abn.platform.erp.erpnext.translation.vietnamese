@@ -11,8 +11,8 @@ Các bản ghi Xử lý kế toán hoãn lại được tạo tự động khi h
 ## 1. Điều kiện tiên quyết
 Trước khi tạo và sử dụng Xử lý kế toán hoãn lại, bạn nên tạo và tìm hiểu trước các mục sau:
 
-* [Doanh thu hoãn lại](/docs/v13/user/manual/en/accounts/deferred-revenue)
-* [Chi phí hoãn lại](/docs/v13/user/manual/en/accounts/deferred-expense)
+* [Doanh thu hoãn lại](deferred-revenue.md)
+* [Chi phí hoãn lại](deferred-expense.md)
 
 
 ## 2. Cách tạo Xử lý kế toán hoãn lại
@@ -23,7 +23,7 @@ Trước khi tạo và sử dụng Xử lý kế toán hoãn lại, bạn nên t
 1. Nhập Ngày bắt đầu và Ngày kết thúc dịch vụ.
 1. Lưu và Xác nhận.
 
-![Process Deferred Revenue](/docs/v13/assets/img/accounts/process-deferred-accounting.png)
+![Process Deferred Revenue](https://docs.erpnext.com/docs/v13/assets/img/accounts/process-deferred-accounting.png)
 
 ## 3. Các tính năng
 
@@ -40,6 +40,6 @@ Nhập tài khoản nếu Doanh thu hoặc Chi phí hoãn lại chỉ cần đư
 Để truy cập Cài đặt kế toán, hãy đi tới:
 > Trang chủ > Kế toán > Danh mục kế toán > Cài đặt kế toán
 
-![Deferred Accounting Settings](/docs/v13/assets/img/accounts/deferred-accounting-settings.png)
+![Deferred Accounting Settings](https://docs.erpnext.com/docs/v13/assets/img/accounts/deferred-accounting-settings.png)
 
 {next}

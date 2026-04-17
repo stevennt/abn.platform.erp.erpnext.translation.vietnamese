@@ -11,7 +11,7 @@
 ## 1. Điều kiện tiên quyết
 Trước khi tạo Đôn đốc nợ, phải có một Hóa đơn bán hàng vì chứng từ này được tạo dựa trên hóa đơn đó.
 
-* [Sales Invoice](/docs/v13/user/manual/en/accounts/sales-invoice)
+* [Sales Invoice](sales-invoice.md)
 
 ## 2. Cách tạo Đôn đốc nợ
 Một bản Đôn đốc nợ được tạo dựa trên một Hóa đơn bán hàng.
@@ -25,12 +25,12 @@ Một bản Đôn đốc nợ được tạo dựa trên một Hóa đơn bán h
 1. Ngày và giờ hạch toán sẽ được đặt theo thời gian hiện tại, bạn có thể chỉnh sửa sau khi tích vào ô kiểm bên dưới Posting Time để tạo một bút toán lùi ngày.
 1. Lưu và Xác nhận.
 
- ![Dunning example](/docs/v13/assets/img/accounts/new-dunning.png)
+ ![Dunning example](https://docs.erpnext.com/docs/v13/assets/img/accounts/new-dunning.png)
 
 ### 2.1 Loại đôn đốc (Dunning Type) là gì?
 Loại đôn đốc lưu trữ các giá trị mặc định cho số ngày quá hạn, phí đôn đốc, lãi suất và các khối văn bản sẽ được đưa vào. Ví dụ, Loại đôn đốc "Thông báo lần 1" sẽ không có bất kỳ khoản phí nào, nhưng Loại đôn đốc "Thông báo lần 2" sẽ có phí đôn đốc và lãi suất tính trên số tiền còn nợ.
 
- ![Dunning Type](/docs/v13/assets/img/accounts/dunning-document-type.png)
+ ![Dunning Type](https://docs.erpnext.com/docs/v13/assets/img/accounts/dunning-document-type.png)
 
 ### 2.2 Trạng thái
 
@@ -45,10 +45,10 @@ Loại đôn đốc lưu trữ các giá trị mặc định cho số ngày quá
 
 Một Bút toán thanh toán có thể được tạo từ Đôn đốc nợ. Thông tin sẽ được lấy cùng với các chi tiết của Hóa đơn bán hàng mà nó đối chiếu.
 
-![Dunning Payment](/docs/v13/assets/img/accounts/dunning-payment-entry.png)
+![Dunning Payment](https://docs.erpnext.com/docs/v13/assets/img/accounts/dunning-payment-entry.png)
 
 ## 4. Các chủ đề liên quan
-1. [Payment Entry](/docs/v13/user/manual/en/accounts/payment-entry)
-1. [Sales Invoice](/docs/v13/user/manual/en/accounts/purchase-invoice)
+1. [Payment Entry](payment-entry.md)
+1. [Sales Invoice](purchase-invoice.md)
 
 {next}

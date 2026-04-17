@@ -24,7 +24,7 @@ Bằng cách này, số dư trong các Tài khoản Thu nhập và Chi phí củ
 1. Chọn tài khoản, thông thường đây là tài khoản 'Reserves and Surplus'.
 1. Nhập ghi chú nếu có.
 1. Lưu và Xác nhận.
-  ![Period Closing Voucher](/docs/v13/assets/img/accounts/period-closing-voucher.png)
+  ![Period Closing Voucher](https://docs.erpnext.com/docs/v13/assets/img/accounts/period-closing-voucher.png)
 
 ### 1.2 Giải thích các trường
 
@@ -37,13 +37,13 @@ Bút toán khóa sổ kỳ sẽ tạo các bút toán kế toán (GL Entry). Đi
 
 Bạn nên chọn một tài khoản nợ phải trả như Reserves and Surplus, hoặc bất kỳ tài khoản Dự trữ doanh thu nào hoặc vào tài khoản Vốn chủ sở hữu làm Tài khoản kết chuyển.
 
-![Period Closing Voucher ledger](/docs/v13/assets/img/accounts/period-closing-voucher-ledger.png)
+![Period Closing Voucher ledger](https://docs.erpnext.com/docs/v13/assets/img/accounts/period-closing-voucher-ledger.png)
 
 > **Lưu ý:** Nếu các bút toán kế toán được thực hiện trong một Năm tài chính đang khóa, ngay cả sau khi Bút toán khóa sổ kỳ đã được tạo cho Năm tài chính đó, bạn vẫn nên tạo một Bút toán khóa sổ kỳ khác. Bút toán sau này sẽ chỉ chuyển số dư P&L còn tồn đọng vào Tài khoản kết chuyển.
 
 ### 2. Các chủ đề liên quan
-1. [Fiscal Year](/docs/v13/user/manual/en/accounts/fiscal-year)
-1. [Tax Withholding Category](/docs/v13/user/manual/en/accounts/tax-withholding-category)
-1. [Accounting Period](/docs/v13/user/manual/en/accounts/accounting-period)
+1. [Fiscal Year](fiscal-year.md)
+1. [Tax Withholding Category](tax-withholding-category.md)
+1. [Accounting Period](accounting-period.md)
 
 {next}

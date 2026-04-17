@@ -11,12 +11,12 @@ Nếu bạn nhận thanh toán theo các mức 30-70, bạn có thể xác đị
 
 Trong Mẫu Điều khoản thanh toán, bạn có thể chọn tất cả các Điều khoản thanh toán và xác định một mẫu để có thể dễ dàng áp dụng vào các giao dịch bán hàng và mua hàng.
 
-![Payment Terms Template](/docs/v13/assets/img/accounts/payment-terms-template.png)
+![Payment Terms Template](https://docs.erpnext.com/docs/v13/assets/img/accounts/payment-terms-template.png)
 
 ## 1. Điều kiện tiên quyết
 Trước khi tạo và sử dụng Yêu cầu thanh toán, bạn nên tạo các mục sau trước:
 
-1. [Điều khoản thanh toán](/docs/v13/user/manual/en/accounts/payment-terms)
+1. [Điều khoản thanh toán](payment-terms.md)
 
 ## 2. Cách tạo Mẫu Điều khoản thanh toán
 Mẫu Điều khoản thanh toán cho ERPNext biết cách điền dữ liệu vào bảng trong phần 'Lịch trình điều khoản thanh toán' của chứng từ bán hàng/mua hàng.

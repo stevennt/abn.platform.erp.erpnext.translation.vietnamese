@@ -24,13 +24,13 @@ Việc lựa chọn Kho đối với mặt hàng theo lô sẽ khác. Trong trư
 
 Trước khi tạo và sử dụng Danh sách lấy hàng, bạn nên tạo các mục sau trước:
 
-- [Mặt hàng kho](/docs/v13/user/manual/en/stock/item)
-- [Kho](/docs/v13/user/manual/en/stock/warehouse)
+- [Mặt hàng kho](item.md)
+- [Kho](warehouse.md)
 
 ## 2. Cách tạo Danh sách lấy hàng
 
 1. Đi tới danh sách Danh sách lấy hàng, nhấn vào Mới.
- <img class='screenshot' alt='Unsaved Pick List' src='{{docs_base_url}}/v13/assets/img/stock/pick-list-unsaved-doc.png'>
+ <img class='screenshot' alt='Unsaved Pick List' src='https://docs.erpnext.com/docs/v13/assets/img/stock/pick-list-unsaved-doc.png'>
 
 1. Thiết lập Công ty.
 1. Chọn Mục đích của Danh sách lấy hàng. Đây là các tùy chọn trong Mục đích:
@@ -48,17 +48,17 @@ Trước khi tạo và sử dụng Danh sách lấy hàng, bạn nên tạo các
 1. **Lấy vị trí mặt hàng:** Sau khi các mặt hàng cần lấy đã được chốt, bạn có thể nhấn vào nút **Lấy vị trí mặt hàng** để lấy lựa chọn Kho cho từng mặt hàng. Vì Kho sẽ được tự động lấy nếu bạn lấy Mặt hàng từ bất kỳ chứng từ tham chiếu nào, nút này có thể hữu ích để thêm thủ công các Mặt hàng bổ sung hoặc thay đổi số lượng của các Mặt hàng hiện có trong bảng Vị trí mặt hàng.
 
 1. **Vị trí mặt hàng:** Phần này sẽ có thông tin về vị trí mặt hàng (Kho), Số serial cho các mặt hàng có số serial và số lô cho các mặt hàng theo lô.
- <img class='screenshot' alt='Item Locations' src='{{docs_base_url}}/v13/assets/img/stock/pick-list-item-locations.png'>
+ <img class='screenshot' alt='Item Locations' src='https://docs.erpnext.com/docs/v13/assets/img/stock/pick-list-item-locations.png'>
 
  Nếu có liên quan đến Số serial, dòng Mặt hàng sẽ trông như thế này:
- <img class='screenshot' alt='Item Location Detail' src='{{docs_base_url}}/v13/assets/img/stock/pick-list-item-location-detail.png'>
+ <img class='screenshot' alt='Item Location Detail' src='https://docs.erpnext.com/docs/v13/assets/img/stock/pick-list-item-location-detail.png'>
 
 1. Lưu và Xác nhận.
- <img class='screenshot' alt='Submitted Pick List' src='{{docs_base_url}}/v13/assets/img/stock/pick-list-submitted-doc.png'>
+ <img class='screenshot' alt='Submitted Pick List' src='https://docs.erpnext.com/docs/v13/assets/img/stock/pick-list-submitted-doc.png'>
 
 ### 2.1 Tạo Danh sách lấy hàng từ Đơn bán hàng
 
-1. Đi tới [Đơn bán hàng](/docs/v13/user/manual/en/selling/sales-order).
+1. Đi tới [Đơn bán hàng](../selling/sales-order.md).
 1. Nhấn vào nút **Tạo** ở góc trên bên phải của biểu mẫu và sau đó nhấn tùy chọn **Danh sách lấy hàng**.
 1. Sau khi bạn nhấn Danh sách lấy hàng, tất cả dữ liệu cần thiết cho Danh sách lấy hàng sẽ được lấy từ Đơn bán hàng.
 1. Bạn sẽ có thể thấy Bảng Vị trí mặt hàng với Kho đã được chọn cho mỗi mặt hàng.
@@ -74,10 +74,10 @@ Trước khi tạo và sử dụng Danh sách lấy hàng, bạn nên tạo các
 
 ### 2.2 Tạo Danh sách lấy hàng từ Lệnh sản xuất
 
-1. Đi tới [Lệnh sản xuất](/docs/v13/user/manual/en/manufacturing/work-order).
+1. Đi tới [Lệnh sản xuất](https://docs.erpnext.com/docs/v13/user/manual/en/manufacturing/work-order).
 1. Nhấn nút **Tạo Danh sách lấy hàng**.
 1. Bạn sẽ thấy hộp thoại yêu cầu số lượng Mặt hàng thành phẩm. Điều này là cần thiết để tính toán số lượng mặt hàng nguyên vật liệu cần thiết để sản xuất số lượng Mặt hàng thành phẩm đã nhập.
-<img class='screenshot' alt='Dialog For qty' src='{{docs_base_url}}/v13/assets/img/stock/pick-list-dialog-for-qty.png'>
+<img class='screenshot' alt='Dialog For qty' src='https://docs.erpnext.com/docs/v13/assets/img/stock/pick-list-dialog-for-qty.png'>
 
 1. Bạn sẽ có thể thấy bảng Vị trí mặt hàng với Kho đã được chọn cho mỗi mặt hàng nguyên vật liệu.
 1. Lưu chứng từ này và sau đó chứng từ này có thể được chuyển cho người đang thực hiện lấy hàng.
@@ -90,7 +90,7 @@ Trước khi tạo và sử dụng Danh sách lấy hàng, bạn nên tạo các
 
 ### 2.3 Tạo Danh sách lấy hàng từ Yêu cầu vật tư
 
-1. Đi tới [Yêu cầu vật tư](/docs/v13/user/manual/en/stock/material-request).
+1. Đi tới [Yêu cầu vật tư](material-request.md).
 1. Nhấn vào nút **Tạo** và sau đó nhấn tùy chọn **Danh sách lấy hàng**.
 1. Bạn sẽ có thể thấy bảng Vị trí mặt hàng với Kho đã được chọn cho mỗi mặt hàng trong Yêu cầu vật tư.
 1. Lưu chứng từ này và sau đó chứng từ này có thể được chuyển cho người đang lấy hàng.

@@ -7,19 +7,19 @@
 
 Trong danh mục Mặt hàng, tại phần Chi tiết Nhà cung cấp (Supplier Details), hãy nhập Mã mặt hàng (Item Code) do Nhà cung cấp cung cấp cho mặt hàng này.
 
-<img alt="Supplier Item Code" class="screenshot" src="{{docs_base_url}}/v13/assets/img/articles/supplier-item-code.png">
+<img alt="Supplier Item Code" class="screenshot" src="https://docs.erpnext.com/docs/v13/assets/img/articles/supplier-item-code.png">
 
 #### 2. Mã mặt hàng của Nhà cung cấp trong các Giao dịch
 
-Mỗi giao dịch mua hàng đều có trường trong bảng Mặt hàng, nơi Mã mặt hàng của Nhà cung cấp được lấy ra. Trường này bị ẩn trong biểu mẫu cũng như trong Mẫu in Tiêu chuẩn. Bạn có thể làm cho nó hiển thị bằng cách thay đổi thuộc tính của trường này từ [Customize Form.](/docs/v13/user/manual/en/customize-erpnext/customize-form.html)
+Mỗi giao dịch mua hàng đều có trường trong bảng Mặt hàng, nơi Mã mặt hàng của Nhà cung cấp được lấy ra. Trường này bị ẩn trong biểu mẫu cũng như trong Mẫu in Tiêu chuẩn. Bạn có thể làm cho nó hiển thị bằng cách thay đổi thuộc tính của trường này từ [Customize Form.](https://docs.erpnext.com/docs/v13/user/manual/en/customize-erpnext/customize-form.html)
 
 Đi tới chế độ xem in, nhấp vào Menu > customize, nhập tên mẫu in mới, tìm bảng Mặt hàng (Items), nhấp vào nút **Select columns** trong đó. Bạn sẽ thấy màn hình sau. Bây giờ hãy chọn ô "Supplier Part Number".
 
-![Supplier item part print format]({{docs_base_url}}/v13/assets/img/articles/supplier-item-code-print-format.png)
+![Supplier item part print format](https://docs.erpnext.com/docs/v13/assets/img/articles/supplier-item-code-print-format.png)
 
 Mã mặt hàng của Nhà cung cấp sẽ chỉ được lấy trong giao dịch mua hàng nếu cả Nhà cung cấp và Mã mặt hàng được chọn trong giao dịch mua hàng đều được ánh xạ với giá trị đã nêu trong danh mục Mặt hàng.
 
-<img alt="Supplier Item Code in transaction" class="screenshot" src="{{docs_base_url}}/v13/assets/img/articles/supplier-item-code-in-purchase-order.png">
+<img alt="Supplier Item Code in transaction" class="screenshot" src="https://docs.erpnext.com/docs/v13/assets/img/articles/supplier-item-code-in-purchase-order.png">
 
 
 <!-- markdown -->

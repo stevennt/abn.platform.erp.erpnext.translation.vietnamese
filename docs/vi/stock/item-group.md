@@ -9,7 +9,7 @@ Tùy thuộc vào loại sản phẩm, bạn có thể phân loại một mặt 
 > Trang chủ > Kho > Mặt hàng và Định giá > Nhóm mặt hàng
 
 Đây là giao diện cây Nhóm mặt hàng:
-<img class="screenshot" alt="Item Group Tree" src="{{docs_base_url}}/v13/assets/img/stock/item-group-tree.png">
+<img class="screenshot" alt="Item Group Tree" src="https://docs.erpnext.com/docs/v13/assets/img/stock/item-group-tree.png">
 
 ## 1. Cách tạo một Nhóm mặt hàng
 
@@ -19,7 +19,7 @@ Tùy thuộc vào loại sản phẩm, bạn có thể phân loại một mặt 
 1. Để biến mục con này thành một nút danh mục/nhóm, hãy tích vào Nhóm nút.
 1. Nhấn vào Tạo mới.
 
-<img class="screenshot" alt="Add Item Group" src="{{docs_base_url}}/v13/assets/img/stock/item-group-new.gif">
+<img class="screenshot" alt="Add Item Group" src="https://docs.erpnext.com/docs/v13/assets/img/stock/item-group-new.gif">
 
 ### 1.2 Xóa một Nhóm mặt hàng
 
@@ -43,15 +43,15 @@ Bạn có thể thay đổi Nhóm mặt hàng cha của một mặt hàng bằng
 * **Nhà cung cấp mặc định**: Khi thiết lập một Nhà cung cấp tại đây, nhà cung cấp này sẽ được chọn mặc định trong các giao dịch mua hàng cho các mặt hàng trong nhóm này.
 
 ### 2.3 Thuế mặt hàng
-Một mẫu thuế mặt hàng mặc định sẽ được áp dụng cho tất cả các mặt hàng thuộc nhóm này. Tương tự, một Danh mục thuế cũng có thể được chọn, hãy truy cập [Báo giá](/docs/v13/user/manual/en/selling/quotation) để biết thêm về Danh mục thuế.
+Một mẫu thuế mặt hàng mặc định sẽ được áp dụng cho tất cả các mặt hàng thuộc nhóm này. Tương tự, một Danh mục thuế cũng có thể được chọn, hãy truy cập [Báo giá](../selling/quotation.md) để biết thêm về Danh mục thuế.
 
 ### 2.4 Cài đặt Website
 * **Hiển thị trên Website**: Các mặt hàng thuộc nhóm này sẽ được hiển thị trên website của bạn dưới Nhóm mặt hàng.
 * **Trọng số**: Đây là trọng số cho chính các Nhóm mặt hàng, các nhóm mặt hàng có trọng số cao hơn sẽ được hiển thị trước.
-* **Trình chiếu**: Một trình chiếu cho Nhóm mặt hàng, giống như trong một Mặt hàng. Truy cập trang [Trang chủ](/docs/v13/user/manual/en/website/homepage) trong mô-đun Website để biết thêm.
+* **Trình chiếu**: Một trình chiếu cho Nhóm mặt hàng, giống như trong một Mặt hàng. Truy cập trang [Trang chủ](https://docs.erpnext.com/docs/v13/user/manual/en/website/homepage) trong mô-đun Website để biết thêm.
 
 * **Mô tả**: Thông tin này sẽ xuất hiện trên trang Nhóm mặt hàng.
 * **Thông số kỹ thuật Website**: Nhãn và mô tả của nó cho một nhóm mặt hàng.
 
 ### 3. Các chủ đề liên quan
-1. [Mặt hàng](/docs/v13/user/manual/en/stock/item)
+1. [Mặt hàng](item.md)

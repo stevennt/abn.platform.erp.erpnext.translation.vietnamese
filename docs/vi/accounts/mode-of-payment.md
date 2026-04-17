@@ -9,15 +9,15 @@
 ## 1. Cách tạo Phương thức thanh toán
 1. Đi đến danh sách Phương thức thanh toán và nhấn vào Mới.
 1. Nhập tên cho Phương thức thanh toán.
-1. Thiết lập loại là Tiền mặt, Ngân hàng hoặc Chung. Điều này hữu ích để biết phương thức thanh toán được sử dụng trong [Điểm bán hàng (PoS)](/docs/v13/user/manual/en/accounts/point-of-sales).
+1. Thiết lập loại là Tiền mặt, Ngân hàng hoặc Chung. Điều này hữu ích để biết phương thức thanh toán được sử dụng trong [Điểm bán hàng (PoS)](point-of-sales.md).
 1. Thiết lập Tài khoản thanh toán mặc định cho tất cả các công ty.
 1. Lưu.
 
-    ![Mode of Payment]({{docs_base_url}}/v13/assets/img/accounts/mode-of-payment.png)
+    ![Mode of Payment](https://docs.erpnext.com/docs/v13/assets/img/accounts/mode-of-payment.png)
 
-> **Mẹo**: Việc thiết lập Tài khoản mặc định sẽ giúp tài khoản này được tự động lấy vào trong [Bút toán thanh toán](/docs/v13/user/manual/en/accounts/payment-entry).
+> **Mẹo**: Việc thiết lập Tài khoản mặc định sẽ giúp tài khoản này được tự động lấy vào trong [Bút toán thanh toán](payment-entry.md).
 
-![Mode of Payment](/docs/v13/assets/img/accounts/mode-of-payment-in-payment-entry.gif)
+![Mode of Payment](https://docs.erpnext.com/docs/v13/assets/img/accounts/mode-of-payment-in-payment-entry.gif)
 
 > **Lưu ý**: Khi thực hiện Bút toán thanh toán, tài khoản ngân hàng mặc định sẽ được lấy theo thứ tự sau nếu đã được thiết lập:
 
@@ -27,7 +27,7 @@
 >       * Chọn thủ công trong Bút toán thanh toán
 
 ## 2. Các chủ đề liên quan
-1. [Bút toán thanh toán](/docs/v13/user/manual/en/accounts/payment-entry)
-1. [Yêu cầu thanh toán](/docs/v13/user/manual/en/accounts/payment-request)
+1. [Bút toán thanh toán](payment-entry.md)
+1. [Yêu cầu thanh toán](payment-request.md)
 
 {next}

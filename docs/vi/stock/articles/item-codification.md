@@ -61,7 +61,7 @@ Một thói quen tốt là nên có số lượng biến thể mặt hàng tối
 Chúng tôi tin rằng nếu bạn thực hiện khoản đầu tư nhỏ này, nó sẽ giúp bạn hợp lý hóa mọi thứ khi doanh nghiệp phát triển, mặc dù việc không mã hóa cũng không sao nếu bạn có ít mặt hàng.
 
 #### 6. Các chủ đề liên quan
-1. [Nhóm mặt hàng](/docs/v13/user/manual/en/stock/item-group)
-1. [Thuộc tính mặt hàng](/docs/v13/user/manual/en/stock/item-attribute)
-1. [Giá mặt hàng](/docs/v13/user/manual/en/stock/item-price)
-1. [Biến thể mặt hàng](/docs/v13/user/manual/en/stock/item-variants)
+1. [Nhóm mặt hàng](../item-group.md)
+1. [Thuộc tính mặt hàng](../item-attribute.md)
+1. [Giá mặt hàng](../item-price.md)
+1. [Biến thể mặt hàng](../item-variants.md)

@@ -11,8 +11,8 @@ Trước khi nhập tài sản ngắn hạn, hãy đảm bảo rằng bạn đã
 1. Chọn tài khoản 'Tài khoản tạm thời' trong Tài khoản và nhập số tiền cân bằng vào bên Có.
 1. Thiết lập 'Is Opening' thành Yes.
 
-> Để biết thêm chi tiết về Bút toán, [truy cập trang này](/docs/v13/user/manual/en/accounts/journal-entry.
+> Để biết thêm chi tiết về Bút toán, [truy cập trang này](../journal-entry.
 
-![Opening Balance Current Assets](/docs/v13/assets/img/accounts/opening-balance-current-assets.png)
+![Opening Balance Current Assets](https://docs.erpnext.com/docs/v13/assets/img/accounts/opening-balance-current-assets.png.md)
 
 {next}

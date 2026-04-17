@@ -7,13 +7,13 @@ Nó tương tự như Đơn bán hàng nhưng thay vì gửi cho bên thứ ba, 
 
 > Home > Buying > Purchasing > Purchase Order
 
-![Buying Flow](/docs/v13/assets/img/buying/buying_flow_po.png)
+![Buying Flow](https://docs.erpnext.com/docs/v13/assets/img/buying/buying_flow_po.png)
 
 ## 1. Điều kiện tiên quyết
 Trước khi tạo và sử dụng Đơn mua hàng, bạn nên tạo các thông tin sau trước:
 
-* [Nhà cung cấp](/docs/v13/user/manual/en/buying/supplier)
-* [Mặt hàng](/docs/v13/user/manual/en/stock/item)
+* [Nhà cung cấp](supplier.md)
+* [Mặt hàng](../stock/item.md)
 
 
 ## 2. Cách tạo Đơn mua hàng
@@ -26,20 +26,20 @@ Trước khi tạo và sử dụng Đơn mua hàng, bạn nên tạo các thông
 1. Thiết lập số lượng và đơn giá sẽ được lấy tự động nếu đã được thiết lập trong danh mục Mặt hàng.
 1. Thiết lập thuế.
 1. Lưu và Xác nhận.
-    <img class="screenshot" alt="Purchase Order" src="{{docs_base_url}}/v13/assets/img/buying/purchase-order.png">
+    <img class="screenshot" alt="Purchase Order" src="https://docs.erpnext.com/docs/v13/assets/img/buying/purchase-order.png">
 
 ### 2.1 Thiết lập Kho
 
 * **Thiết lập Kho đích**: Tùy chọn, bạn có thể thiết lập Kho đích mặc định nơi các Mặt hàng đã mua sẽ được giao đến. Thông tin này sẽ được lấy vào các dòng trong bảng mặt hàng.
 
 ### 2.2 Lấy Mặt hàng từ các Yêu cầu vật tư đang mở
-Các mặt hàng có thể được lấy tự động vào Đơn mua hàng từ các [Yêu cầu vật tư](/docs/v13/user/manual/en/stock/material-request) đang mở. Để thực hiện việc này, cần thực hiện các bước sau:
+Các mặt hàng có thể được lấy tự động vào Đơn mua hàng từ các [Yêu cầu vật tư](../stock/material-request.md) đang mở. Để thực hiện việc này, cần thực hiện các bước sau:
 
 1. Chọn một Nhà cung cấp trong Đơn mua hàng.
-1. Thiết lập Nhà cung cấp mặc định trong biểu mẫu Mặt hàng tại mục [Thiết lập mặc định cho mặt hàng](/docs/v13/user/manual/en/stock/item#39-item-defaults).
-1. [Yêu cầu vật tư](/docs/v13/user/manual/en/stock/material-request) cần phải có loại là 'Purchase'.
+1. Thiết lập Nhà cung cấp mặc định trong biểu mẫu Mặt hàng tại mục [Thiết lập mặc định cho mặt hàng](../stock/item.md#39-item-defaults).
+1. [Yêu cầu vật tư](../stock/material-request.md) cần phải có loại là 'Purchase'.
 1. Nhấp vào nút **Get Items from open Material Requests** bên dưới tên Nhà cung cấp. Một hộp thoại sẽ xuất hiện hiển thị các Yêu cầu vật tư có chứa các Mặt hàng mà Nhà cung cấp mặc định trùng với Nhà cung cấp đã chọn trong Đơn mua hàng. Sau khi chọn các Yêu cầu vật tư và nhấp vào **Get Items**, các Mặt hàng sẽ được lấy từ các Yêu cầu vật tư đó.
-<img class="screenshot" alt="Get Items from Open Material Requests" src="{{docs_base_url}}/v13/assets/img/buying/get-items-from-open-mr.png">
+<img class="screenshot" alt="Get Items from Open Material Requests" src="https://docs.erpnext.com/docs/v13/assets/img/buying/get-items-from-open-mr.png">
 
 > **Lưu ý:** Nút **Get Items from Open Material Requests** sẽ hiển thị chừng nào bảng mặt hàng còn trống.
 
@@ -59,17 +59,17 @@ Dành cho Ấn Độ:
 ### 3.2 Tiền tệ và Bảng giá
 Bạn có thể thiết lập loại tiền tệ mà đơn mua hàng sẽ được lưu trữ. Nếu bạn thiết lập một Bảng giá, thì giá mặt hàng sẽ được lấy từ bảng đó. Việc tích vào Bỏ qua Quy tắc định giá sẽ bỏ qua các Quy tắc định giá đã được thiết lập trong Accounts > Pricing Rule.
 
-Đọc thêm về [Bảng giá](/docs/v13/user/manual/en/stock/price-lists)
-và [Giao dịch đa tiền tệ](/docs/v13/user/manual/en/accounts/articles/managing-transactions-in-multiple-currency)
+Đọc thêm về [Bảng giá](../stock/price-lists.md)
+và [Giao dịch đa tiền tệ](../accounts/articles/managing-transactions-in-multiple-currency.md)
 để biết thêm chi tiết.
 
 ### 3.3 Gia công hoặc 'Cung cấp nguyên vật liệu'
 
-Thiết lập tùy chọn 'Supply Raw Materials' rất hữu ích cho việc gia công, nơi bạn cung cấp nguyên vật liệu để sản xuất một mặt hàng. Để biết thêm, hãy truy cập [Trang Gia công](/docs/v13/user/manual/en/manufacturing/subcontracting).
+Thiết lập tùy chọn 'Supply Raw Materials' rất hữu ích cho việc gia công, nơi bạn cung cấp nguyên vật liệu để sản xuất một mặt hàng. Để biết thêm, hãy truy cập [Trang Gia công](https://docs.erpnext.com/docs/v13/user/manual/en/manufacturing/subcontracting).
 
 ### 3.4 Bảng mặt hàng
 
-* **Quét mã vạch**: Bạn có thể thêm các Mặt hàng vào bảng mặt hàng bằng cách quét mã vạch nếu bạn có máy quét mã vạch. Đọc tài liệu về [theo dõi mặt hàng bằng mã vạch](/docs/v13/user/manual/en/stock/articles/track-items-using-barcode) để biết thêm.
+* **Quét mã vạch**: Bạn có thể thêm các Mặt hàng vào bảng mặt hàng bằng cách quét mã vạch nếu bạn có máy quét mã vạch. Đọc tài liệu về [theo dõi mặt hàng bằng mã vạch](../stock/articles/track-items-using-barcode.md) để biết thêm.
 
 * **Số lượng và Đơn giá**: Khi bạn chọn mã Mặt hàng, tên, mô tả và Đơn vị tính của nó sẽ được lấy tự động. 'Hệ số chuyển đổi Đơn vị tính' được đặt mặc định là 1, bạn có thể thay đổi tùy thuộc vào Đơn vị tính nhận được từ người bán, xem thêm ở phần tiếp theo.
 
@@ -77,7 +77,7 @@ Thiết lập tùy chọn 'Supply Raw Materials' rất hữu ích cho việc gia
 
 * **Trọng lượng mặt hàng** sẽ được lấy tự động nếu đã được thiết lập trong danh mục Mặt hàng, nếu không hãy nhập thủ công.
 
-* **Kho**: Kho nơi các mặt hàng sẽ được giao đến sẽ được tự động điền nếu 'Thiết lập Kho đích' đã được thiết lập trong Đơn mua hàng. Thông qua Đơn hàng tổng quát (Blanket Order), một Đơn hàng tổng quát có thể được liên kết, để biết thêm [nhấp vào đây](/docs/v13/user/manual/en/selling/blanket-order). Một 'Dự án' có thể được liên kết để theo dõi tiến độ. Một 'Định mức nguyên vật liệu' cũng có thể được liên kết để theo dõi tiến độ.
+* **Kho**: Kho nơi các mặt hàng sẽ được giao đến sẽ được tự động điền nếu 'Thiết lập Kho đích' đã được thiết lập trong Đơn mua hàng. Thông qua Đơn hàng tổng quát (Blanket Order), một Đơn hàng tổng quát có thể được liên kết, để biết thêm [nhấp vào đây](../selling/blanket-order.md). Một 'Dự án' có thể được liên kết để theo dõi tiến độ. Một 'Định mức nguyên vật liệu' cũng có thể được liên kết để theo dõi tiến độ.
 
 * 'Số lượng theo Đơn vị tính kho' sẽ hiển thị lượng tồn kho hiện tại theo Đơn vị tính được thiết lập trong danh mục Mặt hàng. 'Số lượng đã nhận' sẽ được cập nhật khi các mặt hàng được lập hóa đơn.
 

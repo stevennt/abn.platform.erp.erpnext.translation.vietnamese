@@ -1,7 +1,7 @@
 <!-- add-breadcrumbs -->
 #Nhập số dư tồn kho đầu kỳ cho Mặt hàng theo Số serial và Lô hàng
 
-Đối với các mặt hàng có quản lý Số serial và Số lô, việc nhập số dư tồn kho đầu kỳ cho chúng được cập nhật thông qua Phiếu kho. [Nhấp vào đây để tìm hiểu cách quản lý tồn kho theo số serial trong ERPNext](/docs/v13/user/manual/en/stock/serial-no.html).
+Đối với các mặt hàng có quản lý Số serial và Số lô, việc nhập số dư tồn kho đầu kỳ cho chúng được cập nhật thông qua Phiếu kho. [Nhấp vào đây để tìm hiểu cách quản lý tồn kho theo số serial trong ERPNext](../serial-no.html.md).
 
 **Câu hỏi:** Tại sao việc nhập Số dư đầu kỳ cho Mặt hàng theo Số serial và Lô hàng không thể cập nhật thông qua Đối chiếu tồn kho?
 
@@ -35,13 +35,13 @@ Chọn các Mặt hàng cần cập nhật số dư đầu kỳ.
 
 Đối với mặt hàng theo số serial, hãy cập nhật số lượng tương ứng với số lượng Số serial đang có.
 
-Đối với mặt hàng theo số serial, hãy ghi các Số serial tương đương với Số lượng của nó. Hoặc nếu các Số serial được cấu hình để tạo dựa trên Tiền tố, thì không cần phải nhập Số serial một cách thủ công. Nhấp [tại đây](/docs/v13/user/manual/en/stock/articles/serial-no-naming.html) để tìm hiểu thêm về cách đặt tên Số serial.
+Đối với mặt hàng theo số serial, hãy ghi các Số serial tương đương với Số lượng của nó. Hoặc nếu các Số serial được cấu hình để tạo dựa trên Tiền tố, thì không cần phải nhập Số serial một cách thủ công. Nhấp [tại đây](serial-no-naming.html.md) để tìm hiểu thêm về cách đặt tên Số serial.
 
 Đối với mặt hàng theo lô, hãy cung cấp ID Lô mà số dư đầu kỳ sẽ được cập nhật. Hãy chuẩn bị sẵn danh mục lô và cập nhật nó cho Mặt hàng theo lô. Để tạo Lô mới, hãy vào:
 
 `Kho > Thiết lập > Lô hàng > Mới`
 
-[Nhấp vào đây để tìm hiểu cách quản lý tồn kho theo lô trong ERPNext.](/docs/v13/user/manual/en/stock/articles/managing-batch-wise-inventory.html)
+[Nhấp vào đây để tìm hiểu cách quản lý tồn kho theo lô trong ERPNext.](managing-batch-wise-inventory.html.md)
 
 #### Bước 7: Cập nhật Giá trị tính giá mặt hàng
 
@@ -51,7 +51,7 @@ Cập nhật giá trị tính giá, đây sẽ là giá trị trên mỗi đơn 
 
 Theo hệ thống tính giá tồn kho thường xuyên, bút toán kế toán được tạo cho mọi giao dịch kho. Hệ thống kế toán bút toán kép yêu cầu Tổng Nợ phải khớp với Tổng Có trong một bút toán. Khi Xác nhận Phiếu kho, hệ thống sẽ ghi Nợ tài khoản Kho bằng tổng giá trị của các mặt hàng. Để cân bằng điều này, chúng ta sử dụng tài khoản Mở đầu Tạm thời làm Tài khoản chênh lệch.
 
-<img alt="Difference Account" class="screenshot" src="{{docs_base_url}}/v13/assets/img/articles/difference-account-1.png">
+<img alt="Difference Account" class="screenshot" src="https://docs.erpnext.com/docs/v13/assets/img/articles/difference-account-1.png">
 
 #### Bước 9: Lưu và Xác nhận Phiếu kho
 

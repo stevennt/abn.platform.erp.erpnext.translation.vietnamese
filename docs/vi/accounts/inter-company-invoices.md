@@ -15,7 +15,7 @@ Ví dụ, bạn có thể tạo một Hóa đơn mua hàng cho một công ty, c
 1. Chọn Khách hàng mà bạn muốn chọn cho hóa đơn liên kết.
 1. Bật hộp kiểm, **Is Internal Customer** hiển thị như sau:
 
-![Internal Customer](/docs/v13/assets/img/accounts/inter-company-customer.png)
+![Internal Customer](https://docs.erpnext.com/docs/v13/assets/img/accounts/inter-company-customer.png)
 
 1. Thêm công ty mà Khách hàng đó đại diện vào trường **Represents Company**. Đây là công ty mà Hóa đơn bán hàng sẽ được tạo.
 1. Trong bảng **Allowed To Transact With**, thêm công ty mà bạn sẽ tạo Hóa đơn mua hàng đối ứng.
@@ -27,16 +27,16 @@ Ví dụ, bạn có thể tạo một Hóa đơn mua hàng cho một công ty, c
 1. Trong bảng **Allowed To Transact With** của Nhà cung cấp, thêm công ty mà Khách hàng đại diện. Đây là công ty mà bạn sẽ thực hiện một Hóa đơn mua hàng liên kết.
 1. Đây là ảnh chụp màn hình về công ty Nhà cung cấp để tránh bất kỳ sự nhầm lẫn nào:
 
-![Inter Company Supplier](/docs/v13/assets/img/accounts/inter-company-supplier.png)
+![Inter Company Supplier](https://docs.erpnext.com/docs/v13/assets/img/accounts/inter-company-supplier.png)
 
 ### 1.2 Tạo Hóa đơn
-1. Bây giờ, tạo một [Sales Invoice](/docs/v13/user/manual/en/accounts/sales-invoice) mới, điền đầy đủ các trường.
+1. Bây giờ, tạo một [Sales Invoice](sales-invoice.md) mới, điền đầy đủ các trường.
 1. Hãy nhớ chọn Khách hàng là khách hàng nội bộ và công ty mà họ đang mua hàng.
 1. Lưu và Xác nhận Hóa đơn.
 
- <img class="screenshot" alt="Inter company invoice" src="{{docs_base_url}}/v13/assets/img/accounts/make-inter-company-invoice.png">
+ <img class="screenshot" alt="Inter company invoice" src="https://docs.erpnext.com/docs/v13/assets/img/accounts/make-inter-company-invoice.png">
 
- ![](/docs/v13/assets/img/accounts/)
+ ![](https://docs.erpnext.com/docs/v13/assets/img/accounts/)
 
 
 1. Trước khi bạn thực hiện *Hóa đơn liên công ty*, bạn cần thực hiện các bước sau:
@@ -56,8 +56,8 @@ Ví dụ, bạn có thể tạo một Hóa đơn mua hàng cho một công ty, c
 Bạn có thể làm theo quy trình tương tự để tạo một Hóa đơn mua hàng và sau đó là một Hóa đơn bán hàng liên kết từ Hóa đơn mua hàng đã được Xác nhận.
 
 ### 2. Các chủ đề liên quan
-1. [Sales Invoice](/docs/v13/user/manual/en/accounts/sales-invoice)
-1. [Purchase Invoice](/docs/v13/user/manual/en/accounts/purchase-invoice)
-1. [Inter Company Journal Entry](/docs/v13/user/manual/en/accounts/inter-company-journal-entry)
+1. [Sales Invoice](sales-invoice.md)
+1. [Purchase Invoice](purchase-invoice.md)
+1. [Inter Company Journal Entry](inter-company-journal-entry.md)
 
 {next}
