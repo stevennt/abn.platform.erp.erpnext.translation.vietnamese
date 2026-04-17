@@ -3,53 +3,56 @@
 ![Mẫu báo cáo tài chính](../../screenshots/reports/trial-balance.png)
 
 ## 1. Giới thiệu tính năng
-**[Mới trong v16]** 
+**[Mới trong v16]** Tính năng **Mẫu báo cáo tài chính (Financial Report Template)** cho phép người dùng xây dựng các báo cáo tài chính tùy chỉnh như Báo cáo Kết quả hoạt động kinh doanh (P&L) và Bảng cân đối kế toán (Balance Sheet) theo cấu trúc riêng của doanh nghiệp. 
 
-Tính năng **Mẫu báo cáo tài chính (Financial Report Template)** cung cấp khả năng tùy biến chuyên sâu cho các báo cáo kế toán cốt lõi như Báo cáo Kết quả hoạt động kinh doanh (P&L) và Bảng cân đối kế toán (Balance Sheet). Thay vì sử dụng các báo cáo mặc định, người dùng có thể tự xây dựng cấu trúc báo cáo theo nhu cầu riêng biệt, hỗ trợ đầy đủ các tiêu chuẩn kế toán quốc tế như **IFRS**, quản lý đa công ty (**multi-company**) và đặc biệt là khả năng sử dụng công thức toán học để tính toán các chỉ số tài chính ngay trong báo cáo.
+Thay vì sử dụng các báo cáo mặc định, bạn có thể:
+*   Tự định nghĩa cấu trúc dòng và cột.
+*   Sử dụng các công thức toán học phức tạp để tính toán các chỉ số tài chính.
+*   Đáp ứng các tiêu chuẩn kế toán quốc tế như **IFRS**.
+*   Hỗ trợ báo cáo hợp nhất cho mô hình **Multi-company** (đa công ty).
 
 ## 2. Điều kiện tiên quyết
-Để sử dụng tính năng này, bạn cần có các quyền và dữ liệu sau:
-* Quyền truy cập vào module **Kế toán (Accounting)**.
-* Đã thiết lập hệ thống **Sổ cái (General Ledger)** và các **Tài khoản (Account)** cơ bản.
-* Có kiến thức về cấu trúc sơ đồ tài khoản để phân loại các dòng báo cáo.
+Để sử dụng tính năng này, người dùng cần đảm bảo:
+*   Có quyền **Account Manager** hoặc quyền truy cập vào các module Tài chính.
+*   Đã thiết lập đầy đủ Hệ thống tài khoản (Chart of Accounts).
+*   Đã thực hiện **Xác nhận (Submit)** các bút toán (JE) liên quan để dữ liệu được cập nhật chính xác.
 
 ## 3. Hướng dẫn từng bước
 
 ### Bước 1: Tạo Mẫu báo cáo mới
-1. Truy cập vào thanh tìm kiếm, nhập **Financial Report Template** và chọn tài liệu này.
-2. Nhấn nút **Thêm mẫu báo cáo mới (New Financial Report Template)**.
+1. Truy cập vào thanh tìm kiếm, nhập "Financial Report Template" và chọn tài liệu này.
+2. Nhấn **Thêm Mẫu báo cáo mới (New Financial Report Template)**.
 3. Nhập **Tên mẫu báo cáo** (Ví dụ: *Báo cáo P&L theo IFRS*).
-4. Chọn **Loại báo cáo** (Ví dụ: *Profit and Loss Statement* hoặc *Balance Sheet*).
+4. Chọn **Loại báo cáo** (Bảng cân đối kế toán hoặc Báo cáo kết quả kinh doanh).
 
 ### Bước 2: Thiết lập cấu trúc dòng (Rows) và cột (Columns)
-1. Tại mục **Cấu trúc báo cáo**, bạn sẽ thấy danh sách các dòng.
-2. **Thêm dòng (Add Row):** Nhấn nút để thêm một dòng mới đại diện cho một chỉ tiêu tài chính (Ví dụ: *Doanh thu thuần*, *Giá vốn hàng bán*, *Lợi nhuận gộp*).
-3. **Gán tài khoản:** Với mỗi dòng, bạn có thể chọn một hoặc nhiều tài khoản từ Sơ đồ tài khoản để hệ thống tự động lấy dữ liệu.
-4. **Sử dụng công thức (Formula):** 
-    * Để tính toán các dòng tổng hợp (như Lợi nhuận gộp), hãy chọn loại dòng là **Formula**.
-    * Nhập công thức dựa trên tên của các dòng phía trên. 
-    * *Ví dụ:* Nếu dòng "Doanh thu" có tên là `Revenue` và "Giá vốn" là `COGS`, bạn có thể nhập công thức: `Revenue - COGS`.
+1. Tại bảng **Rows (Dòng)**, bạn thêm các dòng đại diện cho các nhóm tài khoản hoặc các chỉ số cần tính toán.
+2. Sử dụng cột **Account Type** hoặc **Account Head** để liên kết dòng với các tài khoản cụ thể trong Hệ thống tài khoản.
+3. Để tạo các dòng tổng hợp (ví dụ: Tổng doanh thu), hãy sử dụng tính năng **Parent Row** để nhóm các dòng con lại.
 
-### Bước 3: Cấu hình đa công ty và bộ lọc
-1. Nếu bạn làm việc trong môi trường đa công ty, hãy chọn **Company** cụ thể hoặc để trống để áp dụng cho tất cả các công ty trong cùng một nhóm.
-2. Thiết lập các bộ lọc mặc định như **Kỳ báo cáo (Period)** hoặc **Phân khúc (Segment)**.
+### Bước 3: Sử dụng công thức (Formulas)
+Đây là phần quan trọng nhất để tạo ra các chỉ số tự động:
+1. Tại dòng bạn muốn tính toán, tìm đến cột **Formula**.
+2. Nhập công thức dựa trên tên của các dòng (Row ID) hoặc các hàm toán học.
+    *   *Ví dụ:* Để tính Lợi nhuận gộp, bạn có thể nhập: `[Doanh thu] - [Giá vốn hàng bán]`.
+    *   *Ví dụ:* Để tính Tỷ suất lợi nhuận: `([Lợi nhuận thuần] / [Doanh thu]) * 100`.
+3. Hệ thống sẽ tự động tính toán giá trị dựa trên dữ liệu thực tế từ các tài khoản đã được thiết lập.
 
 ### Bước 4: Lưu và Sử dụng
 1. Nhấn **Lưu (Save)** để hoàn tất thiết lập.
-2. Để xem báo cáo, truy cập vào báo cáo tài chính tương ứng, chọn **Mẫu báo cáo (Report Template)** đã tạo và nhấn **Xem (Show)**.
+2. Để xem báo cáo, truy cập vào module Tài chính, chọn báo cáo tương ứng và chọn **Mẫu báo cáo** bạn vừa tạo từ bộ lọc.
 
 ## 4. Các tùy chọn/cài đặt liên quan
-* **Include Group Totals:** Tự động tính tổng cho các nhóm dòng được phân cấp.
-* **Drill Down:** Cho phép nhấn trực tiếp vào một con số trên báo cáo để xem các **Bút toán (JE)** chi tiết cấu thành nên con số đó.
-* **Custom Columns:** Cho phép tạo các cột so sánh (Ví dụ: Cột năm nay so với năm trước).
+*   **Multi-company:** Cho phép chọn một hoặc nhiều công ty để hợp nhất dữ liệu lên báo cáo.
+*   **Periodicity:** Thiết lập chế độ xem theo Ngày, Tháng, Quý hoặc Năm.
+*   **Filter:** Cho phép thêm các bộ lọc như Kho (Warehouse), Chi nhánh hoặc Trung tâm chi phí (Cost Center).
 
 ## 5. Lưu ý quan trọng
-* **Độ chính xác của công thức:** Khi sử dụng công thức, hãy đảm bảo tên các dòng (Row Name) được viết chính xác tuyệt đối để tránh lỗi tính toán.
-* **Phân cấp dòng:** Việc sử dụng các dòng con (Child Rows) giúp báo cáo gọn gàng hơn, nhưng cần kiểm soát kỹ việc cộng dồn dữ liệu để tránh trùng lặp số liệu.
-* **Sao lưu cấu hình:** Trước khi thay đổi cấu trúc của các mẫu báo cáo mặc định của hệ thống, hãy tạo một bản sao (Duplicate) để làm mẫu mới.
+*   **Tính chính xác của công thức:** Đảm bảo các ID dòng trong công thức khớp chính xác với ID bạn đã đặt ở cột "Row ID".
+*   **Dữ liệu thời gian thực:** Báo cáo chỉ phản ánh dữ liệu sau khi các **Bút toán (JE)** đã được **Xác nhận (Submit)**. Các bút toán đang ở trạng thái nháp sẽ không được tính vào báo cáo.
+*   **Sao lưu cấu trúc:** Trước khi thay đổi các công thức phức tạp trên mẫu báo cáo đang dùng, hãy sao chép mẫu đó ra một bản nháp để tránh làm gián đoạn báo cáo định kỳ.
 
 ## 6. Liên kết đến trang liên quan
-* [Sơ đồ tài khoản (Chart of Accounts)](chart-of-accounts.md)
-* [Bút toán (Journal Entry)](journal-entry.md)
-* [Báo cáo kết quả hoạt động kinh doanh (Profit and Loss)](profit-and-loss.md)
-* [Bảng cân đối kế toán (Balance Sheet)](balance-sheet.md)
+* [Hệ thống tài khoản (Chart of Accounts)](chart-of-accounts.md)
+* [Quản lý Bút toán (Journal Entry)](journal-entry.md)
+* [Báo cáo kết quả kinh doanh mặc định](profit-loss-statement.md)

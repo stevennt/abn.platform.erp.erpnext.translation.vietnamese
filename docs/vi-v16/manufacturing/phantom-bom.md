@@ -1,55 +1,60 @@
 # Định mức NVL ảo (Phantom BOM)
 
-![Giao diện ERPNext v16](../workspace-home.png)
+![Giao diện ERPNext v16](../../screenshots/workspace-home.png)
 
 ## 1. Giới thiệu tính năng
 > **✨ Mới trong v16**
 
-Trong ERPNext v16, tính năng **Định mức NVL ảo (Phantom BOM)** được tối ưu hóa để hỗ trợ quy trình sản xuất đa cấp phức tạp. Tính năng này cho phép bạn định nghĩa các cụm lắp ráp phụ (sub-assembly) trong cấu trúc BOM mà không cần phải tạo Lệnh sản xuất (Work Order) riêng biệt cho từng cấp trung gian.
+**Định mức NVL ảo (Phantom BOM)** là một tính năng nâng cao trong ERPNext v16, cho phép quản lý các cụm lắp ráp phụ (sub-assembly) mà không cần phải tạo Lệnh sản xuất (Work Order) riêng biệt cho từng cấp trung gian. 
 
-Khi bạn tạo một Lệnh sản xuất cho thành phẩm cuối cùng, hệ thống sẽ tự động **mở rộng (expand)** các thành phần của Phantom BOM, đưa trực tiếp các nguyên vật liệu của cấp phụ vào danh sách vật tư của lệnh sản xuất chính. Điều này giúp đơn giản hóa việc quản lý kho và giảm bớt các bước thao tác thừa trên hệ thống.
+Thay vì phải quản lý tồn kho và quy trình sản xuất cho các bộ phận phụ, hệ thống sẽ tự động "giải nén" (expand) danh sách vật tư từ Phantom BOM vào Lệnh sản xuất của sản phẩm cuối cùng. Điều này giúp đơn giản hóa quy trình quản lý, giảm bớt các bước thao tác thủ công và phản ánh chính xác cấu trúc vật tư thực tế tại xưởng.
 
 ## 2. Điều kiện tiên quyết
 Để sử dụng tính năng Phantom BOM, bạn cần đảm bảo các điều kiện sau:
-* Đã thiết lập danh mục **Mặt hàng (Item)** cho cả thành phẩm và bán thành phẩm.
-* Đã thiết lập **Định mức nguyên vật liệu (BOM)** cho tất cả các cấp trong cấu trúc sản phẩm.
-* Tài khoản người dùng có quyền truy cập vào module Sản xuất và Kho.
+* Đã kích hoạt tính năng **Sản xuất (Manufacturing)** trong Module.
+* Các **Mặt hàng (Item)** thành phần đã được thiết lập đúng danh mục.
+* Có sẵn **Định mức nguyên vật liệu (BOM)** cho sản phẩm chính.
 
 ## 3. Hướng dẫn từng bước
 
-### Bước 1: Thiết lập BOM cho bán thành phẩm (Sub-assembly)
-1. Truy cập vào danh mục **Mặt hàng (Item)** và chọn mặt hàng đóng vai trò là cụm lắp ráp phụ.
-2. Mở bảng **Định mức nguyên vật liệu (BOM)** của mặt hàng đó.
-3. Thêm các nguyên vật liệu thành phần cần thiết.
-4. **Quan trọng:** Đảm bảo BOM này được lưu và sẵn sàng để sử dụng.
+Để thiết lập một Phantom BOM, hãy thực hiện theo các bước sau:
 
-### Bước 2: Thiết lập Phantom BOM cho thành phẩm chính
-1. Truy cập vào **Định mức nguyên vật liệu (BOM)** của thành phẩm cuối cùng.
-2. Trong bảng **Thành phần (Items)**, thêm mặt hàng bán thành phẩm (đã tạo ở Bước 1) vào danh sách.
-3. Tìm cột **Is Phantom** (Là ảo) và tích chọn vào ô này.
-4. Nhấn **Lưu (Save)** để hoàn tất.
+1. **Tạo BOM cho cụm lắp ráp phụ:**
+   - Truy cập vào danh mục **Mặt hàng (Item)** và chọn mặt hàng đóng vai trò là cụm lắp ráp.
+   - Tạo một bản ghi **Định mức nguyên vật liệu (BOM)** mới cho mặt hàng này.
+   - Tại bảng **Thành phần (Items)**, liệt kê tất cả các linh kiện/nguyên liệu cấu thành cụm lắp ráp đó.
 
-### Bước 3: Kiểm tra việc tự động mở rộng khi tạo Lệnh sản xuất
-1. Tạo một **Lệnh sản xuất (Work Order)** mới cho thành phẩm chính.
-2. Chọn BOM đã thiết lập có chứa Phantom BOM.
-3. Nhấn **Lưu (Save)** hoặc **Xác nhận (Submit)**.
-4. Kiểm tra bảng **Danh sách vật tư (Material List)**: Bạn sẽ thấy các nguyên vật liệu của bán thành phẩm phụ đã tự động xuất hiện trực tiếp trong danh sách vật tư của Lệnh sản xuất chính mà không cần thông qua một Lệnh sản xuất trung gian nào.
+2. **Kích hoạt chế độ Phantom:**
+   - Trong giao diện chỉnh sửa BOM của cụm lắp ráp phụ, tìm tùy chọn **Is Phantom (Là Phantom)**.
+   - Tích chọn vào ô này.
+   - Nhấn **Lưu (Save)**.
+
+3. **Thiết lập BOM cho sản phẩm cuối cùng:**
+   - Tạo BOM cho sản phẩm hoàn thiện.
+   - Thêm cụm lắp ráp phụ (đã thiết lập là Phantom ở bước trên) vào danh sách **Thành phần (Items)**.
+   - Nhấn **Lưu (Save)**.
+
+4. **Kiểm tra kết quả khi tạo Lệnh sản xuất:**
+   - Tạo một **Lệnh sản xuất (Work Order)** cho sản phẩm cuối cùng.
+   - Nhấn **Xác nhận (Submit)**.
+   - Khi hệ thống tự động tạo **Phiếu yêu cầu vật tư (MR)** hoặc danh sách vật tư cho Lệnh sản xuất, bạn sẽ thấy các linh kiện của cụm phụ đã được liệt kê trực tiếp thay vì chỉ hiển thị tên cụm lắp ráp.
 
 ## 4. Ảnh minh họa
-*(Hình ảnh minh họa cấu trúc Phantom BOM và quá trình tự động mở rộng vật tư)*
-![Giao diện ERPNext v16](../workspace-home.png)
+*(Hình ảnh minh họa giao diện thiết lập tùy chọn "Is Phantom" trong BOM)*
+![Giao diện thiết lập Phantom BOM](../../screenshots/workspace-home.png)
 
 ## 5. Các tùy chọn/cài đặt liên quan
-* **Is Phantom (Là ảo):** Tùy chọn quyết định xem một dòng trong BOM có được coi là một thực thể tồn kho độc lập hay chỉ là một tập hợp các linh kiện để lắp ráp nhanh.
-* **BOM Explosion (Bùng nổ BOM):** Cơ chế hệ thống tự động tính toán các cấp nguyên vật liệu khi có sự xuất hiện của Phantom Item.
+* **Is Phantom (Là Phantom):** Tùy chọn quan trọng nhất để xác định BOM này sẽ được tự động giải nén.
+* **BOM Item (Mặt hàng trong BOM):** Các thành phần cấp dưới sẽ được đẩy thẳng vào danh sách vật tư của cấp trên.
+* **Work Order Expansion:** Cơ chế tự động tính toán định mức khi tạo lệnh sản xuất.
 
 ## 6. Lưu ý quan trọng
-* **Quản lý Tồn kho:** Vì là "Ảo", hệ thống sẽ không tạo ra các phiếu nhập kho hay phiếu xuất kho riêng cho bán thành phẩm này. Tồn kho sẽ được ghi nhận trực tiếp cho các nguyên vật liệu thành phần và thành phẩm cuối cùng.
-* **Chi phí:** Chi phí của Phantom BOM được tính toán bằng tổng chi phí của các thành phần bên trong nó và được cộng dồn vào giá thành của thành phẩm chính.
-* **Không dùng cho sản xuất độc lập:** Nếu bạn có kế hoạch sản xuất bán thành phẩm đó để lưu kho riêng biệt, **KHÔNG** được tích chọn "Is Phantom".
+* **Tồn kho (Stock):** Vì là Phantom BOM, hệ thống sẽ **không** tạo các bút toán nhập kho cho cụm lắp ráp phụ. Sản phẩm phụ này không tồn tại dưới dạng thực thể độc lập trong **Kho (Warehouse)**.
+* **Quản lý Lô hàng (Batch):** Nếu các thành phần bên trong Phantom BOM có quản lý theo **Lô hàng (Batch)**, hệ thống vẫn đảm bảo truy xuất nguồn gốc chính xác khi giải nén.
+* **Chi phí:** Chi phí của các linh kiện thành phần sẽ được cộng dồn trực tiếp vào giá thành của sản phẩm cuối cùng.
 
 ## 7. Liên kết đến trang liên quan
-* [Quản lý Định mức nguyên vật liệu (BOM)](bom.md)
-* [Quy trình Lệnh sản xuất (Work Order)](work_order.md)
-* [Quản lý Kho và Tồn kho (Stock)](stock.md)
-* [Danh mục Mặt hàng (Item)](item.md)
+* [Định mức nguyên vật liệu (BOM)](bom.md)
+* [Lệnh sản xuất (Work Order)](work_order.md)
+* [Quản lý Kho và Vật tư](stock_management.md)
+* [Quản lý Mặt hàng (Item)](item.md)

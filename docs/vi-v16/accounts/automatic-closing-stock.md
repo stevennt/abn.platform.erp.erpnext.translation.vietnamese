@@ -1,44 +1,53 @@
 # Tự động đóng sổ kho (Automatic Closing Stock Posting)
 
-**Mới trong v16**
+**Chủ đề:** Tự động đóng sổ kho trong v16 - Tự động ghi nhận chênh lệch tồn kho vào sổ cái cuối kỳ, thay thế quy trình đóng sổ thủ công.
 
-Tính năng **Tự động đóng sổ kho (Automatic Closing Stock Posting)** trong ERPNext v16 cho phép hệ thống tự động tính toán và ghi nhận giá trị chênh lệch tồn kho vào sổ cái (General Ledger) vào cuối kỳ kế toán. Tính năng này giúp loại bỏ quy trình đóng sổ thủ công phức tạp, đảm bảo giá trị tồn kho trên Bảng cân đối kế toán luôn khớp với giá trị thực tế trong kho.
-
-![Ảnh minh họa cài đặt tài khoản](../../screenshots/accounts/accounts-settings.png)
-
----
+![Ảnh minh họa thiết lập đóng sổ kho](../../screenshots/accounts/accounts-settings.png)
 
 ### 1. Giới thiệu tính năng
-Trước phiên bản v16, việc điều chỉnh giá trị tồn kho để khớp với sổ cái thường yêu cầu các bút toán điều chỉnh thủ công hoặc các quy trình kiểm kê phức tạp. Với tính năng mới này, khi bạn thực hiện khóa kỳ kế toán hoặc chạy tiến trình cuối kỳ, hệ thống sẽ tự động so sánh giá trị tồn kho hiện tại với tài khoản kho trên sổ cái và tạo **Bút toán (JE)** chênh lệch một cách chính xác.
+> **✨ Mới trong v16**
+
+Trong các phiên bản trước, việc tính toán giá trị tồn kho cuối kỳ thường yêu cầu người dùng phải thực hiện các bước đóng sổ thủ công để cập nhật giá trị tài sản từ kho vào sổ cái. 
+
+Với ERPNext v16, tính năng **Tự động đóng sổ kho (Automatic Closing Stock Posting)** cho phép hệ thống tự động tính toán chênh lệch giữa giá trị tồn kho thực tế và giá trị trên sổ cái, sau đó tự động tạo các bút toán điều chỉnh vào cuối kỳ kế toán. Điều này giúp giảm thiểu sai sót con người, tiết kiệm thời gian và đảm bảo tính chính xác tuyệt đối giữa module Kho và module Kế toán.
 
 ### 2. Điều kiện tiên quyết
 Để sử dụng tính năng này, hệ thống của bạn cần đáp ứng các điều kiện sau:
-* Đã thiết lập danh mục **Mặt hàng (Item)** với phương pháp tính giá tồn kho (FIFO hoặc Moving Average).
-* Đã thiết lập các tài khoản kế toán liên quan trong **Thiết lập kho (Stock Settings)**.
-* Đã thực hiện đầy đủ các giao dịch **Phiếu nhập hàng (PR)**, **Phiếu giao hàng (DN)** và **Phiếu kho (SE)**.
+* Đã thiết lập phương pháp định giá tồn kho (FIFO hoặc Moving Average).
+* Đã cấu hình các tài khoản kế toán liên quan trong [Bảng tài khoản kế toán](../../accounts/account-settings.md).
+* Đã thiết lập các [Kho](../../stock/warehouse-settings.md) và [Mặt hàng](../../stock/item-settings.md) đầy đủ.
 
 ### 3. Hướng dẫn từng bước
 
-Để kích hoạt tính năng tự động đóng sổ kho, hãy làm theo các bước sau:
+Để kích hoạt tính năng tự động đóng sổ kho, hãy thực hiện theo các bước sau:
 
-1. Truy cập vào module **Kế toán (Accounting)**.
-2. Tìm kiếm và chọn **Thiết lập tài khoản (Accounts Settings)**.
+1. Truy cập vào module **Kế toán (Accounts)**.
+2. Tìm kiếm và chọn **Thiết lập kế toán (Account Settings)**.
 3. Cuộn xuống phần **Quản lý tồn kho (Stock Management)**.
 4. Tích chọn vào ô **Tự động đóng sổ kho (Automatic Closing Stock Posting)**.
-5. Nhấn **Lưu (Save)** để hoàn tất cấu hình.
-6. Vào cuối kỳ kế toán, khi bạn thực hiện **Khóa kỳ (Period Closing)**, hệ thống sẽ tự động quét các biến động **Tồn kho (Stock)** và tạo **Bút toán (JE)** chênh lệch.
+5. Chọn **Kỳ kế toán (Accounting Period)** mà bạn muốn hệ thống thực hiện chênh lệch tự động.
+6. Nhấn **Lưu (Save)** để hoàn tất thiết lập.
 
-### 4. Các tùy chọn/cài đặt liên quan
-* **Tài khoản chênh lệch giá kho (Stock Adjustment Account):** Tài khoản dùng để ghi nhận phần chênh lệch giữa giá trị kho thực tế và giá trị trên sổ cái.
-* **Phương pháp tính giá (Valuation Method):** Ảnh hưởng trực tiếp đến cách hệ thống tính toán giá trị trước khi thực hiện đóng sổ.
-* **Kiểm tra chất lượng (QI):** Nếu mặt hàng đang trong trạng thái chờ **Kiểm tra chất lượng (QI)**, giá trị này sẽ được xem xét trong quá trình tính toán tồn kho khả dụng.
+### 4. Ảnh minh họa
+*(Vui lòng xem hình ảnh cấu hình trong phần Thiết lập kế toán dưới đây)*
 
-### 5. Lưu ý quan trọng
-* **Kiểm tra dữ liệu:** Trước khi để hệ thống tự động đóng sổ, hãy đảm bảo tất cả các **Đơn mua hàng (PO)** và **Đơn bán hàng (SO)** đã được **Xác nhận (Submit)** và các giao dịch kho đã được hoàn tất.
-* **Đồng bộ hóa:** Nếu có sự sai lệch lớn giữa **Kho (Warehouse)** và sổ cái, hãy thực hiện kiểm kê và điều chỉnh **Lô hàng (Batch)** trước khi chạy tính năng đóng sổ.
-* **Không thể hoàn tác tự động:** Một khi **Bút toán (JE)** chênh lệch đã được tạo, bạn không thể xóa trực tiếp mà phải thực hiện bút toán đảo hoặc hủy kỳ kế toán (nếu được phép).
+![Thiết lập đóng sổ kho](../../screenshots/accounts/accounts-settings.png)
 
-### 6. Liên kết đến trang liên quan
-* [Quản lý Tồn kho (Stock Management)](../stock/stock-management.md)
-* [Thiết lập Kế toán (Accounting Setup)](../accounts/accounting-setup.md)
-* [Hướng dẫn Kiểm kê Kho (Stock Reconciliation)](../stock/stock-reconciliation.md)
+### 5. Các tùy chọn/cài đặt liên quan
+
+* **Kỳ kế toán mặc định (Default Accounting Period):** Hệ thống sẽ dựa vào kỳ kế toán đang mở để thực hiện lệnh đóng sổ tự động.
+* **Tài khoản chênh lệch tồn kho (Stock Adjustment Account):** Tài khoản dùng để ghi nhận các bút toán điều chỉnh chênh lệch giữa giá trị tồn kho và sổ cái.
+* **Tự động tạo Bút toán (Auto-generate Journal Entry):** Khi tính năng được kích hoạt, hệ thống sẽ tự động tạo [Bút toán (JE)](../../accounts/journal-entry.md) điều chỉnh ngay khi kỳ kế toán được đóng.
+
+### 6. Lưu ý quan trọng
+
+* **Kiểm tra dữ liệu trước khi đóng kỳ:** Mặc dù hệ thống tự động, bạn vẫn nên kiểm tra lại các [Phiếu kho (SE)](../../stock/stock-entry.md) hoặc [Phiếu nhập hàng (PR)](../../stock/purchase-receipt.md) chưa được xác nhận để tránh sai lệch dữ liệu.
+* **Ảnh hưởng đến Báo cáo tài chính:** Việc tự động đóng sổ sẽ tạo ra các bút toán điều chỉnh giá trị hàng tồn kho, ảnh hưởng trực tiếp đến Giá vốn hàng bán (COGS) trên Bảng cân đối kế toán.
+* **Không thể hoàn tác dễ dàng:** Một khi kỳ kế toán đã được đóng và bút toán tự động đã được [Xác nhận (Submit)], việc điều chỉnh lại đòi hỏi phải thực hiện các bút toán điều chỉnh thủ công.
+
+### 7. Liên kết đến trang liên quan
+
+* [Thiết lập Kế toán](../../accounts/account-settings.md)
+* [Quản lý Kho và Tồn kho](../../stock/stock-management.md)
+* [Quản lý Mặt hàng](../../stock/item-settings.md)
+* [Hướng dẫn về Bút toán (JE)](../../accounts/journal-entry.md)

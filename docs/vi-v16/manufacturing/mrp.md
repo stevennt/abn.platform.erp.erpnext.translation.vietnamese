@@ -1,56 +1,56 @@
 # Hoạch định nhu cầu vật tư (MRP)
 
-![Giao diện chính ERPNext](../../screenshots/workspace-home.png)
+![Giao diện làm việc](../screenshots/workspace-home.png)
 
 ## 1. Giới thiệu tính năng
-**[Mới trong v16]** Hoạch định nhu cầu vật tư (Material Requirements Planning - MRP) là công cụ quản trị thông minh giúp doanh nghiệp tự động hóa việc tính toán nhu cầu nguyên vật liệu và thành phẩm. 
+**[Mới trong v16]** Hoạch định nhu cầu vật tư (Material Requirements Planning - MRP) là công cụ quản trị thông minh giúp doanh nghiệp tự động hóa việc tính toán nhu cầu vật tư dựa trên các dữ liệu thực tế và dự báo. 
 
-Thay vì tính toán thủ công, MRP trong v16 sẽ phân tích dữ liệu từ dự báo bán hàng, lịch giao hàng của Đơn bán hàng (SO), mức tồn kho hiện tại, và thời gian chờ (lead time) để đề xuất các lệnh mua hàng hoặc lệnh sản xuất phù hợp. Điều này giúp tối ưu hóa mức tồn kho, tránh tình trạng thiếu hụt vật tư gây gián đoạn sản xuất hoặc tồn kho quá mức gây lãng phí vốn.
+Thay vì tính toán thủ công, MRP trong v16 sẽ kết hợp giữa **Dự báo bán hàng**, **Lịch giao hàng** từ các Đơn bán hàng (SO) và **Thời gian chờ (Lead time)** của nhà cung cấp để đề xuất các lệnh mua hàng hoặc lệnh sản xuất phù hợp. Điều này giúp tối ưu hóa mức tồn kho, tránh tình trạng thiếu hụt vật tư gây gián đoạn sản xuất hoặc tồn kho quá mức gây lãng phí vốn.
 
 ## 2. Điều kiện tiên quyết
 Để tính năng MRP hoạt động chính xác, hệ thống cần được thiết lập sẵn các dữ liệu sau:
-* **Mặt hàng (Item):** Phải có thiết lập định mức nguyên vật liệu (BOM) cho sản phẩm và thiết lập đơn vị tính.
-* **Tồn kho (Stock):** Dữ liệu tồn kho thực tế tại các Kho (Warehouse) phải được cập nhật chính xác.
-* **Thời gian chờ (Lead Time):** Được thiết lập trong hồ sơ Mặt hàng hoặc Nhà cung cấp.
-* **Dự báo (Forecast):** Các bản ghi dự báo nhu cầu bán hàng đã được tạo.
-* **Đơn hàng:** Các Đơn bán hàng (SO) đã được Xác nhận (Submit).
+* **Mặt hàng (Item):** Phải có thiết lập định mức nguyên vật liệu (BOM) nếu là sản xuất, và thiết lập đơn vị tính.
+* **Tồn kho (Stock):** Dữ liệu tồn kho tại các **Kho (Warehouse)** phải được cập nhật chính xác.
+* **Thời gian chờ (Lead Time):** Thiết lập thời gian từ lúc đặt hàng đến khi nhận hàng trong hồ sơ **Nhà cung cấp (Supplier)** hoặc **Mặt hàng (Item)**.
+* **Dự báo (Forecast):** Các bản ghi dự báo nhu cầu đã được tạo.
+* **Đơn hàng:** Các **Đơn bán hàng (SO)** đã được xác nhận và các **Đơn mua hàng (PO)** đang chờ giao.
 
 ## 3. Hướng dẫn từng bước
 
-### Bước 1: Thiết lập dữ liệu đầu vào
-Đảm bảo tất cả các **Mặt hàng** cần hoạch định đã có đầy đủ thông tin về BOM (nếu là sản xuất) và thời gian chờ nhập hàng từ **Nhà cung cấp**.
-
-### Bước 2: Chạy quy trình MRP
+### Bước 1: Thiết lập thông số MRP
 1. Truy cập vào module **Sản xuất** hoặc **Kho**.
-2. Tìm kiếm và chọn công cụ **Hoạch định nhu cầu vật tư (MRP)**.
-3. Thiết lập các tham số bộ lọc:
-    * **Ngày bắt đầu/kết thúc:** Khoảng thời gian cần lập kế hoạch.
-    * **Kho (Warehouse):** Chọn kho cụ thể hoặc để trống để tính toán toàn bộ.
-    * **Loại nhu cầu:** Chọn giữa "Mua hàng" (đối với nguyên vật liệu) hoặc "Sản xuất" (đối với thành phẩm).
-4. Nhấn nút **Chạy MRP (Run MRP)**.
+2. Tìm kiếm và chọn công cụ **MRP Settings**.
+3. Thiết lập các tham số như: *Mức tồn kho an toàn (Safety Stock)*, *Thời gian chờ dự phòng*, và *Ngày chạy MRP định kỳ*.
+
+### Bước 2: Chạy kế hoạch MRP
+1. Mở công cụ **Material Requirements Planning**.
+2. Chọn **Kho (Warehouse)** hoặc **Nhóm mặt hàng (Item Group)** mà bạn muốn lập kế hoạch.
+3. Chọn phạm vi thời gian cần hoạch định.
+4. Nhấn nút **Run MRP** (Chạy MRP). Hệ thống sẽ quét toàn bộ dữ liệu từ Đơn bán hàng, Lịch giao hàng và Tồn kho hiện tại.
 
 ### Bước 3: Xem xét kết quả và đề xuất
-Sau khi hệ thống xử lý, danh sách các đề xuất sẽ hiển thị:
-* **Đề xuất mua hàng:** Hệ thống sẽ gợi ý tạo **Đơn mua hàng (PO)** cho các nguyên vật liệu thiếu hụt.
-* **Đề xuất sản xuất:** Hệ thống sẽ gợi ý tạo Lệnh sản xuất dựa trên kế hoạch sản xuất tổng thể (Master Production Schedule).
+Sau khi chạy xong, hệ thống sẽ hiển thị danh sách các nhu cầu vật tư:
+1. **Xem danh sách đề xuất:** Hệ thống sẽ liệt kê các **Đơn mua hàng (PO)** cần tạo hoặc các **Lệnh sản xuất** cần lập.
+2. **Kiểm tra Master Production Schedule (MPS):** Xem lịch trình sản xuất tổng thể để đảm bảo năng lực sản xuất đáp ứng được nhu cầu.
+3. **Kiểm tra MRP Views:** Sử dụng các bảng xem trực quan để biết mặt hàng nào đang thiếu, mặt hàng nào sắp hết dựa trên ngày dự kiến giao hàng.
 
 ### Bước 4: Thực thi kế hoạch
-1. Kiểm tra các dòng đề xuất.
-2. Chọn các dòng phù hợp và nhấn **Tạo Đơn mua hàng (Create PO)** hoặc **Tạo Lệnh sản xuất**.
-3. Kiểm tra lại số lượng và ngày cần hàng trước khi nhấn **Xác nhận (Submit)**.
+1. Từ danh sách đề xuất, chọn các dòng cần thực hiện.
+2. Nhấn **Create Purchase Request (PR)** để tạo Phiếu yêu cầu mua hàng hoặc **Create Manufacturing Order** để tạo Lệnh sản xuất.
+3. Sau khi được phê duyệt, tiến hành **Xác nhận (Submit)** các chứng từ này để chuyển sang bước đặt hàng hoặc sản xuất.
 
 ## 4. Các tùy chọn và cài đặt liên quan
-* **Master Production Schedule (MPS):** Lập kế hoạch sản xuất tổng thể dựa trên dự báo dài hạn, giúp định hướng cho MRP.
-* **Safety Stock (Tồn kho an toàn):** Thiết lập mức tồn kho tối thiểu cho mỗi Mặt hàng để MRP tự động đề xuất mua thêm khi chạm ngưỡng này.
-* **Reorder Level (Ngưỡng đặt hàng lại):** Điểm kích hoạt tự động tạo yêu cầu mua hàng.
+* **Master Production Schedule (MPS):** Lập kế hoạch sản xuất tổng thể dựa trên dự báo nhu cầu dài hạn.
+* **Reorder Level:** Thiết lập điểm đặt hàng lại tự động cho từng mặt hàng.
+* **Lead Time Calculation:** Tự động tính toán ngày cần đặt hàng dựa trên thời gian vận chuyển của Nhà cung cấp.
 
 ## 5. Lưu ý quan trọng
-* **Độ chính xác của dữ liệu:** MRP chỉ hiệu quả khi dữ liệu **Tồn kho** và **Lịch giao hàng** được cập nhật thời gian thực. Nếu dữ liệu kho sai, kế hoạch MRP sẽ dẫn đến việc mua thừa hoặc thiếu hàng.
-* **Lead Time:** Luôn cập nhật thời gian chờ của **Nhà cung cấp**. Nếu thời gian thực tế dài hơn trong hệ thống, bạn sẽ bị động trong việc cung ứng.
-* **Kiểm tra lại trước khi Xác nhận:** Luôn rà soát lại các đề xuất của MRP để đảm bảo phù hợp với tình hình tài chính và năng lực kho bãi thực tế của doanh nghiệp trước khi **Xác nhận (Submit)** các đơn hàng.
+* **Dữ liệu đầu vào:** Nếu dữ liệu **Tồn kho (Stock)** hoặc **Lô hàng (Batch)** không chính xác, kết quả MRP sẽ bị sai lệch hoàn toàn.
+* **Lead Time:** Luôn cập nhật thời gian chờ của Nhà cung cấp để tránh việc hàng về chậm hơn so với kế hoạch sản xuất.
+* **Xác nhận chứng từ:** Chỉ những chứng từ đã được **Xác nhận (Submit)** mới được MRP tính toán vào kế hoạch. Các chứng từ đã **Hủy (Cancel)** sẽ bị loại bỏ khỏi tính toán.
 
 ## 6. Liên kết đến trang liên quan
-* [Quản lý Mặt hàng (Item)](item_management.md)
-* [Quản lý Kho và Tồn kho (Stock)](stock_management.md)
-* [Quy trình Mua hàng (Purchase)](purchase_workflow.md)
-* [Quy trình Sản xuất (Manufacturing)](manufacturing_workflow.md)
+* [Quản lý Kho và Tồn kho](../stock/overview.md)
+* [Quản lý Mua hàng (PO/PR)](../buying/overview.md)
+* [Quản lý Sản xuất (BOM/MPS)](../manufacturing/overview.md)
+* [Quản lý Bán hàng (SO/Invoice)](../selling/overview.md)
