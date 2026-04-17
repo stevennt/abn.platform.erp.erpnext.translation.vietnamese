@@ -1,0 +1,77 @@
+<!-- add-breadcrumbs -->
+# Báo giá của Nhà cung cấp
+
+**Báo giá của Nhà cung cấp là tài liệu do một nhà cung cấp tiềm năng lập, quy định chi phí hàng hóa hoặc dịch vụ mà họ sẽ cung cấp trong một khoảng thời gian nhất định.**
+
+Báo giá của Nhà cung cấp cũng có thể bao gồm các điều khoản bán hàng, điều khoản thanh toán và bảo hành. Việc người mua chấp nhận báo giá có thể được coi là một thỏa thuận ràng buộc cả hai bên.
+
+![Buying Flow](/docs/v13/assets/img/buying/buying_flow_sq.png)
+
+Để truy cập Báo giá của Nhà cung cấp, hãy đi đến:
+> Home > Buying > Purchasing > Supplier Quotation
+
+## 1. Điều kiện tiên quyết
+Trước khi tạo và sử dụng Báo giá của Nhà cung cấp, bạn nên tạo các thông tin sau trước:
+
+* [Supplier](/docs/v13/user/manual/en/buying/supplier)
+* [Item](/docs/v13/user/manual/en/stock/item)
+
+## 2. Cách tạo Báo giá của Nhà cung cấp
+
+### 2.1 Báo giá của Nhà cung cấp từ Yêu cầu vật tư
+
+Bạn có thể tạo báo giá của nhà cung cấp từ một Yêu cầu vật tư:
+![Supplier Quotation from Material Receipt]({{docs_base_url}}/v13/assets/img/buying/supplier-quotation-from-mr.png)
+
+Hoặc:
+
+Một Báo giá của Nhà cung cấp có thể được tạo từ [Supplier master](/docs/v13/user/manual/en/buying/supplier).
+
+Hoặc:
+
+Nhà cung cấp có thể tự gửi báo giá cho bạn thông qua ERPNext. Để biết thêm về điều này, hãy xem phần [Request for Quotation page](/docs/v13/user/manual/en/buying/request-for-quotation#4-creating-a-supplier-quotation-after-rfq).
+
+### 2.2 Tạo Báo giá của Nhà cung cấp thủ công
+1. Bạn cũng có thể tạo Báo giá của Nhà cung cấp trực tiếp từ:
+
+    **Buying > Purchasing > Supplier Quotation > New**.
+1. Chọn Nhà cung cấp đã gửi báo giá cho bạn.
+1. Địa chỉ và Liên hệ sẽ được tự động lấy về nếu bạn đã lưu chúng trong thông tin nhà cung cấp (supplier master).
+1. Nhập mã Mặt hàng, chọn số lượng. Đơn giá sẽ được tự động lấy về nếu bạn đã thiết lập Đơn giá mua tiêu chuẩn cho mặt hàng đó trong [Item Price](/docs/v13/user/manual/en/stock/item-price).
+    <img class="screenshot" alt="Supplier Quotation" src="{{docs_base_url}}/v13/assets/img/buying/supplier-quotation.png">
+
+Nếu bạn có nhiều Nhà cung cấp cung cấp cùng một Mặt hàng, bạn thường sẽ gửi [Request for Quotation](/docs/v13/user/manual/en/buying/request-for-quotation) đến nhiều Nhà cung cấp khác nhau. Trong nhiều trường hợp, đặc biệt nếu bạn có quy trình mua hàng tập trung, bạn có thể muốn ghi lại tất cả các báo giá để:
+
+  * Bạn có thể dễ dàng so sánh giá cả trong tương lai.
+  * Kiểm tra xem tất cả các Nhà cung cấp đã được trao cơ hội báo giá hay chưa.
+
+Báo giá của Nhà cung cấp không nhất thiết phải thực hiện đối với hầu hết các doanh nghiệp nhỏ. Hãy luôn đánh giá chi phí thu thập thông tin so với giá trị thực tế mà nó mang lại! Như một lời khuyên, bạn chỉ nên thực hiện việc này đối với các mặt hàng có giá trị cao.
+
+## 3. Các tính năng
+### 3.1 Thuế và Phí
+Nếu Nhà cung cấp của bạn sẽ tính thêm các khoản thuế hoặc phí như phí vận chuyển hoặc phí bảo hiểm, bạn có thể thêm chúng tại đây. Điều này sẽ giúp bạn theo dõi chi phí một cách chính xác. Ngoài ra, nếu một số khoản phí này làm tăng giá trị của sản phẩm, bạn sẽ phải ghi chúng vào bảng Thuế. Bạn cũng có thể sử dụng các mẫu cho các loại thuế của mình. Để biết thêm thông tin về việc thiết lập thuế, hãy xem [Purchase Taxes and Charges Template](/docs/v13/user/manual/en/buying/purchase-taxes-and-charges-template).
+
+### 3.2 Thêm
+Có các trường cho Danh mục thuế, Quy tắc vận chuyển, Mẫu Thuế và Phí mua hàng, Chiết khấu, Điều khoản và Điều kiện, Cài đặt in. Bạn có thể điền các trường này để lưu hồ sơ. Truy cập trang [Quotation](/docs/v13/user/manual/en/selling/quotation) để biết thêm về các phần này. Lưu ý rằng các chi tiết bạn điền ở đây như Quy tắc vận chuyển, thuế, Chiết khấu, Điều khoản và Điều kiện, v.v., là từ nhà cung cấp của bạn và có thể được ghi lại để theo dõi chính xác.
+
+Lưu ý:
+
+- Danh mục thuế sẽ được lấy từ thông tin nhà cung cấp nếu đã được thiết lập.
+- Cài đặt in dùng để thực hiện các thay đổi đối với bản in báo giá của nhà cung cấp.
+- Các Điều khoản và Điều kiện ở đây là của nhà cung cấp của bạn.
+- Báo giá của Nhà cung cấp có thể được liên kết với các yêu cầu vật tư bằng nút 'Link to material requests'.
+
+### 3.3 Sau khi Xác nhận
+Các mục sau có thể được tạo sau khi Xác nhận Báo giá của Nhà cung cấp:
+
+* Đơn mua hàng - Một Đơn mua hàng nếu bạn đồng ý với báo giá của nhà cung cấp.
+* Báo giá - Một báo giá gửi cho khách hàng của bạn.
+* Tự động lặp lại - Tự động lặp lại báo giá của nhà cung cấp theo các khoảng thời gian đã định.
+
+### 4. Các chủ đề liên quan
+1. [Supplier](/docs/v13/user/manual/en/buying/supplier)
+1. [Supplier Group](/docs/v13/user/manual/en/buying/supplier-group)
+1. [Purchase Order](/docs/v13/user/manual/en/buying/purchase-order)
+1. [Request for Quotation](/docs/v13/user/manual/en/buying/request-for-quotation)
+
+{next}

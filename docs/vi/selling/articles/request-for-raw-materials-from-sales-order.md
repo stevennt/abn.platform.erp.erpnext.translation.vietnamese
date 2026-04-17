@@ -1,0 +1,30 @@
+<!-- add-breadcrumbs -->
+# Yêu cầu vật tư từ Đơn bán hàng
+
+Kế hoạch sản xuất giúp người dùng lập kế hoạch sản xuất dựa trên nhiều đơn bán hàng và hỗ trợ lập kế hoạch mua sắm vật tư cho các mặt hàng nguyên vật liệu, dựa trên số lượng thành phẩm cần sản xuất.
+
+Tuy nhiên, khi bạn chỉ cần lập kế hoạch cho các mặt hàng nguyên vật liệu của một Đơn bán hàng duy nhất, công việc này trở nên khá tẻ nhạt. Do đó, bạn có thể tạo một Yêu cầu vật tư cho các nguyên vật liệu của các Thành phẩm có trong Đơn bán hàng ngay từ chính Đơn bán hàng đó.
+
+Để thực hiện, bạn có thể làm theo các bước dưới đây.
+
+* Sau khi Đơn bán hàng của bạn đã được Xác nhận, hãy nhấp vào **Make** và chọn **Request for Raw Materials**.
+
+![Request For Raw Materials](/docs/v13/assets/img/selling/request-for-raw-materials.png)
+
+* Một hộp thoại sẽ mở ra và hiển thị tất cả các Thành phẩm có BOM.
+
+![Request For Raw Materials Dialog](/docs/v13/assets/img/selling/request-for-raw-materials-dialog.png)
+
+* Tại đây, bạn có thể thay đổi BOM theo ý muốn và chọn các tùy chọn cần thiết.
+
+Giả sử, việc bật **Include Exploded Items** sẽ lấy các Nguyên vật liệu từ các Thành phần chi tiết (Exploded Items) của BOM, và việc bật **Ignore Existing Ordered Qty** sẽ tạo một Yêu cầu ngay cả khi số lượng cần thiết đã có sẵn.
+
+* Nhấp vào Make, và Yêu cầu vật tư của bạn sẽ được tạo.
+
+![Submitted Material Request](/docs/v13/assets/img/selling/material-request-submitted.png)
+
+Yêu cầu vật tư được tạo cho Nguyên vật liệu của Thành phẩm có trong Đơn bán hàng.
+
+![Material Request](/docs/v13/assets/img/selling/created-mr-from-sales-order.png)
+
+{next}
