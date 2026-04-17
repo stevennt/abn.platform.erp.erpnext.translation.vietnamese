@@ -32295,6 +32295,10 @@ msgstr "Báo cáo {0}"
 msgid "{0} Settings"
 msgstr "Cài đặt {0}"
 
+#: frappe/public/js/frappe/ui/toolbar/search.js
+msgid "{0} Workspace"
+msgstr "Không gian làm việc {0}"
+
 #: frappe/public/js/frappe/views/treeview.js:153
 msgid "{0} Tree"
 msgstr "Cây {0}"
