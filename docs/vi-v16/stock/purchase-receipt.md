@@ -8,7 +8,7 @@ Bạn cũng có thể lập Phiếu nhập hàng trực tiếp mà không cần 
 Để truy cập danh sách Phiếu nhập hàng, hãy đi đến:
 > Home > Stock > Stock Transactions > Purchase Receipt
 
-![Purchase Receipt flow](https://docs.erpnext.com/docs/v16/assets/img/stock/purchase-receipt-flow.png)
+![Purchase Receipt flow](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/purchase-receipt-flow.png)
 
 ## 1. Điều kiện tiên quyết
 Trước khi tạo và sử dụng Phiếu nhập hàng, bạn nên tạo các mục sau trước:
@@ -32,7 +32,7 @@ Một Phiếu nhập hàng thường được tạo từ [Purchase Order](../buy
 1. Bạn có thể mở rộng dòng mặt hàng để thay đổi Kho chấp nhận cho một Mặt hàng.
 1. Lưu và Xác nhận.
 
-    <img class="screenshot" alt="Purchase Receipt" src="https://docs.erpnext.com/docs/v16/assets/img/stock/purchase-receipt.png">
+    <img class="screenshot" alt="Purchase Receipt" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/purchase-receipt.png">
 
 Bạn cũng có thể thêm 'Phiếu giao hàng của Nhà cung cấp' (Supplier Delivery Note) vào Phiếu nhập hàng nếu Nhà cung cấp có thêm một số ghi chú.
 Sử dụng hộp kiểm 'Edit Posting Date and Time' để bạn có thể chỉnh sửa ngày và giờ ghi sổ của Phiếu nhập hàng. Theo mặc định, ngày và giờ được thiết lập khi bạn nhấp vào nút New.
@@ -92,7 +92,7 @@ Trong phiên bản v16, bạn có thể áp dụng **Landed Cost** (Chi phí thu
 
 * **Received and Accepted**: Thiết lập số lượng đã nhận, đã chấp nhận và bị loại. Đơn vị tính (UoM) được lấy từ danh mục Mặt hàng. Bạn sẽ cần cập nhật “UOM Conversion Factor” nếu Đơn mua hàng cho một Mặt hàng có Đơn vị tính (UOM) khác với Đơn vị tính tồn kho (Stock UOM).
 
-    ![Purchase Receipt Items table](https://docs.erpnext.com/docs/v16/assets/img/stock/purchase-receipt-item.png)
+    ![Purchase Receipt Items table](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/purchase-receipt-item.png)
 
 * **Rate**: Đơn giá được lấy nếu đã được thiết lập trong [Bảng giá](price-lists.md) và tổng Số tiền sẽ được tính toán.
 

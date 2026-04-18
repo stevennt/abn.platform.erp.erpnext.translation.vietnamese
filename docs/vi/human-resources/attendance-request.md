@@ -10,7 +10,7 @@
 
 Trước khi tạo Yêu cầu Chấm công, bạn nên tạo các mục sau trước:
 
-* [Employee](/docs/v13/user/manual/en/human-resources/employee)
+* [Employee](employee.md)
 
 
 ## 2. Cách tạo Yêu cầu Chấm công
@@ -22,7 +22,7 @@ Trước khi tạo Yêu cầu Chấm công, bạn nên tạo các mục sau trư
 1. Lưu và Xác nhận.
 
 
-    <img class="screenshot"  alt="Attendance Request" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/attendance-request.png">
+    <img class="screenshot"  alt="Attendance Request" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/attendance-request.png">
 
 > **Lưu ý 1:** Bạn có thể tích vào ô 'Half Day' và nhập Ngày trong trường hợp chấm công cho nửa ngày.
 
@@ -32,24 +32,24 @@ Trước khi tạo Yêu cầu Chấm công, bạn nên tạo các mục sau trư
 
 
 
-<img class="screenshot"  alt="Attendance Request Submit" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/attendance-request-submission.png">
+<img class="screenshot"  alt="Attendance Request Submit" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/attendance-request-submission.png">
 
 Như thấy bên dưới, các bản ghi Attendance tương ứng được liên kết với Yêu cầu Chấm công đã gửi.
 
- <img class="screenshot"  alt="Attendance Request Linked" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/attendance-request-link.png">
+ <img class="screenshot"  alt="Attendance Request Linked" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/attendance-request-link.png">
 
 Nếu bạn Hủy Yêu cầu Chấm công, các chứng từ Attendance đã liên kết được tạo ra cũng sẽ bị Hủy.
 
- <img class="screenshot"  alt="Attendance Request Cancelled" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/attendance-request-cancelled.png">
+ <img class="screenshot"  alt="Attendance Request Cancelled" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/attendance-request-cancelled.png">
 
 
 ## 3. Các chủ đề liên quan
 
-1. [Employee Attendance Tool](/docs/v13/user/manual/en/human-resources/employee-attendance-tool)
-1. [Shift Management](/docs/v13/user/manual/en/human-resources/shift-management)
-1. [Auto Attendance](/docs/v13/user/manual/en/human-resources/auto-attendance)
-1. [Upload Attendance](/docs/v13/user/manual/en/human-resources/upload-attendance)
-1. [Attendance](/docs/v13/user/manual/en/human-resources/attendance)
+1. [Employee Attendance Tool](employee-attendance-tool.md)
+1. [Shift Management](shift-management.md)
+1. [Auto Attendance](auto-attendance.md)
+1. [Upload Attendance](upload-attendance.md)
+1. [Attendance](attendance.md)
 
 
 {next}

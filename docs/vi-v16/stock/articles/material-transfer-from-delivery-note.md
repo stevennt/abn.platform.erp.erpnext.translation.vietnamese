@@ -15,7 +15,7 @@ Trong ERPNext, bạn có thể tạo bút toán Chuyển vật tư từ chứng 
 
 #### Kích hoạt Kho mục tiêu
 
-DocType Phiếu giao hàng mặt hàng (Delivery Note Item) có một trường ẩn là Kho mục tiêu (Target Warehouse) (trước đây là Kho khách hàng - Customer Warehouse). Bạn có thể kích hoạt nó từ [Thiết lập kho](https://docs.erpnext.com/docs/v13/user/manual/en/stock-settings) bằng cách bật tùy chọn "Allow Material Transfer From Delivery Note and Sales Invoice".
+DocType Phiếu giao hàng mặt hàng (Delivery Note Item) có một trường ẩn là Kho mục tiêu (Target Warehouse) (trước đây là Kho khách hàng - Customer Warehouse). Bạn có thể kích hoạt nó từ [Thiết lập kho](stock-settings) bằng cách bật tùy chọn "Allow Material Transfer From Delivery Note and Sales Invoice".
 
 **Lưu ý:** Khách hàng được chọn phải đại diện cho cùng một công ty. Để thực hiện việc này, hãy bật tùy chọn 'Is Internal Customer' trong biểu mẫu Khách hàng và chọn công ty của bạn trong trường 'Represents Company'.
 
@@ -43,7 +43,7 @@ Khi **Xác nhận** Phiếu giao hàng, tồn kho của mặt hàng sẽ đượ
 
 #### Kích hoạt Kho nhà cung cấp
 
-Tương tự như Kho khách hàng, bước đầu tiên là kích hoạt Kho nhà cung cấp (Supplier Warehouse) từ [Thiết lập kho](https://docs.erpnext.com/docs/v13/user/manual/en/stock-settings).
+Tương tự như Kho khách hàng, bước đầu tiên là kích hoạt Kho nhà cung cấp (Supplier Warehouse) từ [Thiết lập kho](stock-settings).
 
 **Lưu ý:** Nhà cung cấp được chọn phải đại diện cho cùng một công ty. Hãy bật tùy chọn 'Is Internal Supplier' trong biểu mẫu Nhà cung cấp và chọn công ty của bạn trong trường 'Represents Company'.
 

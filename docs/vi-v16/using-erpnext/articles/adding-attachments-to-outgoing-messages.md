@@ -5,6 +5,6 @@
 
 Nếu bạn có một số tệp nhất định được đính kèm vào tài liệu của mình và muốn đính kèm chính các tệp đó vào email gửi đi, bạn có thể thực hiện việc này chỉ bằng cách chọn chúng từ danh sách tệp đính kèm.
 
-![Attachments in Outgoing Messages](https://docs.erpnext.com/docs/v16/assets/img/using-erpnext/using-add-attachments-in-message.gif)
+![Attachments in Outgoing Messages](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/using-erpnext/using-add-attachments-in-message.gif)
 
 {next}

@@ -13,11 +13,11 @@
 1. Thiết lập Tài khoản thanh toán mặc định cho tất cả các công ty.
 1. Nhấn **Lưu**.
 
-    ![Mode of Payment](https://docs.erpnext.com/docs/v16/assets/img/accounts/mode-of-payment.png)
+    ![Mode of Payment](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/mode-of-payment.png)
 
 > **Mẹo**: Việc thiết lập Tài khoản mặc định sẽ giúp tài khoản này được tự động lấy vào trong [Thanh toán](payment-entry.md).
 
-![Mode of Payment](https://docs.erpnext.com/docs/v16/assets/img/accounts/mode-of-payment-in-payment-entry.gif)
+![Mode of Payment](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/mode-of-payment-in-payment-entry.gif)
 
 > **Lưu ý**: Khi thực hiện [Thanh toán](payment-entry.md), tài khoản ngân hàng mặc định sẽ được lấy theo thứ tự sau nếu đã được thiết lập:
 

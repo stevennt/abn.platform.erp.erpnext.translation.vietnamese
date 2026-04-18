@@ -16,15 +16,15 @@ Nếu bạn muốn đổi tên một giao dịch theo cách nó hiển thị khi
 1. Nhập tiêu đề sẽ hiển thị trên tài liệu.
 1. Lưu.
 
-  <img class="screenshot" alt="Print Heading" src="https://docs.erpnext.com/docs/v16/assets/img/setup/print/print-heading.png">
+  <img class="screenshot" alt="Print Heading" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/print/print-heading.png">
 
 Để sử dụng tiêu đề in, hãy chọn tiêu đề in đã tạo trong trường 'Tiêu đề in' của giao dịch, như hiển thị dưới đây:
 
-![Using a Print Heading](https://docs.erpnext.com/docs/v16/assets/img/setup/print/use-print-heading.gif)
+![Using a Print Heading](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/print/use-print-heading.gif)
 
 Ví dụ về việc thay đổi tiêu đề in được hiển thị như sau:
 
-<img class="screenshot" alt="Print Heading" src="https://docs.erpnext.com/docs/v16/assets/img/setup/print/print-heading-1.png">
+<img class="screenshot" alt="Print Heading" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/print/print-heading-1.png">
 
 ## 2. Video
 <div class="embed-container">

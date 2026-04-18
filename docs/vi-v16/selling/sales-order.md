@@ -5,7 +5,7 @@
 
 Nó thường là một Hợp đồng ràng buộc với Khách hàng của bạn. Khi khách hàng xác nhận Báo giá, bạn có thể chuyển đổi Báo giá của mình thành Đơn bán hàng.
 
-![Sales Flow](https://docs.erpnext.com/docs/v16/assets/img/selling/selling-flow-so.png)
+![Sales Flow](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/selling/selling-flow-so.png)
 
 Để truy cập Đơn bán hàng, hãy đi đến:
 > Home > Selling > Sales > Sales Order
@@ -29,11 +29,11 @@ Trước khi tạo và sử dụng Đơn bán hàng, bạn nên tạo các mục
 ### 2.1 Các cách khác để tạo Đơn bán hàng
 1. Bạn cũng có thể tạo Đơn bán hàng từ một Báo giá đã được xác nhận thông qua nút Tạo ở góc trên bên phải.
 
-  ![Make Sales Order from Quotation](https://docs.erpnext.com/docs/v16/assets/img/selling/make-SO-from-quote.png)
+  ![Make Sales Order from Quotation](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/selling/make-SO-from-quote.png)
 
 1. Hoặc bạn có thể tạo một Đơn bán hàng mới và lấy thông tin chi tiết từ một Báo giá.
 
-  ![Make Sales Order from Quotation](https://docs.erpnext.com/docs/v16/assets/img/selling/so-from-quote.gif)
+  ![Make Sales Order from Quotation](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/selling/so-from-quote.gif)
 
 2. **Từ Khách hàng**: Tại màn hình chi tiết của Khách hàng, bạn có thể nhanh chóng tạo Đơn bán hàng hoặc Báo giá thông qua các nút chức năng được tích hợp sẵn trong phần liên quan.
 
@@ -79,7 +79,7 @@ Bạn sẽ được yêu cầu chọn một Kho giao hàng ngay cả đối vớ
 
 Dưới đây là hình ảnh của một Phiếu đóng gói:
 
-![Packing List](https://docs.erpnext.com/docs/v16/assets/img/selling/so-packing-list.png)
+![Packing List](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/selling/so-packing-list.png)
 
 ### 3.5 Ngày chốt (Cutoff Date) cho Phiếu giao hàng
 Trong phiên bản v16, khi bạn tạo Phiếu giao hàng (DN) từ Đơn bán hàng (SO), hệ thống cho phép thiết lập ngày chốt (Cutoff date). Điều này giúp kiểm soát việc xuất kho và quản lý các lô hàng/phiếu giao hàng phát sinh trong một khoảng thời gian nhất định, đảm bảo tính chính xác của dữ liệu tồn kho và kế toán.

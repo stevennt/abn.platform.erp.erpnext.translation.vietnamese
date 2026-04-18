@@ -12,7 +12,7 @@ Sử dụng Mẫu in Séc, bạn có thể tạo một Mẫu in mới cho séc. 
 
 Một mẫu séc:
 
-<img class="screenshot" alt="Sample Cheque" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/print/sample-cheque.jpg">
+<img class="screenshot" alt="Sample Cheque" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/print/sample-cheque.jpg">
 
 
 ## 1. Cách tạo Mẫu in Séc
@@ -22,7 +22,7 @@ Một mẫu séc:
 
 Trong Mẫu in Séc, đối với mỗi giá trị (ví dụ: Người thụ hưởng, Ngày), các tọa độ chính xác được cung cấp dựa trên nơi giá trị đó cần được in trên tờ séc. Tọa độ được cung cấp theo đơn vị centimet. Dưới đây là hình ảnh minh họa cấu trúc:
 
-<img class="screenshot" alt="Sample Cheque" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/print/cheque-1.png">
+<img class="screenshot" alt="Sample Cheque" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/print/cheque-1.png">
 
 ### 1.1 Tạo định dạng mới bằng cách quét (Scanning)
 
@@ -36,14 +36,14 @@ Bạn có thể cung cấp tọa độ cho từng giá trị một cách thủ c
 #### Xem trước
 Dựa trên các tọa độ được cung cấp cho tất cả các giá trị, một bản xem trước sẽ được hiển thị để biết các giá trị sẽ được in như thế nào trên tờ séc.
 
-<img class="screenshot" alt="Sample Cheque" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/print/cheque-2.png">
+<img class="screenshot" alt="Sample Cheque" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/print/cheque-2.png">
 
 ### 1.3 In Séc
 
 Mẫu in mới được tạo cho tờ séc sẽ hiển thị trong biểu mẫu Bút toán thanh toán. Sau khi tạo bút toán thanh toán, bạn sẽ có thể in chi tiết giao dịch lên tờ séc.
 
-<img class="screenshot" alt="Sample Cheque" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/print/cheque-3.gif">
+<img class="screenshot" alt="Sample Cheque" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/print/cheque-3.gif">
 
 ### 2. Các chủ đề liên quan
-1. [Mẫu địa chỉ](/docs/v13/user/manual/en/setting-up/print/address-template)
-1. [Mẫu Điều khoản và Điều kiện](/docs/v13/user/manual/en/setting-up/print/terms-and-conditions)
+1. [Mẫu địa chỉ](address-template.md)
+1. [Mẫu Điều khoản và Điều kiện](terms-and-conditions.md)

@@ -3,7 +3,7 @@
 
 **Kết quả đánh giá là nhật ký ghi lại điểm số/điểm số mà học sinh đạt được cho một bài Đánh giá cụ thể.**
 
-Một Kết quả đánh giá được tạo ở hệ thống backend dựa trên điểm số được nhập trong [Công cụ Kết quả đánh giá](/docs/v13/user/manual/en/education/assessment_result_tool).
+Một Kết quả đánh giá được tạo ở hệ thống backend dựa trên điểm số được nhập trong [Công cụ Kết quả đánh giá](assessment_result_tool.md).
 
 <img class="screenshot" alt="Assessment Result" src="https://docs.erpnext.com/docs/img/education/assessment/assessment-result.png">
 

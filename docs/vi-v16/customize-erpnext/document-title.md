@@ -5,7 +5,7 @@
 
 Ví dụ, tiêu đề mặc định của một Đơn bán hàng là tên Khách hàng, nhưng nếu bạn chỉ làm việc với một vài Khách hàng và gửi rất nhiều Đơn bán hàng cho mỗi Khách hàng, bạn có thể muốn tùy chỉnh lại để dễ nhận diện hơn.
 
-![Document Title](https://docs.erpnext.com/docs/v16/assets/img/customize/document-title.png)
+![Document Title](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/document-title.png)
 
 ## Thiết lập các trường Tiêu đề
 
@@ -21,18 +21,18 @@ Bạn có thể thiết lập giá trị mặc định của thuộc tính đó 
 
 Bạn có thể định nghĩa tiêu đề bằng cách thiết lập các thuộc tính tài liệu trong dấu ngoặc nhọn `{}`. Ví dụ, nếu tài liệu của bạn có trường `customer_name`, bạn có thể chỉ định trường đó làm Tiêu đề của Form.
 
-![Set Document Title](https://docs.erpnext.com/docs/v16/assets/img/customize/set-document-title.gif)
+![Set Document Title](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/set-document-title.gif)
 
 Ngoài ra, bạn cũng có thể định nghĩa một trường cụ thể làm 'Title Field' trong **Customize Form**.
 
-![Title Field](https://docs.erpnext.com/docs/v16/assets/img/customize/title-field-in-view-settings.png)    
+![Title Field](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/title-field-in-view-settings.png)    
 
 ## Tiêu đề Cố định hoặc Có thể chỉnh sửa
 
 Nếu tiêu đề của bạn được tạo dưới dạng tiêu đề mặc định, người dùng có thể chỉnh sửa bằng cách nhấp vào tiêu đề của tài liệu.
 
 <img class="screenshot" alt = "Editable Title"
-    src="https://docs.erpnext.com/docs/v16/assets/img/customize/customize-document-title.gif">
+    src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/customize-document-title.gif">
 
 Nếu bạn muốn một tiêu đề cố định, bạn có thể thiết lập quy tắc trong thuộc tính **Options**. Bằng cách này, tiêu đề sẽ được tự động cập nhật mỗi khi tài liệu được Lưu.
 

@@ -17,24 +17,24 @@ Tài liệu Tiêu chuẩn Mã y tế được sử dụng để đặt tên cho 
 3. Nhập mô tả tiêu chuẩn cho mã.
 4. Lưu.
 
-<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/medical_code.png">
+<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/medical_code.png">
 
 ### 1.2 Nhập dữ liệu
 
 Các Mã y tế và Mô tả cũng có thể được nhập để tạo các tài liệu "Medical Code", sau khi đảm bảo rằng bạn đã tạo các Tiêu chuẩn Mã y tế một cách phù hợp.
 
-<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/medical_code_1.png">
+<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/medical_code_1.png">
 
 ## 2. Các tính năng
 
 Trong phần Tiếp đón bệnh nhân (Patient Encounter), người hành nghề có thể dễ dàng tìm kiếm và chọn các mã phù hợp từ các Mã y tế đã được cấu hình sẵn để thực hiện mã hóa dựa trên từng dịch vụ mà cơ sở của bạn cung cấp. Tại nhiều khu vực, việc này là bắt buộc để xử lý quyền lợi Bảo hiểm Bệnh nhân, xử lý yêu cầu bồi thường và lập hóa đơn.
 
-<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/encounter_4.png">
+<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/encounter_4.png">
 
 ## 3. Các chủ đề liên quan
 
-1. [Medical Code Standard](/docs/v13/user/manual/en/healthcare/medical_code_standard)
-1. [Patient Appointment](/docs/v13/user/manual/en/healthcare/patient_appointment)
-1. [Clinical Procedure Template](/docs/v13/user/manual/en/healthcare/clinical_procedure_template)
+1. [Medical Code Standard](medical_code_standard.md)
+1. [Patient Appointment](patient_appointment.md)
+1. [Clinical Procedure Template](clinical_procedure_template.md)
 
 {next}

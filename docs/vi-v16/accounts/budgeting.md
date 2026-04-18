@@ -16,7 +16,7 @@ Ngân sách cũng rất tuyệt vời cho mục đích lập kế hoạch. Khi b
 1. Đi tới danh sách Ngân sách và nhấn vào Mới.
 1. Chọn đối tượng để lập ngân sách: Trung tâm chi phí, Dự án, hoặc [Accounting Dimensions](accounting-dimensions.md).
 1. Trong bảng tài khoản, chọn tài khoản thu nhập/chi phí mà bạn muốn thiết lập ngân sách. Ví dụ, hãy thiết lập ngân sách cho chi phí điện thoại trong năm.
- ![Budget](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/budget.png)
+ ![Budget](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/budget.png)
 1. Nhập Số tiền ngân sách cho tài khoản đó.
 1. Lưu và Xác nhận.
 
@@ -26,7 +26,7 @@ Ngân sách cũng rất tuyệt vời cho mục đích lập kế hoạch. Khi b
 
 Bạn cũng có thể xác định một bản ghi Phân bổ hàng tháng để phân bổ ngân sách giữa các tháng. Nếu bạn không thiết lập phân bổ hàng tháng, ERPNext sẽ tính toán ngân sách theo năm hoặc chia đều cho mỗi tháng.
 
-![Monthly Distribution](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/monthly-budget-distribution.png)
+![Monthly Distribution](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/monthly-budget-distribution.png)
 
 ### 2.2 Hành động kiểm soát (Cảnh báo)
 
@@ -38,7 +38,7 @@ Các hành động kiểm soát có thể được kích hoạt khi:
 
 Bạn có thể thiết lập một hành động kiểm soát trong Ngân sách dựa trên Yêu cầu vật tư, Đơn mua hàng, hoặc dựa trên chi phí thực tế. Hơn nữa, bạn có thể thiết lập hành động kiểm soát cho ngân sách hàng năm hoặc hàng tháng.
 
-![Control Actions](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/control-actions.png)
+![Control Actions](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/control-actions.png)
 
 Có ba loại hành động kiểm soát.
 
@@ -48,7 +48,7 @@ Có ba loại hành động kiểm soát.
 
 Bạn có thể thiết lập các hành động riêng biệt cho ngân sách hàng tháng và hàng năm. Nếu bạn vượt quá ngân sách, một cảnh báo sẽ được hiển thị:
 
-![Budget Warning](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/budget-warning.png)
+![Budget Warning](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/budget-warning.png)
 
 Lưu ý rằng một cảnh báo tương tự sẽ được kích hoạt cho bất kỳ loại giao dịch nào được thiết lập trong ngân sách cho các Tài khoản tương ứng.
 
@@ -60,7 +60,7 @@ Tại bất kỳ thời điểm nào, bạn có thể kiểm tra Báo cáo chên
 
 > Home > Accounting > Cost Center and Budgeting > Budget Variance Report
 
-![Budget Variance Report](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/budget-variance-report.png)
+![Budget Variance Report](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/budget-variance-report.png)
 
 ## 4. Video
 Dưới đây là video hướng dẫn:

@@ -5,7 +5,7 @@
 
 Các thẻ này là sự thay thế cho các biểu tượng Module trước đây vốn có trong các phiên bản ERPNext trước phiên bản 12.
 
-![New Desktop](https://docs.erpnext.com/docs/v16/assets/img/using-erpnext/desktop/desktop.png)
+![New Desktop](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/using-erpnext/desktop/desktop.png)
 
 Các thẻ này có thể được phân thành bốn loại, cụ thể là:
 
@@ -16,11 +16,11 @@ Các thẻ này có thể được phân thành bốn loại, cụ thể là:
 
 Các thẻ này cho phép điều hướng tốt hơn với các mục lối tắt trong menu thả xuống. Bạn có thể tùy chỉnh menu thả xuống này để thêm hoặc xóa các liên kết đến các DocType khác nhau của module đó.
 
-![Desktop Dropdown](https://docs.erpnext.com/docs/v16/assets/img/using-erpnext/desktop/desktop-dropdown.png)
+![Desktop Dropdown](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/using-erpnext/desktop/desktop-dropdown.png)
 
 Bạn cũng có thể sắp xếp lại thứ tự cũng như hiển thị hoặc ẩn các thẻ module này.
 
-![Drag and Drop](https://docs.erpnext.com/docs/v16/assets/img/using-erpnext/desktop/drag-and-drop.gif)
+![Drag and Drop](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/using-erpnext/desktop/drag-and-drop.gif)
 
 ## Trang Module
 
@@ -28,17 +28,17 @@ Nhấp vào bất kỳ thẻ module nào sẽ đưa bạn đến trang module. T
 
 Ví dụ, đây là giao diện của trang module Kế toán (Accounting).
 
-![Accounts Module](https://docs.erpnext.com/docs/v16/assets/img/using-erpnext/desktop/accounts-module-page.png)
+![Accounts Module](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/using-erpnext/desktop/accounts-module-page.png)
 
 ### Điều hướng trang
 
 Một số liên kết của các module này có thể được đánh dấu màu xám, việc nhấp vào các liên kết này sẽ không mở ra trang mới. Chúng được đánh dấu như vậy vì có một tài liệu phụ thuộc cần phải được tạo trước. Ví dụ, bạn sẽ cần lập một Hóa đơn bán hàng (Sales Invoice) trước khi truy cập vào sổ nhật ký bán hàng. Di chuột qua bất kỳ liên kết nào trong số này sẽ hiển thị một cửa sổ bật lên hướng dẫn người dùng đến tài liệu phụ thuộc đó.
 
-![Muted Link in Module Page](https://docs.erpnext.com/docs/v16/assets/img/using-erpnext/desktop/module-link-hover.png)
+![Muted Link in Module Page](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/using-erpnext/desktop/module-link-hover.png)
 
 Bạn cũng sẽ nhận thấy một chỉ báo màu sắc trước một số liên kết. Các chỉ báo này được sử dụng để thông báo cho người dùng nếu có bất kỳ tài liệu đang mở hoặc khẩn cấp nào cần được xem xét.
 
-![Color Indicators](https://docs.erpnext.com/docs/v16/assets/img/using-erpnext/desktop/color-indicator.png)
+![Color Indicators](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/using-erpnext/desktop/color-indicator.png)
 
 * Chỉ báo màu **đỏ** trong ví dụ trên cho biết có các tác vụ đang mở hoặc quá hạn trong danh sách.
 * Tương tự, chỉ báo màu **xanh dương** có nghĩa là không có tác vụ nào đang mở.

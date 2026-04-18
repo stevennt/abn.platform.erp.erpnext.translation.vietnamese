@@ -2,7 +2,7 @@
 
 **Yêu cầu báo giá là một tài liệu mà một tổ chức gửi cho một hoặc nhiều nhà cung cấp để yêu cầu báo giá cho các mặt hàng.**
 
-![Buying Flow](https://docs.erpnext.com/docs/v16/assets/img/buying/buying_flow_rfq.png)
+![Buying Flow](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/buying/buying_flow_rfq.png)
 
 Để truy cập Yêu cầu báo giá, hãy đi đến:
 > Home > Buying > Purchasing > Request for Quotation
@@ -21,7 +21,7 @@ Trước khi tạo và sử dụng Yêu cầu báo giá, bạn nên tạo các t
 5. Kho có thể để trống nếu mục 'Maintain Stock' không được tích cho mặt hàng đó.
 6. Lưu và Xác nhận.
 
-![Create RFQ](https://docs.erpnext.com/docs/v16/assets/img/buying/rfq-create.png)
+![Create RFQ](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/buying/rfq-create.png)
 
 Một Yêu cầu báo giá (RFQ) cũng có thể được tạo từ một Yêu cầu vật tư đã được Xác nhận. Sau khi RFQ được tạo, bạn có thể in và gửi cho nhà cung cấp bản PDF chứa tất cả các chi tiết bạn đã nhập liên quan đến RFQ. Bạn cũng có thể nhận được phản hồi của họ (Báo giá của nhà cung cấp) ngay trong ERPNext, xem phần [4.1 Báo giá của nhà cung cấp](#41-báo-giá-của-nhà-cung-cấp).
 
@@ -36,7 +36,7 @@ Các mặt hàng trong bảng mặt hàng có thể được lấy từ các tà
 
 * **Nhà cung cấp tiềm năng (Possible Supplier)**: Chọn một nhà cung cấp tiềm năng. Sau đó, nếu bạn có bất kỳ Yêu cầu vật tư nào đã được Xác nhận dành cho nhà cung cấp này, các mặt hàng có thể được lấy từ đó.
 
-![RFQ get items](https://docs.erpnext.com/docs/v16/assets/img/buying/rfq-get-items.png)
+![RFQ get items](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/buying/rfq-get-items.png)
 
 ### 3.2 Lấy Nhà cung cấp
 Thay vì nhập nhà cung cấp thủ công vào bảng, bạn cũng có thể lấy họ bằng nút 'Get Suppliers'. 
@@ -49,14 +49,14 @@ Khi bạn nhấp vào **Tools > Get Suppliers**, bạn sẽ thấy trường 'Ge
 
 * **By Group**: Chọn 'Supplier Group' và chọn nhóm nhà cung cấp mà bạn cần thêm vào. Ví dụ: nếu bạn chọn Hardware, tất cả các nhà cung cấp phần cứng của bạn sẽ được thêm vào để bạn có thể nhận báo giá từ tất cả họ.
 
-![RFQ get suppliers](https://docs.erpnext.com/docs/v16/assets/img/buying/rfq-get-suppliers.png)
+![RFQ get suppliers](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/buying/rfq-get-suppliers.png)
 
 **Số tham chiếu nhà cung cấp (Supplier reference numbers):** Bạn có thể quản lý và hiển thị các số tham chiếu riêng của nhà cung cấp để dễ dàng đối chiếu khi làm việc với các đối tác lâu năm.
 
 ### 3.3 Liên kết với Yêu cầu vật tư
 Khi bạn nhấp vào **Tools > Link to Material Requests**, nó sẽ liên kết Yêu cầu báo giá với các Yêu cầu vật tư hiện có. Các mặt hàng trong Yêu cầu báo giá và Yêu cầu vật tư phải giống nhau.
 
-![Link to Material Request](https://docs.erpnext.com/docs/v16/assets/img/buying/link-to-material-request.png)
+![Link to Material Request](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/buying/link-to-material-request.png)
 
 Bây giờ, khi Yêu cầu báo giá được Lưu, bạn có thể thấy trong Trang tổng quan rằng nó đã được liên kết với Yêu cầu vật tư. Nếu có nhiều Yêu cầu vật tư có cùng các mặt hàng, thì liên kết sẽ được tạo với Yêu cầu vật tư mới nhất.
 
@@ -68,7 +68,7 @@ Nhập bất kỳ thông điệp bổ sung nào cho Nhà cung cấp vào trườ
 **Tính năng mới v16:** Hệ thống hỗ trợ tính năng Email append-to giúp tự động tạo bản nháp PI (Proforma Invoice) dựa trên nội dung email trao đổi, giúp đẩy nhanh quy trình sau khi nhà cung cấp phản hồi.
 
 Có thể thêm lời chào và trường 'Subject' cũng có thể được thay đổi. Sau khi hoàn tất, bạn có thể nhấp vào nút 'Preview Email' để xem trước email sẽ được gửi đi.
-![Preview Email](https://docs.erpnext.com/docs/v16/assets/img/buying/email-preview.png)
+![Preview Email](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/buying/email-preview.png)
 
 ### 3.5 Điều khoản và Điều kiện
 Trong các giao dịch Bán hàng/Mua hàng, có thể có các Điều khoản và Điều kiện nhất định mà dựa vào đó Nhà cung cấp cung cấp hàng hóa hoặc dịch vụ cho Khách hàng. Bạn có thể áp dụng các Điều khoản và Điều kiện vào các giao dịch và chúng sẽ xuất hiện khi in tài liệu. Để biết thêm về Điều khoản và Điều kiện, [nhấp vào đây](https://docs.erpnext.com/docs/v16/user/manual/en/setting-up/print/terms-and-conditions)
@@ -90,4 +90,4 @@ Tính năng **Ledger Preview** trong v16 cho phép bạn xem trước các tác 
 
 1. Mở Yêu cầu báo giá và nhấp vào **Supplier Quotation > Create**.
 
-![Supplier Quotation from RFQ](https://docs.erpnext.com/docs/v16/assets/img/buying/make-supplier-quotation-f)
+![Supplier Quotation from RFQ](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/buying/make-supplier-quotation-f)

@@ -22,7 +22,7 @@ Trước khi tạo và sử dụng Điều chỉnh giá trị tài sản, bạn 
 1. Nhập giá trị hiện tại và giá trị mới của tài sản.
 1. **Lưu** và **Xác nhận**.
 
-<img class="screenshot" alt="Asset" src="https://docs.erpnext.com/docs/v16/assets/img/asset/asset-value-adjustment.png">
+<img class="screenshot" alt="Asset" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/asset/asset-value-adjustment.png">
 
 Khi **Lưu**, hệ thống sẽ ghi nhận một khoản "Lãi/Lỗ do đánh giá lại tài sản" và điều chỉnh giá trị của tài sản.
 Bạn có thể thay đổi trung tâm chi phí và thêm một sổ tài chính (finance book).

@@ -7,12 +7,12 @@
 > Home > Support > Maintenance > Maintenance Visit
 
 Một Chuyến thăm bảo trì thường được tạo từ một Đơn bán hàng loại 'Maintenance'.
-![SO Maintenance Visit](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/support/so-maintenance-visit.png)
+![SO Maintenance Visit](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/support/so-maintenance-visit.png)
 
 ## 1. Điều kiện tiên quyết
 
 * [Customer](docs/user/manual/en/CRM/customer)
-* [Item](/docs/v13/user/manual/en/stock/item)
+* [Item](../stock/item.md)
 
 ## 2. Cách tạo Chuyến thăm bảo trì
 1. Đi đến danh sách Chuyến thăm bảo trì, nhấn vào New.
@@ -24,20 +24,20 @@ Một Chuyến thăm bảo trì thường được tạo từ một Đơn bán h
 1. Nhập Mô tả về việc bảo trì, chọn Nhân viên bán hàng thực hiện bảo trì, và nhập công việc đã thực hiện.
 1. Lưu.
 
-    ![Maintenance Visit](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/support/maintenance-visit.png)
+    ![Maintenance Visit](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/support/maintenance-visit.png)
 
 ### 2.1 Các tùy chọn bổ sung khi Tạo Chuyến thăm bảo trì
 
 * **Phản hồi của Khách hàng (Customer Feedback)**: Bạn có thể ghi lại bất kỳ phản hồi nào từ Khách hàng liên quan đến Chuyến thăm bảo trì này.
-* Các trường sau sẽ được lấy từ biểu mẫu [Customer](/docs/v13/user/manual/en/CRM/customer):
+* Các trường sau sẽ được lấy từ biểu mẫu [Customer](../CRM/customer.md):
   * Địa chỉ Khách hàng
   * Người liên hệ
   * Khu vực
   * Nhóm khách hàng
 
 ## 3. Các chủ đề liên quan
-1. [Warranty Claim](/docs/v13/user/manual/en/support/warranty-claim)
-1. [Maintenance Schedule](/docs/v13/user/manual/en/support/maintenance-schedule)
-1. [Sales Order](/docs/v13/user/manual/en/selling/sales-order)
+1. [Warranty Claim](warranty-claim.md)
+1. [Maintenance Schedule](maintenance-schedule.md)
+1. [Sales Order](../selling/sales-order.md)
 
 {next}

@@ -16,16 +16,16 @@ Trong ERPNext v16, Thương hiệu có thể được gán cho các Mặt hàng 
 1. Nhập tên Thương hiệu và nhập mô tả nếu cần.
 1. Lưu.
 
-    ![Brand](https://docs.erpnext.com/docs/v16/assets/img/selling/brand.png)
+    ![Brand](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/selling/brand.png)
 
 Giờ đây Thương hiệu này có thể được liên kết với các Mặt hàng khác nhau.
 
-![Brand in Item](https://docs.erpnext.com/docs/v16/assets/img/selling/brand-in-item.png)
+![Brand in Item](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/selling/brand-in-item.png)
 
 ## 2. Các tính năng
 ### 2.1 Thiết lập mặc định cho các Mặt hàng thuộc Thương hiệu này
 
-![Brand Defaults](https://docs.erpnext.com/docs/v16/assets/img/selling/brand-defaults.png)
+![Brand Defaults](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/selling/brand-defaults.png)
 
 Các giá trị mặc định sau đây có thể được thiết lập cho một Thương hiệu. Khi gán thương hiệu này cho một Mặt hàng, các giá trị mặc định đã thiết lập sẽ được tự động lấy ra khi thực hiện các giao dịch Bán hàng/Mua hàng với Mặt hàng thuộc Thương hiệu này.
 

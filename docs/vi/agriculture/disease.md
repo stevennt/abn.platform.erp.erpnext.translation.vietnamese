@@ -20,6 +20,6 @@ Nhấp Lưu
 
 Bây giờ nó sẽ trông giống như thế này
 
-<img class="screenshot" alt="Task" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/agriculture/diseases_and_fertilizer/disease.png">
+<img class="screenshot" alt="Task" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/agriculture/diseases_and_fertilizer/disease.png">
 
 Các Công việc này sẽ được nhập vào Dự án Chu kỳ cây trồng nếu bạn chọn thêm Dịch bệnh này vào danh sách Dịch bệnh phát hiện được trong Chu kỳ cây trồng.

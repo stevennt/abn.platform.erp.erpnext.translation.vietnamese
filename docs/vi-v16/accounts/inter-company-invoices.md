@@ -15,7 +15,7 @@ Ví dụ, bạn có thể tạo một Hóa đơn mua hàng cho một công ty, c
 2. Chọn Khách hàng mà bạn muốn chọn cho hóa đơn liên kết.
 3. Bật hộp kiểm, **Is Internal Customer** hiển thị như sau:
 
-![Internal Customer](https://docs.erpnext.com/docs/v16/assets/img/accounts/inter-company-customer.png)
+![Internal Customer](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/inter-company-customer.png)
 
 4. Thêm công ty mà Khách hàng đó đại diện vào trường **Represents Company**. Đây là công ty mà Hóa đơn bán hàng sẽ được tạo.
 5. Trong bảng **Allowed To Transact With**, thêm công ty mà bạn sẽ tạo Hóa đơn mua hàng đối ứng.
@@ -27,14 +27,14 @@ Ví dụ, bạn có thể tạo một Hóa đơn mua hàng cho một công ty, c
 11. Trong bảng **Allowed To Transact With** của Nhà cung cấp, thêm công ty mà Khách hàng đại diện. Đây là công ty mà bạn sẽ thực hiện một Hóa đơn mua hàng liên kết.
 12. Đây là ảnh chụp màn hình về công ty Nhà cung cấp để tránh bất kỳ sự nhầm lẫn nào:
 
-![Inter Company Supplier](https://docs.erpnext.com/docs/v16/assets/img/accounts/inter-company-supplier.png)
+![Inter Company Supplier](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/inter-company-supplier.png)
 
 ### 1.2 Tạo Hóa đơn
 1. Bây giờ, tạo một [Sales Invoice](sales-invoice.md) mới, điền đầy đủ các trường.
 2. Hãy nhớ chọn Khách hàng là khách hàng nội bộ và công ty mà họ đang mua hàng.
 3. **Lưu** và **Xác nhận** Hóa đơn.
 
- <img class="screenshot" alt="Inter company invoice" src="https://docs.erpnext.com/docs/v16/assets/img/accounts/make-inter-company-invoice.png">
+ <img class="screenshot" alt="Inter company invoice" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/make-inter-company-invoice.png">
 
 1. Trước khi bạn thực hiện *Hóa đơn liên công ty*, bạn cần thực hiện các bước sau:
     1. Giá bán và giá mua giữa các công ty phải đồng bộ.

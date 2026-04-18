@@ -29,7 +29,7 @@ Thông thường, bạn nên tạo Phiếu đóng gói từ Phiếu giao hàng k
 
 Hầu hết các chi tiết này sẽ được tự động lấy về nếu bạn tạo Phiếu đóng gói từ Phiếu giao hàng.
 
-<img class="screenshot" alt="Packing Slip" src="https://docs.erpnext.com/docs/v16/assets/img/stock/packing-slip.png">
+<img class="screenshot" alt="Packing Slip" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/packing-slip.png">
 
 
 ### 1.1 Các tùy chọn bổ sung khi tạo Phiếu đóng gói

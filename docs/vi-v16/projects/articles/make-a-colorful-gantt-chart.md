@@ -14,18 +14,18 @@ Chúng ta sẽ thực hiện việc này bằng cách tùy chỉnh [Công việc
 
 1. Đi tới [Tùy chỉnh biểu mẫu (Customize Form)](../user/manual/en/customize-erpnext/customize-form) trong hệ thống và chọn *Task* trong tùy chọn _Enter Form Type_. Ngoài ra, bạn có thể truy cập màn hình này bằng cách đi tới **Menu > Customize** từ danh sách hoặc biểu mẫu Công việc.
 
- <img class="screenshot" alt="customize-form" src="https://docs.erpnext.com/docs/v16/assets/img/articles/project-gantt-customize-form-1.gif">
+ <img class="screenshot" alt="customize-form" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/project-gantt-customize-form-1.gif">
 
 2. Thêm một trường mới trong DocType với fieldtype là **Color**.
 3. Tích chọn tùy chọn *In List View*.
 
- <img class="screenshot" alt="customize-form" src="https://docs.erpnext.com/docs/v16/assets/img/articles/project-gantt-in-list.png">
+ <img class="screenshot" alt="customize-form" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/project-gantt-in-list.png">
 
 4. **Lưu** biểu mẫu, quay lại danh sách Công việc và tải lại trang.
 5. Khi mở một Công việc cũ hoặc mới, bạn sẽ thấy một trường màu sắc. Hãy chọn một màu cho Công việc đó.
 
- <img class="screenshot" alt="customize-form" src="https://docs.erpnext.com/docs/v16/assets/img/articles/project-gantt-pick-color.png">
+ <img class="screenshot" alt="customize-form" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/project-gantt-pick-color.png">
 
 6. Quay lại danh sách Công việc và chuyển sang chế độ xem Gantt.
 
-  <img class="screenshot" alt="customize-form" src="https://docs.erpnext.com/docs/v16/assets/img/articles/project-gantt-colors.png">
+  <img class="screenshot" alt="customize-form" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/project-gantt-colors.png">

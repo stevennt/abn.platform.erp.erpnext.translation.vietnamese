@@ -11,7 +11,7 @@ Công ty nhận tiền trả trước sẽ ghi nhận số tiền đó là Doanh
 
 Trước khi bạn bắt đầu sử dụng kế toán trả sau, bạn nên lưu ý các cài đặt dưới đây để có thể kiểm soát tốt hơn cách bạn quản lý kế toán trả sau của mình.
 
-![Deferred Accounting Settings](https://docs.erpnext.com/docs/v16/assets/img/accounts/deferred-accounting-settings.png)
+![Deferred Accounting Settings](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/deferred-accounting-settings.png)
 
 1. **Automatically Process Deferred Accounting Entry (Tự động xử lý bút toán kế toán trả sau):** Cài đặt này được bật theo mặc định. Trong trường hợp bạn không muốn các bút toán kế toán trả sau được ghi sổ tự động, bạn có thể tắt cài đặt này. Nếu cài đặt này bị tắt, kế toán trả sau sẽ phải được xử lý thủ công bằng cách sử dụng [Process Deferred Accounting](process-deferred-accounting.md)
 
@@ -29,13 +29,13 @@ Các nhà cung cấp dịch vụ internet và truyền hình cung cấp các gó
 
 Trong danh mục Mặt hàng được tạo cho gói đăng ký, tại phần Doanh thu chưa thực hiện, hãy tích vào trường **Enable Deferred Revenue**. Bạn cũng có thể chọn một tài khoản Doanh thu chưa thực hiện cho mặt hàng cụ thể này và số tháng.
 
-![Item With Deferred Revenue](https://docs.erpnext.com/docs/v16/assets/img/accounts/deferred-item.png)
+![Item With Deferred Revenue](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/deferred-item.png)
 
 ### 2.2 Hóa đơn bán hàng
 
 Khi tạo Hóa đơn bán hàng cho Mặt hàng Doanh thu chưa thực hiện, thay vì ghi vào Tài khoản thu nhập, tài khoản Doanh thu chưa thực hiện sẽ được ghi Có bằng số tiền bán hàng. Nếu bạn đã thiết lập tài khoản và thời hạn trong Mặt hàng, thì tài khoản và ngày bắt đầu, ngày kết thúc dịch vụ sẽ được lấy tự động.
 
-![Invoice With Deferred Revenue](https://docs.erpnext.com/docs/v16/assets/img/accounts/deferred-invoice.gif)
+![Invoice With Deferred Revenue](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/deferred-invoice.gif)
 
 ### 2.3 Bút toán
 
@@ -43,7 +43,7 @@ Dựa trên Ngày bắt đầu và Ngày kết thúc được thiết lập tron
 
 Dưới đây là một ví dụ về Thu nhập cho Mặt hàng Doanh thu chưa thực hiện được ghi nhận thông qua nhiều Bút toán.
 
-![Deferred Revenue GL](https://docs.erpnext.com/docs/v16/assets/img/accounts/deferred-revenue-gl.png)
+![Deferred Revenue GL](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/deferred-revenue-gl.png)
 
 ## 3. Video
 

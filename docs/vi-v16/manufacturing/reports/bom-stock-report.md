@@ -5,7 +5,7 @@
 
 > Trang chủ > Sản xuất > Báo cáo > Báo cáo tồn kho BOM
 
-<img class="screenshot" alt="Task" src="https://docs.erpnext.com/docs/v16/assets/img/manufacturing/bom-stock-report.png">
+<img class="screenshot" alt="Task" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/bom-stock-report.png">
 
 Báo cáo tồn kho BOM cung cấp thông tin chi tiết về số lượng nguyên vật liệu cần thiết để sản xuất và số lượng thực tế đang có trong kho (dựa trên bộ lọc Kho được chọn). 
 

@@ -16,13 +16,13 @@ Ví dụ về phòng bao gồm Hội trường thi, Lớp học hoặc Phòng th
 3. Thêm Số phòng cho phòng đã chọn.
 4. Nhập Sức chứa chỗ ngồi cho phòng.
 
- ![Room](https://docs.erpnext.com/docs/v16/assets/img/education/education-room-1.gif)
+ ![Room](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-room-1.gif)
 
 ## 2. Các hành động khác
 
 Một Phòng có thể được liên kết thêm với [Lịch trình khóa học](../education/course-schedule).
 
-![Room](https://docs.erpnext.com/docs/v16/assets/img/education/education-room-2.png)
+![Room](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-room-2.png)
 
 
 {next}

@@ -17,14 +17,14 @@ Trước khi sử dụng tính năng lưu giữ mẫu, bạn cần thiết lập
 ### 2.1 Thiết lập Kho lưu giữ mẫu
 Bạn nên tạo một Kho mới riêng biệt để lưu giữ các mẫu và không sử dụng kho này cho các hoạt động sản xuất hay xuất kho thông thường.
 
-<img class="screenshot" alt="Sample Retention Warehouse" src="https://docs.erpnext.com/docs/v16/assets/img/stock/sample-warehouse.png">
+<img class="screenshot" alt="Sample Retention Warehouse" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/sample-warehouse.png">
 
 ### 2.2 Kích hoạt Lưu giữ mẫu trong danh mục Mặt hàng
 Tính năng Lưu giữ mẫu hoạt động dựa trên quản lý [Lô hàng](batch.md). Do đó, mục "Has Batch No" (Có số lô) cần phải được kích hoạt. 
 
 Trong danh mục [Mặt hàng](item.md), hãy tích chọn "Retain Sample" (Lưu giữ mẫu) và thiết lập "Maximum allowed samples" (Số lượng mẫu tối đa cho phép) cho mỗi lô hàng.
 
-<img class="screenshot" alt="Retain Sample" src="https://docs.erpnext.com/docs/v16/assets/img/stock/retain-sample.png">
+<img class="screenshot" alt="Retain Sample" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/retain-sample.png">
 
 ## 3. Quy trình thực hiện
 
@@ -32,15 +32,15 @@ Trong danh mục [Mặt hàng](item.md), hãy tích chọn "Retain Sample" (Lưu
 * Khi một [Phiếu kho](stock-entry.md) được tạo với mục đích Nhập vật tư (Material Receipt), đối với các mặt hàng đã kích hoạt tính năng Lưu giữ mẫu, trường "Sample Quantity" (Số lượng mẫu) sẽ xuất hiện. 
 * Bạn cần chọn Số lô (Batch Number) tương ứng cho Mặt hàng. Lưu ý: Số lượng mẫu không được vượt quá số lượng mẫu tối đa đã thiết lập trong danh mục [Mặt hàng](item.md).
 
-    <img class="screenshot" alt="Retain Sample" src="https://docs.erpnext.com/docs/v16/assets/img/stock/material-receipt-sample.png">
+    <img class="screenshot" alt="Retain Sample" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/material-receipt-sample.png">
 
 * Sau khi **Xác nhận** Phiếu kho này, nút 'Make Retention Stock Entry' (Tạo Phiếu kho lưu giữ) sẽ hiển thị. Nút này giúp tạo một Phiếu kho mới để chuyển số lượng mẫu từ kho chính sang kho lưu giữ mẫu đã thiết lập.
 
-    ![Sample Retention Button](https://docs.erpnext.com/docs/v16/assets/img/stock/sample-retention-button.png)
+    ![Sample Retention Button](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/sample-retention-button.png)
 
 * Khi nhấp vào nút này, hệ thống sẽ tạo một Phiếu kho mới loại 'Material Transfer' (Chuyển vật tư). Phiếu này sẽ chuyển phần hàng mẫu từ Kho nguồn (Kho vật tư) sang Kho đích (Kho lưu giữ mẫu). Hãy kiểm tra kỹ thông tin, nhấn **Lưu** và sau đó nhấn **Xác nhận**.
 
-    <img class="screenshot" alt="Retain Sample" src="https://docs.erpnext.com/docs/v16/assets/img/stock/material-transfer-sample.png">
+    <img class="screenshot" alt="Retain Sample" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/material-transfer-sample.png">
 
 ### 3.2 Theo dõi và Kiểm soát (Tính năng v16)
 Với các cập nhật mới trong v16, việc quản lý mẫu được hỗ trợ chặt chẽ hơn:

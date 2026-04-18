@@ -9,9 +9,9 @@
 ## 1. Điều kiện tiên quyết
 Trước khi tạo Phiếu lương, bạn nên tạo các mục sau trước:
 
-* [Employee](/docs/v13/user/manual/en/human-resources/employee)
-* [Salary Structure](/docs/v13/user/manual/en/human-resources/salary-structure)
-* [Salary Structure Assignment](/docs/v13/user/manual/en/human-resources/salary-structure-assignment)
+* [Employee](employee.md)
+* [Salary Structure](salary-structure.md)
+* [Salary Structure Assignment](salary-structure-assignment.md)
 
 ## 2. Cách tạo Phiếu lương
 
@@ -26,16 +26,16 @@ Trước khi tạo Phiếu lương, bạn nên tạo các mục sau trước:
 ### 3.1. Phiếu lương dựa trên Chấm công/Nghỉ phép
 
 Người dùng HR có thể tạo Phiếu lương dựa trên Chấm công hoặc Nghỉ phép.
-Số ngày làm việc sẽ được tính toán dựa trên việc nghỉ phép/Chấm công, tùy thuộc vào trường **Calculate Payroll Working Days Based On** trong [HR Settings](/docs/v13/user/manual/en/human-resources/hr-settings). Nếu việc tính lương dựa trên Chấm công, thì **Leave without pay** (Nghỉ không lương) sẽ được coi là vắng mặt và **half-day** (nửa ngày) sẽ được coi là vắng mặt nửa ngày.
+Số ngày làm việc sẽ được tính toán dựa trên việc nghỉ phép/Chấm công, tùy thuộc vào trường **Calculate Payroll Working Days Based On** trong [HR Settings](hr-settings.md). Nếu việc tính lương dựa trên Chấm công, thì **Leave without pay** (Nghỉ không lương) sẽ được coi là vắng mặt và **half-day** (nửa ngày) sẽ được coi là vắng mặt nửa ngày.
 
 ### 3.2. Phiếu lương dựa trên Timesheet
 
 Để tạo Phiếu lương dựa trên timesheet, bạn cần tạo Salary Structure cho Timesheets.
 
-ERPNext cũng cung cấp tùy chọn tạo Phiếu lương dựa trên giờ làm việc dựa trên [Timesheet](/docs/v13/user/manual/en/projects/timesheets).
+ERPNext cũng cung cấp tùy chọn tạo Phiếu lương dựa trên giờ làm việc dựa trên [Timesheet](../projects/timesheets.md).
 Bạn có thể tạo Phiếu lương sau khi xác nhận Timesheet bằng cách nhấp trực tiếp vào nút **Create Salary Slip** ở góc trên bên phải.
 
-<img class="screenshot" alt="Create Salary Slip based on Timesheets" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/create-salary-slip-based-on-timesheets.png">
+<img class="screenshot" alt="Create Salary Slip based on Timesheets" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/create-salary-slip-based-on-timesheets.png">
 
 Số tiền Thanh toán được tính dựa trên Hour Rate (Đơn giá giờ) được xác định trong Salary Structure và được phản ánh trong bảng Thu nhập (Earnings).
 
@@ -43,11 +43,11 @@ Số tiền Thanh toán được tính dựa trên Hour Rate (Đơn giá giờ) 
 
 Đối với mỗi phiếu lương, 'Year to Date' (Lũy kế từ đầu năm) và 'Month to Date' (Lũy kế từ đầu tháng) đều được tính toán.
 
-<img class="screenshot" alt="Year to Date and Month to Date" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/ytd-and-mtd.png">
+<img class="screenshot" alt="Year to Date and Month to Date" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/ytd-and-mtd.png">
 
 - **Year to Date**: Tổng lương đã ghi nhận cho nhân viên cụ thể đó từ đầu năm (kỳ tính lương hoặc năm tài chính) cho đến ngày kết thúc của phiếu lương hiện tại.
 - **Month to Date**: Tổng lương đã ghi nhận cho một nhân viên cụ thể từ đầu tháng (tháng mà bút toán lương được tạo) cho đến ngày kết thúc của phiếu lương hiện tại.
 
 Year to Date cũng được tính toán cho mọi thành phần trong bảng thu nhập và khấu trừ. Mẫu in "Salary Slip with Year to Date" có sẵn các tính toán Year to Date và Month to Date.
 
-<img class="screenshot" alt="Year to Date for Salary Slip Components" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/ytd-component.png">
+<img class="screenshot" alt="Year to Date for Salary Slip Components" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/ytd-component.png">

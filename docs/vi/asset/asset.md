@@ -15,34 +15,34 @@ Trong ERPNext, bản ghi Tài sản là trung tâm của mô-đun quản lý tà
 ## 1. Điều kiện tiên quyết
 Trước khi tạo và sử dụng Tài sản, bạn nên tạo các mục sau trước:
 
-* [Mặt hàng](/docs/v13/user/manual/en/stock/item) với tùy chọn 'Is Fixed Asset' được bật.
-* [Danh mục tài sản](/docs/v13/user/manual/en/asset/asset-category)
+* [Mặt hàng](../stock/item.md) với tùy chọn 'Is Fixed Asset' được bật.
+* [Danh mục tài sản](asset-category.md)
 
 ## 2. Cách tạo một Tài sản
 
 Một Mặt hàng đại diện cho tài sản cần được tạo. Mục **'Maintain Stock'** nên được **bỏ chọn** và **'Is Fixed Asset'** phải được **chọn**.
 
-<img class="screenshot" alt="Asset Item" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/asset/asset-item.png">
+<img class="screenshot" alt="Asset Item" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/asset/asset-item.png">
 
 ### 2.1 Tự động tạo tài sản
 
 Bạn có thể cấu hình ERPNext để tự động tạo tài sản khi Xác nhận Phiếu nhập hàng bằng cách bật **'Auto Create Assets on Purchase'** trong Mặt hàng.
 
-<img class="screenshot" alt="Asset" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/asset/asset-auto-create.png">
+<img class="screenshot" alt="Asset" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/asset/asset-auto-create.png">
 
 Nếu bạn đã bật tính năng tự động tạo tài sản cho mặt hàng đại diện cho tài sản, bạn sẽ phải cung cấp vị trí tài sản khi Xác nhận Phiếu nhập hàng.
 
-<img class="screenshot" alt="Asset Location in Purchase Receipt" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/asset/asset-location-in-purchase-receipt.png">
+<img class="screenshot" alt="Asset Location in Purchase Receipt" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/asset/asset-location-in-purchase-receipt.png">
 
 Một thông báo xác nhận việc tạo tài sản sẽ được hiển thị khi Xác nhận Phiếu nhập hàng.
 
-<img class="screenshot" alt="Asset Creation Confirmation Message" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/asset/asset-auto-create-on-purchase.png">
+<img class="screenshot" alt="Asset Creation Confirmation Message" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/asset/asset-auto-create-on-purchase.png">
 
 ### 2.2 Tạo tài sản thủ công
 
 Nếu bạn muốn tạo tài sản thủ công, hãy tạo một Mặt hàng với 'Is Fixed Asset' được bật và để 'Auto Create Assets on Purchase' không được chọn. Khi Xác nhận Phiếu nhập hàng/Hóa đơn mua hàng có Mặt hàng đó, một thông báo sẽ hiển thị cho biết bạn cần tạo tài sản thủ công.
 
-<img class="screenshot" alt="Manual Creation of Assets" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/asset/asset-manual-creation-message.png">
+<img class="screenshot" alt="Manual Creation of Assets" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/asset/asset-manual-creation-message.png">
 
 Thực hiện theo các bước dưới đây để tạo tài sản thủ công.
 
@@ -72,9 +72,9 @@ Khi bạn chuyển từ hệ thống cũ sang ERPNext, bạn sẽ phải thêm c
 
 Dựa trên các chi tiết này, lịch trình khấu hao cho số tiền còn lại sẽ được tạo tự động.
 
-<img class="screenshot" alt="Existing Asset" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/asset/existing-asset.png">
+<img class="screenshot" alt="Existing Asset" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/asset/existing-asset.png">
 
-Để biết thêm, hãy truy cập trang [Mua một Tài sản](/docs/v13/user/manual/en/asset/purchasing-an-asset).
+Để biết thêm, hãy truy cập trang [Mua một Tài sản](purchasing-an-asset.md).
 
 
 ### 2.4 Các tùy chọn bổ sung khi tạo Tài sản

@@ -10,7 +10,7 @@ Trong chương này, chúng ta sẽ tìm hiểu cách thiết lập phổ biến
 > Phi lợi nhuận > Loại thành viên > Mới
 
 
-<img class="screenshot" alt="Student" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/non_profit/membership/membership_type.png">
+<img class="screenshot" alt="Student" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/non_profit/membership/membership_type.png">
 
 **Loại thành viên:** Loại thành viên được hiển thị xuyên suốt hệ thống, trên cả các trang công khai và trang quản trị, vì vậy hãy dành thời gian suy nghĩ về một tên loại thành viên phù hợp với cả hai đối tượng. Tên này có thể được thay đổi sau này.
 

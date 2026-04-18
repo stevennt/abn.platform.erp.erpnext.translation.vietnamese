@@ -7,7 +7,7 @@ Nó tương tự như Đơn bán hàng nhưng thay vì gửi cho bên thứ ba, 
 
 > Home > Buying > Purchasing > Purchase Order
 
-![Buying Flow](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/buying/buying_flow_po.png)
+![Buying Flow](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/buying/buying_flow_po.png)
 
 ## 1. Điều kiện tiên quyết
 Trước khi tạo và sử dụng Đơn mua hàng, bạn nên tạo các thông tin sau trước:
@@ -26,7 +26,7 @@ Trước khi tạo và sử dụng Đơn mua hàng, bạn nên tạo các thông
 1. Thiết lập số lượng và đơn giá sẽ được lấy tự động nếu đã được thiết lập trong danh mục Mặt hàng.
 1. Thiết lập thuế.
 1. Lưu và Xác nhận.
-    <img class="screenshot" alt="Purchase Order" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/buying/purchase-order.png">
+    <img class="screenshot" alt="Purchase Order" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/buying/purchase-order.png">
 
 ### 2.1 Thiết lập Kho
 
@@ -39,7 +39,7 @@ Các mặt hàng có thể được lấy tự động vào Đơn mua hàng từ
 1. Thiết lập Nhà cung cấp mặc định trong biểu mẫu Mặt hàng tại mục [Thiết lập mặc định cho mặt hàng](../stock/item.md#39-item-defaults).
 1. [Yêu cầu vật tư](../stock/material-request.md) cần phải có loại là 'Purchase'.
 1. Nhấp vào nút **Get Items from open Material Requests** bên dưới tên Nhà cung cấp. Một hộp thoại sẽ xuất hiện hiển thị các Yêu cầu vật tư có chứa các Mặt hàng mà Nhà cung cấp mặc định trùng với Nhà cung cấp đã chọn trong Đơn mua hàng. Sau khi chọn các Yêu cầu vật tư và nhấp vào **Get Items**, các Mặt hàng sẽ được lấy từ các Yêu cầu vật tư đó.
-<img class="screenshot" alt="Get Items from Open Material Requests" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/buying/get-items-from-open-mr.png">
+<img class="screenshot" alt="Get Items from Open Material Requests" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/buying/get-items-from-open-mr.png">
 
 > **Lưu ý:** Nút **Get Items from Open Material Requests** sẽ hiển thị chừng nào bảng mặt hàng còn trống.
 
@@ -65,7 +65,7 @@ và [Giao dịch đa tiền tệ](../accounts/articles/managing-transactions-in-
 
 ### 3.3 Gia công hoặc 'Cung cấp nguyên vật liệu'
 
-Thiết lập tùy chọn 'Supply Raw Materials' rất hữu ích cho việc gia công, nơi bạn cung cấp nguyên vật liệu để sản xuất một mặt hàng. Để biết thêm, hãy truy cập [Trang Gia công](https://docs.erpnext.com/docs/v13/user/manual/en/manufacturing/subcontracting).
+Thiết lập tùy chọn 'Supply Raw Materials' rất hữu ích cho việc gia công, nơi bạn cung cấp nguyên vật liệu để sản xuất một mặt hàng. Để biết thêm, hãy truy cập [Trang Gia công](../manufacturing/subcontracting.md).
 
 ### 3.4 Bảng mặt hàng
 

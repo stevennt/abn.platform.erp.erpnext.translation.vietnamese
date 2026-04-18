@@ -10,28 +10,28 @@ Việc phân loại Vấn đề giúp phân công các thành viên nhóm liên 
 
 Để tạo một Loại vấn đề, hãy nhấp vào New và nhập tên cho loại đó. Có thể thêm phần mô tả.
 
-![Issue Type](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/support/issue-type.png)
+![Issue Type](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/support/issue-type.png)
 
 # Ưu tiên vấn đề
 
 **Ưu tiên vấn đề cho biết mức độ khẩn cấp của việc giải quyết một Vấn đề**
 
-Người dùng có thể tạo các mức độ ưu tiên như "Thấp", "Trung bình", "Cao", "Nghiêm trọng", v.v. Ưu tiên vấn đề sẽ được sử dụng khi tạo [Service Level Agreement](/docs/v13/user/manual/en/support/service-level-agreement).
+Người dùng có thể tạo các mức độ ưu tiên như "Thấp", "Trung bình", "Cao", "Nghiêm trọng", v.v. Ưu tiên vấn đề sẽ được sử dụng khi tạo [Service Level Agreement](service-level-agreement.md).
 
 Để truy cập danh sách Ưu tiên vấn đề, hãy đi đến:
 > Home > Support > Issues > Issue Priority
 
 Để tạo một Ưu tiên vấn đề, hãy nhấp vào New và nhập tên cho loại đó. Có thể thêm phần mô tả.
 
-![Issue Priority](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/support/issue-priority.png)
+![Issue Priority](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/support/issue-priority.png)
 
 **Danh sách Ưu tiên vấn đề**
 
-![Issue Priority List](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/support/issue-priority-list.png)
+![Issue Priority List](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/support/issue-priority-list.png)
 
 ### Các chủ đề liên quan
-1. [Issue](/docs/v13/user/manual/en/support/issue)
-1. [Service Level Agreement](/docs/v13/user/manual/en/support/service-level-agreement)
+1. [Issue](issue.md)
+1. [Service Level Agreement](service-level-agreement.md)
 
 
 {next}

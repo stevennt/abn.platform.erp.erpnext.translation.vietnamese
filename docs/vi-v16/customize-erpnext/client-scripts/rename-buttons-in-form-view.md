@@ -3,7 +3,7 @@
 
 Trong một Đơn bán hàng đã được Xác nhận, bạn có thể thấy nhiều tùy chọn dưới mục 'Create':
 
-<img alt="Custom Script" class="screenshot" src="https://docs.erpnext.com/docs/v16/assets/img/customize/customize-button-all.png">
+<img alt="Custom Script" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/customize-button-all.png">
 
 Bạn có thể sử dụng đoạn script tùy chỉnh này để đổi tên các nút:
 
@@ -26,7 +26,7 @@ frappe.ui.form.on('Sales Order', {
 
 Sử dụng script này, chúng tôi đã loại bỏ/ẩn các nút không mong muốn, và sau đó đổi tên một nút:
 
-<img alt="Custom Script" class="screenshot" src="https://docs.erpnext.com/docs/v16/assets/img/customize/customize-button-rename.png">
+<img alt="Custom Script" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/customize-button-rename.png">
 
 **Lưu ý:** Để tìm hiểu thêm về các JS API, hãy truy cập [tài liệu frappe](https://frappe.io/docs/v16/user/en/api/form).
 

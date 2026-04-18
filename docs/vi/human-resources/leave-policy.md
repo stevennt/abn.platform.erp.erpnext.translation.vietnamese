@@ -15,15 +15,15 @@ Nhiều doanh nghiệp thường áp dụng một Chính sách nghỉ phép chun
 1. Lưu và Xác nhận.
 
 
-	<img class="screenshot" alt="Leave Policy" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/leave-policy.png">
+	<img class="screenshot" alt="Leave Policy" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/leave-policy.png">
 
 Sau khi được xác nhận, bạn có thể áp dụng Chính sách nghỉ phép thông qua trang tổng quan, áp dụng cho một Nhân viên hoặc một Nhóm nhân viên (Employee Grade).
 
-Khi một Chính sách nghỉ phép được gán cho một [Employee Grade](/docs/v13/user/manual/en/human-resources/employee-grade), nó sẽ đảm bảo rằng tất cả các phân bổ nghỉ phép cho nhân viên thuộc nhóm này sẽ tuân theo Chính sách nghỉ phép đó. Trong trường hợp bạn cần cập nhật riêng biệt Chính sách nghỉ phép cho một Nhân viên cụ thể, bạn có thể thực hiện bằng cách gắn Chính sách nghỉ phép trong hồ sơ [Employee](/docs/v13/user/manual/en/human-resources/employee) tại phần 'Attendance and Leave Details'.
+Khi một Chính sách nghỉ phép được gán cho một [Employee Grade](employee-grade.md), nó sẽ đảm bảo rằng tất cả các phân bổ nghỉ phép cho nhân viên thuộc nhóm này sẽ tuân theo Chính sách nghỉ phép đó. Trong trường hợp bạn cần cập nhật riêng biệt Chính sách nghỉ phép cho một Nhân viên cụ thể, bạn có thể thực hiện bằng cách gắn Chính sách nghỉ phép trong hồ sơ [Employee](employee.md) tại phần 'Attendance and Leave Details'.
 
 ## 2. Các chủ đề liên quan
 
-1. [Leave Period](/docs/v13/user/manual/en/human-resources/leave-period)
-1. [Leave Type](/docs/v13/user/manual/en/human-resources/leave-type)
-1. [Employee](/docs/v13/user/manual/en/human-resources/employee)
-1. [Employee Grade](/docs/v13/user/manual/en/human-resources/employee-grade)
+1. [Leave Period](leave-period.md)
+1. [Leave Type](leave-type.md)
+1. [Employee](employee.md)
+1. [Employee Grade](employee-grade.md)

@@ -9,7 +9,7 @@ Bạn có thể bản địa hóa ERPNext để sử dụng múi giờ, định 
 
 > Trang chủ > Thiết lập > Cài đặt Hệ thống
 
-<img class="screenshot" alt="System Settings" src="https://docs.erpnext.com/docs/v16/assets/img/setup/settings/system-settings.png">
+<img class="screenshot" alt="System Settings" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/settings/system-settings.png">
 
 
 ## 1. Các phần trong Cài đặt Hệ thống

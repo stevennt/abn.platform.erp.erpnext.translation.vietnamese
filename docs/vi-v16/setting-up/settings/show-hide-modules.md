@@ -7,7 +7,7 @@ Ví dụ, nếu bạn đang kinh doanh dịch vụ và muốn ẩn Module Sản 
 
 Tích chọn/bỏ tích các mục để hiển thị hoặc ẩn các module.
 
-<img class="screenshot" alt="Module Settings" src="https://docs.erpnext.com/docs/v16/assets/img/setup/settings/show-hide-modules.gif">
+<img class="screenshot" alt="Module Settings" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/settings/show-hide-modules.gif">
 
 Trong các phiên bản **cũ hơn** v12, hãy nhấp vào tên người dùng của bạn, chọn 'Everyone' và tích chọn/bỏ tích các module.
 

@@ -69,6 +69,6 @@ Trong phiên bản v16, việc quản lý mặt hàng và tồn kho đã đượ
 
 #### 7. Các chủ đề liên quan
 1. [Nhóm mặt hàng](../item-group.md)
-1. [Thuộc tính mặt hàng](https://docs.erpnext.com/docs/v13/user/manual/en/item-attribute)
+1. [Thuộc tính mặt hàng](item-attribute)
 1. [Giá mặt hàng](../item-price.md)
-1. [Biến thể mặt hàng](https://docs.erpnext.com/docs/v13/user/manual/en/item-variants)
+1. [Biến thể mặt hàng](item-variants)

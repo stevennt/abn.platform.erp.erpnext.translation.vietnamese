@@ -20,14 +20,14 @@ Trước khi tải lên hồ sơ Chấm công hàng loạt, bạn nên tạo cá
 1. Nhập Ngày bắt đầu Chấm công (Attendance From Date) và Ngày kết thúc Chấm công (Attendance To Date).
 1. Nhấp vào nút 'Get Template'. Hệ thống sẽ tải xuống một tệp CSV với Chi tiết Nhân viên như hiển thị bên dưới.
 
-    <img class="screenshot" alt="Attendance Template" src="https://docs.erpnext.com/docs/v16/assets/img/human-resources/upload-attendance1.png">
+    <img class="screenshot" alt="Attendance Template" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/upload-attendance1.png">
 
 1. Nhập Trạng thái (Có mặt / Vắng mặt) của Nhân viên cho các ngày đã chọn.
 1. Lưu tệp.
 1. Tải lên tệp đã lưu.
 
 
-    <img class="screenshot" alt="Attendance upload" src="https://docs.erpnext.com/docs/v16/assets/img/human-resources/upload-attendance.png">
+    <img class="screenshot" alt="Attendance upload" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/upload-attendance.png">
 
 
 Sau khi dữ liệu chấm công hàng loạt được tải lên, các hồ sơ chấm công tương ứng sẽ được tạo.

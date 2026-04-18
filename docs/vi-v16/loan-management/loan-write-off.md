@@ -7,7 +7,7 @@
 Để truy cập danh sách Xóa nợ khoản vay, hãy đi đến:
 > Home > Loan Management > Disbursement and Repayment > Loan Write Off
 
-<img class="screenshot" alt="Loan Write Off" src="https://docs.erpnext.com/docs/v16/assets/img/loan-management/loan-write-off.png">
+<img class="screenshot" alt="Loan Write Off" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/loan-management/loan-write-off.png">
 
 ## 1. Điều kiện tiên quyết
 Trước khi tạo Xóa nợ khoản vay, bạn phải tạo các mục sau trước:

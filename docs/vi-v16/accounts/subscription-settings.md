@@ -10,7 +10,7 @@ Trang Cài đặt Đăng ký cho phép cấu hình các thiết lập cho các g
 
 * **Cancel Invoice After Grace Period (Hủy hóa đơn sau thời gian gia hạn)**: Thay vì hiển thị 'Chưa thanh toán', Đăng ký sẽ bị hủy trong ERPNext nếu Khách hàng không thanh toán.
 
-![Subscription](https://docs.erpnext.com/docs/v16/assets/img/accounts/subscription-settings.png)
+![Subscription](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/subscription-settings.png)
 
 ---
 

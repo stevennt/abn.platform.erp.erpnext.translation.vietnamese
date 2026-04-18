@@ -19,6 +19,6 @@ Trong phiên bản v16, quy trình quản lý Khách hàng và Đơn hàng đã 
 
 * **Giữ chỗ tồn kho (Stock Reservation)**: Tính năng này cho phép bạn giữ chỗ trước các **Mặt hàng (Item)** trong **Kho (Warehouse)** dựa trên các **Đơn bán hàng (SO)** đã xác nhận. Điều này đảm bảo rằng hàng hóa sẽ được dành riêng cho khách hàng, tránh tình trạng thiếu hụt hàng khi thực hiện xuất kho.
 
-![Lead, Customer and Contact](https://docs.erpnext.com/docs/v16/assets/img/crm/lead-to-customer.gif)
+![Lead, Customer and Contact](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/crm/lead-to-customer.gif)
 
 {next}

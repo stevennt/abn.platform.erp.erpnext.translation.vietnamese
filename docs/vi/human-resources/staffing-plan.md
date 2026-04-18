@@ -13,8 +13,8 @@
 
 Trước khi tạo Kế hoạch nhân sự, bạn cần phải tạo các mục sau:
 
-* [Bộ phận](/docs/v13/user/manual/en/human-resources/department)
-* [Chức danh](/docs/v13/user/manual/en/human-resources/designation)
+* [Bộ phận](department.md)
+* [Chức danh](designation.md)
 
 
 ## 2. Cách tạo Kế hoạch nhân sự
@@ -26,7 +26,7 @@ Trước khi tạo Kế hoạch nhân sự, bạn cần phải tạo các mục 
 
 
 	<img class="screenshot" alt="Staffing Plan"
-	src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/staffing-plan.png">
+	src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/staffing-plan.png">
 
 ## 3. Các tính năng
 
@@ -44,7 +44,7 @@ Một số tính năng bổ sung trong DocType Kế hoạch nhân sự được 
 
 
 	<img class="screenshot" alt="Staffing Plan Detail"
-	src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/staffing-plan-detail.png">
+	src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/staffing-plan-detail.png">
 
 * **Tổng ngân sách ước tính:** Sau khi bạn nhập kế hoạch tuyển dụng cho tất cả các chức danh, Kế hoạch nhân sự sẽ lập tổng ngân sách ước tính theo kế hoạch.
 
@@ -52,6 +52,6 @@ Một số tính năng bổ sung trong DocType Kế hoạch nhân sự được 
 
 ## 4. Các chủ đề liên quan
 
-1. [Tin tuyển dụng](/docs/v13/user/manual/en/human-resources/job-opening)
-1. [Ứng viên](/docs/v13/user/manual/en/human-resources/job-applicant)
-1. [Thư mời làm việc](/docs/v13/user/manual/en/human-resources/job-offer)
+1. [Tin tuyển dụng](job-opening.md)
+1. [Ứng viên](job-applicant.md)
+1. [Thư mời làm việc](job-offer.md)

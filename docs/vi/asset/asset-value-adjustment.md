@@ -11,7 +11,7 @@ Trong trường hợp quản lý tài sản cố định, đôi khi giá trị c
 ## 1. Điều kiện tiên quyết
 Trước khi tạo và sử dụng Điều chỉnh giá trị tài sản, bạn nên tạo các mục sau trước:
 
-1. [Asset](/docs/v13/user/manual/en/asset/asset)
+1. [Asset](asset.md)
 1. Bật 'Calculate Depreciation' trong biểu mẫu Asset
 
 ## 2. Cách tạo Điều chỉnh giá trị tài sản
@@ -22,7 +22,7 @@ Trước khi tạo và sử dụng Điều chỉnh giá trị tài sản, bạn 
 1. Nhập giá trị hiện tại và giá trị mới của tài sản.
 1. Lưu và Xác nhận.
 
-<img class="screenshot" alt="Asset" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/asset/asset-value-adjustment.png">
+<img class="screenshot" alt="Asset" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/asset/asset-value-adjustment.png">
 
 
 Khi Lưu, hệ thống sẽ ghi nhận một khoản "Lãi/Lỗ do đánh giá lại tài sản" và điều chỉnh giá trị của tài sản.
@@ -31,7 +31,7 @@ Bạn có thể thay đổi trung tâm chi phí và thêm một sổ tài chính
 Khi Xác nhận, một Bút toán sẽ được tạo trong tài khoản 'Accumulated Depreciations'.
 
 ### 3. Các chủ đề liên quan
-1. [Asset Depreciation](/docs/v13/user/manual/en/asset/asset-depreciation)
-1. [Scrapping an Asset](/docs/v13/user/manual/en/asset/scrapping-an-asset)
+1. [Asset Depreciation](asset-depreciation.md)
+1. [Scrapping an Asset](scrapping-an-asset.md)
 
 {next}

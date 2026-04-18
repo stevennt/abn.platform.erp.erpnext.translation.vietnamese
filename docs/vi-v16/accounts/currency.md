@@ -10,7 +10,7 @@ Với phiên bản v16, việc quản lý đa tiền tệ được tối ưu hó
 
 Ví dụ, đây là trang Tiền tệ cho đồng Euro:
 
-![Currency](https://docs.erpnext.com/docs/v16/assets/img/accounts/currency.png)
+![Currency](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/currency.png)
 
 ## Các tính năng mới trong v16 liên quan đến Tài chính & Tiền tệ
 

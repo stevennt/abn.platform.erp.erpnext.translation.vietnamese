@@ -15,6 +15,6 @@ Việc thêm loại cơ hội phù hợp giúp ích trong việc giao cơ hội 
 1. Nhập '**Mô tả**'.
 1. Nhấn **Lưu**.
 
-![Opportunity Type](https://docs.erpnext.com/docs/v16/assets/img/crm/opportunity-type.png)
+![Opportunity Type](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/crm/opportunity-type.png)
 
 {next}

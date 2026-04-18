@@ -14,8 +14,8 @@ Quản lý hệ thống cũng có quyền đối với hầu hết các mục tr
 1. Đối với các tài khoản tự lưu trữ tại chỗ (self-hosted on-premises), thông tin đăng nhập admin thuộc về người dùng tài khoản.
 
 ### Các chủ đề liên quan
-1. [Thêm người dùng (Adding Users)](/docs/v13/user/manual/en/setting-up/users-and-permissions/adding-users)
-1. [Vai trò và Hồ sơ vai trò (Role and Role Profile)](/docs/v13/user/manual/en/setting-up/users-and-permissions/role-and-role-profile)
-1. [Quyền dựa trên vai trò (Role Based Permissions)](/docs/v13/user/manual/en/setting-up/users-and-permissions/role-based-permissions)
-1. [Quyền người dùng (User Permissions)](/docs/v13/user/manual/en/setting-up/users-and-permissions/user-permissions)
-1. [Quyền vai trò cho Trang và Báo cáo (Role Permission For Page And Report)](/docs/v13/user/manual/en/setting-up/users-and-permissions/role-permission-for-page-and-report)
+1. [Thêm người dùng (Adding Users)](adding-users.md)
+1. [Vai trò và Hồ sơ vai trò (Role and Role Profile)](role-and-role-profile.md)
+1. [Quyền dựa trên vai trò (Role Based Permissions)](role-based-permissions.md)
+1. [Quyền người dùng (User Permissions)](user-permissions.md)
+1. [Quyền vai trò cho Trang và Báo cáo (Role Permission For Page And Report)](role-permission-for-page-and-report.md)

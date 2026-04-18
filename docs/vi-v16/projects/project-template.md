@@ -9,7 +9,7 @@ Các mẫu này có thể được áp dụng cho các loại Dự án tương t
 
 > Home > Projects > Project Template
 
-<img class="screenshot" alt="Project Template" src="https://docs.erpnext.com/docs/v16/assets/img/project/projects-project-template.png">
+<img class="screenshot" alt="Project Template" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/project/projects-project-template.png">
 
 ## 1. Cách tạo Mẫu Dự án mới:
 

@@ -25,7 +25,7 @@ Trước khi tạo Thưởng nhân viên, bạn nên tạo các mục sau:
 6. **Lưu** và **Xác nhận**.
 7. Sau khi **Xác nhận**, tài liệu 'Additional Salary' của 'Salary Component' đã chỉ định sẽ được tạo. Thông tin này sẽ được lấy ra khi chạy Payroll Entry.
 
- <img class="screenshot" alt="Employee Incentive" src="https://docs.erpnext.com/docs/v16/assets/img/human-resources/employee-incentive.png">
+ <img class="screenshot" alt="Employee Incentive" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/employee-incentive.png">
 
 ## 3. Các chủ đề liên quan
 

@@ -19,13 +19,13 @@ ERPNext Healthcare giúp bạn lập sơ đồ cơ sở hạ tầng và quản l
 
 Ví dụ, Đơn vị dịch vụ y tế cho loại "Healthcare Practitioner Consulting Rooms":
 
-<img class="screenshot" alt="ERPNext Healthcare" src="https://docs.erpnext.com/docs/v16/assets/img/healthcare/healthcare_service_unit_1.png">
+<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/healthcare_service_unit_1.png">
 
 ## 2. Chế độ xem cây Đơn vị dịch vụ y tế
 
 Bạn cũng có thể nhóm và tổ chức tất cả các đơn vị dịch vụ theo cách phân cấp và chỉnh sửa chúng từ chế độ xem cây.
 
-<img class="screenshot" alt="ERPNext Healthcare" src="https://docs.erpnext.com/docs/v16/assets/img/healthcare/healthcare_service_unit.png">
+<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/healthcare_service_unit.png">
 
 ## 3. Các chủ đề liên quan
 

@@ -20,10 +20,10 @@
 6. Tổng số buổi và Tổng số tiền sẽ được tính toán và thiết lập tương ứng trong các trường.
 6. Lưu.
 
-<img class="screenshot" alt="Therapy Plan Template" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/therapy_plan_template.png">
+<img class="screenshot" alt="Therapy Plan Template" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/therapy_plan_template.png">
 
 ## 2. Các chủ đề liên quan
-1. [Kế hoạch trị liệu](/docs/v13/user/manual/en/healthcare/therapy_plan)
-1. [Loại trị liệu](/docs/v13/user/manual/en/healthcare/therapy_type)
+1. [Kế hoạch trị liệu](therapy_plan.md)
+1. [Loại trị liệu](therapy_type.md)
 
 {next}

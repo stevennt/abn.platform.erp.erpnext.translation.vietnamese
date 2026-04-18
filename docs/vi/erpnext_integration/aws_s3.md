@@ -4,7 +4,7 @@
 
 ## Điều kiện tiên quyết
 
-- [Tài khoản Email](/docs/v13/user/manual/en/setting-up/email/email-account)
+- [Tài khoản Email](../setting-up/email/email-account.md)
 
     Để nhận email thông báo khi sao lưu thất bại hoặc thành công, vui lòng tạo một **Tài khoản Email** trước.
 
@@ -20,7 +20,7 @@
 
     2. Tạo một người dùng (user) mới để truy cập bằng lập trình.
 
-        ![Screenshot of "Add User" in AWS](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/erpnext_integrations/s3_backup_add_user.png)
+        ![Screenshot of "Add User" in AWS](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/erpnext_integrations/s3_backup_add_user.png)
 
     3. Gán chính sách bạn vừa tạo cho người dùng mới.
 
@@ -37,4 +37,4 @@
 - Chỉ định tên của bucket mà bạn đã tạo ở bước 1.
 - Chọn tần suất bạn muốn thực hiện và tải lên các bản sao lưu. Tần suất có thể từ hàng tháng đến hàng ngày. Nếu bạn chỉ muốn thực hiện sao lưu thủ công, hãy đặt tần suất là "None".
 
-![S3 Backup Settings in ERPNext](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/erpnext_integrations/s3_backup_settings.png)
+![S3 Backup Settings in ERPNext](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/erpnext_integrations/s3_backup_settings.png)

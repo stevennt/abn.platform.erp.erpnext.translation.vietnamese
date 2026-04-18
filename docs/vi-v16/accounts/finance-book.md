@@ -20,7 +20,7 @@ Trong phiên bản v16, hệ thống quản lý tài chính được nâng cấp
 * **Tự động chốt tồn kho (Automatic Closing Stock):** Hệ thống tự động tính toán và cập nhật giá trị tồn kho cuối kỳ, giúp việc chốt sổ cuối tháng/năm trở nên nhanh chóng và chính xác.
 * **Kế toán định kỳ (Periodic Accounting):** Hỗ trợ các phương pháp kế toán dồn tích hoặc kế toán định kỳ theo chu kỳ báo cáo.
 
-<img class="screenshot" alt="Finance Book" src="https://docs.erpnext.com/docs/v16/assets/img/accounts/finance-book.png">
+<img class="screenshot" alt="Finance Book" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/finance-book.png">
 
 #### Các chủ đề liên quan
 1. [Trung tâm chi phí](cost-center.md)

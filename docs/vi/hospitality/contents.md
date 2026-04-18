@@ -11,8 +11,8 @@ Phân hệ Nhà hàng trong ERPNext sẽ giúp bạn quản lý một chuỗi nh
 
 Phân hệ Khách sạn trong ERPNext sẽ giúp bạn quản lý việc tạo Phòng khách sạn, tạo Đặt phòng khách sạn. Nó cũng sẽ giúp tạo Hóa đơn từ việc đặt phòng khách sạn.
 
-1. [Restaurant](/docs/v13/user/manual/en/hospitality/restaurant)
-- [Restaurant Menu](/docs/v13/user/manual/en/hospitality/restaurant-menu)
-- [Reservations](/docs/v13/user/manual/en/hospitality/reservations)
-- [Order Entry](/docs/v13/user/manual/en/hospitality/order-entry)
-- [Hotel Room](/docs/v13/user/manual/en/hospitality/hotel-room)
+1. [Restaurant](restaurant.md)
+- [Restaurant Menu](restaurant-menu.md)
+- [Reservations](reservations.md)
+- [Order Entry](order-entry.md)
+- [Hotel Room](hotel-room.md)

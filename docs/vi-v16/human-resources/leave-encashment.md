@@ -29,7 +29,7 @@ Trước khi tạo Quy đổi ngày nghỉ thành tiền, bạn nên tạo các 
 1. Lưu và Xác nhận.
 
 	<img class="screenshot" alt="Leave Encashment"
-	src="https://docs.erpnext.com/docs/v16/assets/img/human-resources/leave-encashment-new.png">
+	src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/leave-encashment-new.png">
 
 
 > **Lưu ý:** Khi bạn chọn Employee và Leave Type, Số dư nghỉ phép (Leave Balance) và Số ngày có thể quy đổi (Encashable Days - là tổng số dư nghỉ phép trừ đi số ngày ngưỡng được thiết lập trong Leave Type) sẽ được hiển thị cùng với Số tiền quy đổi (Encashment Amount) dựa trên mức Quy đổi ngày nghỉ mỗi ngày được cấu hình trong Salary Structure được gán cho Nhân viên đó.

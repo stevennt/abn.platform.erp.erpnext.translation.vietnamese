@@ -22,7 +22,7 @@ Trước khi tạo và sử dụng Đội bảo trì Tài sản, bạn nên tạ
 1. Trong bảng Maintenance Team Members, thêm các thành viên trong đội và chọn [vai trò](/docs/v16/user/manual/vi/setting-up/users-and-permissions/role-and-role-profile) bảo trì của họ.
 1. **Lưu**.
 
-<img class="screenshot" alt="Asset" src="https://docs.erpnext.com/docs/v16/assets/img/asset/asset-maintenance-team.png">
+<img class="screenshot" alt="Asset" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/asset/asset-maintenance-team.png">
 
 ## 3. Các chủ đề liên quan
 1. [Bảo trì Tài sản](/docs/v16/user/manual/vi/asset/asset-maintenance)

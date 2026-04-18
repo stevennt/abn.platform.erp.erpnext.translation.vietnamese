@@ -26,11 +26,11 @@ Trước khi tạo Cấp bậc Nhân viên, bạn nên tạo các tài liệu sa
 3. Nhập [Chính sách nghỉ phép](../human-resources/leave-policy) mặc định và [Cấu trúc lương](../human-resources/salary-structure) mặc định cho Cấp bậc đó.
 4. **Lưu**.
 
-    <img class="screenshot" alt="Employee Grade" src="https://docs.erpnext.com/docs/v16/assets/img/human-resources/employee-grade.png">
+    <img class="screenshot" alt="Employee Grade" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/employee-grade.png">
 
 Dưới đây là các Cấp bậc Nhân viên khác nhau đã được tạo.
 
-<img class="screenshot" alt="New Employee Grade" src="https://docs.erpnext.com/docs/v16/assets/img/human-resources/employee-grade1.png">
+<img class="screenshot" alt="New Employee Grade" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/employee-grade1.png">
 
 Bạn cũng có thể truy cập [Nhân viên](../human-resources/employee), [Loại nghỉ phép](../human-resources/leave-type), [Mẫu tiếp nhận nhân viên mới](../human-resources/employee-onboarding) và [Mẫu thôi việc nhân viên](../human-resources/employee-separation).
 

@@ -3,7 +3,7 @@
 
 Có nhiều cài đặt kế toán khác nhau trong ERPNext để hạn chế và cấu hình các hành động trong phân hệ Kế toán.
 
-![Account Settings](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/account-settings.png)
+![Account Settings](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/account-settings.png)
 
 ## 1. Tài khoản bị đóng băng đến ngày
 Đóng băng các giao dịch kế toán đến một ngày cụ thể, không ai có thể tạo/sửa đổi bút toán ngoại trừ Vai trò được chỉ định.
@@ -37,7 +37,7 @@ Tương tự như tùy chọn trước, tùy chọn này sẽ hủy liên kết 
 
 
 ## 11. Tự động ghi bút toán Khấu hao Tài sản
-Khi được chọn, một bút toán tự động cho việc khấu hao tài sản sẽ được tạo dựa trên ngày đầu tiên được thiết lập. Ví dụ, việc khấu hao hàng năm cho một mặt hàng sẽ được lập lịch cho 3/4 năm tiếp theo dựa trên Số lần khấu hao đã ghi (Number of Depreciations Booked) được thiết lập trong danh mục Tài sản. Để biết thêm chi tiết, hãy truy cập trang [Khấu hao Tài sản](https://docs.erpnext.com/docs/v13/user/manual/en/asset/asset-depreciation).
+Khi được chọn, một bút toán tự động cho việc khấu hao tài sản sẽ được tạo dựa trên ngày đầu tiên được thiết lập. Ví dụ, việc khấu hao hàng năm cho một mặt hàng sẽ được lập lịch cho 3/4 năm tiếp theo dựa trên Số lần khấu hao đã ghi (Number of Depreciations Booked) được thiết lập trong danh mục Tài sản. Để biết thêm chi tiết, hãy truy cập trang [Khấu hao Tài sản](../asset/asset-depreciation.md).
 
 ## 12. Cho phép Trung tâm chi phí trong bút toán Tài khoản Bảng cân đối kế toán
 Nếu được chọn, hệ thống sẽ cho phép người dùng gắn các bút toán trong Tài khoản Bảng cân đối kế toán với một Trung tâm chi phí. Theo mặc định, Trung tâm chi phí chỉ có sẵn cho tài khoản Lãi/Lỗ.
@@ -50,7 +50,7 @@ Bật tính năng này sẽ tự động lấy Điều khoản thanh toán dựa
 
 ## 15. Cài đặt In
 
-![Account Settings](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/print-accounts-settings.png)
+![Account Settings](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/print-accounts-settings.png)
 
 * **Hiển thị Thuế bao gồm trong bản in**: Các loại thuế được áp dụng sẽ được hiển thị trong chế độ xem in.
 * **Hiển thị Lịch trình thanh toán trong bản in**: Bảng Lịch trình thanh toán sẽ hiển thị khi sử dụng [Điều khoản thanh toán](payment-terms.md). Bật tính năng này sẽ hiển thị bảng này trong chế độ xem in.

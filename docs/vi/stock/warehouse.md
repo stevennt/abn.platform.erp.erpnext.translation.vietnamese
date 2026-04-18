@@ -29,7 +29,7 @@ Các Kho được lưu với tên viết tắt của Công ty tương ứng. Đi
 #### Địa chỉ và liên hệ
 Bạn có thể thêm địa chỉ Thanh toán, địa chỉ Giao hàng và các loại địa chỉ khác cho Kho. Bạn cũng có thể thêm một liên hệ, ví dụ như Quản lý Kho.
 
-![Warehouse](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/warehouse.png)
+![Warehouse](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/warehouse.png)
 
 ### 1.2 Sau khi Lưu
 Sau khi lưu một Kho, bạn sẽ thấy các tùy chọn sau:
@@ -43,7 +43,7 @@ Sau khi lưu một Kho, bạn sẽ thấy các tùy chọn sau:
 ### 2.1 Chế độ xem Cây (Tree View)
 Bạn cũng có thể chuyển sang chế độ xem 'Tree' để hiển thị tất cả các Kho nhóm và Kho con.
 
-<img class="screenshot" alt="Warehouse" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/warehouse-tree.png">
+<img class="screenshot" alt="Warehouse" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/warehouse-tree.png">
 
 ### 2.2 Tài khoản Kho
 Trong ERPNext, nếu bạn bật [Perpetual Inventory](perpetual-inventory.md), mọi Kho phải thuộc về một công ty cụ thể để duy trì số dư tồn kho theo từng công ty. Để làm được điều này, mỗi Kho nên được liên kết với một Tài khoản trong Hệ thống tài khoản (tên giống với tên của chính Kho đó). Tài khoản này ghi nhận giá trị tiền tệ tương đương của hàng hóa hoặc vật tư được lưu trữ trong kho cụ thể đó.

@@ -1,17 +1,17 @@
 <!-- add-breadcrumbs -->
 # Nhân viên bán hàng trong các giao dịch bán hàng
 
-Trong ERPNext, danh mục Nhân viên bán hàng được quản lý theo [cấu trúc cây](https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/articles/managing-tree-structure-masters.html). Nhân viên bán hàng có thể được lựa chọn trong tất cả các giao dịch bán hàng.
+Trong ERPNext, danh mục Nhân viên bán hàng được quản lý theo [cấu trúc cây](../../setting-up/articles/managing-tree-structure-masters.html.md). Nhân viên bán hàng có thể được lựa chọn trong tất cả các giao dịch bán hàng.
 
 Nhân viên bán hàng cũng có thể được cập nhật trong danh mục Khách hàng. Khi chọn Khách hàng trong các giao dịch, các Nhân viên bán hàng đã được cập nhật trong Khách hàng sẽ được tự động lấy vào giao dịch bán hàng.
 
-<img class="screenshot" alt="Sales Person Customer" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/selling/sales-person-in-customer.png">
+<img class="screenshot" alt="Sales Person Customer" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/selling/sales-person-in-customer.png">
 
 #### Mức đóng góp của Nhân viên bán hàng
 
 Nếu có nhiều nhân viên bán hàng cùng làm việc trên một đơn hàng, thì mức đóng góp (%) cần được thiết lập cho mỗi Nhân viên bán hàng.
 
-<img class="screenshot" alt="Sales Person Order" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/selling/sales-person-in-sales-order.png">
+<img class="screenshot" alt="Sales Person Order" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/selling/sales-person-in-sales-order.png">
 
 Khi Lưu giao dịch, dựa trên Tổng ròng và mức Đóng góp (%), `Mức đóng góp vào Tổng ròng` sẽ được tính toán cho mỗi Nhân viên bán hàng.
 
@@ -25,7 +25,7 @@ Kiểm tra báo cáo giao dịch của Nhân viên bán hàng tại:
 
 Báo cáo này có thể được tạo dựa trên Đơn bán hàng, Phiếu giao hàng và Hóa đơn bán hàng. Nó sẽ cho bạn biết tổng số tiền bán hàng được thực hiện bởi một nhân viên.
 
-<img class="screenshot" alt="Sales Person Report" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/selling/sales-person-wise-transaction-summary-report.png">
+<img class="screenshot" alt="Sales Person Report" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/selling/sales-person-wise-transaction-summary-report.png">
 
 #### Hoa hồng theo Nhân viên bán hàng
 

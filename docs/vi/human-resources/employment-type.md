@@ -16,16 +16,16 @@ ERPNext cho phép bạn chọn một Loại hình nhân viên từ danh sách đ
 2. Nhập Tên của Loại hình nhân viên.
 3. Lưu.
 
-    <img class="screenshot" alt="Employment Type" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/employment-type.png">
+    <img class="screenshot" alt="Employment Type" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/employment-type.png">
 
-Loại hình nhân viên có thể được liên kết với danh mục chính [Employee](/docs/v13/user/manual/en/human-resources/employee).
+Loại hình nhân viên có thể được liên kết với danh mục chính [Employee](employee.md).
 
 
 ## 2. Các chủ đề liên quan
 
-1. [Employee](/docs/v13/user/manual/en/human-resources/employee)
-1. [Employment Type](/docs/v13/user/manual/en/human-resources/employment-type)
-1. [Branch](/docs/v13/user/manual/en/human-resources/branch)
-1. [Department](/docs/v13/user/manual/en/human-resources/department)
-1. [Designation](/docs/v13/user/manual/en/human-resources/designation)
-1. [Employee Grade](/docs/v13/user/manual/en/human-resources/employee-grade)
+1. [Employee](employee.md)
+1. [Employment Type](employment-type.md)
+1. [Branch](branch.md)
+1. [Department](department.md)
+1. [Designation](designation.md)
+1. [Employee Grade](employee-grade.md)

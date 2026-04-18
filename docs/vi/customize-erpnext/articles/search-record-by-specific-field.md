@@ -1,7 +1,7 @@
 <!-- add-breadcrumbs -->
 # Tìm kiếm bản ghi theo trường cụ thể
 
-Khi tạo bất kỳ DocType nào, bạn có thể muốn liên kết một trường cụ thể với một DocType khác. Ví dụ, trong DocType Đơn bán hàng, trường 'Khách hàng' cho phép bạn chọn một khách hàng đã tồn tại. Các trường như vậy được gọi là [Trường liên kết (Link Fields)](/docs/v13/user/manual/en/customize-erpnext/articles/field-types#link).
+Khi tạo bất kỳ DocType nào, bạn có thể muốn liên kết một trường cụ thể với một DocType khác. Ví dụ, trong DocType Đơn bán hàng, trường 'Khách hàng' cho phép bạn chọn một khách hàng đã tồn tại. Các trường như vậy được gọi là [Trường liên kết (Link Fields)](field-types.md#link).
 
 Sử dụng Trường liên kết, bạn có thể tạo ra một...
 
@@ -19,13 +19,13 @@ Giả sử bạn muốn xem Mặt hàng trong Đơn bán hàng cùng với Nhóm
 
 Cập nhật tên trường Kho trong trường Tìm kiếm theo (Search By).
 
-<img alt="Search By in Customize Form" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/customize-search-record-1.png">
+<img alt="Search By in Customize Form" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/customize-search-record-1.png">
 
-<img alt="Search By in Customize Form" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/customize-search-record-2.png">
+<img alt="Search By in Customize Form" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/customize-search-record-2.png">
 
 Sau khi các cài đặt này đã được cập nhật, khi tạo Đơn bán hàng, khi bạn chọn Mặt hàng, bạn cũng sẽ có thể thấy được kho ở đó.
 
-<img alt="Search By in Customize Form" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/customize-search-record-3.png">
+<img alt="Search By in Customize Form" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/customize-search-record-3.png">
 
 {next}
 

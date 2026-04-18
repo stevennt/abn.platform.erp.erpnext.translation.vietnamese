@@ -26,7 +26,7 @@ Trong ERPNext v16, bạn có thể tạo Trung tâm chi phí phân bổ và sử
 1. Tích vào ô **Enable Distributed Cost Center** (Cho phép Trung tâm chi phí phân bổ): Khi bật tùy chọn này, bảng trung tâm chi phí phân bổ sẽ hiển thị. Tại đây, hãy chọn các Trung tâm chi phí và phân bổ tỷ lệ phần trăm tương ứng.
 1. Sau khi hoàn tất, nhấn **Lưu**.
 
-  ![Distributed Cost Center](https://docs.erpnext.com/docs/v16/assets/img/accounts/distributed-cost-centers.png)
+  ![Distributed Cost Center](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/distributed-cost-centers.png)
 
 
 Các báo cáo sau sẽ được cập nhật tự động khi bộ lọc Trung tâm chi phí được thêm vào:

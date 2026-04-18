@@ -36,7 +36,7 @@ Trước khi tạo và sử dụng Phiếu chi phí chuyển đến, bạn nên 
 1. Nhập Tài khoản chi phí và Số tiền cho Chi phí bổ sung trong bảng Thuế và phí. Số tiền sẽ được phân bổ dựa trên số lượng hoặc số tiền theo lựa chọn của bạn.
 1. **Lưu** và **Xác nhận**.
 
-    <img class="screenshot" alt="Landed Cost Voucher" src="https://docs.erpnext.com/docs/v16/assets/img/stock/landed-cost-voucher.png">
+    <img class="screenshot" alt="Landed Cost Voucher" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/landed-cost-voucher.png">
 
 Trong chứng từ, bạn có thể chọn nhiều Phiếu nhập hàng/Hóa đơn mua hàng và lấy tất cả các mặt hàng từ các chứng từ đó. Sau đó, bạn nên thêm các khoản phí áp dụng vào bảng “Thuế và phí”. Bạn có thể dễ dàng xóa một mặt hàng nếu các khoản phí đã thêm không áp dụng cho mặt hàng đó.
 

@@ -8,7 +8,7 @@ Hóa đơn mua hàng hoàn toàn ngược lại với Hóa đơn bán hàng củ
 Để truy cập danh sách Hóa đơn mua hàng, hãy đi đến:
 > Trang chủ > Kế toán > Phải trả người bán > Hóa đơn mua hàng
 
-![PI Flow](https://docs.erpnext.com/docs/v16/assets/img/accounts/pi-flow.png)
+![PI Flow](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/pi-flow.png)
 
 ## 1. Điều kiện tiên quyết
 Trước khi tạo và sử dụng Hóa đơn mua hàng, bạn nên tạo các nội dung sau trước:
@@ -35,7 +35,7 @@ Hóa đơn mua hàng thường được tạo từ Đơn mua hàng hoặc Phiế
 
 *Lưu ý trong phiên bản v16: Trước khi nhấn **Xác nhận**, bạn có thể sử dụng tính năng **Ledger Preview** để xem trước các bút toán (JE) sẽ được ghi nhận vào sổ cái, giúp đảm bảo tính chính xác của hạch toán.*
 
-![Purchase Invoice](https://docs.erpnext.com/docs/v16/assets/img/accounts/purchase-invoice.png)
+![Purchase Invoice](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/purchase-invoice.png)
 
 ### 2.1 Các tùy chọn bổ sung khi tạo Hóa đơn mua hàng
 
@@ -67,13 +67,13 @@ Chiều kế toán cho phép bạn gắn thẻ các giao dịch dựa trên mộ
 
 **Hold Invoice (Tạm giữ Hóa đơn)**: Bật hộp kiểm này để đưa Hóa đơn mua hàng vào trạng thái tạm giữ. Việc này chỉ có thể thực hiện trước khi **Xác nhận** hóa đơn. Khi 'Hold Invoice' được bật và Hóa đơn mua hàng đã được **Xác nhận**, trạng thái sẽ chuyển thành 'Temporarily on Hold' (Tạm thời bị tạm giữ).
 
-![Purchase Invoice on Hold](https://docs.erpnext.com/docs/v16/assets/img/accounts/purchase-invoice-on-hold.png)
+![Purchase Invoice on Hold](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/purchase-invoice-on-hold.png)
 
 Sau khi hóa đơn mua hàng đã được **Xác nhận** và bạn muốn thay đổi 'Release Date' (Ngày phát hành), bạn có thể sử dụng nút 'Hold Invoice' ở góc trên bên phải.
 
 Nếu bạn muốn tạm giữ hóa đơn mua hàng đã được **Xác nhận**, bạn có thể tạm giữ bằng tùy chọn 'Block Invoice' (Chặn hóa đơn) và nếu bạn muốn bỏ chặn, hãy sử dụng tùy chọn 'Unblock Invoice' (Bỏ chặn hóa đơn).
 
-![Block PI](https://docs.erpnext.com/docs/v16/assets/img/accounts/purchase-invoice-block.png)
+![Block PI](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/purchase-invoice-block.png)
 
 Đây là việc tạm giữ ở cấp độ hóa đơn, Nhà cung cấp cũng có thể bị đưa vào trạng thái tạm giữ. [Tìm hiểu thêm tại đây](../buying/supplier.md#23-credit-limit).
 

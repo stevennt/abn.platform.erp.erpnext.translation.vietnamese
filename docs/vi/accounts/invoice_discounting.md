@@ -26,11 +26,11 @@ Bạn cần tạo các tài khoản sổ cái sau để hạch toán các giao d
 1. Nhấn Lưu (Save) sau đó Xác nhận (Submit).
 1. Sau khi Xác nhận (Submit) biểu mẫu Chiết khấu hóa đơn, nhấn vào **Disburse Loan** (Giải ngân khoản vay).
 
- ![Disburse Loan in Invoice Discounting](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/invoice-discounting.png)
+ ![Disburse Loan in Invoice Discounting](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/invoice-discounting.png)
 
 1. Bạn sẽ được đưa đến màn hình [Journal Entry](journal-entry.md) (Bút toán). Lưu (Save) và Xác nhận (Submit) Bút toán này.
 
-  ![Journal Entry](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/invoice-discounting-journal-entry.png)
+  ![Journal Entry](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/invoice-discounting-journal-entry.png)
 
 ## 2. Các tính năng
 
@@ -45,7 +45,7 @@ Bạn cũng có thể chỉ định kết hợp nhiều bộ lọc trên.
 
 ### 2.2 Tất toán khoản vay
 Khi bạn hoàn trả khoản vay vào cuối thời hạn vay hoặc trước đó, bạn có thể cập nhật bằng cách nhấn vào nút 'Close Loan' (Tất toán khoản vay).
-  ![Journal Entry](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/invoice-discounting-close-loan.png)
+  ![Journal Entry](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/invoice-discounting-close-loan.png)
 Hệ thống sẽ lập Bút toán. Hãy kiểm tra và Xác nhận (Submit) nó.
 
 ### 2.3 Tự động cập nhật sổ cái khi kết thúc thời hạn vay

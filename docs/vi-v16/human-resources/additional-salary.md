@@ -28,7 +28,7 @@ Trước khi tạo Lương bổ sung, bạn nên tạo các mục sau:
 
 Chọn hộp kiểm 'Overwrite Salary Structure Amount' để ghi đè thành phần Lương bổ sung lên số tiền trong Cấu trúc lương. Ngoài ra, có thể chọn hộp kiểm 'Deduct Full Tax on Selected Payroll Date' nếu cần khấu trừ toàn bộ thuế cho thành phần Lương bổ sung vào ngày tính lương cụ thể đó.
 
-<img class="screenshot" alt="Additional Salary" src="https://docs.erpnext.com/docs/v16/assets/img/human-resources/additional-salary.png">
+<img class="screenshot" alt="Additional Salary" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/additional-salary.png">
 
 ## 3. Tính năng
 

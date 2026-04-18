@@ -18,23 +18,23 @@ Home > CRM > Settings > Sales Person
 4. Tích vào ô 'Group Node', nếu bạn muốn thêm nhiều Nhân viên bán hàng khác dưới Nhân viên bán hàng này.
 5. Nhấp vào 'Create New'.
 
-<img class="screenshot" alt="Sales Person Tree" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/crm/sales-person-tree.gif">
+<img class="screenshot" alt="Sales Person Tree" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/crm/sales-person-tree.gif">
 
 ## 2. Các tính năng
 ### 2.1 Nhân viên bán hàng trong các giao dịch
 
 Bạn có thể sử dụng Nhân viên bán hàng trong các giao dịch bán hàng như Đơn bán hàng, Phiếu giao hàng và Hóa đơn bán hàng.
-Đọc [Nhân viên bán hàng trong các giao dịch bán hàng](/docs/v13/user/manual/en/selling/articles/sales-persons-in-the-sales-transactions) để biết thêm chi tiết.
+Đọc [Nhân viên bán hàng trong các giao dịch bán hàng](../selling/articles/sales-persons-in-the-sales-transactions.md) để biết thêm chi tiết.
 
 ### 2.2 Phân bổ mục tiêu doanh số cho Nhân viên bán hàng
 
-Bạn có thể phân bổ mục tiêu doanh số cho nhân viên bán hàng và theo dõi tiến độ. Đọc [Phân bổ mục tiêu Nhân viên bán hàng](/docs/v13/user/manual/en/selling/sales-person-target-allocation) để biết thêm chi tiết.
+Bạn có thể phân bổ mục tiêu doanh số cho nhân viên bán hàng và theo dõi tiến độ. Đọc [Phân bổ mục tiêu Nhân viên bán hàng](../selling/sales-person-target-allocation.md) để biết thêm chi tiết.
 
 ### 3. Các chủ đề liên quan
-1. [Đơn bán hàng](/docs/v13/user/manual/en/selling/sales-order)
-1. [Phân bổ mục tiêu Nhân viên bán hàng](/docs/v13/user/manual/en/selling/sales-person-target-allocation)
-1. [Phiếu giao hàng](/docs/v13/user/manual/en/stock/delivery-note)
-1. [Hóa đơn bán hàng](/docs/v13/user/manual/en/accounts/sales-invoice)
+1. [Đơn bán hàng](../selling/sales-order.md)
+1. [Phân bổ mục tiêu Nhân viên bán hàng](../selling/sales-person-target-allocation.md)
+1. [Phiếu giao hàng](../stock/delivery-note.md)
+1. [Hóa đơn bán hàng](../accounts/sales-invoice.md)
 1. [Chu kỳ bán hàng](/docs/v13/user/videos/learn/sales-cycle.html)
 
 {next}

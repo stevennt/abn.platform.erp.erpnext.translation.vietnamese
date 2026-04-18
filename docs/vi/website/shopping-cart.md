@@ -8,11 +8,11 @@ Giỏ hàng.
 
 > Trang chủ > Website > Portal > Shopping Cart Settings
 
-![Shopping Cart Settings](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/website/shopping-cart-settings.png)
+![Shopping Cart Settings](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/website/shopping-cart-settings.png)
 *Shopping Cart Settings*
 
 Bạn thậm chí có thể xây dựng một **trang đích (landing page)** cho cửa hàng của mình tại một đường dẫn tùy chỉnh (ví dụ: /*store*).
-Đọc [tài liệu hướng dẫn](/docs/v13/user/manual/en/website/store-landing-page) để tìm hiểu cách thực hiện!
+Đọc [tài liệu hướng dẫn](store-landing-page.md) để tìm hiểu cách thực hiện!
 
 Dưới đây là một số tùy chọn cấu hình:
 
@@ -34,7 +34,7 @@ Các Mặt hàng không có biến thể sẽ có trang sản phẩm riêng và 
 Thông tin tồn kho cũng sẽ được hiển thị nếu tùy chọn này được bật trong
 Shopping Cart Settings.
 
-![Item without Variants](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/website/item-without-variants.png)
+![Item without Variants](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/website/item-without-variants.png)
 *Mặt hàng không có biến thể*
 
 ### 1.2 Mặt hàng có biến thể
@@ -42,27 +42,27 @@ Shopping Cart Settings.
 Vì các Mẫu Mặt hàng (Item Templates) không thể được mua trực tiếp, nên sẽ có nút Cấu hình để
 chọn biến thể cụ thể và thêm vào giỏ hàng.
 
-![Item with Variants](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/website/item-with-variants.gif)
+![Item with Variants](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/website/item-with-variants.gif)
 *Mặt hàng có biến thể*
 
 ## 2. Báo giá từ Giỏ hàng
 
 Nếu tính năng thanh toán bị vô hiệu hóa, khi khách hàng thêm một mặt hàng vào giỏ hàng, họ có thể nhấp
-vào nút **Yêu cầu báo giá** để nhận báo giá cho mặt hàng đó. Một [Báo giá](/docs/v13/user/manual/en/selling/quotation)
+vào nút **Yêu cầu báo giá** để nhận báo giá cho mặt hàng đó. Một [Báo giá](../selling/quotation.md)
 sẽ được tạo trong hệ thống.
 
-![Cart Quotation](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/website/cart-quotation.png)
+![Cart Quotation](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/website/cart-quotation.png)
 *Báo giá từ giỏ hàng*
 
 ## 3. Thanh toán Giỏ hàng
 
 Bạn có thể kích hoạt thanh toán từ phần **Checkout Settings** trong
-Shopping Cart Settings. Bạn phải có [Tích hợp PayPal](/docs/v13/user/manual/en/erpnext_integration/paypal-integration)
-hoặc [Tích hợp Razorpay](/docs/v13/user/manual/en/erpnext_integration/razorpay-integration)
+Shopping Cart Settings. Bạn phải có [Tích hợp PayPal](../erpnext_integration/paypal-integration.md)
+hoặc [Tích hợp Razorpay](../erpnext_integration/razorpay-integration.md)
 để cho phép thanh toán.
 
-![Cart Checkout Settings](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/website/cart-checkout-settings.png)
+![Cart Checkout Settings](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/website/cart-checkout-settings.png)
 *Cài đặt thanh toán giỏ hàng*
 
-![Cart Checkout](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/website/cart-checkout.png)
+![Cart Checkout](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/website/cart-checkout.png)
 *Thanh toán giỏ hàng*

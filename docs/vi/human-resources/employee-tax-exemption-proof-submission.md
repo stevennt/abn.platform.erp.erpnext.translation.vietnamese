@@ -13,7 +13,7 @@
 
 ## 1. Cách tạo Nộp chứng từ miễn thuế cho Nhân viên
 
-Các chi tiết sẽ được tự động lấy về nếu bạn nhấp vào 'Submit Proof' từ [Employee Tax Exemption Declaration](/docs/v13/user/manual/en/human-resources/employee-tax-exemption-declaration). Tuy nhiên, nếu bạn muốn tạo 'Employee Tax Exemption Proof Submission' một cách thủ công, hãy làm theo các bước sau.
+Các chi tiết sẽ được tự động lấy về nếu bạn nhấp vào 'Submit Proof' từ [Employee Tax Exemption Declaration](employee-tax-exemption-declaration.md). Tuy nhiên, nếu bạn muốn tạo 'Employee Tax Exemption Proof Submission' một cách thủ công, hãy làm theo các bước sau.
 
 1. Đi tới danh sách Nộp chứng từ miễn thuế cho Nhân viên, nhấp vào New.
 1. Nhập các chi tiết cần thiết.
@@ -22,7 +22,7 @@ Các chi tiết sẽ được tự động lấy về nếu bạn nhấp vào 'S
 1. Nhập House Rent Payment Amount (Số tiền thanh toán tiền thuê nhà), Rented From Date (Ngày bắt đầu thuê) và Rented To Date (Ngày kết thúc thuê).
 1. Lưu và Xác nhận.
 
-    <img class="screenshot" alt="Employee Tax Exemption Proof Submission" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/employee-tax-exemption-proof-submission.png">
+    <img class="screenshot" alt="Employee Tax Exemption Proof Submission" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/employee-tax-exemption-proof-submission.png">
 
 
 

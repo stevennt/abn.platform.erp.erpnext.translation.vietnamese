@@ -2,11 +2,11 @@
 
 Dưới đây là giao diện của một cuộc hẹn bệnh nhân trong ERPNext:
 
-<img class="screenshot" alt="ERPNext Healthcare" src="https://docs.erpnext.com/docs/v16/assets/img/healthcare/patient-appointment.png">
+<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/patient-appointment.png">
 
 Đây là một số phân tích:
 
-<img class="screenshot" alt="ERPNext Healthcare" src="https://docs.erpnext.com/docs/v16/assets/img/healthcare/appointment-analytics.png">
+<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/appointment-analytics.png">
 
 ERPNext Healthcare giúp bạn quản lý bệnh viện, phòng khám hoặc cơ sở hành nghề một cách hiệu quả bằng cách lên lịch hẹn (Appointments), ghi nhận các chỉ số sinh tồn (Vitals), và quản lý các đơn thuốc cũng như chỉ định xét nghiệm thông qua việc ghi lại các lần thăm khám của bệnh nhân (Patient Encounters). Bạn có thể dễ dàng truy xuất Lịch sử Y tế của Bệnh nhân bất cứ lúc nào để xem lại các tình trạng và phương pháp điều trị trước đó, giúp hỗ trợ bạn trong việc cung cấp dịch vụ chăm sóc chất lượng cao và hiệu quả. ERPNext Healthcare cho phép bạn quản lý nhiều Tiêu chuẩn Mã Y tế như ICD 10 và dễ dàng tìm kiếm các Mã Y tế giúp đơn giản hóa quá trình mã hóa. ERPNext Healthcare cũng đi kèm với mô-đun Phòng xét nghiệm với các mẫu có sẵn để ghi lại các Xét nghiệm Lab phổ biến. Các Báo cáo như Phân tích Cuộc hẹn và Báo cáo Xét nghiệm Lab giúp bạn có cái nhìn thấu đáo về các hoạt động vận hành.
 

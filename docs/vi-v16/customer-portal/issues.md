@@ -5,19 +5,19 @@ Cổng thông tin khách hàng giúp khách hàng nêu lên các mối quan tâm
 
 #### Danh sách Vấn đề trống
 
-<img class="screenshot" alt="Issue List" src="https://docs.erpnext.com/docs/v16/assets/img/website/portal-ticket-list-empty.png">
+<img class="screenshot" alt="Issue List" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/website/portal-ticket-list-empty.png">
 
 #### Vấn đề mới
 
-<img class="screenshot" alt="New Issue " src="https://docs.erpnext.com/docs/v16/assets/img/website/portal-new-ticket.png">
+<img class="screenshot" alt="New Issue " src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/website/portal-new-ticket.png">
 
 #### Vấn đề đang mở
 
-<img class="screenshot" alt="Issue Raised" src="https://docs.erpnext.com/docs/v16/assets/img/website/portal-ticket-1.gif">
+<img class="screenshot" alt="Issue Raised" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/website/portal-ticket-1.gif">
 
 #### Phản hồi về Vấn đề
 
-<img class="screenshot" alt="Issue reply" src="https://docs.erpnext.com/docs/v16/assets/img/website/portal-ticket-reply.gif">
+<img class="screenshot" alt="Issue reply" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/website/portal-ticket-reply.gif">
 
 #### Các cập nhật mới trong phiên bản v16
 

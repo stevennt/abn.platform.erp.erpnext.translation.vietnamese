@@ -12,7 +12,7 @@ Mỗi email được gửi đi đều khác nhau nhưng một số email nhất 
 1. Phản hồi (Response) là nội dung tiêu chuẩn của email sẽ là một phần của mẫu này.
 1. **Lưu**.
 
-<img class="screenshot" alt="Email Template" src="https://docs.erpnext.com/docs/v16/assets/img/setup/email/email-template-example.png">
+<img class="screenshot" alt="Email Template" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/email/email-template-example.png">
 
 **DocType liên kết:** (tùy chọn) DocType liên kết với mẫu này.
 

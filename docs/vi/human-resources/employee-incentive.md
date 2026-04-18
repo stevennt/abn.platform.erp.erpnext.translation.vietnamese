@@ -13,8 +13,8 @@ Khi một tổ chức muốn khuyến khích năng suất làm việc của nhâ
 
 Trước khi tạo Thưởng nhân viên, bạn nên tạo các mục sau:
 
-* [Employee](/docs/v13/user/manual/en/human-resources/employee)
-* [Salary Component](/docs/v13/user/manual/en/human-resources/salary-component)
+* [Employee](employee.md)
+* [Salary Component](salary-component.md)
 
 ## 1. Cách tạo Thưởng nhân viên
 
@@ -22,18 +22,18 @@ Trước khi tạo Thưởng nhân viên, bạn nên tạo các mục sau:
 1. Chọn Employee.
 1. Nhập Incentive Amount.
 1. Chọn Payroll Date.
-1. Chọn [Salary Component](/docs/v13/user/manual/en/human-resources/salary-component) mà bạn muốn dùng để chi trả khoản thưởng.
+1. Chọn [Salary Component](salary-component.md) mà bạn muốn dùng để chi trả khoản thưởng.
 1. Lưu và Xác nhận.
 1. Sau khi xác nhận, tài liệu 'Additional Salary' của 'Salary Component' đã chỉ định sẽ được tạo. Thông tin này sẽ được lấy ra khi chạy Payroll Entry.
 
- <img class="screenshot" alt="Employee Incentive" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/employee-incentive.png">
+ <img class="screenshot" alt="Employee Incentive" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/employee-incentive.png">
 
 ## 2. Các chủ đề liên quan
 
-1. [Retention Bonus](/docs/v13/user/manual/en/human-resources/retention-bonus)
-1. [Additional Salary](/docs/v13/user/manual/en/human-resources/additional-salary)
-1. [Salary Component](/docs/v13/user/manual/en/human-resources/salary-component)
-1. [Salary Structure](/docs/v13/user/manual/en/human-resources/salary-structure)
-1. [Payroll Entry](/docs/v13/user/manual/en/human-resources/payroll-entry)
+1. [Retention Bonus](retention-bonus.md)
+1. [Additional Salary](additional-salary.md)
+1. [Salary Component](salary-component.md)
+1. [Salary Structure](salary-structure.md)
+1. [Payroll Entry](payroll-entry.md)
 
 {next}

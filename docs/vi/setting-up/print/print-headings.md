@@ -16,15 +16,15 @@ Nếu bạn muốn đổi tên một giao dịch theo cách nó hiển thị khi
 1. Nhập tiêu đề sẽ hiển thị trên tài liệu.
 1. Lưu.
 
-  <img class="screenshot" alt="Print Heading" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/print/print-heading.png">
+  <img class="screenshot" alt="Print Heading" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/print/print-heading.png">
 
 Để sử dụng tiêu đề in, hãy chọn tiêu đề in đã tạo trong trường 'Tiêu đề in' của giao dịch, như hiển thị dưới đây:
 
-![Using a Print Heading](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/print/use-print-heading.gif)
+![Using a Print Heading](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/print/use-print-heading.gif)
 
 Ví dụ về việc thay đổi tiêu đề in được hiển thị như sau:
 
-<img class="screenshot" alt="Print Heading" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/print/print-heading-1.png">
+<img class="screenshot" alt="Print Heading" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/print/print-heading-1.png">
 
 ## 2. Video
 <div class="embed-container">
@@ -33,8 +33,8 @@ Ví dụ về việc thay đổi tiêu đề in được hiển thị như sau:
 </div>
 
 ### 3. Các chủ đề liên quan
-1. [Mẫu in](/docs/v13/user/manual/en/setting-up/print/print-format)
-1. [Kiểu in](/docs/v13/user/manual/en/setting-up/print/print-style)
-1. [Tiêu đề thư](/docs/v13/user/manual/en/setting-up/print/letter-head)
-1. [Mẫu in séc](/docs/v13/user/manual/en/setting-up/print/cheque-print-template)
-1. [Báo giá](/docs/v13/user/manual/en/selling/quotation)
+1. [Mẫu in](print-format.md)
+1. [Kiểu in](print-style.md)
+1. [Tiêu đề thư](letter-head.md)
+1. [Mẫu in séc](cheque-print-template.md)
+1. [Báo giá](../../selling/quotation.md)

@@ -20,7 +20,7 @@ Với các cải tiến mới trong phiên bản v16, việc quản lý các ngh
 1. Thêm thông tin Địa chỉ và Liên hệ.
 1. Lưu.
 
- ![Shareholder](https://docs.erpnext.com/docs/v16/assets/img/accounts/shareholder.png)
+ ![Shareholder](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/shareholder.png)
 
 Cổ đông có thể sử dụng các tính năng (nghiệp vụ) trong quy trình [Chuyển nhượng cổ phần](share-transfer.md). Chỉ sau khi cổ phần được phát hành cho họ, Số Sổ chi tiết (Folio Number) và số cổ phần mới hiển thị.
 

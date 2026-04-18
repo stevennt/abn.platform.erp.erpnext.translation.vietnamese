@@ -20,18 +20,18 @@ Việc tạo Nhóm thuế rất đơn giản, hãy đi tới danh sách Nhóm th
 - Việc này sẽ lấy Mẫu thuế bán hàng được liên kết với Quy tắc thuế. Do đó, các dòng trong bảng Thuế sẽ được tự động điền đầy đủ.
 - Nhóm thuế có thể được sử dụng để nhóm các Khách hàng mà cùng một loại thuế sẽ được áp dụng. Ví dụ: Chính phủ, Tổ chức phi chính phủ (NGO), thương mại, v.v.
 
-  ![Nhóm thuế trong Hóa đơn bán hàng](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/tax-category-in-invoice.gif)
+  ![Nhóm thuế trong Hóa đơn bán hàng](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/tax-category-in-invoice.gif)
 
 > Mẹo: Một Nhóm thuế có thể được gán cho nhiều Quy tắc thuế. Vì vậy, bạn có thể tạo các tổ hợp khác nhau để áp dụng thuế tự động vào các giao dịch.
 
 ## 3. Gán Nhóm thuế
 Nhóm thuế được xác định tự động trong một giao dịch thông qua Địa chỉ của Đối tác hoặc Thông tin chính của Đối tác (Khách hàng/Nhà cung cấp). Bạn có thể gán Nhóm thuế dựa trên:
 
-1. [Khách hàng](https://docs.erpnext.com/docs/v13/user/manual/en/CRM/customer)
+1. [Khách hàng](../CRM/customer.md)
 1. [Nhà cung cấp](../buying/supplier.md)
-1. [Địa chỉ](https://docs.erpnext.com/docs/v13/user/manual/en/CRM/address) Thanh toán hoặc Giao hàng.
+1. [Địa chỉ](../CRM/address.md) Thanh toán hoặc Giao hàng.
   Bạn có thể chọn ưu tiên Địa chỉ thanh toán hay Địa chỉ giao hàng bằng cách thay đổi tùy chọn 'Determine Address Tax Category From' trong Cài đặt kế toán. Nhóm thuế được xác định từ Địa chỉ của Đối tác trước. Nếu Địa chỉ không được gán bất kỳ Nhóm thuế nào, thì Nhóm thuế của Đối tác sẽ được sử dụng.
-      ![Địa chỉ Nhóm thuế](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/tax-category-in-address.png)
+      ![Địa chỉ Nhóm thuế](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/tax-category-in-address.png)
 1. [Mặt hàng](../stock/item.md#316-item-tax)
 1. Bạn cũng có thể chọn Nhóm thuế một cách thủ công trong một giao dịch.
 
@@ -42,8 +42,8 @@ Nhóm thuế được xác định tự động trong một giao dịch thông q
 
 ## 5. Các chủ đề liên quan
 1. [Quy tắc thuế](tax-rule.md)
-1. [Khách hàng](https://docs.erpnext.com/docs/v13/user/manual/en/CRM/customer)
+1. [Khách hàng](../CRM/customer.md)
 1. [Nhà cung cấp](../buying/supplier.md)
-1. [Địa chỉ](https://docs.erpnext.com/docs/v13/user/manual/en/CRM/address)
+1. [Địa chỉ](../CRM/address.md)
 
 {next}

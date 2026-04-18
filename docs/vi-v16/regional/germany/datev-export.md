@@ -18,13 +18,13 @@ DATEV eG của Đức là một hợp tác xã đã đăng ký của các ngành
 
 Trong phần bộ lọc, bạn có thể chọn công ty mà bạn muốn xuất các **Bút toán** sổ cái. Bạn cũng có thể thiết lập khung thời gian cho việc xuất dữ liệu. Thông thường, đây sẽ là tháng gần nhất.
 
-![DATEV Export Filters](https://docs.erpnext.com/docs/v16/assets/img/regional/germany/datev-export-filters.png)
+![DATEV Export Filters](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/regional/germany/datev-export-filters.png)
 
 ## Menu
 
 Từ menu, bạn có thể mở [Cài đặt DATEV](/docs/v16/user/manual/en/regional/germany/datev-settings) hoặc tải xuống tệp xuất. Tệp xuất là một tệp nén ZIP chứa dữ liệu giao dịch từ bản xem trước cũng như dữ liệu danh mục (**Khách hàng**, **Nhà cung cấp**, **Tài khoản**).
 
-![DATEV Export Menu](https://docs.erpnext.com/docs/v16/assets/img/regional/germany/datev-export-menu.png)
+![DATEV Export Menu](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/regional/germany/datev-export-menu.png)
 
 ## Dữ liệu được xuất
 

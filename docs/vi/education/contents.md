@@ -5,78 +5,78 @@ Cho dù bạn đang điều hành một trường kinh doanh, một học viện
 
 Chúng tôi cũng hiểu rằng một cơ sở giáo dục cần nhiều thứ hơn là một "Mô-đun Giáo dục" đơn thuần, và ERPNext đã tích hợp sẵn tất cả những tính năng đó. Bạn có thể:
 
-- Theo dõi sổ sách kế toán bằng [mô-đun Kế toán](/docs/v13/user/manual/en/accounts).
-- Quản lý bảng lương, nghỉ phép và các yêu cầu thanh toán của nhân viên hành chính và giảng viên trong [mô-đun Nhân sự](/docs/v13/user/manual/en/human-resources).
-- Tổ chức các hoạt động [mua hàng](/docs/v13/user/manual/en/buying) và thiết lập hệ thống phê duyệt.
+- Theo dõi sổ sách kế toán bằng [mô-đun Kế toán](../accounts).
+- Quản lý bảng lương, nghỉ phép và các yêu cầu thanh toán của nhân viên hành chính và giảng viên trong [mô-đun Nhân sự](../human-resources).
+- Tổ chức các hoạt động [mua hàng](../buying) và thiết lập hệ thống phê duyệt.
 
-Dưới đây là các chức năng có sẵn trong lĩnh vực Giáo dục của ERPNext để bạn tìm hiểu sau phần **[giới thiệu](/docs/v13/user/manual/en/education/introduction)**
+Dưới đây là các chức năng có sẵn trong lĩnh vực Giáo dục của ERPNext để bạn tìm hiểu sau phần **[giới thiệu](introduction.md)**
 
 ## Chủ đề
 ### 1. Thiết lập
-1. [Chương trình](/docs/v13/user/manual/en/education/program)
-1. [Khóa học](/docs/v13/user/manual/en/education/course)
-1. [Chủ đề](/docs/v13/user/manual/en/education/topic)
-1. [Giảng viên](/docs/v13/user/manual/en/education/instructor)
-1. [Phòng học](/docs/v13/user/manual/en/education/room)
-1. [Loại học sinh](/docs/v13/user/manual/en/education/student-category)
-1. [Học kỳ](/docs/v13/user/manual/en/education/academic-term)
-1. [Năm học](/docs/v13/user/manual/en/education/academic-year)
-1. [Cài đặt Giáo dục](/docs/v13/user/manual/en/education/education-settings)
+1. [Chương trình](program.md)
+1. [Khóa học](course.md)
+1. [Chủ đề](topic.md)
+1. [Giảng viên](instructor.md)
+1. [Phòng học](room.md)
+1. [Loại học sinh](student-category.md)
+1. [Học kỳ](academic-term.md)
+1. [Năm học](academic-year.md)
+1. [Cài đặt Giáo dục](education-settings.md)
 
 ### 2. Học sinh
-1. [Học sinh](/docs/v13/user/manual/en/education/student)
-1. [Người giám hộ](/docs/v13/user/manual/en/education/guardian)
-1. [Nhật ký học sinh](/docs/v13/user/manual/en/education/student-log)
-1. [Tên lớp học sinh](/docs/v13/user/manual/en/education/student-batch-name)
-1. [Nhóm học sinh](/docs/v13/user/manual/en/education/student-group)
-1. [Công cụ tạo nhóm học sinh](/docs/v13/user/manual/en/education/student-group-creation-tool)
+1. [Học sinh](student.md)
+1. [Người giám hộ](guardian.md)
+1. [Nhật ký học sinh](student-log.md)
+1. [Tên lớp học sinh](student-batch-name.md)
+1. [Nhóm học sinh](student-group.md)
+1. [Công cụ tạo nhóm học sinh](student-group-creation-tool.md)
 
 ### 3. Tuyển sinh
-1. [Học sinh ứng tuyển](/docs/v13/user/manual/en/education/student-applicant)
-1. [Đăng ký chương trình](/docs/v13/user/manual/en/education/program-enrollment)
-1. [Công cụ đăng ký chương trình](/docs/v13/user/manual/en/education/program-enrollment-tool)
-1. [Nhập học học sinh](/docs/v13/user/manual/en/education/student_admission)
+1. [Học sinh ứng tuyển](student-applicant.md)
+1. [Đăng ký chương trình](program-enrollment.md)
+1. [Công cụ đăng ký chương trình](program-enrollment-tool.md)
+1. [Nhập học học sinh](student_admission.md)
 
 ### 4. Học phí
-1. [Học phí](/docs/v13/user/manual/en/education/fees)
-1. [Cấu trúc học phí](/docs/v13/user/manual/en/education/fee-structure)
-1. [Loại học phí](/docs/v13/user/manual/en/education/fee-category)
-1. [Lịch thu học phí](/docs/v13/user/manual/en/education/fee-schedule)
+1. [Học phí](fees.md)
+1. [Cấu trúc học phí](fee-structure.md)
+1. [Loại học phí](fee-category.md)
+1. [Lịch thu học phí](fee-schedule.md)
 
 ### 5. Lịch trình
-1. [Lịch trình khóa học](/docs/v13/user/manual/en/education/course-schedule)
-1. [Công cụ lập lịch trình](/docs/v13/user/manual/en/education/scheduling-tool)
-<!--1. [Kiểm tra](/docs/v13/user/manual/en/education/examination) -->
+1. [Lịch trình khóa học](course-schedule.md)
+1. [Công cụ lập lịch trình](scheduling-tool.md)
+<!--1. [Kiểm tra](examination.md) -->
 
 ### 6. Hệ thống quản lý học tập (LMS)
-1. [Thiết lập LMS](/docs/v13/user/manual/en/education/setting-up-lms)
-1. [Dữ liệu chính LMS](/docs/v13/user/manual/en/education/lms-masters)
-1. [Điều hướng Cổng thông tin](/docs/v13/user/manual/en/education/navigating-the-portal)
-<!-- 1. [Theo dõi tiến độ](/docs/v13/user/manual/en/education/tracking-progress) -->
+1. [Thiết lập LMS](setting-up-lms.md)
+1. [Dữ liệu chính LMS](lms-masters.md)
+1. [Điều hướng Cổng thông tin](navigating-the-portal.md)
+<!-- 1. [Theo dõi tiến độ](tracking-progress.md) -->
 
 ### 7. Chấm công
-1. [Điểm danh học sinh](/docs/v13/user/manual/en/education/student-attendance)
-1. [Công cụ điểm danh học sinh](/docs/v13/user/manual/en/education/student-attendance-tool)
-1. [Đơn xin nghỉ học của học sinh](/docs/v13/user/manual/en/education/student-leave-application)
+1. [Điểm danh học sinh](student-attendance.md)
+1. [Công cụ điểm danh học sinh](student-attendance-tool.md)
+1. [Đơn xin nghỉ học của học sinh](student-leave-application.md)
 
 ### 8. Đánh giá
-1. [Giới thiệu về Đánh giá](/docs/v13/user/manual/en/education/assessment-introduction)
-1. [Tiêu chí đánh giá](/docs/v13/user/manual/en/education/assessment_criteria)
-1. [Nhóm đánh giá](/docs/v13/user/manual/en/education/assessment_group)
-1. [Kế hoạch đánh giá](/docs/v13/user/manual/en/education/assessment_plan)
-1. [Kết quả đánh giá](/docs/v13/user/manual/en/education/assessment_result)
-1. [Công cụ kết quả đánh giá](/docs/v13/user/manual/en/education/assessment_result_tool)
-1. [Thang điểm](/docs/v13/user/manual/en/education/grading_scale)
+1. [Giới thiệu về Đánh giá](assessment-introduction.md)
+1. [Tiêu chí đánh giá](assessment_criteria.md)
+1. [Nhóm đánh giá](assessment_group.md)
+1. [Kế hoạch đánh giá](assessment_plan.md)
+1. [Kết quả đánh giá](assessment_result.md)
+1. [Công cụ kết quả đánh giá](assessment_result_tool.md)
+1. [Thang điểm](grading_scale.md)
 
 <!-- ### 9. Báo cáo đánh giá
-1. [Điểm đánh giá cuối kỳ](/docs/v13/user/manual/en/education/final-assessment-grades)
-1. [Trạng thái kế hoạch đánh giá](/docs/v13/user/manual/en/education/assessment-plan-status)
-1. [Công cụ tạo báo cáo học sinh](/docs/v13/user/manual/en/education/student-report-generation-tool)
-1. [Báo cáo đánh giá theo khóa học](/docs/v13/user/manual/en/education/course-wise-assessment-report) -->
+1. [Điểm đánh giá cuối kỳ](final-assessment-grades.md)
+1. [Trạng thái kế hoạch đánh giá](assessment-plan-status.md)
+1. [Công cụ tạo báo cáo học sinh](student-report-generation-tool.md)
+1. [Báo cáo đánh giá theo khóa học](course-wise-assessment-report.md) -->
 
 ### 9. Công cụ
-1. [Công cụ điểm danh học sinh](/docs/v13/user/manual/en/education/student-attendance-tool)
-1. [Công cụ kết quả đánh giá](/docs/v13/user/manual/en/education/assessment_result_tool)
-1. [Công cụ tạo nhóm học sinh](/docs/v13/user/manual/en/education/student-group-creation-tool)
-1. [Công cụ đăng ký chương trình](/docs/v13/user/manual/en/education/program-enrollment-tool)
-1. [Công cụ lập lịch trình khóa học](/docs/v13/user/manual/en/education/course-scheduling-tool)
+1. [Công cụ điểm danh học sinh](student-attendance-tool.md)
+1. [Công cụ kết quả đánh giá](assessment_result_tool.md)
+1. [Công cụ tạo nhóm học sinh](student-group-creation-tool.md)
+1. [Công cụ đăng ký chương trình](program-enrollment-tool.md)
+1. [Công cụ lập lịch trình khóa học](course-scheduling-tool.md)

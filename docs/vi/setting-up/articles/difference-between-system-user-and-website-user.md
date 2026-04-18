@@ -17,4 +17,4 @@ Làm thế nào để kiểm tra một Vai trò dành cho System User hay Websit
 
 Trong Role master, nếu trường "Desk Access" được tích chọn, thì Vai trò đó dành cho System User. Nếu trường Desk Access không được tích chọn, thì Vai trò đó dành cho Website User.
 
-<img alt="Role Desk Permission" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/role-deskperm.png">
+<img alt="Role Desk Permission" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/role-deskperm.png">

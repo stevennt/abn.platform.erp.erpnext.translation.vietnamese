@@ -25,7 +25,7 @@ Trong những trường hợp như vậy, bạn có thể khớp các khoản Th
 
 Bạn sẽ nhận được một thông báo ghi là 'Amount allocated successfully'
 
-![Payment Reconciliation Tool](https://docs.erpnext.com/docs/v16/assets/img/accounts/payment-reconciliation-tool.png)
+![Payment Reconciliation Tool](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/payment-reconciliation-tool.png)
 
 ## 2. Các tính năng mới trong v16 (Lưu ý)
 Trong phiên bản v16, quy trình đối chiếu được tối ưu hóa để hỗ trợ các báo cáo tài chính nâng cao:

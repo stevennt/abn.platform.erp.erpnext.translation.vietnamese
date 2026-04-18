@@ -5,7 +5,7 @@
 
 Điều này cho phép các học viện công bố các chương trình của họ trên trang web của mình. Các chương trình có thể bao gồm các bài viết văn bản định dạng phong phú, video và thậm chí cả các bài kiểm tra. Tiến độ của từng học sinh có thể được theo dõi thông qua ERPNext cũng như qua cổng thông tin.
 
-<img class="screenshot" alt="LMS Home" src="https://docs.erpnext.com/docs/v16/assets/img/education/lms/home.png">
+<img class="screenshot" alt="LMS Home" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/lms/home.png">
 
 LMS được tắt theo mặc định và có thể được bật từ [Cài đặt Giáo dục](../education/education-settings).
 
@@ -15,10 +15,10 @@ LMS được tắt theo mặc định và có thể được bật từ [Cài đ
 
 Tại đây, có một ô đánh dấu để có thể bật LMS.
 
-![Setting Up LMS](https://docs.erpnext.com/docs/v16/assets/img/education/education-seetings-1.png)
+![Setting Up LMS](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-seetings-1.png)
 
 Nhập tiêu đề sẽ được hiển thị trên cổng thông tin (nếu không được thiết lập, tiêu đề cổng thông tin sẽ được đặt theo tên công ty mặc định). Bạn cũng có thể thêm mô tả để hiển thị trên cổng thông tin.
 
-![Setting Up LMS](https://docs.erpnext.com/docs/v16/assets/img/education/education-lms-.png)
+![Setting Up LMS](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-lms-.png)
 
 {next}

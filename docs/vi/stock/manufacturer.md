@@ -15,10 +15,10 @@ Trong ERPNext, Nhà sản xuất có thể được sử dụng để định da
 1. Nhập tên Nhà sản xuất và nhập mô tả nếu cần.
 1. Lưu.
 
-    ![Manufacturer](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/manufacturer.png)
+    ![Manufacturer](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/manufacturer.png)
 
 Sau khi tạo Nhà sản xuất, thông tin này có thể được thiết lập trong biểu mẫu Mặt hàng với Mã số bộ phận của Nhà sản xuất để định danh.
-![Manufacturer](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/manufacturer-part.png)
+![Manufacturer](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/manufacturer-part.png)
 
 ### 1.1 Chi tiết bổ sung
 Các chi tiết sau có thể được thiết lập cho một Nhà sản xuất:
@@ -30,7 +30,7 @@ Các chi tiết sau có thể được thiết lập cho một Nhà sản xuất
 ## 2. Các tính năng
 ### 2.1 Địa chỉ và Liên hệ
 
-Một [Địa chỉ](https://docs.erpnext.com/docs/v13/user/manual/en/CRM/address) và [Liên hệ](https://docs.erpnext.com/docs/v13/user/manual/en/CRM/contact) có thể được thiết lập cho Nhà sản xuất này.
+Một [Địa chỉ](../CRM/address.md) và [Liên hệ](../CRM/contact.md) có thể được thiết lập cho Nhà sản xuất này.
 
 ## 3. Các chủ đề liên quan
 1. [Mặt hàng](item.md)

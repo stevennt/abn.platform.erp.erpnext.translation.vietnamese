@@ -5,7 +5,7 @@
 
 Để thực hiện việc này, bạn có thể chọn tạo Phiếu lương của Nhân viên trực tiếp từ một Bảng chấm công.
 
-<img class="screenshot" alt="Salary Slip" src="https://docs.erpnext.com/docs/v16/assets/img/project/projects-salary-slip-from-timesheet.png">
+<img class="screenshot" alt="Salary Slip" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/project/projects-salary-slip-from-timesheet.png">
 
 ## 1. Cách tạo Phiếu lương từ Bảng chấm công
 
@@ -15,7 +15,7 @@
   4. **Salary Slip Timesheet**: Các chi tiết của Bảng chấm công mà từ đó Phiếu lương được tạo sẽ được ghi lại. Bạn cũng có thể thêm nhiều Bảng chấm công khác tại đây để tạo một Phiếu lương duy nhất cho nhiều Bảng chấm công.
   5. Lưu và Xác nhận.
 
-  <img class="screenshot" alt="Salary Slip" src="https://docs.erpnext.com/docs/v16/assets/img/project/timesheet/timesheet-salary-slip-4.gif">
+  <img class="screenshot" alt="Salary Slip" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/project/timesheet/timesheet-salary-slip-4.gif">
 
 ### 1.1. Các chi tiết bổ sung khi tạo Phiếu lương từ Bảng chấm công:
 

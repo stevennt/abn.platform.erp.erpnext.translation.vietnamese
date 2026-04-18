@@ -1,7 +1,7 @@
 <!-- add-breadcrumbs -->
 # Lỗi Cấp độ Quyền (Perm Level) trong Permission Manager
 
-Trong khi tùy chỉnh các quy tắc trong [Permission Manager](/docs/v13/user/manual/en/setting-up/users-and-permissions/role-based-permissions), bạn có thể nhận được thông báo lỗi như sau:
+Trong khi tùy chỉnh các quy tắc trong [Permission Manager](../../setting-up/users-and-permissions/role-based-permissions.md), bạn có thể nhận được thông báo lỗi như sau:
 
 > For System Manager _(or any other role)_ at level 2 _(or another level)_ in Customer _(or any other document)_ in row 8: Permission at level 0 must be set before higher levels are set.
 > (Dịch: Đối với System Manager _(hoặc bất kỳ vai trò nào khác)_ ở cấp độ 2 _(hoặc cấp độ khác)_ trong Customer _(hoặc bất kỳ tài liệu nào khác)_ tại dòng 8: Quyền ở cấp độ 0 phải được thiết lập trước khi thiết lập các cấp độ cao hơn.)

@@ -4,10 +4,10 @@ Mỗi người dùng ERPNext có thể tùy chỉnh mật khẩu cho tài khoả
 
 #### Bước 1: Đi tới Thiết lập của tôi (My Settings)
 
-<img alt="Change Password" class="screenshot" src="https://docs.erpnext.com/docs/v16/assets/img/articles/change-password-1.png">
+<img alt="Change Password" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/change-password-1.png">
 
 #### Bước 2: Thiết lập mật khẩu mới
 
-<img alt="Change Password" class="screenshot" src="https://docs.erpnext.com/docs/v16/assets/img/articles/change-password-2.png">
+<img alt="Change Password" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/change-password-2.png">
 
 Nhập mật khẩu mới và **Lưu** biểu mẫu để lưu các thay đổi.

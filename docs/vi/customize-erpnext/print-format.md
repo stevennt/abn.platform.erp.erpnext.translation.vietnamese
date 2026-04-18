@@ -11,15 +11,15 @@ Trong ERPNext, có ba loại Mẫu in, cụ thể là: Mẫu in Tiêu chuẩn, M
 
 Mỗi DocType có thể in được trong ERPNext sẽ có Mẫu in Tiêu chuẩn riêng được tạo bởi Frappe Framework. Vị trí các trường trong Mẫu in Tiêu chuẩn sẽ phụ thuộc vào vị trí của các trường tương ứng trong tài liệu.
 
-![Standard Print Format](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/customize-standard-print-format.png)
+![Standard Print Format](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/customize-standard-print-format.png)
 
-Mọi thay đổi đối với Mẫu in Tiêu chuẩn đều phải được thực hiện bằng cách sử dụng Customize Form. Bạn cũng có thể xem thêm về [thêm các trường vào Mẫu in](/docs/v13/user/manual/en/customize-erpnext/articles/making-fields-visible-in-print-format).
+Mọi thay đổi đối với Mẫu in Tiêu chuẩn đều phải được thực hiện bằng cách sử dụng Customize Form. Bạn cũng có thể xem thêm về [thêm các trường vào Mẫu in](articles/making-fields-visible-in-print-format.md).
 
 ## Mẫu in Tùy chỉnh
 
-Bạn cũng có thể tạo các Mẫu in tùy chỉnh của riêng mình bằng cách sử dụng công cụ gọi là [Print Format Builder](/docs/v13/user/manual/en/setting-up/print/print-format-builder). Công cụ này sẽ giúp bạn tạo một Mẫu in Tùy chỉnh đơn giản bằng cách kéo và thả các trường vào định dạng theo ý muốn của bạn.
+Bạn cũng có thể tạo các Mẫu in tùy chỉnh của riêng mình bằng cách sử dụng công cụ gọi là [Print Format Builder](../setting-up/print/print-format-builder.md). Công cụ này sẽ giúp bạn tạo một Mẫu in Tùy chỉnh đơn giản bằng cách kéo và thả các trường vào định dạng theo ý muốn của bạn.
 
-![Customize Print Format](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/customize-print-format.gif)
+![Customize Print Format](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/customize-print-format.gif)
 
 Để tạo các Mẫu in Tùy chỉnh, ERPNext đi kèm với một số mẫu được định nghĩa sẵn với ba phong cách, cụ thể là: Hiện đại (Modern), Đơn sắc (Monochrome) và Cổ điển (Classic).
 
@@ -33,13 +33,13 @@ Bạn cũng có thể tạo các Mẫu in tùy chỉnh của riêng mình bằng
 
 > Settings > Print Settings
 
-![Print Settings](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/print-settings.png)
+![Print Settings](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/print-settings.png)
 
 ## Mẫu in HTML
 
 Để tạo một Mẫu in HTML, bạn sẽ cần một số kiến thức về HTML, CSS và Python. Dưới đây là một ví dụ về cách một Mẫu in có thể được thiết kế với định dạng rất đặc thù.
 
-![HTML Print Format](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/customize-custom-print-format-1.png)
+![HTML Print Format](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/customize-custom-print-format-1.png)
 
 Các Mẫu in được cung cấp ở phía máy chủ (server-side) bằng cách sử dụng [Ngôn ngữ Template Jinja](http://jinja.pocoo.org/docs/v13/templates/). Tất cả các biểu mẫu đều có quyền truy cập vào đối tượng `doc`, đối tượng này chứa thông tin về tài liệu đang được định dạng. Bạn cũng có thể truy cập các tiện ích phổ biến thông qua module `frappe`. Để nhận được sự hỗ trợ khi tạo mẫu in dựa trên HTML, bạn có thể tham khảo [Diễn đàn Cộng đồng ERPNext](https://discuss.erpnext.com/), hoặc bắt đầu một bài đăng mới cho câu hỏi của bạn.
 

@@ -4,6 +4,6 @@ Geolocation là một loại trường được cung cấp bởi Frappe Framewor
 
 Đây là một loại trường, phần lớn thời gian được sử dụng trong mô-đun [Nông nghiệp](../user/manual/en/agriculture), trong danh mục chính về Đất đai và Đơn vị đất đai.
 
-<img alt="geolocation field" class="screenshot" src="https://docs.erpnext.com/docs/v16/assets/img/articles/geolocation-field.gif">
+<img alt="geolocation field" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/geolocation-field.gif">
 
 {next}

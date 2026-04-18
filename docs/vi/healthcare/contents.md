@@ -10,53 +10,53 @@ ERPNext Healthcare giúp bạn quản lý bệnh viện, phòng khám hoặc cơ
 Dưới đây là các hướng dẫn chi tiết về từng chức năng sẵn sàng sử dụng trong phân hệ Chăm sóc sức khỏe của ERPNext.
 
 ### 1. Cơ bản
-1. [Giới thiệu](/docs/v13/user/manual/en/healthcare/introduction)
-1. [Bệnh nhân](/docs/v13/user/manual/en/healthcare/patient)
-1. [Chuyên gia y tế](/docs/v13/user/manual/en/healthcare/healthcare_practitioner)
-1. [Lịch làm việc của chuyên gia](/docs/v13/user/manual/en/healthcare/practitioner_schedule)
-1. [Khoa y tế](/docs/v13/user/manual/en/healthcare/medical_department)
-1. [Loại đơn vị dịch vụ y tế](/docs/v13/user/manual/en/healthcare/healthcare_service_unit_type)
-1. [Đơn vị dịch vụ y tế](/docs/v13/user/manual/en/healthcare/healthcare_service_unit)
-1. [Tiêu chuẩn mã y tế](/docs/v13/user/manual/en/healthcare/medical_code_standard)
-1. [Mã y tế](/docs/v13/user/manual/en/healthcare/medical_code)
+1. [Giới thiệu](introduction.md)
+1. [Bệnh nhân](patient.md)
+1. [Chuyên gia y tế](healthcare_practitioner.md)
+1. [Lịch làm việc của chuyên gia](practitioner_schedule.md)
+1. [Khoa y tế](medical_department.md)
+1. [Loại đơn vị dịch vụ y tế](healthcare_service_unit_type.md)
+1. [Đơn vị dịch vụ y tế](healthcare_service_unit.md)
+1. [Tiêu chuẩn mã y tế](medical_code_standard.md)
+1. [Mã y tế](medical_code.md)
 
 ### 2. Thiết lập tư vấn
-1. [Loại hẹn khám](/docs/v13/user/manual/en/healthcare/appointment_type)
-1. [Mẫu quy trình lâm sàng](/docs/v13/user/manual/en/healthcare/clinical_procedure_template)
-1. [Liều lượng và thời gian dùng thuốc theo đơn](/docs/v13/user/manual/en/healthcare/prescription_dosage_and_duration)
+1. [Loại hẹn khám](appointment_type.md)
+1. [Mẫu quy trình lâm sàng](clinical_procedure_template.md)
+1. [Liều lượng và thời gian dùng thuốc theo đơn](prescription_dosage_and_duration.md)
 
 ### 3. Tư vấn
-1. [Hẹn khám của bệnh nhân](/docs/v13/user/manual/en/healthcare/patient_appointment)
-1. [Quy trình lâm sàng](/docs/v13/user/manual/en/healthcare/clinical_procedure)
-1. [Lịch sử thăm khám của bệnh nhân](/docs/v13/user/manual/en/healthcare/patient_encounter)
-1. [Dấu hiệu sinh tồn](/docs/v13/user/manual/en/healthcare/vital_signs)
-1. [Than phiền và Chẩn đoán](/docs/v13/user/manual/en/healthcare/complaint_and_diagnosis)
-1. [Hiệu lực phí](/docs/v13/user/manual/en/healthcare/fee_validity)
+1. [Hẹn khám của bệnh nhân](patient_appointment.md)
+1. [Quy trình lâm sàng](clinical_procedure.md)
+1. [Lịch sử thăm khám của bệnh nhân](patient_encounter.md)
+1. [Dấu hiệu sinh tồn](vital_signs.md)
+1. [Than phiền và Chẩn đoán](complaint_and_diagnosis.md)
+1. [Hiệu lực phí](fee_validity.md)
 
 ### 4. Nội trú
-1. [Hồ sơ nội trú](/docs/v13/user/manual/en/healthcare/inpatient_record)
-2. [Đơn thuốc nội trú](/docs/v13/user/manual/en/healthcare/inpatient_medication_order)
-3. [Nhập liệu thuốc nội trú](/docs/v13/user/manual/en/healthcare/inpatient_medication_entry)
+1. [Hồ sơ nội trú](inpatient_record.md)
+2. [Đơn thuốc nội trú](inpatient_medication_order.md)
+3. [Nhập liệu thuốc nội trú](inpatient_medication_entry.md)
 
 ### 5. Phục hồi chức năng và Vật lý trị liệu
-1. [Loại bài tập](/docs/v13/user/manual/en/healthcare/exercise_type)
-1. [Loại liệu pháp](/docs/v13/user/manual/en/healthcare/therapy_type)
-1. [Mẫu kế hoạch trị liệu](/docs/v13/user/manual/en/healthcare/therapy_plan_template)
-1. [Kế hoạch trị liệu](/docs/v13/user/manual/en/healthcare/therapy_plan)
-1. [Buổi trị liệu](/docs/v13/user/manual/en/healthcare/therapy_session)
-1. [Mẫu đánh giá bệnh nhân](/docs/v13/user/manual/en/healthcare/patient_assessment_template)
-1. [Đánh giá bệnh nhân](/docs/v13/user/manual/en/healthcare/patient_assessment)
+1. [Loại bài tập](exercise_type.md)
+1. [Loại liệu pháp](therapy_type.md)
+1. [Mẫu kế hoạch trị liệu](therapy_plan_template.md)
+1. [Kế hoạch trị liệu](therapy_plan.md)
+1. [Buổi trị liệu](therapy_session.md)
+1. [Mẫu đánh giá bệnh nhân](patient_assessment_template.md)
+1. [Đánh giá bệnh nhân](patient_assessment.md)
 
 ### 6. Cài đặt
-1. [Cài đặt Chăm sóc sức khỏe](/docs/v13/user/manual/en/healthcare/healthcare_settings)
-1. [Cài đặt lịch sử bệnh nhân](/docs/v13/user/manual/en/healthcare/patient_history_settings)
+1. [Cài đặt Chăm sóc sức khỏe](healthcare_settings.md)
+1. [Cài đặt lịch sử bệnh nhân](patient_history_settings.md)
 
 ### 7. Phòng xét nghiệm
-1. [Mẫu xét nghiệm Lab](/docs/v13/user/manual/en/healthcare/lab_test_template)
-1. [Xét nghiệm Lab](/docs/v13/user/manual/en/healthcare/lab_test)
-1. [Thu thập mẫu](/docs/v13/user/manual/en/healthcare/sample_collection)
+1. [Mẫu xét nghiệm Lab](lab_test_template.md)
+1. [Xét nghiệm Lab](lab_test.md)
+1. [Thu thập mẫu](sample_collection.md)
 
 ### 8. Hồ sơ, Lịch sử và Báo cáo
-1. [Lịch sử bệnh nhân](/docs/v13/user/manual/en/healthcare/patient_history)
-1. [Phân tích lịch hẹn của bệnh nhân](/docs/v13/user/manual/en/healthcare/patient_appointment_analytics)
-1. [Báo cáo đơn thuốc nội trú](/docs/v13/user/manual/en/healthcare/inpatient_medication_orders_report)
+1. [Lịch sử bệnh nhân](patient_history.md)
+1. [Phân tích lịch hẹn của bệnh nhân](patient_appointment_analytics.md)
+1. [Báo cáo đơn thuốc nội trú](inpatient_medication_orders_report.md)

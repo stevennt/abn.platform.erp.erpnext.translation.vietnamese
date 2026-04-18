@@ -4,13 +4,13 @@
 
 **Bản ghi Xử lý thiếu hụt Tài sản đảm bảo khoản vay được tạo khi cập nhật giá tài sản đảm bảo khoản vay và cũng được sử dụng để xử lý thủ công Giá tài sản đảm bảo khoản vay.**
 
-<img class="screenshot" alt="Make Loan Security Shortfall" src="https://docs.erpnext.com/docs/v16/assets/img/loan-management/process-loan-security-shortfall-flow.png">
+<img class="screenshot" alt="Make Loan Security Shortfall" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/loan-management/process-loan-security-shortfall-flow.png">
 
 Để truy cập danh sách Xử lý thiếu hụt Tài sản đảm bảo khoản vay, hãy đi tới:
 > Home > Loan Management > Loan Processes > Process Loan Security Shortfall
 
 
-<img class="screenshot" alt="Loan Security Shortfall" src="https://docs.erpnext.com/docs/v16/assets/img/loan-management/process-loan-security-shortfall.png">
+<img class="screenshot" alt="Loan Security Shortfall" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/loan-management/process-loan-security-shortfall.png">
 
 ## 1. Điều kiện tiên quyết
 Trước khi tạo việc Xử lý thiếu hụt Tài sản đảm bảo khoản vay, bạn phải tạo các mục sau trước:

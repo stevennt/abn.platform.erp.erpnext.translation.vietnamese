@@ -34,7 +34,7 @@ Mục đích của tính năng này là nhắc nhở nhiều khách hàng rằng
     - Các bộ lọc "Từ ngày" và "Đến ngày" sẽ được ẩn và tự động điền động khi tùy chọn "Enable Auto Email" được chọn.
     - "Dự án" và "Trung tâm chi phí" là các trường [Table MultiSelect](https://docs.erpnext.com/docs/v16/user/manual/vi/customize-erpnext/articles/table-multiselect-field). Nghĩa là bạn có thể chọn nhiều Dự án và Trung tâm chi phí trong các bộ lọc Sổ cái.
 
-    ![New Process Statement of Accounts](https://docs.erpnext.com/docs/v16/assets/img/accounts/process-statement-of-accounts.png)
+    ![New Process Statement of Accounts](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/process-statement-of-accounts.png)
 
 4. Trong phần "Khách hàng", bạn có tùy chọn để chọn khách hàng trong bảng con và lấy email chính cũng như email thanh toán của họ.
 
@@ -42,18 +42,18 @@ Mục đích của tính năng này là nhắc nhở nhiều khách hàng rằng
     - Trong các DocType dạng cây như "Vùng miền", "Nhân viên bán hàng" và "Nhóm khách hàng", khi chọn các giá trị nhóm, các khách hàng có giá trị con của các trường này cũng sẽ được lấy ra. Vì vậy, khi bạn chọn "India" làm vùng miền trong biểu mẫu, tất cả khách hàng có giá trị "Vùng miền" nằm dưới India trong cây Vùng miền sẽ được chọn.
     - Tùy chọn "Send To Primary Contact" sẽ gửi Đối chiếu Công nợ đến cả ID email liên hệ chính của khách hàng ngoài email thanh toán.
 
-    ![Customer](https://docs.erpnext.com/docs/v16/assets/img/accounts/psoa-customers.png)
+    ![Customer](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/psoa-customers.png)
 
 5. Trong phần "Tùy chọn in", bạn có thể chọn 2 thứ:
 
     - Hướng in của tệp PDF, "Khổ ngang" hoặc "Khổ dọc".
     - Liệu bạn có muốn xem báo cáo tuổi nợ (Báo cáo Tổng hợp Phải thu), báo cáo hiển thị số tiền quá hạn theo 30/60/90/120 ngày cho các chứng từ (như Hóa đơn bán hàng), dựa trên "Hạn thanh toán" hoặc "Ngày hạch toán".
 
-    ![Print Preference](https://docs.erpnext.com/docs/v16/assets/img/accounts/psoa-print.png)
+    ![Print Preference](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/psoa-print.png)
 
 6. Phần "Cài đặt Email" cho phép bạn cấu hình cách bạn muốn gửi email. Có hai mục con trong phần này:
 
-    ![Email Settings](https://docs.erpnext.com/docs/v16/assets/img/accounts/psoa-auto-email.png)
+    ![Email Settings](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/psoa-auto-email.png)
 
     - Khi chọn "Enable Auto Email", bạn sẽ thấy các tùy chọn để gửi báo cáo định kỳ tự động cho khách hàng trong mục này.
     - Bạn có thể chọn "Tần suất" mà email sẽ được gửi sau "Ngày bắt đầu" cho khách hàng. Các tùy chọn có sẵn là hàng tuần, hàng tháng và hàng quý.

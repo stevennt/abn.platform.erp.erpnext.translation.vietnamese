@@ -26,7 +26,7 @@ Trước khi tạo bản ghi Khiếu nại của Nhân viên, bạn nên tạo c
 1. Nhập Mô tả (Description).
 1. **Lưu** tài liệu của bạn.
 
-<img class="screenshot" alt="Employee Grievance" src="https://docs.erpnext.com/docs/v16/assets/img/human-resources/employee-grievance.png">
+<img class="screenshot" alt="Employee Grievance" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/employee-grievance.png">
 
 > Lưu ý: Nhân viên cũng có thể liên kết các Tài liệu liên quan đến khiếu nại.
 

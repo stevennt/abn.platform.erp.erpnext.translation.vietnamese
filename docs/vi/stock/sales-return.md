@@ -15,23 +15,23 @@ Trước khi tạo và sử dụng Trả hàng bán, bạn nên tạo các mục
 
 1. Đầu tiên, hãy mở Phiếu giao hàng / Hóa đơn bán hàng gốc mà Khách hàng đã trả lại Mặt hàng.
 
-    <img class="screenshot" alt="Original Delivery Note" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/sales-return-original-delivery-note.png">
+    <img class="screenshot" alt="Original Delivery Note" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/sales-return-original-delivery-note.png">
 
 1. Sau đó, nhấp vào 'Create > Sales Return', hệ thống sẽ mở một Phiếu giao hàng mới với tùy chọn 'Is Return' được chọn, các Mặt hàng, Đơn giá và Thuế sẽ hiển thị là số âm.
 
-    <img class="screenshot" alt="Return Against Delivery Note" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/sales-return-against-delivery-note.png">
+    <img class="screenshot" alt="Return Against Delivery Note" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/sales-return-against-delivery-note.png">
 
 1. Bạn cũng có thể tạo bút toán trả hàng dựa trên Hóa đơn bán hàng gốc để trả lại kho cùng với chứng từ ghi có, hãy kiểm tra tùy chọn "Update Stock" trong Hóa đơn bán hàng trả lại.
 
-    <img class="screenshot" alt="Return Against Sales Invoice" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/sales-return-against-sales-invoice.png">
+    <img class="screenshot" alt="Return Against Sales Invoice" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/sales-return-against-sales-invoice.png">
 
 1. Khi Xác nhận Phiếu giao hàng trả lại / Hóa đơn bán hàng trả lại, hệ thống sẽ tăng số dư tồn kho trong Kho đã chỉ định. Để duy trì giá trị tồn kho chính xác, số dư tồn kho sẽ tăng lên theo đơn giá mua gốc của các mặt hàng được trả lại.
 
-    <img class="screenshot" alt="Return Stock Ledger" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/sales-return-stock-ledger.png">
+    <img class="screenshot" alt="Return Stock Ledger" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/sales-return-stock-ledger.png">
 
 1. Trong trường hợp Hóa đơn bán hàng trả lại, tài khoản Khách hàng sẽ được ghi có và tài khoản thu nhập cũng như tài khoản thuế liên quan sẽ được ghi nợ như được hiển thị trong Sổ cái.
 
-    <img class="screenshot" alt="Return Stock Ledger" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/sales-return-general-ledger.png">
+    <img class="screenshot" alt="Return Stock Ledger" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/sales-return-general-ledger.png">
 
 Nếu tính năng Kiểm kê vĩnh viễn (Perpetual Inventory) được bật, hệ thống cũng sẽ hạch toán bút toán đối với tài khoản kho để đồng bộ số dư tài khoản kho với số dư tồn kho theo Sổ cái kho.
 
@@ -41,7 +41,7 @@ Khi tạo Trả hàng bán dựa trên một Phiếu giao hàng:
 * **Số lượng trả lại** trong Phiếu giao hàng gốc cùng với bất kỳ Đơn bán hàng nào liên kết với nó sẽ được cập nhật.
 
 * Trạng thái của Phiếu giao hàng gốc sẽ được chuyển thành **Return Issued** nếu được trả lại 100%:
-  ![Return Issued](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/sales-return-issue.png)
+  ![Return Issued](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/sales-return-issue.png)
 
 ## 4. Các chủ đề liên quan
 1. [Trả hàng mua](purchase-return.md)

@@ -4,6 +4,6 @@
 
 > Home > Manufacturing > Reports > Returned Materials Against Work Order
 
-<img class="screenshot" alt="Task" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/returned-materials-against-work-order.png">
+<img class="screenshot" alt="Task" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/returned-materials-against-work-order.png">
 
 Báo cáo này hiển thị thông tin về các nguyên vật liệu đã được trả lại từ kho đang sản xuất (work in progress warehouse) theo các lệnh sản xuất.

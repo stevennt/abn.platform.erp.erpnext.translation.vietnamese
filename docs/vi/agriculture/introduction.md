@@ -2,13 +2,13 @@
 
 Nông dân đều biết rằng ngay cả một hoạt động sản xuất nhỏ cũng đòi hỏi việc ghi chép hồ sơ chuyên sâu. Một trang trại được vận hành tốt đòi hỏi sự quản lý hợp lý về kế toán, bảng lương, nhà cung cấp, khách hàng và logistics, cùng nhiều lĩnh vực khác. ERPNext đã hỗ trợ tổ chức các hoạt động này.
 
-<img class="screenshot" alt="Land Unit" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/agriculture/land-unit.png">
+<img class="screenshot" alt="Land Unit" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/agriculture/land-unit.png">
 
 ## Ghi chép Đơn vị đất và Quản lý cây trồng
 
 Một trang trại cần sự chú ý bổ sung để quản lý các đơn vị sản xuất (các lô đất), các hoạt động cây trồng nhạy cảm về thời gian (như trồng trọt, tưới tiêu, bón phân, v.v.), ghi chép dữ liệu môi trường và cây trồng để phân tích, cũng như các báo cáo để giúp đưa ra các quyết định hiệu quả.
 
-<img class="screenshot" alt="Soil Texture" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/agriculture/soil-texture.png">
+<img class="screenshot" alt="Soil Texture" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/agriculture/soil-texture.png">
 
 ## Demo ERPNext Nông nghiệp
 

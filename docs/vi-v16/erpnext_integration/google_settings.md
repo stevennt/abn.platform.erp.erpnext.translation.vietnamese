@@ -10,13 +10,13 @@
 Để cho phép đồng bộ hóa với Google Calendar, Google Contacts hoặc Google Drive, bạn cần ủy quyền cho ERPNext lấy dữ liệu từ Google. Dưới đây là ví dụ về cách thiết lập Tích hợp Google Contacts.
 
 1. Tạo một dự án mới trên Google Cloud Platform và tạo thông tin xác thực OAuth 2.0 mới.
-<img class="screenshot" src="https://docs.erpnext.com/docs/v16/assets/img/erpnext_integrations/google_contacts_project_creation.gif">
+<img class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/erpnext_integrations/google_contacts_project_creation.gif">
 - Kích hoạt Truy cập API trong Thư viện API cho Tích hợp mà bạn muốn kết nối.
   - Google Calendar: **Calendar API**
   - Google Contacts: **People API**
   - Google Drive: **Drive API**
 
- <img class="screenshot" src="https://docs.erpnext.com/docs/v16/assets/img/erpnext_integrations/api.gif">
+ <img class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/erpnext_integrations/api.gif">
 - Trong **API & Services > Credentials**, tạo một Credential mới và chọn **Create OAuth client ID**.
 - Chọn Application Type là **Web Application**.
 - Thêm `https://{yoursite}` vào Authorized JavaScript origins.
@@ -27,7 +27,7 @@
      - Google Drive: **google\_drive**
   - Ví dụ: đối với Google Contacts, URL sẽ là `https://{yoursite}?cmd=frappe.integrations.doctype.google_contacts.google_contacts.google_callback`
 
- <img class="screenshot" src="https://docs.erpnext.com/docs/v16/assets/img/erpnext_integrations/google_contacts_oauth.gif">
+ <img class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/erpnext_integrations/google_contacts_oauth.gif">
 - Thêm Client ID và Client Secret của bạn vào Cài đặt Google tại **Home > Integrations > Google Services > Google Settings**.
 
 ### Đối với Google Maps
@@ -36,4 +36,4 @@
 
 1. Tạo một dự án mới trên Google Cloud Platform và tạo API Key mới.
 - Kích hoạt Truy cập API trong Thư viện API cho Directions API và sau đó thêm API Key vào Cài đặt Google tại **Home > Integrations > Google Services > Google Settings**.
-<img class="screenshot" src="https://docs.erpnext.com/docs/v16/assets/img/erpnext_integrations/api_key.gif">
+<img class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/erpnext_integrations/api_key.gif">

@@ -26,7 +26,7 @@ Dưới đây là giải thích về các trường:
 * **Lặp lại vào ngày cuối cùng của tháng:** Các hóa đơn định kỳ sẽ được tạo vào ngày cuối cùng của mỗi tháng.
 * **Thông báo qua Email:** Các địa chỉ Email (cách nhau bằng dấu phẩy) mà hóa đơn định kỳ sẽ được gửi đến khi được tự động tạo.
 
-Đọc [Lặp lại tự động](https://docs.erpnext.com/docs/v13/user/manual/en/automation/auto-repeat) để biết thêm chi tiết.
+Đọc [Lặp lại tự động](../../automation/auto-repeat.md) để biết thêm chi tiết.
 
 ## 3. Xử lý ngoại lệ
 

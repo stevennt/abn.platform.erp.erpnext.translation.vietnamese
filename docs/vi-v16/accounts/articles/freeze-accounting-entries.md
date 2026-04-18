@@ -11,14 +11,14 @@
 
 Thiết lập ngày trong trường **Accounts Frozen Upto**.
 
-![Books Closed Through](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/books-closed-through.png)
+![Books Closed Through](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/books-closed-through.png)
 
 Giờ đây, hệ thống sẽ không cho phép thực hiện bất kỳ bút toán kế toán nào trước ngày đã thiết lập. Nếu có ai đó cố gắng tạo các bút toán, hệ thống sẽ hiển thị thông báo lỗi như dưới đây.
 
-![Frozen Date Error](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/error-message-in-transaction.png)
+![Frozen Date Error](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/error-message-in-transaction.png)
 
 Bạn vẫn có thể cho phép người dùng với một vai trò (Role) nhất định tạo/chỉnh sửa các bút toán trong phạm vi ngày đã đóng băng tài khoản. Bạn có thể thiết lập Vai trò đó ngay trong phần Accounts Settings.
 
-![Role Allowed To Close Books](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/role-allowed-to-close-books.png)
+![Role Allowed To Close Books](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/role-allowed-to-close-books.png)
 
 {next}

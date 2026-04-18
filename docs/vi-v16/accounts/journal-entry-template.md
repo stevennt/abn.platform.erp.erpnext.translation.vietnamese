@@ -9,7 +9,7 @@
 
 ## 1. Cách tạo và sử dụng Mẫu Bút toán:
 
-![Journal Entry Template](https://docs.erpnext.com/docs/v16/assets/img/accounts/journal-entry-template.png)
+![Journal Entry Template](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/journal-entry-template.png)
 
 1. Đi đến Danh sách Mẫu Bút toán và nhấn vào **Mới**.
 2. Thêm các chi tiết sau:
@@ -28,7 +28,7 @@
 
 *Lưu ý trong phiên bản v16: Bạn có thể sử dụng tính năng **Xem trước Sổ cái (Ledger Preview)** để kiểm tra các bút toán trước khi thực hiện **Xác nhận (Submit)** nhằm đảm bảo tính chính xác của dữ liệu kế toán.*
 
-![Creating Journal Entry From Template](https://docs.erpnext.com/docs/v16/assets/img/accounts/create-journal-entry-from-template.gif)
+![Creating Journal Entry From Template](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/create-journal-entry-from-template.gif)
 
 ## 2. Các tính năng nâng cao trong v16
 Trong phiên bản v16, việc quản lý tài chính được tối ưu hóa với các tính năng:

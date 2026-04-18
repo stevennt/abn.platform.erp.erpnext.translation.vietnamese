@@ -11,7 +11,7 @@ Công cụ này cực kỳ hữu ích trong quá trình kiểm kê, giúp xác m
 ## 1. Sử dụng Đối chiếu tồn kho nhanh
 Mặt hàng và Kho là các trường cơ bản cần thiết để sử dụng đầy đủ chức năng của Đối chiếu tồn kho nhanh. Mã vạch Mặt hàng cũng có thể được sử dụng để lấy chi tiết tồn kho nhanh chóng.
 
-![Quick Stock Balance](https://docs.erpnext.com/docs/v16/assets/img/stock/quick-stock-balance.png)
+![Quick Stock Balance](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/quick-stock-balance.png)
 
 Bạn có thể chọn một kho hoặc một ngày cụ thể khác. Số lượng và giá trị tồn kho sẽ được truy xuất theo thời gian thực dựa trên các thông số đã chỉ định.
 
@@ -19,7 +19,7 @@ Với các phiên bản mới, bạn có thể kết hợp kiểm tra thông tin
 
 Bạn cũng có thể xem báo cáo Số dư tồn kho bằng cách nhấp vào 'Báo cáo số dư tồn kho'. Hệ thống sẽ chuyển hướng bạn đến báo cáo với các bộ lọc Mặt hàng và Kho đã được điền sẵn.
 
-![Stock Balance Report](https://docs.erpnext.com/docs/v16/assets/img/stock/stock-balance-report.png)
+![Stock Balance Report](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/stock-balance-report.png)
 
 ## 2. Các tính năng nâng cao trong v16
 Trong phiên bản v16, việc quản lý tồn kho được tối ưu hóa với các tính năng:

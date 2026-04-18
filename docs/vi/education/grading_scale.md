@@ -5,7 +5,7 @@
 
 Ví dụ: Học sinh đạt điểm từ 90% trở lên sẽ được xếp loại A+, học sinh đạt điểm từ 80% trở lên sẽ được xếp loại A- và tương tự.
 
-![Grading Scale](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-grading-scale-1.png)
+![Grading Scale](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-grading-scale-1.png)
 
 #### Video Hướng dẫn về Thang điểm
 

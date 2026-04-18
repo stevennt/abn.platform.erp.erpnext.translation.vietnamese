@@ -33,7 +33,7 @@ Trước khi tạo Yêu cầu Nghỉ bù, cần phải tạo các chứng từ s
 6. **Lưu** và **Xác nhận**.
 
     <img class="screenshot" alt="Compensatory Leave Request"
-    src="https://docs.erpnext.com/docs/v16/assets/img/human-resources/compensatory-leave.png">
+    src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/compensatory-leave.png">
 
 Khi **Xác nhận** Yêu cầu Nghỉ bù, ERPNext sẽ cập nhật bản ghi Phân bổ nghỉ phép cho loại nghỉ bù đó, cho phép Nhân viên đăng ký nghỉ loại này sau đó tùy thuộc vào số ngày nghỉ còn lại.
 

@@ -9,7 +9,7 @@ Các mẫu này có thể được áp dụng cho các loại Dự án tương t
 
 > Home > Projects > Projects > Project Template
 
-<img class="screenshot" alt="Project Template" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/project/projects-project-template.png">
+<img class="screenshot" alt="Project Template" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/project/projects-project-template.png">
 
 ## 1. Cách tạo Mẫu Dự án mới:
 
@@ -20,7 +20,7 @@ Các mẫu này có thể được áp dụng cho các loại Dự án tương t
       * **Tasks**: Mỗi Mẫu Dự án sẽ có một bộ các nhiệm vụ được sắp xếp theo trình tự xác định trước. Trong bảng này, bạn có thể chọn các nhiệm vụ mà bạn muốn cho mẫu này.
 
 ## 2. Các chủ đề liên quan
-  1. [Project](/docs/v13/user/manual/en/projects/project)
-  2. [Task](/docs/v13/user/manual/en/projects/tasks)
+  1. [Project](project.md)
+  2. [Task](tasks.md)
 
 {next}

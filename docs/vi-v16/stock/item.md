@@ -23,7 +23,7 @@ Trước khi tạo và sử dụng một Mặt hàng, bạn nên tạo các mụ
 3. Chọn một Nhóm mặt hàng.
 4. Nhập số lượng tồn kho đầu kỳ và đơn giá bán tiêu chuẩn.
 5. **Lưu**.
-  ![Item Saved](https://docs.erpnext.com/docs/v16/assets/img/stock/item-saved.png)
+  ![Item Saved](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/item-saved.png)
 
 ### 2.1 Thuộc tính Mặt hàng
 

@@ -5,17 +5,17 @@
 
 > Home > Manufacturing > Reports > Forecasting
 
-<img class="screenshot" alt="Production Forecasting" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/production-forecasting-using-sales-order.png">
+<img class="screenshot" alt="Production Forecasting" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/production-forecasting-using-sales-order.png">
 
 Việc dự báo sẽ được tính toán bằng cách sử dụng phương pháp san bằng mũ (exponential smoothing) và dữ liệu Đơn bán hàng / Phiếu giao hàng / Báo giá trong quá khứ. Công thức phương pháp san bằng mũ như dưới đây:
 
-<img class="screenshot" alt="Production Forecasting" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/exponential-smoothing-formula.png">
+<img class="screenshot" alt="Production Forecasting" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/exponential-smoothing-formula.png">
 
 Sử dụng phương pháp san bằng mũ, hệ thống sẽ dự đoán kết quả dự báo cho mỗi kỳ và dữ liệu dự báo tương tự sẽ được sử dụng để dự báo dữ liệu cho kỳ tiếp theo.
 
 ## Phương pháp san bằng mũ hoạt động như thế nào
 
-<img class="screenshot" alt="Production Forecasting" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/exponential-smoothing-formula-explain.png">
+<img class="screenshot" alt="Production Forecasting" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/exponential-smoothing-formula-explain.png">
 
 Đối với ví dụ trên, chúng tôi đã sử dụng dữ liệu đơn bán hàng hàng tháng trong vòng một năm. Dự báo tháng đầu tiên sẽ được tính toán dựa trên trung bình của tất cả tổng đơn hàng. Từ tháng thứ hai trở đi, chênh lệch giữa Tổng đơn hàng của tháng trước và Giá trị dự báo sẽ được nhân với Giá trị hằng số san bằng (nằm trong khoảng từ 0 đến 1). Giá trị mặc định của Hằng số san bằng là 0,3 giúp đưa ra dữ liệu dự báo hiệu quả. Chênh lệch giữa Tổng đơn hàng và Giá trị dự báo của tháng trước được gọi là sai số dự báo, và sai số này sẽ được cộng vào giá trị dự báo của cùng tháng đó để tính toán dự báo cho tháng tiếp theo.
 

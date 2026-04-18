@@ -25,15 +25,15 @@ ERPNext giúp bạn theo dõi mọi phiên trị liệu được thực hiện v
 9. Sau đó, bạn có thể tăng số lượng Số lần đã hoàn thành, và khi một bài tập cụ thể đã được hoàn thành, hãy chọn Mức độ hỗ trợ cần thiết cho bài tập đó. Các chỉ số số lần được hiển thị trên trang tổng quan của tài liệu. Màu xanh lá cây biểu thị đã hoàn thành, màu cam biểu thị chưa đạt được mục tiêu.
 10. Sau khi bạn đã ghi lại toàn bộ phiên trị liệu với các số lần, bạn có thể xác nhận tài liệu. Kế hoạch trị liệu sau đó sẽ được cập nhật với số lượng các phiên.
 
-<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/therapy-session.png">
+<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/therapy-session.png">
 
 ### 1.2 Tạo Phiên trị liệu từ Lịch hẹn bệnh nhân
 
 Sau khi đặt lịch hẹn cho một Loại trị liệu, hãy nhấn vào **Create > Therapy Session** để tạo một phiên từ Lịch hẹn bệnh nhân.
 
-<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/therapy-session-from-appointment.png">
+<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/therapy-session-from-appointment.png">
 
-Tham khảo [Kế hoạch trị liệu](/docs/v13/user/manual/en/healthcare/therapy_plan) để hiểu về cách tạo các Phiên trị liệu từ Kế hoạch trị liệu.
+Tham khảo [Kế hoạch trị liệu](therapy_plan.md) để hiểu về cách tạo các Phiên trị liệu từ Kế hoạch trị liệu.
 
 ## 2. Các tính năng
 
@@ -48,11 +48,11 @@ Tham khảo [Kế hoạch trị liệu](/docs/v13/user/manual/en/healthcare/ther
 5. Bạn cũng có thể thêm các mặt hàng một cách thủ công trong bảng con "Items" để lập hóa đơn.
 6. Lưu và Xác nhận.
 
-<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/therapy-invoicing.png">
+<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/therapy-invoicing.png">
 
 ## 3. Các chủ đề liên quan
-1. [Loại trị liệu](/docs/v13/user/manual/en/healthcare/therapy_type)
-1. [Kế hoạch trị liệu](/docs/v13/user/manual/en/healthcare/therapy_plan)
-1. [Lịch hẹn bệnh nhân](/docs/v13/user/manual/en/healthcare/patient_appointment)
+1. [Loại trị liệu](therapy_type.md)
+1. [Kế hoạch trị liệu](therapy_plan.md)
+1. [Lịch hẹn bệnh nhân](patient_appointment.md)
 
 {next}

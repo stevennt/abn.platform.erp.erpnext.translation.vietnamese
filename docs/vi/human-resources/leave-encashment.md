@@ -14,12 +14,12 @@
 
 Trước khi tạo Quy đổi ngày nghỉ thành tiền, bạn nên tạo các tài liệu sau:
 
-1. [Employee](/docs/v13/user/manual/en/human-resources/leave-allocation)
-1. [Leave Type](/docs/v13/user/manual/en/human-resources/leave-type)
-1. [Leave Policy](/docs/v13/user/manual/en/human-resources/leave-policy)
-1. [Leave Period](/docs/v13/user/manual/en/human-resources/leave-period)
-1. [Salary Structure](/docs/v13/user/manual/en/human-resources/salary-structure)
-1. [Salary Structure Assignment](/docs/v13/user/manual/en/human-resources/salary-structure-assignment)
+1. [Employee](leave-allocation.md)
+1. [Leave Type](leave-type.md)
+1. [Leave Policy](leave-policy.md)
+1. [Leave Period](leave-period.md)
+1. [Salary Structure](salary-structure.md)
+1. [Salary Structure Assignment](salary-structure-assignment.md)
 
 ## 2. Cách tạo Quy đổi ngày nghỉ thành tiền
 
@@ -31,18 +31,18 @@ Trước khi tạo Quy đổi ngày nghỉ thành tiền, bạn nên tạo các 
 1. Lưu và Xác nhận.
 
 	<img class="screenshot" alt="Leave Encashment"
-	src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/leave-encashment-new.png">
+	src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/leave-encashment-new.png">
 
 
 > **Lưu ý:** Khi bạn chọn Employee và Leave Type, Số dư nghỉ phép (Leave Balance) và Số ngày có thể quy đổi (Encashable Days - là tổng số dư nghỉ phép trừ đi số ngày ngưỡng được thiết lập trong Leave Type) sẽ được hiển thị cùng với Số tiền quy đổi (Encashment Amount) dựa trên mức Quy đổi ngày nghỉ mỗi ngày được cấu hình trong Salary Structure được gán cho Nhân viên đó.
 
 
-Khi Xác nhận Quy đổi ngày nghỉ thành tiền cho một Nhân viên, ERPNext sẽ tự động tạo một [Additional Salary](/docs/v13/user/manual/en/human-resources/additional-salary), khoản này sẽ được cộng vào Phiếu lương (Salary Slip) của Nhân viên khi xử lý bảng lương.
+Khi Xác nhận Quy đổi ngày nghỉ thành tiền cho một Nhân viên, ERPNext sẽ tự động tạo một [Additional Salary](additional-salary.md), khoản này sẽ được cộng vào Phiếu lương (Salary Slip) của Nhân viên khi xử lý bảng lương.
 
 
 
 ## 3. Các chủ đề liên quan
 
-1. [Payroll Period](/docs/v13/user/manual/en/human-resources/payroll-period)
-1. [Payroll Entry](/docs/v13/user/manual/en/human-resources/payroll-entry)
-1. [Additional Salary](/docs/v13/user/manual/en/human-resources/additional-salary)
+1. [Payroll Period](payroll-period.md)
+1. [Payroll Entry](payroll-entry.md)
+1. [Additional Salary](additional-salary.md)

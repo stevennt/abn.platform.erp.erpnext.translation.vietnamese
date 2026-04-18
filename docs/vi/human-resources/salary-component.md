@@ -18,7 +18,7 @@ Tiền lương trả cho nhân viên bao gồm nhiều thành phần khác nhau,
 1. Nhập tên Công ty và Tài khoản mặc định của Thành phần Lương trong bảng Tài khoản.
 3. Lưu.
 
- <img class="screenshot" alt="Salary Component" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/salary-component1.png">
+ <img class="screenshot" alt="Salary Component" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/salary-component1.png">
 
 ## 2. Các tính năng
 
@@ -28,7 +28,7 @@ Ngoài các trường bắt buộc nêu trên, một số tính năng bổ sung 
 
 Trong phần này, Điều kiện và Công thức cần thiết để tính toán Thành phần Lương có thể được chỉ định. Để chỉ định công thức, hãy bật hộp kiểm 'Amount based on formula' (Số tiền dựa trên công thức).
 
-<img class="screenshot" alt="Salary Component" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/salary-component2.png">
+<img class="screenshot" alt="Salary Component" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/salary-component2.png">
 
 Trong trường hợp Thành phần Lương dựa trên một số tiền đã được xác định trước, ERPNext cho phép bạn nhập trực tiếp số tiền vào trường Số tiền (tắt hộp kiểm 'Amount based on formula').
 
@@ -46,24 +46,24 @@ Một số thuộc tính bổ sung của Thành phần Lương có thể đượ
 * **Statistical Component (Thành phần thống kê):** Nếu được chọn, giá trị được chỉ định hoặc tính toán trong thành phần này sẽ không đóng góp vào thu nhập hoặc các khoản khấu trừ. Tuy nhiên, giá trị của nó có thể được tham chiếu bởi các thành phần khác có thể được cộng vào hoặc trừ đi. Nếu bạn đặt một Thành phần Lương là thành phần Thống kê, bạn sẽ không cần phải thiết lập Tài khoản mặc định cho nó. Ngoài ra, bạn cũng sẽ không thể đặt thành phần này làm Phúc lợi linh hoạt.
 * **Do Not Include in Total (Không bao gồm trong Tổng):** Chọn hộp kiểm này đảm bảo rằng Thành phần Lương không được bao gồm trong Tổng Lương. Nó được sử dụng để định nghĩa thành phần là một phần của CTC nhưng không được thanh toán (ví dụ: Sử dụng xe công ty).
 * **Variable Based On Taxable Salary (Biến đổi dựa trên Lương chịu thuế):** Thành phần được tính toán tự động dựa trên thu nhập chịu thuế theo Bậc thuế thu nhập áp dụng (ví dụ: TDS hoặc Thuế thu nhập).
-* **Exempted from Income Tax (Miễn thuế thu nhập):** Nếu được chọn, toàn bộ số tiền sẽ được khấu trừ khỏi thu nhập chịu thuế trước khi tính thuế thu nhập mà không cần bất kỳ [khai báo](/docs/v13/user/manual/en/human-resources/employee-tax-exemption-declaration) hoặc [nộp chứng từ](/docs/v13/user/manual/en/human-resources/employee-tax-exemption-proof-submission) nào. Ví dụ: Thuế chuyên nghiệp ở Ấn Độ được khấu trừ khỏi thu nhập chịu thuế trước khi tính thuế thu nhập.
+* **Exempted from Income Tax (Miễn thuế thu nhập):** Nếu được chọn, toàn bộ số tiền sẽ được khấu trừ khỏi thu nhập chịu thuế trước khi tính thuế thu nhập mà không cần bất kỳ [khai báo](employee-tax-exemption-declaration.md) hoặc [nộp chứng từ](employee-tax-exemption-proof-submission.md) nào. Ví dụ: Thuế chuyên nghiệp ở Ấn Độ được khấu trừ khỏi thu nhập chịu thuế trước khi tính thuế thu nhập.
 * **Disabled (Vô hiệu hóa):** Hộp kiểm này có thể được chọn để vô hiệu hóa Thành phần Lương này. Một Thành phần Lương bị vô hiệu hóa không thể được sử dụng trong Cơ cấu Lương.
 
 ### 2.3 Phúc lợi linh hoạt
 
 Phần này được hiển thị nếu Thành phần Lương là một Thành phần Thu nhập. Các kế hoạch Phúc lợi linh hoạt cho phép nhân viên hưởng các phúc lợi mà họ muốn hoặc cần từ một gói chương trình do người sử dụng lao động cung cấp. Chúng có thể bao gồm bảo hiểm y tế, kế hoạch hưu trí, chi phí điện thoại, v.v. Để thiết lập một Thành phần Lương là Phúc lợi linh hoạt, hãy tích vào hộp kiểm 'Is Flexible Benefit'.
 
-<img class="screenshot" alt="Flexible Benefit" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/flexible-ben.png">
+<img class="screenshot" alt="Flexible Benefit" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/flexible-ben.png">
 
 Nhập số tiền tối đa hàng năm cho phúc lợi linh hoạt này vào trường 'Max Benefit Amount (Yearly)' (Số tiền phúc lợi tối đa hàng năm). Một số thuộc tính bổ sung của Phúc lợi linh hoạt có thể được bật bằng cách sử dụng các hộp kiểm như sau:
 
-* **Pay Against Benefit Claim (Thanh toán theo yêu cầu phúc lợi):** Bật hộp kiểm này nếu bạn muốn thanh toán phúc lợi này thông qua [Yêu cầu phúc lợi của nhân viên](/docs/v13/user/manual/en/human-resources/employee-benefit-claim).
+* **Pay Against Benefit Claim (Thanh toán theo yêu cầu phúc lợi):** Bật hộp kiểm này nếu bạn muốn thanh toán phúc lợi này thông qua [Yêu cầu phúc lợi của nhân viên](employee-benefit-claim.md).
 * **Only Tax Impact (Cannot Claim But Part of Taxable Income) (Chỉ ảnh hưởng thuế - Không thể yêu cầu nhưng là một phần của thu nhập chịu thuế):** Nếu được thiết lập, phúc lợi linh hoạt sẽ là một phần của thu nhập chịu thuế.
 * **Create Separate Payment Entry Against Benefit Claim (Tạo Bút toán thanh toán riêng biệt cho Yêu cầu phúc lợi):** Nếu hộp kiểm này được chọn, nó sẽ cho phép bạn tạo một bút toán thanh toán riêng biệt cho Yêu cầu phúc lợi.
 
 ## 3. Các chủ đề liên quan
 
-1. [Cơ cấu Lương](/docs/v13/user/manual/en/human-resources/salary-structure)
-1. [Phân bổ Cơ cấu Lương](/docs/v13/user/manual/en/human-resources/salary-structure-assignment)
-1. [Nhập liệu Bảng lương](/docs/v13/user/manual/en/human-resources/payroll-entry)
-1. [Kỳ tính lương](/docs/v13/user/manual/en/human-resou
+1. [Cơ cấu Lương](salary-structure.md)
+1. [Phân bổ Cơ cấu Lương](salary-structure-assignment.md)
+1. [Nhập liệu Bảng lương](payroll-entry.md)
+1. [Kỳ tính lương](human-resou

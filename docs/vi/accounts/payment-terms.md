@@ -18,7 +18,7 @@ Bạn có thể sử dụng Điều khoản thanh toán trong các chứng từ 
 Để truy cập Điều khoản thanh toán, hãy đi tới:
 > Home > Accounting > Accounting Masters > Payment Term
 
-<img class="screenshot" alt="Payment Terms" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/payment-terms.png">
+<img class="screenshot" alt="Payment Terms" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/payment-terms.png">
 
 ## 1. Cách tạo Điều khoản thanh toán
 
@@ -49,7 +49,7 @@ Bạn có thể thiết lập các điều khoản thanh toán có chiết khấ
 * **Discount Validity Based On:** Trường này hoạt động tương tự như trường Due Date Based On ở phần trước.
 * **Discount Validity:** Số ngày hoặc tháng mà khoản chiết khấu có hiệu lực so với ngày hóa đơn (ví dụ: 10 ngày sau ngày hóa đơn).
 
-<img class="screenshot" alt="Payment Terms with Discount" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/payment-terms-with-discount.png">
+<img class="screenshot" alt="Payment Terms with Discount" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/payment-terms-with-discount.png">
 
 Giờ đây bạn có thể liên kết Điều khoản thanh toán với một Hóa đơn và khi tạo bút toán thanh toán cho hóa đơn đó, khoản chiết khấu sẽ được áp dụng tự động.
 
@@ -62,9 +62,9 @@ Khi chuyển đổi hoặc sao chép các chứng từ trong chu trình bán hà
 
 Sau khi bạn đã soạn xong Mẫu điều khoản thanh toán, bạn có thể sử dụng chúng trong các giao dịch mua và bán. Dựa trên giá trị được xác định cho Điều khoản thanh toán và giá trị giao dịch, lịch trình thanh toán sẽ được xác định, với Ngày đến hạn cho mỗi hạn mức thanh toán.
 
-![Payment Schedule](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/payment-term-in-invoice.png)
+![Payment Schedule](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/payment-term-in-invoice.png)
 
-Lưu ý: Lịch trình thanh toán có thể được hiển thị trong Chế độ xem in bằng cách sử dụng [Print Format Builder](https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/print/print-format-builder).
+Lưu ý: Lịch trình thanh toán có thể được hiển thị trong Chế độ xem in bằng cách sử dụng [Print Format Builder](../setting-up/print/print-format-builder.md).
 
 ### 2. Các chủ đề liên quan
 1. [Sales Invoice](sales-invoice.md)

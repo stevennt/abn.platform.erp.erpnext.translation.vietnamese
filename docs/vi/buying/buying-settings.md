@@ -5,7 +5,7 @@ Cài đặt Mua hàng là nơi bạn có thể xác định các thuộc tính s
 Bạn có thể tìm thấy Cài đặt Mua hàng tại:
 > Trang chủ > Mua hàng > Cài đặt > Cài đặt Mua hàng
 
-![Buying Settings](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/buying/buying-settings.png)
+![Buying Settings](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/buying/buying-settings.png)
 
 Hãy cùng xem xét các tùy chọn khác nhau có thể được cấu hình:
 
@@ -18,7 +18,7 @@ Nếu không được cấu hình khác, ERPNext sử dụng Tên của Nhà cun
 
 Bạn có thể xác định hoặc chọn mẫu Naming Series từ: **Cài đặt > Dữ liệu > Naming Series**
 
-Đọc [Naming Series](https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/settings/naming-series) để biết thêm về cách xác định Naming Series.
+Đọc [Naming Series](../setting-up/settings/naming-series.md) để biết thêm về cách xác định Naming Series.
 
 ### 1.2 Nhóm Nhà cung cấp mặc định
 
@@ -35,7 +35,7 @@ Nếu tùy chọn này được cấu hình là "Yes", ERPNext sẽ ngăn bạn 
 
 Cấu hình này có thể được ghi đè cho một nhà cung cấp cụ thể bằng cách bật hộp kiểm "Cho phép tạo Hóa đơn mua hàng mà không cần Đơn mua hàng" trong danh mục nhà cung cấp.
 
-<img alt="Purchase Order Required" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/buying/po-required.png">
+<img alt="Purchase Order Required" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/buying/po-required.png">
 
 ### 2.3 Yêu cầu Phiếu nhập hàng
 
@@ -43,7 +43,7 @@ Nếu tùy chọn này được cấu hình là "Yes", ERPNext sẽ ngăn bạn 
 
 Cấu hình này có thể được ghi đè cho một nhà cung cấp cụ thể bằng cách bật hộp kiểm "Cho phép tạo Hóa đơn mua hàng mà không cần Phiếu nhập hàng" trong danh mục nhà cung cấp.
 
-<img alt="Purchase Receipt Required" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/buying/pr-required.png">
+<img alt="Purchase Receipt Required" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/buying/pr-required.png">
 
 ### 2.4 Duy trì cùng Đơn giá trong suốt Chu kỳ mua hàng
 

@@ -9,7 +9,7 @@
 
 ## 1. Cách tạo và sử dụng Mẫu Bút toán:
 
-![Journal Entry Template](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/journal-entry-template.png)
+![Journal Entry Template](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/journal-entry-template.png)
 
 
   1. Đi đến Danh sách Mẫu Bút toán và nhấn vào Mới.
@@ -27,7 +27,7 @@
   3. Lưu và đi đến [Journal Entry](journal-entry.md#1-how-to-create-a-journal-entry) và nhấn vào mới.
   4. Trong trường 'From Template', khi bạn chọn mẫu, nó sẽ tải các tài khoản và các tùy chọn khác đã được thiết lập trong đó. Lưu ý rằng nó sẽ xóa sạch bảng Accounting Entries trước, nhưng bạn có thể thêm nhiều tài khoản khác vào bảng ngoài những tài khoản được lấy từ mẫu.
 
-![Creating Journal Entry From Template](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/create-journal-entry-from-template.gif)
+![Creating Journal Entry From Template](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/create-journal-entry-from-template.gif)
 
 ## 3. Các chủ đề liên quan
   1. [Journal Entry](journal-entry.md)

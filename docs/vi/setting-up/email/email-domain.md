@@ -3,7 +3,7 @@
 
 **Tên miền email là tên của mạng/dịch vụ mà bạn đang sử dụng cho tài khoản email của mình.**
 
-Bạn có thể bỏ qua bước này và chuyển thẳng đến phần tạo [Tài khoản Email](/docs/v13/user/manual/en/setting-up/email/email-account) nếu bạn đang sử dụng một trong các dịch vụ được liệt kê [tại đây](/docs/v13/user/manual/en/setting-up/email/email-inbox#2-create-an-email-domain).
+Bạn có thể bỏ qua bước này và chuyển thẳng đến phần tạo [Tài khoản Email](email-account.md) nếu bạn đang sử dụng một trong các dịch vụ được liệt kê [tại đây](email-inbox.md#2-create-an-email-domain).
 
 Bạn có thể cấu hình Tên miền Email trong ERPNext để thiết lập dễ dàng cho tất cả các Tài khoản Email. Để tìm cài đặt Tên miền Email, hãy đi tới:
 
@@ -15,7 +15,7 @@ Nếu bạn muốn gửi và nhận email trên tài khoản ERPNext của mình
 
 ERPNext tạo sẵn một tên miền email mẫu sử dụng example.com để bạn tham khảo. Bạn nên thêm tên miền mới của mình nếu muốn sử dụng nó trong tài khoản ERPNext.
 
-<img class="screenshot" alt="Email Domain" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/email/email-domain.png">
+<img class="screenshot" alt="Email Domain" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/email/email-domain.png">
 
 ## 1. Cách tạo một Tên miền Email
 1. Đi tới danh sách Tên miền Email, nhấn vào Mới.
@@ -43,12 +43,12 @@ ERPNext tạo sẵn một tên miền email mẫu sử dụng example.com để 
 
 Sau khi bạn nhấn Lưu, các cài đặt này sẽ được ERPNext xác thực và Tên miền Email sẽ được Lưu. Đôi khi việc này có thể mất vài giây và bạn có thể phải chờ đợi. Tên miền email này sau đó sẽ có sẵn trong một danh sách thả xuống gọi là Domain trong màn hình Tài khoản Email.
 
-![Email domain in email account](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/email/email-domain1.png)
+![Email domain in email account](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/email/email-domain1.png)
 
 #### Đã nhập mọi thứ nhưng vẫn không thể thiết lập Tên miền Email?
 
 Nếu bạn đã nhập và xác minh các cài đặt trên mà vẫn không thể thiết lập Tên miền Email, bạn có thể liên hệ với bộ phận hỗ trợ ERPNext trong tài khoản của mình để được trợ giúp.
 
 ### 2. Các chủ đề liên quan
-1. [Tài khoản Email](/docs/v13/user/manual/en/setting-up/email/email-account)
-1. [Hộp thư Email](/docs/v13/user/manual/en/setting-up/email/email-inbox)
+1. [Tài khoản Email](email-account.md)
+1. [Hộp thư Email](email-inbox.md)

@@ -11,7 +11,7 @@
 2. Nhập tên cho nhà cung cấp.
 3. Chọn nhóm nhà cung cấp như Dược phẩm, Phần cứng, v.v.
 4. Lưu.
-    <img class="screenshot" alt="Supplier Master" src="https://docs.erpnext.com/docs/v16/assets/img/buying/supplier-master.png">
+    <img class="screenshot" alt="Supplier Master" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/buying/supplier-master.png">
 
 Các tùy chọn Cảnh báo RFQ, PO, Ngăn chặn RFQ, PO sẽ khả dụng sau khi bạn tạo [Bảng điểm Nhà cung cấp](supplier-scorecard.md) và các giao dịch được thực hiện.
 
@@ -40,12 +40,12 @@ Các trường trong các giao dịch trong tương lai sẽ được tự độ
 
 Nếu tùy chọn "Yêu cầu Đơn mua hàng" hoặc "Yêu cầu Phiếu nhập hàng" được cấu hình là "Có" trong [Cài đặt mua hàng](buying-settings.md), nó có thể được ghi đè cho một nhà cung cấp cụ thể bằng cách bật "Cho phép tạo Hóa đơn mua hàng không cần Đơn mua hàng" hoặc "Cho phép tạo Hóa đơn mua hàng không cần Phiếu nhập hàng" trong Danh mục Nhà cung cấp.
 
-<img class="screenshot" alt="Supplier Master" src="https://docs.erpnext.com/docs/v16/assets/img/buying/supplier-po-pr-required.png">
+<img class="screenshot" alt="Supplier Master" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/buying/supplier-po-pr-required.png">
 
 ### 2.3 Tiền tệ và Bảng giá
 **Tiền tệ thanh toán**: Tiền tệ của nhà cung cấp có thể khác với tiền tệ của công ty bạn. Nếu bạn chọn JPY cho một nhà cung cấp, thì tiền tệ sẽ được điền là JPY và tỷ giá sẽ được hiển thị cho các giao dịch mua hàng trong tương lai.
 
-![Supplier Currency](https://docs.erpnext.com/docs/v16/assets/img/buying/supplier-currency.gif)
+![Supplier Currency](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/buying/supplier-currency.gif)
 
 Mỗi Nhà cung cấp có thể có một **Bảng giá** mặc định để mỗi khi bạn mua một mặt hàng mới từ nhà cung cấp này với các mức giá khác nhau, bảng giá liên kết với nhà cung cấp cũng sẽ được cập nhật. Dưới bảng giá là giá mặt hàng, bạn có thể xem giá tại Mua hàng > Mặt hàng và Định giá > Giá mặt hàng.
 
@@ -72,7 +72,7 @@ Bạn có thể **tích hợp** một nhà cung cấp với một tài khoản. 
 
 Nếu bạn muốn tùy chỉnh tài khoản phải trả cho Nhà cung cấp, trước tiên bạn nên thêm một Tài khoản phải trả trong Hệ thống tài khoản, sau đó chọn Tài khoản phải trả đó trong danh mục Nhà cung cấp.
 
-<img class="screenshot" alt="Supplier Master" src="https://docs.erpnext.com/docs/v16/assets/img/buying/supplier-payable-account.png">
+<img class="screenshot" alt="Supplier Master" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/buying/supplier-payable-account.png">
 
 Nếu bạn không muốn tùy chỉnh tài khoản phải trả và tiếp tục với tài khoản phải trả mặc định "Chủ nợ", thì đừng cập nhật bất kỳ giá trị nào trong bảng Tài khoản nhà cung cấp mặc định.
 

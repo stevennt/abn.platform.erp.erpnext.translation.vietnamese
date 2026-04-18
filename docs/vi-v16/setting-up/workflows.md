@@ -27,11 +27,11 @@ Trước khi tạo một Quy trình công việc, bạn nên tạo các thành p
 
     Các Trạng thái Quy trình công việc có thể có màu sắc khác nhau tùy theo trạng thái. Ví dụ: Màu xanh lá cây cho thành công. Trạng thái tài liệu: Lưu (Saved) = 0, Xác nhận (Submitted) = 1, Hủy (Cancelled) = 2.
 
-    ![Workflow](https://docs.erpnext.com/docs/v16/assets/img/setup/workflow.png)
+    ![Workflow](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/workflow.png)
 
 1. Nhập các Quy tắc chuyển đổi (Transition Rules).
 
-    ![Workflow Transition Rules](https://docs.erpnext.com/docs/v16/assets/img/setup/workflow-transition-rules.png)
+    ![Workflow Transition Rules](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/workflow-transition-rules.png)
 
 ### 2.2 Những điều cần lưu ý khi tạo Quy trình công việc
 
@@ -57,7 +57,7 @@ Trước khi tạo một Quy trình công việc, bạn nên tạo các thành p
 Trong phần Trạng thái (States), trạng thái Quy trình công việc không bắt buộc có nghĩa là trạng thái đó có thể không phải là một phần của quá trình phê duyệt cuối cùng.
 
 Ví dụ: các trạng thái như Đã hủy (Canceled) hoặc Từ chối (Rejected) có thể là không bắt buộc.
-![Optional State](https://docs.erpnext.com/docs/v16/assets/img/setup/workflow-optional-state.png)
+![Optional State](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/workflow-optional-state.png)
 
 **Lưu ý:** Các Workflow Actions không được tạo cho các trạng thái không bắt buộc.
 
@@ -94,4 +94,4 @@ doc.creation > frappe.utils.add_to_date(frappe.utils.now_datetime(), days=-5, as
 
 Khi một báo giá được Lưu bởi nhân viên bán hàng, trạng thái của tài liệu sẽ chuyển sang "Nháp" (Draft) và khi nhấn vào Xác nhận (submit), trạng thái sẽ chuyển sang 'Chờ Quản lý bán hàng phê duyệt' (Approval Pending By Sales Manager):
 
-![Workflow State in Transaction](https://docs.erpnext.com/docs/v16/assets/img/setup/workflow-state-example.png)
+![Workflow State in Transaction](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/workflow-state-example.png)

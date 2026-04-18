@@ -12,12 +12,12 @@ Hãy xem xét một kịch bản, nơi cần có nhiều cấp độ phê duyệ
 
 > Home > Settings > Workflow
 
-Sau khi một Quy trình công việc được tạo, bạn có thể thực hiện các hành động trên đó thông qua [Workflow Actions](/docs/v13/user/manual/en/setting-up/workflow-actions).
+Sau khi một Quy trình công việc được tạo, bạn có thể thực hiện các hành động trên đó thông qua [Workflow Actions](workflow-actions.md).
 
 ## 1. Điều kiện tiên quyết
 Trước khi tạo một Quy trình công việc, bạn nên tạo các thành phần này trước:
 
-* [Workflow Actions](/docs/v13/user/manual/en/setting-up/workflow-actions)
+* [Workflow Actions](workflow-actions.md)
 * Các Trạng thái Quy trình công việc (Workflow States) như Đã phê duyệt (Approved), Đã hủy (Canceled), v.v.
 
 ## 2. Cách tạo một Quy trình công việc
@@ -27,11 +27,11 @@ Trước khi tạo một Quy trình công việc, bạn nên tạo các thành p
 
     Các Trạng thái Quy trình công việc có thể có màu sắc khác nhau tùy theo trạng thái. Ví dụ: Màu xanh lá cây cho thành công. Trạng thái tài liệu: Saved = 0, Submitted = 1, Cancelled = 2.
 
-    ![Workflow](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/workflow.png)
+    ![Workflow](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/workflow.png)
 
 1. Nhập các Quy tắc chuyển đổi (Transition Rules).
 
-    ![Workflow Transition Rules](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/workflow-transition-rules.png)
+    ![Workflow Transition Rules](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/workflow-transition-rules.png)
 
 ### 2.2 Những điều cần lưu ý khi tạo Quy trình công việc
 
@@ -59,7 +59,7 @@ Trước khi tạo một Quy trình công việc, bạn nên tạo các thành p
 Trong phần Trạng thái (States), trạng thái Quy trình công việc không bắt buộc có nghĩa là trạng thái đó có thể không phải là một phần của quá trình phê duyệt cuối cùng.
 
 Ví dụ: các trạng thái như Đã hủy (Canceled) hoặc Từ chối (Rejected) có thể là không bắt buộc.
-![Optional State](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/workflow-optional-state.png)
+![Optional State](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/workflow-optional-state.png)
 
 **Lưu ý:** Các Workflow Actions không được tạo cho các trạng thái không bắt buộc.
 
@@ -99,15 +99,15 @@ doc.creation > frappe.utils.add_to_date(frappe.utils.now_datetime(), days=-5, as
 
 Khi một báo giá được lưu bởi nhân viên bán hàng, trạng thái của tài liệu sẽ chuyển sang "Nháp" (Draft) và khi nhấn vào Xác nhận (submit), trạng thái sẽ chuyển sang 'Chờ Quản lý bán hàng phê duyệt' (Approval Pending By Sales Manager):
 
-![Workflow State in Transaction](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/workflow-status-in-transaction.png)
+![Workflow State in Transaction](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/workflow-status-in-transaction.png)
 
 Khi Quản lý bán hàng đăng nhập, họ có thể Phê duyệt (Approve) hoặc Từ chối (Reject). Nếu được phê duyệt, trạng thái của tài liệu sẽ chuyển sang "Chờ Quản lý khu vực phê duyệt" (Approval Pending By Regional Manager).
 
-![Workflow Action Options](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/workflow-action-options.png)
+![Workflow Action Options](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/workflow-action-options.png)
 
 Khi Quản lý khu vực mở báo giá, họ có thể thực hiện bước cuối cùng là "Phê duyệt" (Approve) hoặc "Từ chối" (Reject) nó.
 
-![Workflow Action Options](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/workflow-action-options-2.png)
+![Workflow Action Options](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/workflow-action-options-2.png)
 
 ## 5. Video
 <div>
@@ -118,5 +118,5 @@ Khi Quản lý khu vực mở báo giá, họ có thể thực hiện bước cu
 </div>
 
 ### 6. Các chủ đề liên quan
-1. [Workflow Actions](/docs/v13/user/manual/en/setting-up/workflow-actions)
-1. [Assignment Rule](/docs/v13/user/manual/en/automation/assignment-rule)
+1. [Workflow Actions](workflow-actions.md)
+1. [Assignment Rule](../automation/assignment-rule.md)

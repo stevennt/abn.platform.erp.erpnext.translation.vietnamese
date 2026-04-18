@@ -6,13 +6,13 @@
 
 Trong quá trình thực hiện khoản vay, nếu khoản vay mà người đăng ký đang nộp đơn là khoản vay có bảo đảm, thì cần phải có một loại tài sản đảm bảo được thế chấp cho khoản vay đó. Trong danh mục Loại tài sản đảm bảo khoản vay, bạn có thể định nghĩa loại tài sản đảm bảo đó.
 
-<img class="screenshot" alt="Make Loan Security Type" src="https://docs.erpnext.com/docs/v16/assets/img/loan-management/loan-security-type-flow.png">
+<img class="screenshot" alt="Make Loan Security Type" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/loan-management/loan-security-type-flow.png">
 
 Để truy cập danh sách Loại tài sản đảm bảo khoản vay, hãy đi tới:
 > Trang chủ > Quản lý khoản vay > Tài sản đảm bảo khoản vay > Loại tài sản đảm bảo khoản vay
 
 
-<img class="screenshot" alt="Loan Security Type" src="https://docs.erpnext.com/docs/v16/assets/img/loan-management/loan-security-type.png">
+<img class="screenshot" alt="Loan Security Type" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/loan-management/loan-security-type.png">
 
 
 Một Loại tài sản đảm bảo khoản vay bao gồm các chi tiết về:

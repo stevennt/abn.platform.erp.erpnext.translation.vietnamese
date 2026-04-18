@@ -1,7 +1,7 @@
 <!-- add-breadcrumbs -->
 # Người dẫn dắt (The Champion)
 
-<img alt="Champion" class="screenshot" src="https://docs.erpnext.com/docs/v16/assets/img/setup/implementation-image.png">
+<img alt="Champion" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/implementation-image.png">
 
 Chúng tôi đã chứng kiến hàng chục dự án triển khai ERP trong vài năm qua và chúng tôi nhận ra rằng việc triển khai thành công phụ thuộc rất nhiều vào những yếu tố vô hình và thái độ.
 

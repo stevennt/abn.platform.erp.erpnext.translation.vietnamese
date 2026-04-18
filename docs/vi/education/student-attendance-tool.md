@@ -15,7 +15,7 @@
 
 Chi tiết học sinh sẽ được tự động lấy ra và bạn có thể đánh dấu điểm danh cho ngày đã chọn.
 
-![Student Attendance Tool](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-student-attendance-tool.gif)
+![Student Attendance Tool](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-student-attendance-tool.gif)
 
 ## Video về Công cụ điểm danh học sinh
 

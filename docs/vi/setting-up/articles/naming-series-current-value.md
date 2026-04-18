@@ -1,7 +1,7 @@
 <!-- add-breadcrumbs -->
 #Thiết lập Giá trị hiện tại cho Naming Series
 
-Tính năng Naming Series cho phép bạn xác định tiền tố để đặt tên cho các chứng từ. Ví dụ, nếu một Đơn bán hàng có tiền tố là "SO", thì chuỗi số sẽ được tạo ra là SO-00001, SO-00002... và tiếp tục như vậy. Nhấp vào [tại đây](/docs/v13/user/manual/en/setting-up/settings/naming-series.html) để tìm hiểu cách bạn có thể tùy chỉnh Chuỗi số cho một giao dịch/dữ liệu danh mục trong ERPNext.
+Tính năng Naming Series cho phép bạn xác định tiền tố để đặt tên cho các chứng từ. Ví dụ, nếu một Đơn bán hàng có tiền tố là "SO", thì chuỗi số sẽ được tạo ra là SO-00001, SO-00002... và tiếp tục như vậy. Nhấp vào [tại đây](../settings/naming-series.html.md) để tìm hiểu cách bạn có thể tùy chỉnh Chuỗi số cho một giao dịch/dữ liệu danh mục trong ERPNext.
 
 ### 1. Thiết lập Giá trị hiện tại
 
@@ -15,19 +15,19 @@ Ví dụ, bạn có 322 Đơn bán hàng đã được tạo trong hệ thống 
 
 #### Phần Cập nhật Chuỗi (Update Series Section)
 
-<img alt="Update Series Section" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/current-no-1.png">
+<img alt="Update Series Section" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/current-no-1.png">
 
 #### Chọn Tiền tố
 
 Xét tình huống của chúng ta, tiền tố cho Đơn bán hàng sẽ là "SO".
 
-<img alt="Series Prefix" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/current-no-2.png">
+<img alt="Series Prefix" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/current-no-2.png">
 
 #### Giá trị hiện tại
 
 Nếu hiện tại bạn có 12 Đơn bán hàng đã được tạo trong tài khoản của mình, thì giá trị hiện tại được cập nhật sẽ là 12. Bạn có thể chỉnh sửa Giá trị hiện tại thành 322, sau đó nhấp vào Update Series Number.
 
-<img alt="Series Current Value" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/current-no-3.png">
+<img alt="Series Current Value" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/current-no-3.png">
 
 Với thiết lập này, các Đơn bán hàng Mới sẽ có số thứ tự bắt đầu từ #323.
 

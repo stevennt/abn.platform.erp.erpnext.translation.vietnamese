@@ -13,5 +13,5 @@ Phần Quản lý đội xe của bộ phận Nhân sự giúp Tổ chức của
 
 ## Các chủ đề liên quan
 
-1. [Xe](/docs/v13/user/manual/en/human-resources/vehicle)
-1. [Nhật ký xe](/docs/v13/user/manual/en/human-resources/vehicle-log)
+1. [Xe](vehicle.md)
+1. [Nhật ký xe](vehicle-log.md)

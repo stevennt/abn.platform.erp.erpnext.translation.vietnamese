@@ -5,12 +5,12 @@
 
 Báo cáo này hiển thị Số tiền mua, Số tiền đã khấu hao và tổng khấu hao lũy kế cho tất cả các tài sản trong phạm vi ngày được chọn. Nó cũng hiển thị giá trị hiện tại và tình trạng khấu hao hiện tại của Tài sản.
 
-<img class="screenshot" alt="Asset" src="https://docs.erpnext.com/docs/v16/assets/img/asset/asset-dep-ledger.png">
+<img class="screenshot" alt="Asset" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/asset/asset-dep-ledger.png">
 
 ## Khấu hao và Số dư Tài sản
 Báo cáo này hiển thị chi phí mua, bán và thanh lý tất cả các tài sản dựa trên [Nhóm tài sản](/docs/v16/user/manual/vi/asset/asset-category). Báo cáo cũng hiển thị chi tiết khấu hao dựa trên kỳ được chọn và giá trị ròng của nhóm tài sản.
 
-<img class="screenshot" alt="Asset" src="https://docs.erpnext.com/docs/v16/assets/img/asset/asset-dep-balance.png">
+<img class="screenshot" alt="Asset" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/asset/asset-dep-balance.png">
 
 ## Sổ đăng ký Tài sản cố định
 
@@ -22,6 +22,6 @@ Các loại hồ sơ dựa trên khấu hao:
 
 * **Đã thanh lý:** Tất cả các tài sản hiện đã được bán hoặc thanh lý đều nằm trong danh mục này.
 
-<img class="screenshot" alt="Asset" src="https://docs.erpnext.com/docs/v16/assets/img/asset/fixed-asset-register.png">
+<img class="screenshot" alt="Asset" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/asset/fixed-asset-register.png">
 
 {next}

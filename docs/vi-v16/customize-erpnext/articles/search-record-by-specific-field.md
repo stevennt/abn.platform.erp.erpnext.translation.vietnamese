@@ -19,12 +19,12 @@ Giả sử bạn muốn xem Mặt hàng trong Đơn bán hàng cùng với Nhóm
 
 Cập nhật tên trường Kho trong trường Tìm kiếm theo (Search By).
 
-<img alt="Search By in Customize Form" class="screenshot" src="https://docs.erpnext.com/docs/v16/assets/img/customize/customize-search-record-1.png">
+<img alt="Search By in Customize Form" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/customize-search-record-1.png">
 
-<img alt="Search By in Customize Form" class="screenshot" src="https://docs.erpnext.com/docs/v16/assets/img/customize/customize-search-record-2.png">
+<img alt="Search By in Customize Form" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/customize-search-record-2.png">
 
 Sau khi các cài đặt này đã được cập nhật, khi tạo Đơn bán hàng, khi bạn chọn Mặt hàng, bạn cũng sẽ có thể thấy được kho ở đó.
 
-<img alt="Search By in Customize Form" class="screenshot" src="https://docs.erpnext.com/docs/v16/assets/img/customize/customize-search-record-3.png">
+<img alt="Search By in Customize Form" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/customize-search-record-3.png">
 
 {next}

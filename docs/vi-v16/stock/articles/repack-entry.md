@@ -23,7 +23,7 @@ Chọn Mục đích là 'Repack Entry'.
 *   Đối với mặt hàng nguyên liệu/đầu vào, chỉ có Kho Nguồn được cung cấp.
 *   Đối với các mặt hàng được đóng gói lại/đầu ra, chỉ có Kho Đích được cung cấp. Bạn sẽ phải cung cấp giá trị tính giá cho các mặt hàng đóng gói lại.
 
-<img alt="Repack Entry" class="screenshot" src="https://docs.erpnext.com/docs/v16/assets/img/articles/repack-1.png">
+<img alt="Repack Entry" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/repack-1.png">
 
 Cập nhật Số lượng cho tất cả các mặt hàng đã chọn.
 
@@ -35,4 +35,4 @@ Hệ thống v16 sẽ tự động cập nhật:
 *   **Truy xuất nguồn gốc (Traceability):** Liên kết trực tiếp giữa Lô hàng (Batch) đầu vào và đầu ra.
 *   **Kế toán tồn kho:** Giá trị của mặt hàng đóng gói lại sẽ được tính toán dựa trên nguyên liệu và các chi phí liên quan.
 
-<img alt="Repack Stock Entry" class="screenshot" src="https://docs.erpnext.com/docs/v16/assets/img/articles/repack-2.png">
+<img alt="Repack Stock Entry" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/repack-2.png">

@@ -23,7 +23,7 @@ Trước khi tạo và sử dụng Xử lý kế toán hoãn lại, bạn nên t
 1. Nhập Ngày bắt đầu và Ngày kết thúc dịch vụ.
 1. Lưu và Xác nhận.
 
-![Process Deferred Revenue](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/process-deferred-accounting.png)
+![Process Deferred Revenue](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/process-deferred-accounting.png)
 
 ## 3. Các tính năng
 
@@ -40,6 +40,6 @@ Nhập tài khoản nếu Doanh thu hoặc Chi phí hoãn lại chỉ cần đư
 Để truy cập Cài đặt kế toán, hãy đi tới:
 > Trang chủ > Kế toán > Danh mục kế toán > Cài đặt kế toán
 
-![Deferred Accounting Settings](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/deferred-accounting-settings.png)
+![Deferred Accounting Settings](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/deferred-accounting-settings.png)
 
 {next}

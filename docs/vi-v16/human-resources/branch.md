@@ -21,7 +21,7 @@ Trước khi tạo Chi nhánh, bạn bắt buộc phải tạo tài liệu sau:
 2. Nhập tên của Chi nhánh.
 3. Nhấn **Lưu**.
 
-<img class="screenshot" alt="Branch" src="https://docs.erpnext.com/docs/v16/assets/img/human-resources/branch.png">
+<img class="screenshot" alt="Branch" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/branch.png">
 
 Bạn có thể liên kết Chi nhánh với danh mục [Nhân viên](/docs/v16/user/manual/vi/human-resources/employee).
 

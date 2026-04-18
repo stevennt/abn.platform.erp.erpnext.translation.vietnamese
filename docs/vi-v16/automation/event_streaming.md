@@ -36,7 +36,7 @@ Hãy lấy hai trang web để giải thích quy trình này. http://test_site:8
 8. **Lưu**.
 9. Sau khi lưu, một Bên tiêu dùng sự kiện (Event Consumer) sẽ được tạo trên trang web bên sản xuất (http://test_site_producer:8000). Trong quy trình này, các khóa của người dùng trên trang web người tiêu dùng sẽ tự động được sao chép vào tài liệu Bên tiêu dùng sự kiện trên trang web bên sản xuất.
 
-    ![Event Producer](https://docs.erpnext.com/docs/v16/assets/img/automation/event-producer-doc.png)
+    ![Event Producer](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/automation/event-producer-doc.png)
 
 >**Lưu ý**: Nếu Mã bí mật API (API Secret) của người dùng trên bất kỳ trang web nào trong số này bị thay đổi, bạn sẽ phải cập nhật thủ công các khóa trong Bên sản xuất sự kiện cũng như Bên tiêu dùng sự kiện trên cả hai trang web.
 
@@ -47,7 +47,7 @@ Hãy lấy hai trang web để giải thích quy trình này. http://test_site:8
 3. Khi bạn mở tài liệu Bên tiêu dùng sự kiện, bạn sẽ thấy tất cả các DocType mà bên tiêu dùng đã đăng ký. Thay đổi trạng thái từ 'Chờ duyệt' (Pending) sang 'Đã phê duyệt' (Approved) cho tất cả các DocType mà bạn muốn phê duyệt để tiêu thụ. Bạn có thể thay đổi trạng thái thành 'Từ chối' (Rejected) nếu bạn không muốn các tài liệu của DocType đó được tiêu thụ.
 4. **Lưu**.
 
-    ![Event Consumer](https://docs.erpnext.com/docs/v16/assets/img/automation/event-consumer-doc.png)
+    ![Event Consumer](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/automation/event-consumer-doc.png)
 
 >**Lưu ý**: Các bản cập nhật tài liệu cho các DocType đã đăng ký sẽ không được đồng bộ hóa trừ khi chúng được Phê duyệt.
 

@@ -19,10 +19,10 @@ Mục đích của tính năng này là nhắc nhở nhiều khách hàng rằng
 
 1. Công cụ sử dụng ID email của khách hàng để gửi báo cáo cho họ. Nếu không tìm thấy các mục email dưới đây trong Danh bạ Khách hàng, công cụ sẽ không cho phép bạn chọn Khách hàng tương ứng, vì vậy vui lòng đảm bảo các chi tiết sau đã được điền trong tài liệu Khách hàng.
 
-    - Email Thanh toán của Khách hàng: Đây là mục bắt buộc và có thể được thiết lập trong [Danh bạ Khách hàng](https://docs.erpnext.com/docs/v13/user/manual/en/CRM/contact#1-how-to-create-a-contact) với tùy chọn "Is Billing Contact" được tích chọn.
+    - Email Thanh toán của Khách hàng: Đây là mục bắt buộc và có thể được thiết lập trong [Danh bạ Khách hàng](../CRM/contact.md#1-how-to-create-a-contact) với tùy chọn "Is Billing Contact" được tích chọn.
     - Email Chính của Khách hàng: Mục này không bắt buộc, trừ khi bạn chọn "Send To Primary Contact" trong biểu mẫu.
 
-2. Thiết lập Tài khoản Email với tính năng gửi thư đi (outgoing) đã được bật. Tìm hiểu thêm về điều này [tại đây](https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/email/email-account).
+2. Thiết lập Tài khoản Email với tính năng gửi thư đi (outgoing) đã được bật. Tìm hiểu thêm về điều này [tại đây](../setting-up/email/email-account.md).
 
 
 ## 2. Cách tạo một mục Xử lý Đối chiếu Công nợ
@@ -34,9 +34,9 @@ Mục đích của tính năng này là nhắc nhở nhiều khách hàng rằng
 3. Thiết lập các bộ lọc Sổ cái cho các bản đối chiếu sẽ được gửi cho khách hàng.
 
     - Các bộ lọc "Từ ngày" và "Đến ngày" sẽ được ẩn và tự động điền động khi tùy chọn "Enable Auto Email" được chọn.
-    - "Dự án" và "Trung tâm chi phí" là các trường [Table MultiSelect](https://docs.erpnext.com/docs/v13/user/manual/en/customize-erpnext/articles/table-multiselect-field). Nghĩa là bạn có thể chọn nhiều Dự án và Trung tâm chi phí trong các bộ lọc Sổ cái.
+    - "Dự án" và "Trung tâm chi phí" là các trường [Table MultiSelect](../customize-erpnext/articles/table-multiselect-field.md). Nghĩa là bạn có thể chọn nhiều Dự án và Trung tâm chi phí trong các bộ lọc Sổ cái.
 
-    ![New Process Statement of Accounts](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/process-statement-of-accounts.png)
+    ![New Process Statement of Accounts](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/process-statement-of-accounts.png)
 
 4. Trong phần "Khách hàng", bạn có tùy chọn để chọn khách hàng trong bảng con và lấy email chính cũng như email thanh toán của họ.
 
@@ -44,18 +44,18 @@ Mục đích của tính năng này là nhắc nhở nhiều khách hàng rằng
     - Trong các DocType dạng cây như "Vùng miền", "Nhân viên bán hàng" và "Nhóm khách hàng", khi chọn các giá trị nhóm, các khách hàng có giá trị con của các trường này cũng sẽ được lấy ra. Vì vậy, khi bạn chọn "India" làm vùng miền trong biểu mẫu, tất cả khách hàng có giá trị "Vùng miền" nằm dưới India trong cây Vùng miền sẽ được chọn.
     - Tùy chọn "Send To Primary Contact" sẽ gửi Đối chiếu Công nợ đến cả ID email liên hệ chính của khách hàng ngoài email thanh toán.
 
-    ![Customer](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/psoa-customers.png)
+    ![Customer](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/psoa-customers.png)
 
 5. Trong phần "Tùy chọn in", bạn có thể chọn 2 thứ:
 
     - Hướng in của tệp PDF, "Khổ ngang" hoặc "Khổ dọc".
     - Liệu bạn có muốn xem báo cáo tuổi nợ (Báo cáo Tổng hợp Phải thu), báo cáo hiển thị số tiền quá hạn theo 30/60/90/120 ngày cho các chứng từ (như Hóa đơn bán hàng), dựa trên "Hạn thanh toán" hoặc "Ngày hạch toán".
 
-    ![Print Preference](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/psoa-print.png)
+    ![Print Preference](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/psoa-print.png)
 
 6. Phần "Cài đặt Email" cho phép bạn cấu hình cách bạn muốn gửi email. Có hai mục con trong phần này:
 
-    ![Email Settings](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/psoa-auto-email.png)
+    ![Email Settings](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/psoa-auto-email.png)
 
     - Khi chọn "Enable Auto Email", bạn sẽ thấy các tùy chọn để gửi báo cáo định kỳ tự động cho khách hàng trong mục này.
     - Bạn có thể chọn "Tần suất" mà email sẽ được gửi sau "Ngày bắt đầu" cho khách hàng. Các tùy chọn có sẵn là hàng tuần, hàng tháng và hàng quý.
@@ -77,7 +77,7 @@ Khi tạo một mục, có một nút ở trên cùng gọi là "Download" cho p
 
 Khi tạo một mục, có một nút ở trên cùng gọi là "Send Emails" cho phép bạn kích hoạt việc gửi email thủ công cho khách hàng. Các email được đưa vào hàng đợi thông qua một công việc chạy ngầm, bạn có thể theo dõi trong DocType "Email Queue" với các tham chiếu DocType và Tài liệu. Bạn có thể làm điều này ngay cả khi "Enable Auto Email" đang bật.
 
-![Send Email and Download](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/psoa-buttons.png)
+![Send Email and Download](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/psoa-buttons.png)
 
 ### 3.3 Sử dụng các giá trị động trong Tiêu đề và Nội dung Email
 

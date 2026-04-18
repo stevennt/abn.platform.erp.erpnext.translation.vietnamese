@@ -30,7 +30,7 @@ Thẻ công việc cho các Công đoạn sẽ được tự động tạo khi L
 
 Đây là giao diện của một Thẻ công việc:
 
-![Job Card](https://docs.erpnext.com/docs/v16/assets/img/manufacturing/job-card.png)
+![Job Card](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/job-card.png)
 
 Để sử dụng Thẻ công việc, hãy làm theo các bước sau:
 

@@ -25,7 +25,7 @@ Trước khi tạo Kết quả đào tạo, bạn nên tạo các tài liệu sa
 1. Nhập Số giờ, Điểm số và Nhận xét tương ứng với Tên nhân viên.
 1. Lưu và Xác nhận
 
-    <img class="screenshot" alt="Employee" src="https://docs.erpnext.com/docs/v16/assets/img/human-resources/training-result.png">
+    <img class="screenshot" alt="Employee" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/training-result.png">
 
 Khi Kết quả đào tạo được xác nhận, tất cả nhân viên sẽ nhận được một email thông báo rằng họ phải chia sẻ phản hồi của mình thông qua [Phản hồi đào tạo](../human-resources/training-feedback). Việc này cũng được quản lý thông qua Cảnh báo Email, vì vậy bạn cũng có thể tùy chỉnh cảnh báo này.
 

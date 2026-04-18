@@ -14,7 +14,7 @@ Một Nhập giao dịch ngân hàng không nhằm mục đích được tạo t
 
 1. [Đối chiếu ngân hàng](bank-reconciliation.md)
     Hoặc
-1. [Tích hợp Plaid](https://docs.erpnext.com/docs/v13/user/manual/en/erpnext_integration/plaid_integration) để đồng bộ hóa với các Ngân hàng
+1. [Tích hợp Plaid](../erpnext_integration/plaid_integration.md) để đồng bộ hóa với các Ngân hàng
 
 ### 2.1 Các trường bổ sung trong Giao dịch ngân hàng
 

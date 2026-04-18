@@ -1,7 +1,7 @@
 <!-- add-breadcrumbs -->
 # Thiết lập Phòng khám / Cơ sở hành nghề
 
-Bạn có thể dễ dàng cấu hình các danh mục chính để thiết lập ERPNext Healthcare cho cơ sở hành nghề của mình. Dưới đây là danh sách các tài liệu giúp bạn đẩy nhanh quá trình nhập liệu. Ngoài ra, hãy đọc thêm [Cài đặt Y tế](/docs/v13/user/manual/en/healthcare/healthcare_settings) để thiết lập mô-đun Healthcare.
+Bạn có thể dễ dàng cấu hình các danh mục chính để thiết lập ERPNext Healthcare cho cơ sở hành nghề của mình. Dưới đây là danh sách các tài liệu giúp bạn đẩy nhanh quá trình nhập liệu. Ngoài ra, hãy đọc thêm [Cài đặt Y tế](healthcare_settings.md) để thiết lập mô-đun Healthcare.
 
 ## Khoa Y tế (Medical Department)
 Để tổ chức phòng khám của bạn thành các khoa, bạn có thể tạo nhiều Khoa Y tế khác nhau.
@@ -18,7 +18,7 @@ Bạn cũng có thể thiết lập màu sắc cho mỗi Loại cuộc hẹn, đ
 `Healthcare > Setup > Appointment Type > New Appointment Type`
 
 ## Loại Đơn vị Dịch vụ Y tế (Healthcare Service Unit Type)
-Khi thiết lập lịch trình cho Người hành nghề Y tế, bạn có thể tùy chọn chọn một [Đơn vị Dịch vụ Y tế](/docs/v13/user/manual/en/healthcare/healthcare_service_unit) nơi Người hành nghề sẽ thực hiện các cuộc thăm khám. Bạn nên tích chọn tùy chọn `Allow Appointments` cho Đơn vị Dịch vụ Y tế để có thể đặt lịch hẹn. Bạn cũng có thể xác định các thuộc tính của đơn vị dịch vụ trong `Healthcare Service Unit Type`, hãy đọc thêm về [Thiết lập Cơ sở Nội trú](/docs/v13/user/manual/en/healthcare/setup_inpatient) để biết thêm chi tiết.
+Khi thiết lập lịch trình cho Người hành nghề Y tế, bạn có thể tùy chọn chọn một [Đơn vị Dịch vụ Y tế](healthcare_service_unit.md) nơi Người hành nghề sẽ thực hiện các cuộc thăm khám. Bạn nên tích chọn tùy chọn `Allow Appointments` cho Đơn vị Dịch vụ Y tế để có thể đặt lịch hẹn. Bạn cũng có thể xác định các thuộc tính của đơn vị dịch vụ trong `Healthcare Service Unit Type`, hãy đọc thêm về [Thiết lập Cơ sở Nội trú](setup_inpatient.md) để biết thêm chi tiết.
 
 ## Các danh mục chính để dễ dàng nhập liệu
 ERPNext Healthcare cho phép bạn cấu hình một số danh mục chính thường xuyên được sử dụng để việc nhập liệu trở nên dễ dàng hơn.

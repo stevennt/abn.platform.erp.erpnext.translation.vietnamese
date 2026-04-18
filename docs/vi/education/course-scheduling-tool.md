@@ -3,7 +3,7 @@
 
 **Công cụ Lập lịch Khóa học sẽ cho phép bạn tạo Lịch khóa học hàng loạt cho một Nhóm học sinh cụ thể và một Giảng viên.**
 
-![Công cụ Lập lịch Khóa học](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-course-schedule-1.png)
+![Công cụ Lập lịch Khóa học](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-course-schedule-1.png)
 
 Để truy cập Công cụ Lập lịch Khóa học, hãy đi đến:
 
@@ -13,10 +13,10 @@
 
 Trước khi tạo Lịch khóa học, bạn nên tạo các mục sau trước:
 
-1. [Nhóm học sinh](/docs/v13/user/manual/en/education/student-group)
-1. [Giảng viên](/docs/v13/user/manual/en/education/instructor)
-1. [Khóa học](/docs/v13/user/manual/en/education/course)
-1. [Phòng học](/docs/v13/user/manual/en/education/room)
+1. [Nhóm học sinh](student-group.md)
+1. [Giảng viên](instructor.md)
+1. [Khóa học](course.md)
+1. [Phòng học](room.md)
 
 ## 2. Cách tạo Lịch khóa học bằng Công cụ Lập lịch Khóa học
 
@@ -29,7 +29,7 @@ Trước khi tạo Lịch khóa học, bạn nên tạo các mục sau trước:
 1. Chọn **Thứ** trong tuần mà bài giảng Khóa học cần được lập lịch.
 1. Nhấp vào nút **Lập lịch khóa học**, dựa trên các ngày và thứ đã chọn cho khóa học, Công cụ sẽ lập lịch cho các bài giảng khóa học cần thiết.
 
-![Công cụ Lập lịch Khóa học](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-course-scheduling-tool.gif)
+![Công cụ Lập lịch Khóa học](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-course-scheduling-tool.gif)
 
 
 {next}

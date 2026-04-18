@@ -14,11 +14,11 @@ Nhiều cơ sở y tế không tính phí cho các lần tái khám trong một 
 
 Ví dụ, như hiển thị dưới đây, một bệnh nhân có thể có 3 lần tái khám miễn phí trong vòng 30 ngày:
 
-<img class="screenshot" alt="ERPNext Healthcare" src="https://docs.erpnext.com/docs/v16/assets/img/healthcare/fee_validity_settings.png">
+<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/fee_validity_settings.png">
 
 Sau khi cấu hình xong, ngay khi bạn tạo một [Lịch hẹn](../healthcare/patient_appointment) cho một bệnh nhân mới, một chứng từ Hiệu lực phí (Fee Validity) sẽ được tạo ra.
 
-<img class="screenshot" alt="ERPNext Healthcare" src="https://docs.erpnext.com/docs/v16/assets/img/healthcare/fee_validity.png">
+<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/fee_validity.png">
 
 Chứng từ Hiệu lực phí này sẽ được cập nhật sau mỗi lần hẹn:
 
@@ -29,7 +29,7 @@ Chứng từ Hiệu lực phí này sẽ được cập nhật sau mỗi lần h
 - **Valid Till (Có hiệu lực đến)**: Ngày cuối cùng của Hiệu lực phí. Ngày này được tính bằng *Ngày bắt đầu + Số ngày hợp lệ* (từ Cài đặt y tế).
 - **Reference Appointments (Lịch hẹn tham chiếu)**: Liên kết đến tất cả các lịch hẹn nằm trong phạm vi của chứng từ Hiệu lực phí.
 
-<img class="screenshot" alt="ERPNext Healthcare" src="https://docs.erpnext.com/docs/v16/assets/img/healthcare/fee_validity_completed.png">
+<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/fee_validity_completed.png">
 
 ## 2. Các chủ đề liên quan
 

@@ -6,7 +6,7 @@ Hồ sơ nội trú được tự động tạo khi một nhân viên y tế yê
 
 `Healthcare > Patient Care > Inpatient Record`
 
-<img class="screenshot" alt="ERPNext Healthcare" src="https://docs.erpnext.com/docs/v16/assets/img/healthcare/ip_admission_order.png">
+<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/ip_admission_order.png">
 
 Nhân viên y tế có thể yêu cầu nhập viện cho bệnh nhân từ tài liệu Patient Encounter bằng cách sử dụng nút `Schedule Admission`. Thao tác này sẽ tự động tạo một Hồ sơ nội trú cho Bệnh nhân ở trạng thái _Admission Scheduled_. Sau đó, nhân viên quản lý nhập viện có thể sắp xếp một phòng trống cho Bệnh nhân theo đề xuất của nhân viên y tế chuyển tuyến trong lệnh nhập viện.
 

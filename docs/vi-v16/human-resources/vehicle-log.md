@@ -21,12 +21,12 @@ Trước khi tạo Nhật ký xe, bạn cần phải tạo các tài liệu sau:
 1. Nhập thông tin Chỉ số đồng hồ đo quãng đường như Ngày và Chỉ số đồng hồ (Odometer).
 1. Nhập Chi tiết đổ nhiên liệu [tùy chọn] như Số lượng nhiên liệu, Giá nhiên liệu, Nhà cung cấp và Tham chiếu hóa đơn.
 
-    <img class="screenshot" alt="Vehicle Log" src="https://docs.erpnext.com/docs/v16/assets/img/human-resources/vehicle-log1.png">
+    <img class="screenshot" alt="Vehicle Log" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/vehicle-log1.png">
 
 
 1. Ngoài ra, Chi tiết bảo dưỡng xe cũng có thể được thêm vào như hình dưới đây (tùy chọn).
 
-    <img class="screenshot" alt="Vehicle Log" src="https://docs.erpnext.com/docs/v16/assets/img/human-resources/vehicle-log2.png">
+    <img class="screenshot" alt="Vehicle Log" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/vehicle-log2.png">
 
 1. Lưu. Sau khi thông tin được lưu, các giá trị Model và Make sẽ được tự động lấy về.
 
@@ -41,7 +41,7 @@ Quản lý đội xe trong ERPNext cho phép bạn tự động tạo [Expense C
 
 Nhấn vào nút Make Expense Claim. Nút này chỉ xuất hiện trong trường hợp Nhật ký xe đã được Xác nhận.
 
-<img class="screenshot" alt="Expense Claim Button" src="https://docs.erpnext.com/docs/v16/assets/img/human-resources/vehicle-log-expense-claim-button.png">
+<img class="screenshot" alt="Expense Claim Button" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/vehicle-log-expense-claim-button.png">
 
 Khi bạn nhấn vào 'Make Expense Claim',
 
@@ -49,7 +49,7 @@ Khi bạn nhấn vào 'Make Expense Claim',
   2. Tổng chi phí nhiên liệu và chi phí bảo dưỡng được tính toán và chuyển sang Số tiền Expense Claim.
   3. Nhân viên có thể Xác nhận Expense Claim để xử lý tiếp theo.
 
-	<img class="screenshot" alt="Vehicle Log" src="https://docs.erpnext.com/docs/v16/assets/img/human-resources/vehicle-log-expense-claim.png">
+	<img class="screenshot" alt="Vehicle Log" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/vehicle-log-expense-claim.png">
 
 ## 4. Các chủ đề liên quan
 

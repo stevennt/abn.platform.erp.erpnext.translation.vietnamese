@@ -9,7 +9,7 @@ Tồn kho dự kiến được hệ thống lập kế hoạch sử dụng để
 
 Việc kiểm soát chặt chẽ tồn kho dự kiến là rất quan trọng để xác định tình trạng thiếu hụt và tính toán đúng số lượng đặt hàng.
 
-<img class="screenshot" alt="Projected Quantity" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/projected_quantity.png">
+<img class="screenshot" alt="Projected Quantity" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/projected_quantity.png">
 
 Công thức để tính số lượng dự kiến như sau:
 
@@ -20,8 +20,8 @@ Công thức để tính số lượng dự kiến như sau:
 * **Số lượng yêu cầu**: Số lượng được yêu cầu thông qua [Yêu cầu vật tư](material-request.md). Số lượng này được cộng vào khi Xác nhận Yêu cầu vật tư và được trừ đi khi Đơn mua hàng/Lệnh sản xuất/Phiếu kho được tạo dựa trên loại Yêu cầu vật tư.
 * **Số lượng đã đặt**: Số lượng đã đặt mua ([Đơn mua hàng](../buying/purchase-order.md)), nhưng chưa được nhận (thông qua [Phiếu nhập hàng](purchase-receipt.md) hoặc [Hóa đơn mua hàng](../accounts/purchase-invoice.md)).
 * **Số lượng đã giữ**: Số lượng đã đặt để bán bởi Khách hàng của bạn ([Đơn bán hàng](../selling/sales-order.md)), nhưng chưa được giao (thông qua [Phiếu giao hàng](delivery-note.md)). Số lượng này tăng lên khi Đơn bán hàng được Xác nhận và giảm đi khi Phiếu giao hàng hoặc Hóa đơn bán hàng được tạo dựa trên Đơn bán hàng đó được Xác nhận.
-* **Số lượng đã giữ cho Sản xuất**: Nguyên vật liệu được giữ lại khi Xác nhận [Lệnh sản xuất](https://docs.erpnext.com/docs/v13/user/manual/en/manufacturing/work-order) và giảm đi khi nguyên vật liệu được chuyển đến kho Bán thành phẩm thông qua một Phiếu kho.
-* **Số lượng đã giữ cho Gia công ngoài**: Nguyên vật liệu được giữ lại khi Xác nhận Đơn mua hàng gia công ngoài. Khi nguyên vật liệu được chuyển đến Kho của Nhà cung cấp thông qua một Phiếu kho, số lượng này sẽ giảm xuống. Để biết thêm về gia công ngoài [nhấp vào đây](https://docs.erpnext.com/docs/v13/user/manual/en/manufacturing/subcontracting).
+* **Số lượng đã giữ cho Sản xuất**: Nguyên vật liệu được giữ lại khi Xác nhận [Lệnh sản xuất](../manufacturing/work-order.md) và giảm đi khi nguyên vật liệu được chuyển đến kho Bán thành phẩm thông qua một Phiếu kho.
+* **Số lượng đã giữ cho Gia công ngoài**: Nguyên vật liệu được giữ lại khi Xác nhận Đơn mua hàng gia công ngoài. Khi nguyên vật liệu được chuyển đến Kho của Nhà cung cấp thông qua một Phiếu kho, số lượng này sẽ giảm xuống. Để biết thêm về gia công ngoài [nhấp vào đây](../manufacturing/subcontracting.md).
 
 #### Các chủ đề liên quan
 1. [Kho](warehouse.md)

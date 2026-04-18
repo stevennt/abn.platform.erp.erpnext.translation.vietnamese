@@ -19,11 +19,11 @@ Kỳ tính lương giúp bạn xác định các Cơ cấu lương và tính thu
 
 ## 2. Các chủ đề liên quan
 
-1. [Salary Component](/docs/v13/user/manual/en/human-resources/salary-component)
-1. [Salary Structure](/docs/v13/user/manual/en/human-resources/salary-structure)
-1. [Income Tax Slab](/docs/v13/user/manual/en/human-resources/income-tax-slab)
-1. [Payroll Entry](/docs/v13/user/manual/en/human-resources/payroll-entry)
-1. [Employee Tax Exemption Proof Submission](/docs/v13/user/manual/en/human-resources/employee-tax-exemption-proof-submission)
-1. [Employee Tax Exemption Declaration](/docs/v13/user/manual/en/human-resources/employee-tax-exemption-declaration)
+1. [Salary Component](salary-component.md)
+1. [Salary Structure](salary-structure.md)
+1. [Income Tax Slab](income-tax-slab.md)
+1. [Payroll Entry](payroll-entry.md)
+1. [Employee Tax Exemption Proof Submission](employee-tax-exemption-proof-submission.md)
+1. [Employee Tax Exemption Declaration](employee-tax-exemption-declaration.md)
 
 {next}

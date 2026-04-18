@@ -7,19 +7,19 @@
 
 Bạn sẽ thấy nút Hủy ở góc trên bên phải của chứng từ đã được Xác nhận.
 
-<img alt="Cancel Doc" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/edit-submitted-doc-1.png">
+<img alt="Cancel Doc" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/edit-submitted-doc-1.png">
 
 #### Bước 2: Sửa đổi chứng từ
 
 Sau khi Hủy chứng từ đã được Xác nhận, nút Sửa đổi sẽ hiển thị.
 
-<img alt="Amend Doc" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/edit-submitted-doc-2.png">
+<img alt="Amend Doc" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/edit-submitted-doc-2.png">
 
 #### Bước 3: Lưu và Xác nhận chứng từ
 
 Khi nhấp vào nút Sửa đổi, chính chứng từ đó sẽ có thể chỉnh sửa được một lần nữa. Sau khi thực hiện các thay đổi cần thiết, hãy Lưu và Xác nhận chứng từ.
 
-<img alt="Resave and Submit Doc" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/edit-submitted-doc-3.png">
+<img alt="Resave and Submit Doc" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/edit-submitted-doc-3.png">
 
 <div class="well">Lưu ý: Nếu chứng từ của bạn được liên kết với các chứng từ khác, bạn sẽ cần phải Hủy chứng từ phụ thuộc trước khi Hủy chứng từ cha.
 

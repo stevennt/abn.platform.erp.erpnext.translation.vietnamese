@@ -6,21 +6,21 @@
 Thiết lập Mã số đăng ký thuế trong trường Tax ID cho Khách hàng, Nhà cung cấp và Công ty.
 
 1. Đối với Khách hàng
-<img class="screenshot" alt="TRN in Customer" src="https://docs.erpnext.com/docs/v16/assets/img/regional/uae/tax-id-customer.png">
+<img class="screenshot" alt="TRN in Customer" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/regional/uae/tax-id-customer.png">
 
 2. Đối với Công ty
-<img class="screenshot" alt="TRN in Company" src="https://docs.erpnext.com/docs/v16/assets/img/regional/uae/tax-id-company.png">
+<img class="screenshot" alt="TRN in Company" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/regional/uae/tax-id-company.png">
 
 ### 2. Thiết lập Mã Thuế cho Mặt hàng
 Thiết lập mã thuế trong danh mục mặt hàng, hệ thống sẽ tự động lấy mã tương tự trong Hóa đơn bán hàng/mua hàng khi chọn một mặt hàng.
 
-<img class="screenshot" alt="Tax Code in Item" src="https://docs.erpnext.com/docs/v16/assets/img/regional/uae/tax-code-item.png">
+<img class="screenshot" alt="Tax Code in Item" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/regional/uae/tax-code-item.png">
 
 ### 3. Các Mẫu Thuế Mặc định
 
 ERPNext cung cấp cho bạn các mẫu thuế mặc định cho VAT (5%, 0%, miễn thuế) và thuế tiêu thụ đặc biệt (50%, 100%). Bạn có thể tự tạo [mẫu thuế](../user/manual/en/setting-up/setting-up-taxes.html) của riêng mình.
 
-<img class="screenshot" alt="Default Tax Template" src="https://docs.erpnext.com/docs/v16/assets/img/regional/uae/uae-tax-templates.png">
+<img class="screenshot" alt="Default Tax Template" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/regional/uae/uae-tax-templates.png">
 
 ### 4. Tạo Hóa đơn sẵn sàng cho VAT
 
@@ -34,19 +34,19 @@ Nếu bạn đã thiết lập TRN của Khách hàng và Nhà cung cấp, cũng
 4. Chọn mẫu thuế mà bạn đã tạo dựa trên loại giao dịch.
 5. Lưu và Xác nhận Hóa đơn.
 
-<img class="screenshot" alt="VAT Invoice" src="https://docs.erpnext.com/docs/v16/assets/img/regional/uae/vat-invoice.gif">
+<img class="screenshot" alt="VAT Invoice" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/regional/uae/vat-invoice.gif">
 
 ### 5. In Hóa đơn Thuế
 
 ERPNext cung cấp hai mẫu in mặc định:
 
 1. Hóa đơn Thuế Đơn giản
-<img class="screenshot" alt="Simplified Tax Invoice" src="https://docs.erpnext.com/docs/v16/assets/img/regional/uae/simplified-invoice.png">
+<img class="screenshot" alt="Simplified Tax Invoice" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/regional/uae/simplified-invoice.png">
 
 2. Hóa đơn Thuế Chi tiết
-<img class="screenshot" alt="Detailed Tax Invoice" src="https://docs.erpnext.com/docs/v16/assets/img/regional/uae/detailed-invoice.png">
+<img class="screenshot" alt="Detailed Tax Invoice" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/regional/uae/detailed-invoice.png">
 
 ### 6. Thiết lập Tài khoản VAT
 Chọn các tài khoản sẽ được sử dụng để tạo hóa đơn VAT tại đây.
 
-<img class="screenshot" alt="UAE VAT Account Settings" src="https://docs.erpnext.com/docs/v16/assets/img/regional/uae/uae-vat-account-settings.png">
+<img class="screenshot" alt="UAE VAT Account Settings" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/regional/uae/uae-vat-account-settings.png">

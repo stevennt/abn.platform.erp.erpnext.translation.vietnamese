@@ -5,14 +5,14 @@ Xử lý bảng lương là một chức năng quan trọng của bộ phận Nh
 
 ## Các chủ đề liên quan
 
-1. [Kỳ lương](/docs/v13/user/manual/en/human-resources/payroll-period)
-1. [Thành phần lương](/docs/v13/user/manual/en/human-resources/salary-component)
-1. [Cơ cấu lương](/docs/v13/user/manual/en/human-resources/salary-structure)
-1. [Phân bổ cơ cấu lương](/docs/v13/user/manual/en/human-resources/salary-structure-assignment)
-1. [Phiếu lương](/docs/v13/user/manual/en/human-resources/payroll-entry)
-1. [Lương bổ sung](/docs/v13/user/manual/en/human-resources/additional-salary)
-1. [Thưởng giữ chân nhân viên](/docs/v13/user/manual/en/human-resources/retention-bonus)
-1. [Khuyến khích nhân viên](/docs/v13/user/manual/en/human-resources/employee-incentive)
+1. [Kỳ lương](payroll-period.md)
+1. [Thành phần lương](salary-component.md)
+1. [Cơ cấu lương](salary-structure.md)
+1. [Phân bổ cơ cấu lương](salary-structure-assignment.md)
+1. [Phiếu lương](payroll-entry.md)
+1. [Lương bổ sung](additional-salary.md)
+1. [Thưởng giữ chân nhân viên](retention-bonus.md)
+1. [Khuyến khích nhân viên](employee-incentive.md)
 
 
 {next}

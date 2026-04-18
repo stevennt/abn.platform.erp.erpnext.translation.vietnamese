@@ -29,7 +29,7 @@ Thông thường, bạn nên tạo Phiếu đóng gói từ Phiếu giao hàng k
 
 Hầu hết các chi tiết này sẽ được tự động lấy về nếu bạn tạo Phiếu đóng gói từ Phiếu giao hàng.
 
-<img class="screenshot" alt="Packing Slip" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/packing-slip.png">
+<img class="screenshot" alt="Packing Slip" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/packing-slip.png">
 
 
 ### 1.1 Các tùy chọn bổ sung khi tạo Phiếu đóng gói
@@ -52,7 +52,7 @@ Các chi tiết này sẽ được hiển thị khi in Phiếu đóng gói.
 **Đơn vị tính trọng lượng tổng**: Có thể thiết lập một Đơn vị tính cho trọng lượng cuối cùng của sản phẩm.
 
 ### 2.3 Tiêu đề thư
-Bạn có thể in Phiếu đóng gói trên tiêu đề thư của công ty mình. Tìm hiểu thêm [tại đây](https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/print/letter-head).
+Bạn có thể in Phiếu đóng gói trên tiêu đề thư của công ty mình. Tìm hiểu thêm [tại đây](../setting-up/print/letter-head.md).
 
 
 ### 2. Các chủ đề liên quan

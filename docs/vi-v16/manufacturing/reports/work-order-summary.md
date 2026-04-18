@@ -5,7 +5,7 @@
 
 > Home > Manufacturing > Reports > Work Order Summary
 
-<img class="screenshot" alt="Task" src="https://docs.erpnext.com/docs/v16/assets/img/manufacturing/work-order-summary.png">
+<img class="screenshot" alt="Task" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/work-order-summary.png">
 
 Báo cáo này cung cấp thông tin chi tiết về các Lệnh sản xuất. Thông qua báo cáo này, người dùng có thể theo dõi số lượng thực tế đã sản xuất so với kế hoạch của từng Lệnh sản xuất cũng như nắm bắt trạng thái hiện tại của chúng.
 

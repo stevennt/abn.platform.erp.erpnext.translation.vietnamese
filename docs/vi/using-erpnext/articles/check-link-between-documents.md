@@ -7,7 +7,7 @@ Mọi chứng từ đều có thể được liên kết với nhiều chứng t
 
 Để thực hiện việc này, bạn chỉ cần đi tới menu và nhấp vào 'Links'. Một hộp thoại Pop-Up sẽ mở ra, liệt kê tất cả các chứng từ mà chứng từ này đã được liên kết tới.
 
-![Checking Document Links](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/using-erpnext/using-document-links-1.gif)
+![Checking Document Links](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/using-erpnext/using-document-links-1.gif)
 
 > Lưu ý: Tùy chọn này sẽ chỉ hiển thị các liên kết tiến trong một chứng từ; các liên kết ngược (backward links) có thể được tìm thấy ngay trong chính chứng từ đó.
 

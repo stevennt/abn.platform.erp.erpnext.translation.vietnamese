@@ -16,11 +16,11 @@ Giá trị tồn kho của Mặt hàng sẽ được tính toán và cập nhậ
 
 Bạn có thể chọn phương pháp tính giá dựa trên cách mà giá trị của mặt hàng sẽ được tính toán. Phương pháp tính giá có thể được thiết lập chung cho tất cả các mặt hàng từ **Cài đặt Kho**.
 
-<img class="screenshot" alt="Thiết lập phương pháp tính giá trong Cài đặt Kho" src="https://docs.erpnext.com/docs/v16/assets/img/articles/item-valuation-1.png">
+<img class="screenshot" alt="Thiết lập phương pháp tính giá trong Cài đặt Kho" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/item-valuation-1.png">
 
 Bạn cũng có thể thiết lập riêng **Phương pháp tính giá** trong danh mục **Mặt hàng**, đặc biệt khi phương pháp tính giá cho một mặt hàng cụ thể khác với phương pháp mặc định của hệ thống.
 
-<img class="screenshot" alt="Thiết lập phương pháp tính giá trong Mặt hàng" src="https://docs.erpnext.com/docs/v16/assets/img/articles/item-valuation-2.png">
+<img class="screenshot" alt="Thiết lập phương pháp tính giá trong Mặt hàng" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/item-valuation-2.png">
 
 **Lưu ý:** Một khi các **Bút toán (JE)** sổ cái đã được lập cho một Mặt hàng, tùy chọn phương pháp tính giá sẽ không còn hiển thị trong biểu mẫu Mặt hàng để đảm bảo tính nhất quán của dữ liệu kế toán.
 

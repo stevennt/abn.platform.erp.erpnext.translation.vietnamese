@@ -14,7 +14,7 @@
 
 Trước khi tạo và sử dụng Đánh giá Chất lượng, bạn nên tạo các mục sau trước:
 
-* [Mục tiêu Chất lượng](/docs/v13/user/manual/en/quality-management/quality_goal)
+* [Mục tiêu Chất lượng](quality_goal.md)
 
 ## 2. Cách tạo Đánh giá Chất lượng
 
@@ -23,7 +23,7 @@ Trước khi tạo và sử dụng Đánh giá Chất lượng, bạn nên tạo
 1. Trong phần Xem xét của bảng Xem xét, để lại nhận xét về một Mục tiêu Chất lượng.
 1. Lưu.
 
-    ![Quality Review](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/quality-management/quality-review.gif)
+    ![Quality Review](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/quality-management/quality-review.gif)
 
 > Lưu ý: Nếu Quy trình Chất lượng được liên kết với Mục tiêu Chất lượng, Quy trình Chất lượng sẽ được lấy tự động vào Đánh giá Chất lượng.
 
@@ -37,12 +37,12 @@ Nếu bạn đã thiết lập tần suất xem xét trong [Mục tiêu Chất l
 
 ## 4. Các bước tiếp theo
 
-Sau khi bạn đã hoàn tất một Đánh giá Chất lượng, bạn có thể tạo một [Hành động Chất lượng](/docs/v13/user/manual/en/quality-management/quality_action) dựa trên đó nếu bạn muốn ghi lại bất kỳ hành động khắc phục hoặc phòng ngừa nào.
+Sau khi bạn đã hoàn tất một Đánh giá Chất lượng, bạn có thể tạo một [Hành động Chất lượng](quality_action.md) dựa trên đó nếu bạn muốn ghi lại bất kỳ hành động khắc phục hoặc phòng ngừa nào.
 
 ## 5. Các chủ đề liên quan
 
-* [Quy trình Chất lượng](/docs/v13/user/manual/en/quality-management/quality_procedure)
-* [Mục tiêu Chất lượng](/docs/v13/user/manual/en/quality-management/quality_goal)
-* [Hành động Chất lượng](/docs/v13/user/manual/en/quality-management/quality_action)
+* [Quy trình Chất lượng](quality_procedure.md)
+* [Mục tiêu Chất lượng](quality_goal.md)
+* [Hành động Chất lượng](quality_action.md)
 
 {next}

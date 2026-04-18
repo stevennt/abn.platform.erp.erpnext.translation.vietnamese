@@ -5,7 +5,7 @@
 
 Tính năng này rất hữu ích khi thực hiện Kiểm toán (Audit Trail) để kiểm tra những thay đổi nào đã được thực hiện trong một tài liệu cùng với thời gian thay đổi và bên liên quan chịu trách nhiệm.
 
-![Document Versioning](https://docs.erpnext.com/docs/v16/assets/img/using-erpnext/using-document-versioning-1.png)
+![Document Versioning](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/using-erpnext/using-document-versioning-1.png)
 
 ## Cách bật Quản lý phiên bản tài liệu
 
@@ -16,7 +16,7 @@ Giả sử chúng ta cần bật Quản lý phiên bản tài liệu cho Đơn m
 3. Bạn sẽ được chuyển đến trang [Customize Form](../user/manual/en/customize-erpnext/customize-form) dành cho Đơn mua hàng.
 4. Tích chọn trường "Track changes" trong phần Properties.
 
- ![Document Versioning](https://docs.erpnext.com/docs/v16/assets/img/using-erpnext/using-document-versioning-2.gif)
+ ![Document Versioning](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/using-erpnext/using-document-versioning-2.gif)
 
 Với thao tác này, Quản lý phiên bản tài liệu sẽ được bật cho tất cả các Đơn mua hàng được chỉnh sửa kể từ nay về sau.
 
@@ -26,6 +26,6 @@ Với thao tác này, Quản lý phiên bản tài liệu sẽ được bật ch
 
 Khi bạn nhấp vào các liên kết này, bạn sẽ được dẫn đến nhật ký của tất cả các trường và các thay đổi đã được thực hiện trong đó.
 
-![Document Versioning](https://docs.erpnext.com/docs/v16/assets/img/using-erpnext/using-document-versioning-3.gif)
+![Document Versioning](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/using-erpnext/using-document-versioning-3.gif)
 
 {next}

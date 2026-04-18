@@ -18,11 +18,11 @@ ERPNext thực hiện kiểm soát quyền ở cấp độ Người dùng và Va
 
 ### Các chủ đề liên quan
 
-1. [Thêm Người dùng](/docs/v13/user/manual/en/setting-up/users-and-permissions/adding-users)
-1. [Vai trò và Hồ sơ Vai trò](/docs/v13/user/manual/en/setting-up/users-and-permissions/role-and-role-profile)
-1. [Quyền dựa trên Vai trò](/docs/v13/user/manual/en/setting-up/users-and-permissions/role-based-permissions)
-1. [Quyền Người dùng](/docs/v13/user/manual/en/setting-up/users-and-permissions/user-permissions)
-1. [Quyền Vai trò cho Trang và Báo cáo](/docs/v13/user/manual/en/setting-up/users-and-permissions/role-permission-for-page-and-report)
-1. [Chia sẻ](/docs/v13/user/manual/en/setting-up/users-and-permissions/sharing)
-1. [Người dùng bị giới hạn](/docs/v13/user/manual/en/setting-up/users-and-permissions/limited-user)
-1. [Quản trị viên](/docs/v13/user/manual/en/setting-up/users-and-permissions/administrator)
+1. [Thêm Người dùng](adding-users.md)
+1. [Vai trò và Hồ sơ Vai trò](role-and-role-profile.md)
+1. [Quyền dựa trên Vai trò](role-based-permissions.md)
+1. [Quyền Người dùng](user-permissions.md)
+1. [Quyền Vai trò cho Trang và Báo cáo](role-permission-for-page-and-report.md)
+1. [Chia sẻ](sharing.md)
+1. [Người dùng bị giới hạn](limited-user.md)
+1. [Quản trị viên](administrator.md)

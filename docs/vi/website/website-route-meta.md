@@ -16,7 +16,7 @@ Thẻ Meta là các thẻ ẩn cung cấp dữ liệu về trang của bạn cho
 1. Thêm các cặp khóa-giá trị (key-value pairs) cho mỗi thẻ meta. Ví dụ: để thêm từ khóa vào trang web của bạn, hãy nhập "keywords" vào cột Key và thêm các từ khóa cách nhau bằng dấu phẩy vào cột Value.
 1. Nhấn vào Lưu.
 
-![New Website Route Meta](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/website/new-website-route-meta.png)
+![New Website Route Meta](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/website/new-website-route-meta.png)
 *New Website Route Meta*
 
 Bây giờ nếu bạn kiểm tra mã nguồn của trang web, các thẻ meta sẽ trông giống như thế này:

@@ -38,7 +38,7 @@ Chúng được gọi là Khách hàng tiềm năng vì chúng có thể dẫn d
 1. Nhập ID email để liên lạc.
 1. Nhấn 'Lưu'.
 
-![Lead](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/crm/lead.png)
+![Lead](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/crm/lead.png)
 
 Bạn cũng có thể ghi lại chi tiết cuộc hội thoại trong phần NOTES.
 
@@ -57,9 +57,9 @@ Việc liên hệ với khách hàng tiềm năng theo thời gian và xây dự
 ### 2.2 Thêm nhiều Liên hệ và Địa chỉ
 
 Trong kịch bản Doanh nghiệp với Doanh nghiệp (B2B), để chốt một giao dịch bán hàng, bạn sẽ phải liên hệ với nhiều người làm việc trong công ty tiềm năng đó.
-Bạn có thể thêm chi tiết của tất cả những người như vậy trong cùng một khách hàng tiềm năng. Sau khi bạn lưu một Khách hàng tiềm năng, bạn sẽ có tùy chọn để thêm chi tiết [Contact](/docs/v13/user/manual/en/CRM/contact) bằng cách nhấn vào nút 'New Contact'. Tương tự, bạn có thể thêm chi tiết [Address](/docs/v13/user/manual/en/CRM/address) bằng cách nhấn vào 'New Address'.
+Bạn có thể thêm chi tiết của tất cả những người như vậy trong cùng một khách hàng tiềm năng. Sau khi bạn lưu một Khách hàng tiềm năng, bạn sẽ có tùy chọn để thêm chi tiết [Contact](contact.md) bằng cách nhấn vào nút 'New Contact'. Tương tự, bạn có thể thêm chi tiết [Address](address.md) bằng cách nhấn vào 'New Address'.
 
-![Multiple Contacts and Addresses in Lead](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/crm/multiple-addresses-and-contacts-in-lead.png)
+![Multiple Contacts and Addresses in Lead](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/crm/multiple-addresses-and-contacts-in-lead.png)
 
 ### 2.3 Ghi lại Bình luận, Email và Sự kiện
 
@@ -77,19 +77,19 @@ Bạn có thể tạo một Cơ hội, Khách hàng hoặc một Báo giá từ 
 ### 2.5 Tự động giao Khách hàng tiềm năng cho Nhân viên kinh doanh
 >Được giới thiệu trong Phiên bản 12
 
-Bạn có thể xác định [Assignment Rules](/docs/v13/user/manual/en/automation/assignment-rule) để tự động giao khách hàng tiềm năng cho các nhân viên kinh doanh.
+Bạn có thể xác định [Assignment Rules](../automation/assignment-rule.md) để tự động giao khách hàng tiềm năng cho các nhân viên kinh doanh.
 
-![Lead Assignment Rule](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/crm/lead-assignment-rule.png)
+![Lead Assignment Rule](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/crm/lead-assignment-rule.png)
 
 ## 3. Thêm các trường tùy chỉnh
 
 Bạn có thể cần thêm các trường tùy chỉnh để ghi lại các chi tiết bổ sung theo nhu cầu của mình.
 
-Bạn có thể tùy chỉnh DocType Khách hàng tiềm năng bằng công cụ [Customize Form](/docs/v13/user/manual/en/customize-erpnext/custom-field).
+Bạn có thể tùy chỉnh DocType Khách hàng tiềm năng bằng công cụ [Customize Form](../customize-erpnext/custom-field.md).
 
 ## 4. Các chủ đề liên quan
-1. [Opportunity](/docs/v13/user/manual/en/CRM/opportunity)
-1. [Customer](/docs/v13/user/manual/en/CRM/customer)
-1. [Difference between Lead, Contact, and Customer](/docs/v13/user/manual/en/CRM/articles/difference_between_lead_contact_and_customer)
+1. [Opportunity](opportunity.md)
+1. [Customer](customer.md)
+1. [Difference between Lead, Contact, and Customer](articles/difference_between_lead_contact_and_customer.md)
 
 {next}

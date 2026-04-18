@@ -12,7 +12,7 @@ Hoặc tìm kiếm từ thanh tìm kiếm.
 
 Bất cứ khi nào một tài liệu mới được tạo, các giá trị này sẽ được thiết lập làm mặc định.
 
-<img class="screenshot" alt="Global Defaults" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/settings/global-defaults.png">
+<img class="screenshot" alt="Global Defaults" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/settings/global-defaults.png">
 
 * Công ty mặc định
 * Năm tài chính hiện tại
@@ -23,7 +23,7 @@ Bất cứ khi nào một tài liệu mới được tạo, các giá trị này
 * Vô hiệu hóa làm tròn tổng tiền
 * Vô hiệu hóa viết bằng chữ
 
-Đơn vị khoảng cách mặc định được sử dụng để tính tổng khoảng cách trong [Chuyến giao hàng](/docs/v13/user/manual/en/stock/delivery-trip).
+Đơn vị khoảng cách mặc định được sử dụng để tính tổng khoảng cách trong [Chuyến giao hàng](../../stock/delivery-trip.md).
 
 ### Các chủ đề liên quan
-1. [Thiết lập hệ thống](/docs/v13/user/manual/en/setting-up/settings/system-settings)
+1. [Thiết lập hệ thống](system-settings.md)

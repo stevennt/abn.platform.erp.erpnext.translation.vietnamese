@@ -18,7 +18,7 @@ Nhấp **Lưu**
 
 Nó sẽ trông giống như thế này
 
-<img class="screenshot" alt="Task" src="https://docs.erpnext.com/docs/v16/assets/img/agriculture/crops_and_land/land_unit.png">
+<img class="screenshot" alt="Task" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/agriculture/crops_and_land/land_unit.png">
 
 Sau khi trang trại đã được tạo, giờ chúng ta có thể tạo thửa ruộng Cà rốt đầu tiên! Nhấp vào **Mới**
 

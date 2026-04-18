@@ -11,7 +11,7 @@ Thành viên đơn giản là các liên hệ trong cơ sở dữ liệu ERPNext
 
 ## 1. Cách tạo Thành viên
 
-<img class="screenshot" alt="Member" src="https://docs.erpnext.com/docs/v16/assets/img/non_profit/membership/member.png">
+<img class="screenshot" alt="Member" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/non_profit/membership/member.png">
 
 **Địa chỉ Email:** Bạn có thể ghi lại địa chỉ email của thành viên tại đây. Thông tin này sẽ được sử dụng khi gửi các thông báo xác nhận tư cách thành viên.
 
@@ -24,7 +24,7 @@ Thành viên đơn giản là các liên hệ trong cơ sở dữ liệu ERPNext
 
 ### 2.1 Liên kết Thành viên với Khách hàng hoặc Nhà cung cấp
 
-<img class="screenshot" alt="Member" src="https://docs.erpnext.com/docs/v16/assets/img/non_profit/membership/member-details.png">
+<img class="screenshot" alt="Member" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/non_profit/membership/member-details.png">
 
 ERPNext cung cấp cho bạn khả năng liên kết các thành viên của mình với khách hàng hoặc nhà cung cấp hoặc cả hai.
 

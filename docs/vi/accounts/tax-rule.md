@@ -3,7 +3,7 @@
 
 **Quy tắc Thuế tự động áp dụng thuế vào các giao dịch dựa trên các quy tắc đã thiết lập sẵn.**
 
-Bạn có thể xác định [Mẫu Thuế](https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/setting-up-taxes.html) nào phải được áp dụng cho giao dịch Bán hàng / Mua hàng bằng cách sử dụng Quy tắc Thuế. Điều này được quyết định bởi các yếu tố khác nhau như Khách hàng, Nhóm khách hàng, Nhà cung cấp, Nhóm nhà cung cấp, Mặt hàng, Nhóm mặt hàng hoặc sự kết hợp của các yếu tố này.
+Bạn có thể xác định [Mẫu Thuế](../setting-up/setting-up-taxes.html.md) nào phải được áp dụng cho giao dịch Bán hàng / Mua hàng bằng cách sử dụng Quy tắc Thuế. Điều này được quyết định bởi các yếu tố khác nhau như Khách hàng, Nhóm khách hàng, Nhà cung cấp, Nhóm nhà cung cấp, Mặt hàng, Nhóm mặt hàng hoặc sự kết hợp của các yếu tố này.
 
 Để truy cập danh sách Quy tắc Thuế, hãy đi tới:
 > Home > Accounting > Taxes > Tax Rule
@@ -22,9 +22,9 @@ Trước khi tạo và sử dụng Quy tắc Thuế, bạn nên tạo các mục
 1. Trong phần Tax Type, chọn loại thuế sẽ được áp dụng cho Bán hàng (Sales) hoặc Mua hàng (Purchase).
 1. Chọn Mẫu Thuế (Tax Template) cần áp dụng.
 1. Lưu.
- <img class="screenshot" alt="Tax Rule" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/tax-rule.png">
+ <img class="screenshot" alt="Tax Rule" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/tax-rule.png">
 
-Bạn có thể liệt kê các Mặt hàng trực tuyến bằng mô-đun Website. Việc chọn 'Use for Shopping Cart' sẽ sử dụng Quy tắc Thuế này cho cả các giao dịch trong Giỏ hàng. Để biết thêm, hãy truy cập trang [Giỏ hàng](https://docs.erpnext.com/docs/v13/user/manual/en/website/shopping-cart).
+Bạn có thể liệt kê các Mặt hàng trực tuyến bằng mô-đun Website. Việc chọn 'Use for Shopping Cart' sẽ sử dụng Quy tắc Thuế này cho cả các giao dịch trong Giỏ hàng. Để biết thêm, hãy truy cập trang [Giỏ hàng](../website/shopping-cart.md).
 
 > Lưu ý: Khuyến nghị không sử dụng Mẫu Bán hàng/Mua hàng đã chọn ở đây trong [Mẫu Thuế Mặt hàng](item-tax-template.md), vì nó có thể gây xung đột. Nếu bạn muốn sử dụng cùng mức thuế cho Quy tắc Thuế và Mẫu Thuế Mặt hàng, hãy sử dụng một tên khác cho các Mẫu Thuế Bán hàng/Mua hàng.
 
@@ -53,21 +53,21 @@ Hãy cùng cấu hình Quy tắc Thuế để hệ thống tự động áp dụ
 
 Tạo một Mẫu Thuế và Phí Bán hàng như hiển thị bên dưới.
 
-![City Specific To Zipcode](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/city-specific-tax.png)
+![City Specific To Zipcode](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/city-specific-tax.png)
 
 Tạo một Quy tắc Thuế như hiển thị bên dưới.
 
-![Tax Rule](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/tax-rule.png)
+![Tax Rule](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/tax-rule.png)
 
 Khi bạn chọn một khách hàng và địa chỉ thanh toán của khách hàng đó có thành phố là 'Malibu', hệ thống sẽ tự động áp dụng các loại thuế phù hợp.
 
-![Tax Rule in Sales Invoice](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/tax-rule-in-sales-invoice.gif)
+![Tax Rule in Sales Invoice](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/tax-rule-in-sales-invoice.gif)
 
 ### 5. Các chủ đề liên quan
 1. [Quy tắc định giá](pricing-rule.md)
 1. [Mẫu Thuế Mặt hàng](item-tax-template.md)
 1. [Danh mục Thuế](tax-category.md)
-1. [Khách hàng](https://docs.erpnext.com/docs/v13/user/manual/en/CRM/customer)
+1. [Khách hàng](../CRM/customer.md)
 1. [Nhà cung cấp](../buying/supplier.md)
 
 {next}

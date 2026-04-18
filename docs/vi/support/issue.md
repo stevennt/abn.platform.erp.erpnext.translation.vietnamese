@@ -8,16 +8,16 @@
 Để truy cập danh sách Vấn đề, hãy đi đến:
 > Trang chủ > Hỗ trợ > Vấn đề > Vấn đề
 
-![Issue](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/support/issue.png)
+![Issue](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/support/issue.png)
 
 ## 1. Điều kiện tiên quyết
 Trước khi tạo và sử dụng Vấn đề, bạn nên tạo các mục sau trước:
 
-* [Khách hàng](/docs/v13/user/manual/en/CRM/customer)
-* [Tài khoản Email](/docs/v13/user/manual/en/setting-up/email/email-account)
+* [Khách hàng](../CRM/customer.md)
+* [Tài khoản Email](../setting-up/email/email-account.md)
 
 ## 2. Cách tạo Vấn đề
-Vấn đề sẽ được tự động tạo nếu bạn sử dụng **tính năng nối tiếp (append to feature)** trong [Tài khoản Email](/docs/v13/user/manual/en/setting-up/email/email-account#32-incoming-email-accounts).
+Vấn đề sẽ được tự động tạo nếu bạn sử dụng **tính năng nối tiếp (append to feature)** trong [Tài khoản Email](../setting-up/email/email-account.md#32-incoming-email-accounts).
 
 Bạn cũng có thể tạo một Vấn đề một cách thủ công, để làm điều đó:
 
@@ -36,7 +36,7 @@ Bạn cũng có thể tạo một Vấn đề một cách thủ công, để là
 
 > Lưu ý: Nếu SLA đã được thiết lập, thì trạng thái hoàn thành của SLA sẽ được cập nhật ở cả trạng thái **Đã đóng** cũng như **Đã giải quyết**.
 
-* **Khách hàng**: Nếu email được gửi từ một [Khách hàng](/docs/v13/user/manual/en/CRM/customer) được lưu trữ trong tài khoản ERPNext của bạn, thì liên kết Khách hàng sẽ xuất hiện trong trường này.
+* **Khách hàng**: Nếu email được gửi từ một [Khách hàng](../CRM/customer.md) được lưu trữ trong tài khoản ERPNext của bạn, thì liên kết Khách hàng sẽ xuất hiện trong trường này.
 * **Mức độ ưu tiên**: Mức độ ưu tiên có thể được thiết lập theo yêu cầu. Theo mặc định, có ba mức độ ưu tiên--Thấp, Trung bình, và Cao. Bạn có thể xóa các mức này hoặc thêm nhiều hơn nếu cần.
 * **Loại vấn đề**: Một Vấn đề có thể được phân loại bằng Loại vấn đề. Ví dụ về Loại vấn đề có thể là: 'Chức năng', 'Kỹ thuật', 'Phần cứng', v.v.
 * **Người tạo (Email)**: ID email mà từ đó Vấn đề được gửi sẽ được hiển thị ở đây.
@@ -49,13 +49,13 @@ Bạn cũng có thể tạo một Vấn đề một cách thủ công, để là
 ### 3.2 Thỏa thuận mức độ dịch vụ
 Đây là một hợp đồng giữa nhà cung cấp dịch vụ và người dùng cuối nhằm xác định mức độ dịch vụ mong đợi từ nhà cung cấp dịch vụ.
 
-Người dùng có thể chọn [Thỏa thuận mức độ dịch vụ](/docs/v13/user/manual/en/support/service-level-agreement) (SLA) từ danh sách.
+Người dùng có thể chọn [Thỏa thuận mức độ dịch vụ](service-level-agreement.md) (SLA) từ danh sách.
 
 * Mỗi Vấn đề sẽ có Thời gian phản hồi và Thời gian giải quyết mà trong đó đội ngũ Hỗ trợ phải Phản hồi và Giải quyết Vấn đề.
 * Mức độ ưu tiên có thể được thay đổi để leo thang Vấn đề. Các mức độ ưu tiên cần được chỉ định trong Thỏa thuận mức độ dịch vụ.
 * Nếu cần, Thỏa thuận mức độ dịch vụ có thể được thiết lập lại bằng cách nhấn vào nút **Thiết lập lại Thỏa thuận mức độ dịch vụ** trong Vấn đề được hiển thị như sau:
 
-![SLA](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/support/new-issue.gif)
+![SLA](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/support/new-issue.gif)
 
 ### 3.3 Phản hồi
 * **Phút đến phản hồi đầu tiên**: Thời gian tính bằng phút từ khi Vấn đề được tạo cho đến khi phản hồi đầu tiên được gửi đi.
@@ -64,7 +64,7 @@ Người dùng có thể chọn [Thỏa thuận mức độ dịch vụ](/docs/v
 
 * **Thời gian phản hồi trung bình**: Thời gian trung bình để phản hồi cho Khách hàng. Điều này được tính bằng cách lấy trung bình của tất cả các khoảng thời gian giữa các Liên lạc Đã nhận và Đã gửi. Trường này sẽ được cập nhật sau mỗi phản hồi được gửi cho khách hàng.
 
-![Response Details](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/support/response.png)
+![Response Details](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/support/response.png)
 
 ### 3.4 Tham chiếu
 Người dùng có thể lọc các vấn đề dựa trên các trường liên kết với Vấn đề này:
@@ -87,7 +87,7 @@ Người dùng có thể lọc các vấn đề dựa trên các trường liên
 
 Các chỉ số Thời gian giải quyết và Thời gian giải quyết của người dùng được thiết lập khi "Đóng". Các chỉ số này sẽ tự động đặt lại khi Vấn đề được mở lại hoặc chia tách.
 
-![Resolution](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/support/resolution.png)
+![Resolution](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/support/resolution.png)
 
 #### Qua Cổng thông tin Khách hàng
 Nếu Khách hàng tạo Vấn đề là một Người dùng Website (không có quyền truy cập vào các phân hệ), ô kiểm này sẽ được tích để biểu thị điều đó.

@@ -10,8 +10,8 @@ Hầu hết các công ty quản lý việc nghỉ phép dựa trên một Kỳ 
 
 Trước khi tạo Kỳ nghỉ phép, bạn nên tạo các mục sau:
 
-* [Company](/docs/v13/user/manual/en/setting-up/company-setup)
-* [Holiday List](/docs/v13/user/manual/en/human-resources/holiday-list)
+* [Company](../setting-up/company-setup.md)
+* [Holiday List](holiday-list.md)
 
 ## 2. Cách tạo Kỳ nghỉ phép
 
@@ -20,31 +20,31 @@ Trước khi tạo Kỳ nghỉ phép, bạn nên tạo các mục sau:
 1. Chọn tên Công ty mà Kỳ nghỉ phép này được áp dụng.
 1. Lưu.
 
-Kỳ nghỉ phép cũng cho phép bạn chọn một [Holiday List for Optional Leaves](/docs/v13/user/manual/en/human-resources/holiday-list) (tùy chọn) để được xem xét khi phân bổ các ngày nghỉ tùy chọn cho giai đoạn đó.
+Kỳ nghỉ phép cũng cho phép bạn chọn một [Holiday List for Optional Leaves](holiday-list.md) (tùy chọn) để được xem xét khi phân bổ các ngày nghỉ tùy chọn cho giai đoạn đó.
 
-> **Lưu ý:** 'Holiday List for Optional Leaves' không giống với 'Holiday List' thông thường. Danh sách này sẽ chỉ chứa danh sách các ngày lễ tùy chọn. 'Holiday List for Optional Leaves' có thể được tạo từ tài liệu [Holiday List](/docs/v13/user/manual/en/human-resources/holiday-list). Bạn có thể tạo hai Holiday Lists cho một Kỳ nghỉ phép; một danh sách chứa các ngày lễ thông thường và danh sách kia dành cho các ngày lễ tùy chọn.
+> **Lưu ý:** 'Holiday List for Optional Leaves' không giống với 'Holiday List' thông thường. Danh sách này sẽ chỉ chứa danh sách các ngày lễ tùy chọn. 'Holiday List for Optional Leaves' có thể được tạo từ tài liệu [Holiday List](holiday-list.md). Bạn có thể tạo hai Holiday Lists cho một Kỳ nghỉ phép; một danh sách chứa các ngày lễ thông thường và danh sách kia dành cho các ngày lễ tùy chọn.
 
 Ngoài ra, bạn có thể tích vào ô 'Is Active' nếu muốn kích hoạt Kỳ nghỉ phép cụ thể này.
 
 
 <img class="screenshot" alt="Leave Period"
-	src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/leave-period.png">
+	src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/leave-period.png">
 
 ## 3. Cấp phép nghỉ bằng Kỳ nghỉ phép
 
-> Trong phiên bản 12, các ngày nghỉ có thể được cấp thông qua Kỳ nghỉ phép bằng nút "Grant Leaves". Trong phiên bản 13, các ngày nghỉ sẽ được cấp bằng cách sử dụng [Leave Policy Assignment](/docs/v13/user/manual/en/human-resources/leave-policy-assignment).
+> Trong phiên bản 12, các ngày nghỉ có thể được cấp thông qua Kỳ nghỉ phép bằng nút "Grant Leaves". Trong phiên bản 13, các ngày nghỉ sẽ được cấp bằng cách sử dụng [Leave Policy Assignment](leave-policy-assignment.md).
 
 Sau khi thông tin được lưu, Kỳ nghỉ phép cũng sẽ được sử dụng như một công cụ để giúp bạn cấp phép nghỉ cho một nhóm nhân viên.
 
-Nút **Grant** sẽ tạo ra các Phân bổ nghỉ phép (Leave Allocations) dựa trên [Leave Policy](/docs/v13/user/manual/en/human-resources/leave-policy) áp dụng cho từng Nhân viên. Bạn có thể phân bổ nghỉ phép dựa trên [Employee Grade](/docs/v13/user/manual/en/human-resources/employee-grade), [Department](/docs/v13/user/manual/en/human-resources/department) hoặc [Designation](/docs/v13/user/manual/en/human-resources/designation) như hiển thị dưới đây.
+Nút **Grant** sẽ tạo ra các Phân bổ nghỉ phép (Leave Allocations) dựa trên [Leave Policy](leave-policy.md) áp dụng cho từng Nhân viên. Bạn có thể phân bổ nghỉ phép dựa trên [Employee Grade](employee-grade.md), [Department](department.md) hoặc [Designation](designation.md) như hiển thị dưới đây.
 
 
 <img class="screenshot" alt="Leave Period"
-	src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/grant-button.gif">
+	src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/grant-button.gif">
 
 
 ## 3. Các chủ đề liên quan
 
-1. [Leave Allocation](/docs/v13/user/manual/en/human-resources/leave-allocation)
-1. [Leave Policy](/docs/v13/user/manual/en/human-resources/leave-policy)
-1. [Leave Type](/docs/v13/user/manual/en/human-resources/leave-type)
+1. [Leave Allocation](leave-allocation.md)
+1. [Leave Policy](leave-policy.md)
+1. [Leave Type](leave-type.md)

@@ -26,7 +26,7 @@ Trước khi tạo Kế hoạch nhân sự, bạn cần phải tạo các mục 
 
 
 	<img class="screenshot" alt="Staffing Plan"
-	src="https://docs.erpnext.com/docs/v16/assets/img/human-resources/staffing-plan.png">
+	src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/staffing-plan.png">
 
 ## 3. Các tính năng
 
@@ -44,7 +44,7 @@ Một số tính năng bổ sung trong DocType Kế hoạch nhân sự được 
 
 
 	<img class="screenshot" alt="Staffing Plan Detail"
-	src="https://docs.erpnext.com/docs/v16/assets/img/human-resources/staffing-plan-detail.png">
+	src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/staffing-plan-detail.png">
 
 * **Tổng ngân sách ước tính:** Sau khi bạn nhập kế hoạch tuyển dụng cho tất cả các chức danh, Kế hoạch nhân sự sẽ lập tổng ngân sách ước tính theo kế hoạch.
 

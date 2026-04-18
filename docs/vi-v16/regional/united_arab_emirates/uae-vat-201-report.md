@@ -4,11 +4,11 @@
 > Kế toán > Thuế giá trị gia tăng (VAT UAE) > UAE VAT 201
 hoặc chỉ cần tìm kiếm "UAE VAT 201" trên thanh tìm kiếm (awesomebar).
 
-<img class="screenshot" alt="UAE VAT 201 Report" src="https://docs.erpnext.com/docs/v16/assets/img/regional/uae/uae-vat-201-report.png">
+<img class="screenshot" alt="UAE VAT 201 Report" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/regional/uae/uae-vat-201-report.png">
 
 Để in báo cáo, hãy đi tới Menu > In như hiển thị trong ảnh chụp màn hình dưới đây.
 
-<img class="screenshot" alt="UAE VAT 201 Report Download" src="https://docs.erpnext.com/docs/v16/assets/img/regional/uae/uae-vat-201-download.png">
+<img class="screenshot" alt="UAE VAT 201 Report Download" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/regional/uae/uae-vat-201-download.png">
 
 Lưu ý: Để đảm bảo các tính toán trong báo cáo là chính xác, hãy kiểm tra các nội dung sau:
 
@@ -18,4 +18,4 @@ Lưu ý: Để đảm bảo các tính toán trong báo cáo là chính xác, h�
 
 3. Tất cả các tài khoản Thuế (VAT accounts) đã được chọn trong Cài đặt UAE VAT (UAE VAT Settings).
 
-<img class="screenshot" alt="UAE VAT Account Settings" src="https://docs.erpnext.com/docs/v16/assets/img/regional/uae/uae-vat-account-settings.png">
+<img class="screenshot" alt="UAE VAT Account Settings" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/regional/uae/uae-vat-account-settings.png">

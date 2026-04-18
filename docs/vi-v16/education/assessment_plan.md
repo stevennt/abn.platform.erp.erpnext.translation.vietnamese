@@ -34,7 +34,7 @@ Ngoài các trường bắt buộc, bạn cũng có thể thêm các chi tiết 
 1. **Program**: Chọn Chương trình mà cuộc đánh giá được thực hiện.
 1. **Academic Year and Academic Term**: Chọn và nhập Năm học và Học kỳ mà cuộc Đánh giá đang được thực hiện.
 
-![Assessment Plan](https://docs.erpnext.com/docs/v16/assets/img/education/assessment-plan-4.png)
+![Assessment Plan](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/assessment-plan-4.png)
 
 ## 3. Các tính năng
 
@@ -47,13 +47,13 @@ Ngoài các trường bắt buộc, bạn cũng có thể thêm các chi tiết 
 1. **Examiner**: Thêm tên của Giảng viên Khảo thí cho cuộc đánh giá này.
 1. **Supervisor**: Thêm tên của Giảng viên Giám sát cho cuộc đánh giá này.
 
-![Assessment Plan](https://docs.erpnext.com/docs/v16/assets/img/education/education-assessment-plan-2.png)
+![Assessment Plan](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-assessment-plan-2.png)
 
 ### 3.2. Đánh giá
 
 Sau khi bạn chọn Khóa học và Grading Scale được cập nhật, bạn sẽ được yêu cầu nhập Điểm Đánh giá Tối đa và Tiêu chí Đánh giá sẽ tự động được cập nhật trong hệ thống.
 
-![Assessment Plan](https://docs.erpnext.com/docs/v16/assets/img/education/education-assessment-plan-3.png)
+![Assessment Plan](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-assessment-plan-3.png)
 
 #### Video Hướng dẫn về Kế hoạch Đánh giá
 

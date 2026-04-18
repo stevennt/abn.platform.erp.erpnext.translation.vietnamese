@@ -3,7 +3,7 @@
 
 Nếu bạn muốn sử dụng các tính năng của Phòng xét nghiệm, bạn có thể tạo Người dùng với vai trò _Laboratory User_. Các mục như Xét nghiệm Lab, Thu thập mẫu, v.v. chỉ hiển thị đối với những người dùng được bật Vai trò này.
 
-Đọc [Cài đặt Y tế](/docs/v13/user/manual/en/healthcare/healthcare_settings) để thiết lập mô-đun Y tế.
+Đọc [Cài đặt Y tế](healthcare_settings.md) để thiết lập mô-đun Y tế.
 
 ### Mẫu xét nghiệm Lab (Lab Test Templates)
 Mỗi khi bạn tạo một Xét nghiệm Lab mới, tài liệu Xét nghiệm Lab sẽ được tải dựa trên mẫu đã được cấu hình cho xét nghiệm cụ thể đó. Điều này có nghĩa là, bạn sẽ phải cấu hình các mẫu riêng biệt cho từng Xét nghiệm Lab.

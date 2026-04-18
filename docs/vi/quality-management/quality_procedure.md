@@ -22,33 +22,33 @@ Quy trình Chất lượng có thể có hai loại:
 1. **Quy trình con (Child Procedure)**: Nếu Quy trình Chất lượng đang được tạo là một quy trình cha chứa các quy trình con, hãy liên kết quy trình con tại đây. Khi thực hiện việc này, quy trình hiện tại sẽ trở thành quy trình cha và ô kiểm 'Is Group' sẽ được kích hoạt.
 1. Lưu.
   Một Quy trình Chất lượng cũng có thể được lưu mà không cần nhập Mô tả Quy trình nếu tiêu đề đã tự giải thích rõ ràng.
-  ![Quality Procedure](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/quality-management/quality-procedure.png)
+  ![Quality Procedure](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/quality-management/quality-procedure.png)
 
 
 'Quy trình cha' (Parent Procedure) được liên kết với quy trình con. Ví dụ, 'Phân loại vấn đề' (Issue Classification) cần được thực hiện trước khi có giải quyết, và do đó 'Giải quyết vấn đề' (Issue Resolution) là quy trình cha ở đây:
 
-![Parent Procedure](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/quality-management/procedure-parent.png)
+![Parent Procedure](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/quality-management/procedure-parent.png)
 
 ## 2. Các tính năng
 
 ### 2.1 Sử dụng Quy trình Chất lượng trong Mục tiêu Chất lượng
-Sau khi Quy trình Chất lượng được tạo, nó có thể được sử dụng trong [Mục tiêu Chất lượng](/docs/v13/user/manual/en/quality-management/quality_goal):
+Sau khi Quy trình Chất lượng được tạo, nó có thể được sử dụng trong [Mục tiêu Chất lượng](quality_goal.md):
 
-![Quality Procedure](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/quality-management/quality-procedure.gif)
+![Quality Procedure](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/quality-management/quality-procedure.gif)
 
 ### 2.2 Quy trình con
 
 Quy trình có thể chỉ là một hướng dẫn hoặc là một Quy trình Chất lượng khác. Bạn có thể liên kết một Quy trình Chất lượng dưới dạng quy trình con cho một quy trình khác:
-![Sub Procedures](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/quality-management/sub-procedure.png)
+![Sub Procedures](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/quality-management/sub-procedure.png)
 
 ### 2.3 Chế độ xem phân cấp
 
 Bạn cũng có thể xem các Quy trình Chất lượng dưới dạng chế độ xem cây để dễ dàng tổ chức và điều hướng
 
-![Quality Procedure Tree View](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/quality-management/quality-procedure-tree.png)
+![Quality Procedure Tree View](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/quality-management/quality-procedure-tree.png)
 
 ## 2. Các chủ đề liên quan
-1. [Mục tiêu Chất lượng](/docs/v13/user/manual/en/quality-management/quality_goal)
-1. [Cây Quy trình](/docs/v13/user/manual/en/quality-management/tree_of_procedure)
+1. [Mục tiêu Chất lượng](quality_goal.md)
+1. [Cây Quy trình](tree_of_procedure.md)
 
 {next}

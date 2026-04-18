@@ -37,7 +37,7 @@ Nếu cần thêm nhiều mặt hàng hơn, hoặc cần chỉnh sửa các mặ
 
 Chọn BOM hiện tại (Current BOM) và BOM mới (New BOM) của mặt hàng **cụm lắp ráp phụ (sub-assembly)**:
 
-<img class="screenshot" alt="BOM Update Tool" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/bom-update-tool.png">
+<img class="screenshot" alt="BOM Update Tool" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/bom-update-tool.png">
 
 Để cập nhật BOM mới vào tất cả các BOM cha nơi CPU được chọn làm cụm lắp ráp phụ, bạn có thể sử dụng nút **Replace** (Thay thế).
 

@@ -3,11 +3,11 @@
 
 > Được giới thiệu trong Phiên bản 12
 
-Chấm công tự động ghi nhận việc chấm công cho các Nhân viên được phân công vào một ca làm việc dựa trên các bản ghi trong tài liệu 'Employee Checkin' và [Auto Attendance Settings](/docs/v13/user/manual/en/human-resources/shift-management#25-auto-attendance-settings) của ca làm việc đó.
+Chấm công tự động ghi nhận việc chấm công cho các Nhân viên được phân công vào một ca làm việc dựa trên các bản ghi trong tài liệu 'Employee Checkin' và [Auto Attendance Settings](shift-management.md#25-auto-attendance-settings) của ca làm việc đó.
 
 Việc Chấm công tự động cho mỗi bản ghi 'Shift Type' sẽ được thử thực hiện mỗi giờ một lần. Bạn cũng có thể kích hoạt chấm công tự động một cách thủ công cho một loại ca làm việc duy nhất bằng cách nhấn nút 'Mark Auto Attendance' trong tài liệu Shift Type.
 
-> Lưu ý: [Shift Type](/docs/v13/user/manual/en/human-resources/shift-management#shift-type) cần được thiết lập và phân công cho Nhân viên trước khi tạo các bản ghi 'Employee Checkin'. Việc chấm công sẽ chỉ được thực hiện bởi Chấm công tự động đối với các bản ghi check-in được tạo sau khi đã thiết lập và phân công Nhân viên vào loại ca làm việc của họ.
+> Lưu ý: [Shift Type](shift-management.md#shift-type) cần được thiết lập và phân công cho Nhân viên trước khi tạo các bản ghi 'Employee Checkin'. Việc chấm công sẽ chỉ được thực hiện bởi Chấm công tự động đối với các bản ghi check-in được tạo sau khi đã thiết lập và phân công Nhân viên vào loại ca làm việc của họ.
 
 ## Các bước thiết lập Chấm công tự động
 Bạn có thể thiết lập Chấm công tự động bằng cách làm theo các bước dưới đây:
@@ -19,7 +19,7 @@ Bạn có thể thiết lập Chấm công tự động bằng cách làm theo c
 ### 1. Thiết lập Shift Type với tính năng Chấm công tự động được bật
 Để có thể chấm công từ danh sách nhật ký Check-in/Check-out, bạn cần thiết lập các ca làm việc có bật trường "Enable Auto Attendance". Sau khi bạn bật tùy chọn này, bạn sẽ thấy phần "Auto Attendance Settings". Vui lòng điền phần này theo yêu cầu của bạn cho ca làm việc đó.
 
-Vui lòng tham khảo liên kết sau để biết thêm về từng trường trong phần cài đặt Auto Attendance: [Auto Attendance Settings](/docs/v13/user/manual/en/human-resources/shift-management#25-auto-attendance-settings)
+Vui lòng tham khảo liên kết sau để biết thêm về từng trường trong phần cài đặt Auto Attendance: [Auto Attendance Settings](shift-management.md#25-auto-attendance-settings)
 
 ### 2. Phân công các ca làm việc này cho Nhân viên
 Sau khi bạn đã thiết lập một ca làm việc, bạn sẽ phải phân công ca này cho các nhân viên.
@@ -28,7 +28,7 @@ Bạn có thể phân công ca này cho một nhân viên bằng một trong hai
 
 1. Sử dụng Shift Assignment
 
-    Bạn có thể sử dụng [Shift Assignment](/docs/v13/user/manual/en/human-resources/shift-management#shift-assignment) để phân công ca làm việc cho nhân viên theo khoảng thời gian từ ngày này đến ngày kia.
+    Bạn có thể sử dụng [Shift Assignment](shift-management.md#shift-assignment) để phân công ca làm việc cho nhân viên theo khoảng thời gian từ ngày này đến ngày kia.
 
 1. Sử dụng trường Default Shift trong Nhân viên
 
@@ -46,7 +46,7 @@ Các hệ thống sinh trắc học thường có ID riêng cho nhân viên. Tuy
 
 Sau khi hoàn tất các bước trên, giờ đây bạn có thể nhập Employee Checkin và bắt đầu tạo chấm công tự động.
 
-Vui lòng tham khảo bài viết này để biết thêm về việc nhập Employee Checkin từ một hệ thống bên ngoài: [Integrating ERPNext With Biometric Attendance Devices](/docs/v13/user/manual/en/setting-up/articles/integrating-erpnext-with-biometric-attendance-devices)
+Vui lòng tham khảo bài viết này để biết thêm về việc nhập Employee Checkin từ một hệ thống bên ngoài: [Integrating ERPNext With Biometric Attendance Devices](../setting-up/articles/integrating-erpnext-with-biometric-attendance-devices.md)
 
 ## Dưới đây là một số câu hỏi thường gặp liên quan đến Chấm công tự động.
 

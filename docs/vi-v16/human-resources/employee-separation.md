@@ -33,7 +33,7 @@ Trước khi tạo Nghỉ việc của Nhân viên, bạn nên tạo các tài l
 1. Ngoài ra, bạn cũng có thể nhập Tóm tắt Phỏng vấn thôi việc.
 1. Lưu và Xác nhận.
 
-  <img class="screenshot" alt="Separation Template" src="https://docs.erpnext.com/docs/v16/assets/img/human-resources/employee-separation.png">
+  <img class="screenshot" alt="Separation Template" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/employee-separation.png">
 
 > Lưu ý 1: Nếu Mẫu Nghỉ việc của Nhân viên chưa được tạo, bạn có thể điền trực tiếp thông tin nghỉ việc trong chính DocType Employee Separation.
 
@@ -51,7 +51,7 @@ Mẫu Nghỉ việc của Nhân viên là một bản thiết kế chứa danh s
 1. Nhập Phòng ban, Chức danh và Cấp bậc Nhân viên (tùy chọn).
 1. Đề cập các Hoạt động để nghỉ việc. Đối với mỗi Hoạt động, bạn cũng có thể đề cập Người dùng hoặc Vai trò, hoặc một trong hai, người sẽ được giao Hoạt động này.
 
-  <img class="screenshot" alt="Onboarding Template" src="https://docs.erpnext.com/docs/v16/assets/img/human-resources/employee-separation-template.png">
+  <img class="screenshot" alt="Onboarding Template" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/employee-separation-template.png">
 
 ### 3.2 Công việc và Phân công
 
@@ -61,7 +61,7 @@ Bạn có thể xem các Dự án và Công việc đã tạo thông qua View > 
 
 Ngoài ra, mỗi Hoạt động có thể được gán trọng số dựa trên tầm quan trọng của nó.
 
-<img class="screenshot" alt="Tasks and Assignments" src="https://docs.erpnext.com/docs/v16/assets/img/human-resources/employee-sep1.png">
+<img class="screenshot" alt="Tasks and Assignments" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/employee-sep1.png">
 
 Dựa trên tiến độ của các Công việc, tiến độ có thể được cập nhật trong quy trình Nghỉ việc của Nhân viên.
 

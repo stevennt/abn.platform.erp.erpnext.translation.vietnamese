@@ -25,10 +25,10 @@ Biến thể có thể dựa trên hai yếu tố:
 1. Mặt hàng đó sau đó sẽ được gọi là 'Template' (Mẫu). Một Mẫu như vậy không còn giống hệt như một 'Mặt hàng' thông thường nữa. Ví dụ, bản thân nó (Mẫu) không thể được sử dụng trực tiếp trong bất kỳ giao dịch nào (Đơn bán hàng, Phiếu giao hàng, Hóa đơn mua hàng).
 
 1. Chỉ có các Biến thể của Mặt hàng (_áo thun màu xanh dương cỡ nhỏ_) mới có thể được sử dụng trong thực tế. Do đó, tốt nhất là nên quyết định xem một mặt hàng 'Có biến thể' (Has Variants) hay không ngay khi tạo nó.
-    <img class="screenshot" alt="Has Variants" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/item-has-variants.png">
+    <img class="screenshot" alt="Has Variants" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/item-has-variants.png">
 
 1. Khi chọn 'Has Variants', một bảng sẽ xuất hiện. Hãy chỉ định các thuộc tính biến thể cho Mặt hàng trong bảng. Trong trường hợp thuộc tính có Giá trị số, bạn có thể chỉ định phạm vi và tạo các khoảng dựa trên các giá trị tăng dần.
-    <img class="screenshot" alt="Valid Attributes" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/item-attributes.png">
+    <img class="screenshot" alt="Valid Attributes" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/item-attributes.png">
 > Lưu ý: Bạn không thể thực hiện các Giao dịch đối với một 'Mẫu'.
 
 ### 1.2 Tạo các Biến thể Mặt hàng dựa trên Thuộc tính Mặt hàng
@@ -36,7 +36,7 @@ Biến thể có thể dựa trên hai yếu tố:
 
 Tạo nhiều biến thể trong ERPNext:
 
-<img class="screenshot" alt="Make Variants" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/make-multiple-variants.png">
+<img class="screenshot" alt="Make Variants" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/make-multiple-variants.png">
 
 Để tìm hiểu thêm về cách thiết lập thuộc tính, hãy xem [Thuộc tính Mặt hàng](item-attribute.md)
 
@@ -45,7 +45,7 @@ Tạo nhiều biến thể trong ERPNext:
 Để thiết lập các biến thể dựa trên Nhà sản xuất, trong mẫu Mặt hàng của bạn, hãy đặt "Variants Based On" là "Manufacturers".
 Trong trường hợp này, để tạo các biến thể, hãy nhấp vào Create > Make Variant. Hệ thống sẽ nhắc bạn chọn một Nhà sản xuất. Bạn cũng có thể tùy chọn nhập Mã phụ tùng của Nhà sản xuất (Manufacturer Part Number).
 
-<img class='screenshot' alt='Setup Item Variant by Manufacturer' src='https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/select-mfg-for-variant.png'>
+<img class='screenshot' alt='Setup Item Variant by Manufacturer' src='https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/select-mfg-for-variant.png'>
 
 Việc đặt tên cho biến thể sẽ dựa trên tên (ID) của Mặt hàng mẫu với một hậu tố số. Ví dụ: "Screwdriver" sẽ có biến thể là "Screwdriver-1".
 

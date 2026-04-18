@@ -16,7 +16,7 @@ Bạn có thể xem [video này](https://www.youtube.com/watch?v=5wjollWN0OA) đ
 ### 1.1 Thiết lập và Khai trương
 1. [Giới thiệu](accounting-entries.md)
 1. [Cài đặt Kế toán](accounts-settings.md)
-1. [Công ty](https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/company-setup)
+1. [Công ty](../setting-up/company-setup.md)
 1. [Hệ thống tài khoản](chart-of-accounts.md)
 1. [Số dư đầu kỳ trong Tài khoản](opening-balance.md)
 1. [Trung tâm chi phí](cost-center.md)
@@ -87,7 +87,7 @@ Bạn có thể xem [video này](https://www.youtube.com/watch?v=5wjollWN0OA) đ
 1. [Bảo lãnh ngân hàng](bank-guarantee.md)
 1. [Chương trình khách hàng thân thiết](loyalty-program.md)
 1. [Lập ngân sách](budgeting.md)
-1. [Tự động lặp lại](https://docs.erpnext.com/docs/v13/user/manual/en/automation/auto-repeat)
+1. [Tự động lặp lại](../automation/auto-repeat.md)
 1. [Chiết khấu hóa đơn](invoice_discounting.md)
 
 ### 1.10 Đăng ký thuê bao
@@ -101,5 +101,5 @@ Bạn có thể xem [video này](https://www.youtube.com/watch?v=5wjollWN0OA) đ
 1. [Báo cáo cổ phần](share-reports.md)
 
 ### 1.12 GST
-1. [Thiết lập GST](https://docs.erpnext.com/docs/v13/user/manual/en/regional/india/gst-setup)
-1. [Nhắc nhở GST](/docs/v13/user/manual/en/regional/india/
+1. [Thiết lập GST](../regional/india/gst-setup.md)
+1. [Nhắc nhở GST](regional/india/

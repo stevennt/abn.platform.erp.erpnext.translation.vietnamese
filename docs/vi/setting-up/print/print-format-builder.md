@@ -18,10 +18,10 @@ Hoặc thông qua một tài liệu.
 1. Tại đây bạn có thể chỉnh sửa một mẫu in hiện có hoặc tạo một Mẫu in mới cho một loại DocType như Item, Quotation, v.v.
 1. Hãy cùng xem cách chỉnh sửa một Mẫu in hiện có trong phần này. Để biết về cách tạo Mẫu in mới, hãy xem phần tiếp theo.
 1. Chọn Mẫu in cần chỉnh sửa.
-    ![Select doctype for editing Print Format](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/print/print-format-builder-edit.png)
+    ![Select doctype for editing Print Format](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/print/print-format-builder-edit.png)
 
 1. Nhấp vào nút Edit, bạn sẽ được đưa đến giao diện người dùng của Print Format Builder.
-    ![Print Format builder screen](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/print/print-format-builder-screen.png)
+    ![Print Format builder screen](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/print/print-format-builder-screen.png)
 
 1. Tại đây bạn có thể kéo và thả các trường từ thanh bên vào trang và ngược lại.
 1. Sau khi thực hiện các thay đổi, hãy nhấp vào Lưu.
@@ -29,7 +29,7 @@ Hoặc thông qua một tài liệu.
 ### 1.2 Thông qua một tài liệu
 1. Mở tài liệu mà bạn muốn tạo Mẫu in. Nhấp vào biểu tượng Máy in, hoặc đi tới Menu > Print và nhấp vào nút Customize... Lưu ý: Bạn phải có quyền System Manager để thực hiện việc này.
 
-  <img class="screenshot" alt="Send Email" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/print/print-format-builder-1.gif">
+  <img class="screenshot" alt="Send Email" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/print/print-format-builder-1.gif">
 
 1. Để thêm một trường, chỉ cần kéo nó từ thanh bên trái và thêm vào bố cục của bạn. Bạn có thể chỉnh sửa bố cục theo từng phần hoặc từng trường riêng lẻ bằng cách nhấp vào biểu tượng cài đặt <i class="octicon octicon-gear"></i>.
 
@@ -48,7 +48,7 @@ Sau đó nhấp vào **Edit HTML** để chỉnh sửa nội dung của bạn.
 </div>
 
 ### 3. Các chủ đề liên quan
-1. [Print Style](/docs/v13/user/manual/en/setting-up/print/print-style)
-1. [Print Headings](/docs/v13/user/manual/en/setting-up/print/print-headings)
-1. [Letter Head](/docs/v13/user/manual/en/setting-up/print/letter-head)
-1. [Cheque Print Template](/docs/v13/user/manual/en/setting-up/print/cheque-print-template)
+1. [Print Style](print-style.md)
+1. [Print Headings](print-headings.md)
+1. [Letter Head](letter-head.md)
+1. [Cheque Print Template](cheque-print-template.md)

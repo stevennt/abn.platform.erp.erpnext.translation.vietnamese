@@ -8,7 +8,7 @@
 Để truy cập danh sách Vấn đề, hãy đi đến:
 > Trang chủ > Hỗ trợ > Vấn đề > Vấn đề
 
-![Issue](https://docs.erpnext.com/docs/v16/assets/img/support/issue.png)
+![Issue](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/support/issue.png)
 
 ## 1. Điều kiện tiên quyết
 Trước khi tạo và sử dụng Vấn đề, bạn nên tạo các mục sau trước:
@@ -55,7 +55,7 @@ Người dùng có thể chọn [Thỏa thuận mức độ dịch vụ](/docs/v
 * Mức độ ưu tiên có thể được thay đổi để leo thang Vấn đề. Các mức độ ưu tiên cần được chỉ định trong Thỏa thuận mức độ dịch vụ.
 * Nếu cần, Thỏa thuận mức độ dịch vụ có thể được thiết lập lại bằng cách nhấn vào nút **Thiết lập lại Thỏa thuận mức độ dịch vụ** trong Vấn đề được hiển thị như sau:
 
-![SLA](https://docs.erpnext.com/docs/v16/assets/img/support/new-issue.gif)
+![SLA](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/support/new-issue.gif)
 
 ### 3.3 Phản hồi
 * **Phút đến phản hồi đầu tiên**: Thời gian tính bằng phút từ khi Vấn đề được tạo cho đến khi phản hồi đầu tiên được gửi đi.
@@ -64,7 +64,7 @@ Người dùng có thể chọn [Thỏa thuận mức độ dịch vụ](/docs/v
 
 * **Thời gian phản hồi trung bình**: Thời gian trung bình để phản hồi cho Khách hàng. Điều này được tính bằng cách lấy trung bình của tất cả các khoảng thời gian giữa các Liên lạc Đã nhận và Đã gửi. Trường này sẽ được cập nhật sau mỗi phản hồi được gửi cho khách hàng.
 
-![Response Details](https://docs.erpnext.com/docs/v16/assets/img/support/response.png)
+![Response Details](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/support/response.png)
 
 ### 3.4 Tham chiếu
 Người dùng có thể lọc các vấn đề dựa trên các trường liên kết với Vấn đề này:
@@ -87,7 +87,7 @@ Người dùng có thể lọc các vấn đề dựa trên các trường liên
 
 Các chỉ số Thời gian giải quyết và Thời gian giải quyết của người dùng được thiết lập khi "Đóng". Các chỉ số này sẽ tự động đặt lại khi Vấn đề được mở lại hoặc chia tách.
 
-![Resolution](https://docs.erpnext.com/docs/v16/assets/img/support/resolution.png)
+![Resolution](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/support/resolution.png)
 
 #### Qua Cổng thông tin Khách hàng
 Nếu Khách hàng tạo Vấn đề là một Người dùng Website (không có quyền truy cập vào các phân hệ), ô kiểm này sẽ được tích để biểu thị điều đó.

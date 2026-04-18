@@ -4,12 +4,12 @@
 
 **Nếu tỷ lệ giá trị khoản vay trên tài sản đảm bảo giảm xuống dưới một giá trị cụ thể, một bản ghi Thiếu hụt Tài sản đảm bảo Khoản vay sẽ tự động được tạo cho khoản vay cụ thể đó.**
 
-<img class="screenshot" alt="Loan Security Shortfall" src="https://docs.erpnext.com/docs/v16/assets/img/loan-management/loan-security-shortfall-flow.png">
+<img class="screenshot" alt="Loan Security Shortfall" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/loan-management/loan-security-shortfall-flow.png">
 
 Để truy cập danh sách Thiếu hụt Tài sản đảm bảo Khoản vay, hãy đi tới:
 > Home > Loan Management > Loan Security > Loan Security Shortfall
 
-<img class="screenshot" alt="Loan Application" src="https://docs.erpnext.com/docs/v16/assets/img/loan-management/loan-security-shortfall.png">
+<img class="screenshot" alt="Loan Application" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/loan-management/loan-security-shortfall.png">
 
 
 Một bản ghi Thiếu hụt Tài sản đảm bảo Khoản vay bao gồm các chi tiết về:
@@ -25,6 +25,6 @@ Một bản ghi Thiếu hụt Tài sản đảm bảo Khoản vay bao gồm các
 
 Tài sản đảm bảo Khoản vay bổ sung có thể được thế chấp cho một khoản vay ngay từ chính mục Thiếu hụt Tài sản đảm bảo Khoản vay thông qua nút **Add Loan Security** ở phía trên bên phải.
 
-<img class="screenshot" alt="Loan Application" src="https://docs.erpnext.com/docs/v16/assets/img/loan-management/shortfall-security.png">
+<img class="screenshot" alt="Loan Application" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/loan-management/shortfall-security.png">
 
 {next}

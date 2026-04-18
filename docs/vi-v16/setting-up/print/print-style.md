@@ -22,7 +22,7 @@ Một Kiểu in mặc định có thể được thiết lập từ [Cài đặt
 
 Tất cả các kiểu Mẫu in đều dựa trên Bootstrap CSS Framework.
 
-<img class="screenshot" alt="Print Style" src="https://docs.erpnext.com/docs/v16/assets/img/setup/print/print-style.png">
+<img class="screenshot" alt="Print Style" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/print/print-style.png">
 
 Nếu bạn đã bật chế độ nhà phát triển (developer mode) và tích vào Standard, hệ thống sẽ tạo tệp JSON cho Kiểu in đó. Bạn có thể đóng góp một kiểu in mặc định bằng cách này.
 

@@ -18,7 +18,7 @@ Giả sử bạn có hai trường thả xuống (drop-down) tên là State và 
       }
       });
 
-  <img class="screenshot" alt="Opening Account" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/filter_dropdown.gif">
+  <img class="screenshot" alt="Opening Account" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/filter_dropdown.gif">
 
 
   {next}

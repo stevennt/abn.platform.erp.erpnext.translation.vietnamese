@@ -14,8 +14,8 @@ ERPNext cung cấp cho bạn một tính năng gọi là Lương bổ sung để
 
 Trước khi tạo Lương bổ sung, bạn nên tạo các mục sau:
 
-* [Employee](/docs/v13/user/manual/en/human-resources/employee)
-* [Salary Component](/docs/v13/user/manual/en/human-resources/salary-component)
+* [Employee](employee.md)
+* [Salary Component](salary-component.md)
 
 
 ## 2. Cách tạo Lương bổ sung
@@ -30,7 +30,7 @@ Trước khi tạo Lương bổ sung, bạn nên tạo các mục sau:
 
 Chọn hộp kiểm 'Overwrite Salary Structure Amount' để ghi đè thành phần Lương bổ sung lên số tiền trong Cấu trúc lương. Ngoài ra, có thể chọn hộp kiểm 'Deduct Full Tax on Selected Payroll Date' nếu cần khấu trừ toàn bộ thuế cho thành phần Lương bổ sung vào ngày tính lương cụ thể đó.
 
-<img class="screenshot" alt="Additional Salary" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/additional-salary.png">
+<img class="screenshot" alt="Additional Salary" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/additional-salary.png">
 
 ## 3. Tính năng
 
@@ -41,12 +41,12 @@ Khi chọn 'Is Recurring', bạn cần điền 'To Date' và 'From Date'.
 
 ## 4. Các chủ đề liên quan
 
-1. [Retention Bonus](/docs/v13/user/manual/en/human-resources/retention-bonus)
-1. [Employee Incentive](/docs/v13/user/manual/en/human-resources/employee-incentive)
-1. [Salary Structure](/docs/v13/user/manual/en/human-resources/salary-structure)
-1. [Salary Structure Assignment](/docs/v13/user/manual/en/human-resources/salary-structure-assignment)
-1. [Payroll Entry](/docs/v13/user/manual/en/human-resources/payroll-entry)
-1. [Payroll Period](/docs/v13/user/manual/en/human-resources/payroll-period)
+1. [Retention Bonus](retention-bonus.md)
+1. [Employee Incentive](employee-incentive.md)
+1. [Salary Structure](salary-structure.md)
+1. [Salary Structure Assignment](salary-structure-assignment.md)
+1. [Payroll Entry](payroll-entry.md)
+1. [Payroll Period](payroll-period.md)
 
 
 {next}

@@ -13,11 +13,11 @@ Một Chuyến giao hàng có thể được tạo từ [Phiếu giao hàng](del
 1. Thiết lập ngày, ngày và giờ khởi hành.
 1. Thêm khách hàng cho các điểm dừng giao hàng, địa chỉ sẽ được lấy tự động nếu đã được thiết lập. Khách hàng cũng có thể được lấy bằng cách nhấp vào 'Get customers from > Delivery Note'. Có thể thêm các Điểm dừng giao hàng bổ sung bằng cách nhấp vào nút Add Row trước khi Xác nhận:
 
-    <img class="screenshot" alt="Delivery" src="https://docs.erpnext.com/docs/v16/assets/img/stock/delivery_stops.png">
+    <img class="screenshot" alt="Delivery" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/delivery_stops.png">
 
 1. Lưu và Xác nhận.
 
-    <img class="screenshot" alt="Delivery" src="https://docs.erpnext.com/docs/v16/assets/img/stock/delivery_trip.png">
+    <img class="screenshot" alt="Delivery" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/delivery_trip.png">
 
 ## 2. Các tính năng mới trong v16
 

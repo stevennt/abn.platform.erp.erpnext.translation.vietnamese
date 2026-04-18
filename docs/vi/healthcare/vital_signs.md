@@ -12,11 +12,11 @@ ERPNext Healthcare giúp bạn ghi lại các Chỉ số sinh tồn của Bệnh
 
 Chọn Bệnh nhân, nhập Ngày và Giờ rồi Lưu. Bạn có thể ghi lại các Chỉ số sinh tồn khác nhau như hiển thị dưới đây:
 
-<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/vital_signs_1.png">
+<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/vital_signs_1.png">
 
 Các giá trị hoặc phạm vi bình thường được cung cấp để dễ dàng đánh giá. Một công cụ tính BMI tự động cũng được cung cấp sẵn.
 
-<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/vitals_bmi.png">
+<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/vitals_bmi.png">
 
 Bạn cũng có thể tạo và ghi lại Chỉ số sinh tồn cho một Bệnh nhân từ Lịch hẹn bệnh nhân (Patient Appointment), Tiếp xúc bệnh nhân (Patient Encounter) hoặc từ hồ sơ gốc của Bệnh nhân bằng cách sử dụng nút **Create > Vital Signs**.
 
@@ -24,8 +24,8 @@ Bạn cũng có thể tạo và ghi lại Chỉ số sinh tồn cho một Bệnh
 
 ## 2. Các chủ đề liên quan
 
-1. [Patient Appointment](/docs/v13/user/manual/en/healthcare/patient_appointment)
-1. [Patient](/docs/v13/user/manual/en/healthcare/patient)
-1. [Patient Encounter](/docs/v13/user/manual/en/healthcare/patient_encounter)
+1. [Patient Appointment](patient_appointment.md)
+1. [Patient](patient.md)
+1. [Patient Encounter](patient_encounter.md)
 
 {next}

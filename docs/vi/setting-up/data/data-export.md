@@ -3,7 +3,7 @@
 
 **Xuất dữ liệu cho phép bạn xuất dữ liệu từ các DocType sang định dạng CSV hoặc Excel.**
 
-Sau khi xuất dữ liệu, bạn có thể sử dụng chính tệp đó để nhập dữ liệu bằng cách sử dụng [Nhập dữ liệu](/docs/v13/user/manual/en/setting-up/data/data-import).
+Sau khi xuất dữ liệu, bạn có thể sử dụng chính tệp đó để nhập dữ liệu bằng cách sử dụng [Nhập dữ liệu](data-import.md).
 
 Để truy cập Xuất dữ liệu, hãy đi tới:
 > Trang chủ > Cài đặt > Xuất dữ liệu
@@ -16,7 +16,7 @@ Sau khi xuất dữ liệu, bạn có thể sử dụng chính tệp đó để 
 1. Bạn cũng có thể thêm bộ lọc để chỉ chọn các dữ liệu cụ thể, ví dụ: Tổng cộng >= 1,000 cho Đơn bán hàng.
 1. Nhấp vào Xuất để tải tệp xuống.
 
-    ![Data Export](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/data-export.png)
+    ![Data Export](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/data-export.png)
 
 ### Các chủ đề liên quan
-1. [Nhập dữ liệu](/docs/v13/user/manual/en/setting-up/data/data-import)
+1. [Nhập dữ liệu](data-import.md)

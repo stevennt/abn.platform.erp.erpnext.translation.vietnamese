@@ -12,7 +12,7 @@
 
 Trước khi tạo Nhóm nhân viên, bạn nên tạo các tài liệu sau:
 
-* [Employee](/docs/v13/user/manual/en/human-resources/employee)
+* [Employee](employee.md)
 
 
 ## 2. Cách tạo Nhóm nhân viên
@@ -22,19 +22,19 @@ Trước khi tạo Nhóm nhân viên, bạn nên tạo các tài liệu sau:
 1. Chọn và thêm ID Nhân viên vào nhóm. Tên Nhân viên sẽ được tự động lấy về.
 1. Lưu.
 
-    <img class="screenshot" alt="Employee Group" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/employee-group.png">
+    <img class="screenshot" alt="Employee Group" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/employee-group.png">
 
 ## 3. Các tính năng
 
 ### 3.1 Thỏa thuận mức độ dịch vụ
 
-Một Nhóm nhân viên có thể được thêm vào DocType [Service Level Agreement](/docs/v13/user/manual/en/support/service-level-agreement), nơi Mức độ dịch vụ có thể được chỉ định cho một Nhóm nhân viên cụ thể.
+Một Nhóm nhân viên có thể được thêm vào DocType [Service Level Agreement](../support/service-level-agreement.md), nơi Mức độ dịch vụ có thể được chỉ định cho một Nhóm nhân viên cụ thể.
 
 
 ## 4. Các chủ đề liên quan
 
-1. [Employment Type](/docs/v13/user/manual/en/human-resources/employment-type)
-1. [Branch](/docs/v13/user/manual/en/human-resources/branch)
-1. [Department](/docs/v13/user/manual/en/human-resources/department)
-1. [Designation](/docs/v13/user/manual/en/human-resources/designation)
-1. [Employee Grade](/docs/v13/user/manual/en/human-resources/employee-grade)
+1. [Employment Type](employment-type.md)
+1. [Branch](branch.md)
+1. [Department](department.md)
+1. [Designation](designation.md)
+1. [Employee Grade](employee-grade.md)

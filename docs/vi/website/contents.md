@@ -16,24 +16,24 @@ Bạn có thể xem [video này](https://www.youtube.com/watch?v=lyW6mfFBSNw) đ
 
 ## 1. Chủ đề
 
-1. [Trang chủ](/docs/v13/user/manual/en/website/homepage)
-1. [Trang Web](/docs/v13/user/manual/en/website/web-page)
-1. [Bài viết Blog](/docs/v13/user/manual/en/website/blog-post)
-1. [Biểu mẫu Web](/docs/v13/user/manual/en/website/web-form)
-1. [Cài đặt Website](/docs/v13/user/manual/en/website/website-settings)
-1. [Giao diện Website](/docs/v13/user/manual/en/website/website-theme)
-1. [Website Route Meta](/docs/v13/user/manual/en/website/website-route-meta)
-1. [Trang Sản phẩm](/docs/v13/user/manual/en/website/product-page)
-1. [Danh sách Sản phẩm](/docs/v13/user/manual/en/website/product-listing)
-1. [Giỏ hàng](/docs/v13/user/manual/en/website/shopping-cart)
-1. [Khóa Đăng nhập Xã hội](/docs/v13/user/manual/en/website/social-login-keys)
+1. [Trang chủ](homepage.md)
+1. [Trang Web](web-page.md)
+1. [Bài viết Blog](blog-post.md)
+1. [Biểu mẫu Web](web-form.md)
+1. [Cài đặt Website](website-settings.md)
+1. [Giao diện Website](website-theme.md)
+1. [Website Route Meta](website-route-meta.md)
+1. [Trang Sản phẩm](product-page.md)
+1. [Danh sách Sản phẩm](product-listing.md)
+1. [Giỏ hàng](shopping-cart.md)
+1. [Khóa Đăng nhập Xã hội](social-login-keys.md)
 
 ## 2. Bài viết
 
-1. [Vô hiệu hóa Đăng ký](/docs/v13/user/manual/en/website/articles/disable-signup)
-1. [Bảo mật Website](/docs/v13/user/manual/en/website/articles/website-security)
-1. [Trang chủ Website](/docs/v13/user/manual/en/website/articles/website-home-page)
-1. [Banner Website](/docs/v13/user/manual/en/website/articles/website-banner)
+1. [Vô hiệu hóa Đăng ký](articles/disable-signup.md)
+1. [Bảo mật Website](articles/website-security.md)
+1. [Trang chủ Website](articles/website-home-page.md)
+1. [Banner Website](articles/website-banner.md)
 
 ## 3. Video
 1. [Webinar về Mô-đun Website](https://www.youtube.com/watch?v=lyW6mfFBSNw)

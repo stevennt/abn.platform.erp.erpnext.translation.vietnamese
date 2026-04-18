@@ -1,3 +1,3 @@
 <!-- add-breadcrumbs -->
 # Tuyển dụng
-Việc tạo và quản lý các vị trí trống, ứng viên xin việc cũng như tạo và quản lý các kế hoạch tuyển dụng là rất quan trọng đối với các doanh nghiệp. ERPNext giúp bạn lập kế hoạch tuyển dụng, tạo và đăng tuyển các vị trí công việc tương ứng, giúp việc quản lý quy trình tuyển dụng của bạn trở nên dễ dàng. Để hiểu cách cấu hình việc này, hãy kiểm tra [Kế hoạch nhân sự](/docs/v13/user/manual/en/human-resources/staffing-plan)
+Việc tạo và quản lý các vị trí trống, ứng viên xin việc cũng như tạo và quản lý các kế hoạch tuyển dụng là rất quan trọng đối với các doanh nghiệp. ERPNext giúp bạn lập kế hoạch tuyển dụng, tạo và đăng tuyển các vị trí công việc tương ứng, giúp việc quản lý quy trình tuyển dụng của bạn trở nên dễ dàng. Để hiểu cách cấu hình việc này, hãy kiểm tra [Kế hoạch nhân sự](staffing-plan.md)

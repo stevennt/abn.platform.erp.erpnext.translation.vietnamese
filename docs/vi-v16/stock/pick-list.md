@@ -32,7 +32,7 @@ Trước khi tạo và sử dụng Danh sách lấy hàng, bạn nên tạo các
 ## 2. Cách tạo Danh sách lấy hàng
 
 1. Đi tới danh sách Danh sách lấy hàng, nhấn vào **Mới**.
- <img class='screenshot' alt='Unsaved Pick List' src='https://docs.erpnext.com/docs/v16/assets/img/stock/pick-list-unsaved-doc.png'>
+ <img class='screenshot' alt='Unsaved Pick List' src='https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/pick-list-unsaved-doc.png'>
 
 1. Thiết lập Công ty.
 1. Chọn Mục đích của Danh sách lấy hàng. Các tùy chọn bao gồm:
@@ -50,13 +50,13 @@ Trước khi tạo và sử dụng Danh sách lấy hàng, bạn nên tạo các
 1. **Lấy vị trí mặt hàng:** Sau khi các mặt hàng cần lấy đã được chốt, bạn có thể nhấn vào nút **Lấy vị trí mặt hàng** để lấy lựa chọn Kho cho từng mặt hàng. Tính năng này cũng giúp kiểm tra tính khả dụng của hàng hóa dựa trên dữ liệu tồn kho thực tế và các lệnh giữ hàng hiện có.
 
 1. **Vị trí mặt hàng:** Phần này cung cấp thông tin về vị trí mặt hàng (Kho), Số serial cho các mặt hàng có số serial và số lô cho các mặt hàng theo **Lô hàng**.
- <img class='screenshot' alt='Item Locations' src='https://docs.erpnext.com/docs/v16/assets/img/stock/pick-list-item-locations.png'>
+ <img class='screenshot' alt='Item Locations' src='https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/pick-list-item-locations.png'>
 
  Nếu có liên quan đến Số serial, dòng Mặt hàng sẽ hiển thị chi tiết số serial cụ thể:
- <img class='screenshot' alt='Item Location Detail' src='https://docs.erpnext.com/docs/v16/assets/img/stock/pick-list-item-location-detail.png'>
+ <img class='screenshot' alt='Item Location Detail' src='https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/pick-list-item-location-detail.png'>
 
 1. **Lưu** và **Xác nhận**.
- <img class='screenshot' alt='Submitted Pick List' src='https://docs.erpnext.com/docs/v16/assets/img/stock/pick-list-submitted-doc.png'>
+ <img class='screenshot' alt='Submitted Pick List' src='https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/pick-list-submitted-doc.png'>
 
 ### 2.1 Tạo Danh sách lấy hàng từ Đơn bán hàng
 
@@ -79,7 +79,7 @@ Trước khi tạo và sử dụng Danh sách lấy hàng, bạn nên tạo các
 1. Đi tới [Lệnh sản xuất](https://docs.erpnext.com/docs/v16/user/manual/en/manufacturing/work-order).
 1. Nhấn nút **Tạo Danh sách lấy hàng**.
 1. Nhập số lượng Mặt hàng thành phẩm cần sản xuất để hệ thống tính toán lượng nguyên vật liệu cần lấy.
-<img class='screenshot' alt='Dialog For qty' src='https://docs.erpnext.com/docs/v16/assets/img/stock/pick-list-dialog-for-qty.png'>
+<img class='screenshot' alt='Dialog For qty' src='https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/pick-list-dialog-for-qty.png'>
 
 1. Kiểm tra bảng Vị trí mặt hàng với các Kho nguyên vật liệu đã được đề xuất.
 1. **Lưu** chứng từ và chuyển cho nhân viên kho.

@@ -12,7 +12,7 @@ Có nhiều cài đặt khác nhau có sẵn trong Cài đặt Nhân sự.
 
 ## 1. Cài đặt Nhân viên
 
-<img class="screenshot" alt="Previous Work Experience" src="https://docs.erpnext.com/docs/v16/assets/img/human-resources/hr-settings1.png">
+<img class="screenshot" alt="Previous Work Experience" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/hr-settings1.png">
 
 ### 1.1. Tuổi nghỉ hưu:
 Bạn có thể nhập tuổi nghỉ hưu (tính theo năm) cho nhân viên của mình.
@@ -32,7 +32,7 @@ Trong tài liệu Yêu cầu thanh toán chi phí (Expense Claim), trường 'Ng
 
 ## 2. Cài đặt Bảng lương
 
-<img class="screenshot" alt="Previous Work Experience" src="https://docs.erpnext.com/docs/v16/assets/img/human-resources/hr-settings2.png">
+<img class="screenshot" alt="Previous Work Experience" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/hr-settings2.png">
 
 #### 2.1 Tính Ngày làm việc của Bảng lương Dựa trên
 Số ngày làm việc trong Phiếu lương có thể được tính dựa trên Đơn xin nghỉ phép hoặc hồ sơ Chấm công. Bạn có thể chọn tùy chọn dựa trên những gì bạn muốn để tính ngày làm việc.
@@ -70,7 +70,7 @@ SAL-{first_name}-{date_of_birth.year}
 
 ## 3. Cài đặt Nghỉ phép
 
-<img class="screenshot" alt="Previous Work Experience" src="https://docs.erpnext.com/docs/v16/assets/img/human-resources/hr-settings3.png">
+<img class="screenshot" alt="Previous Work Experience" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/hr-settings3.png">
 
 ### 3.1 Mẫu Thông báo Phê duyệt Nghỉ phép
 Khi tạo hoặc cập nhật một đơn xin nghỉ phép có người phê duyệt nghỉ phép, một email sẽ được gửi đến người phê duyệt này để thông báo về đơn xin nghỉ phép mới. Mẫu email được sử dụng cho mục đích này có thể được chọn tại đây.

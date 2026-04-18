@@ -12,7 +12,7 @@ Công cụ này cũng có thể được sử dụng để duy trì giao tiếp 
 
 Để bắt đầu một cuộc trò chuyện mới, chỉ cần nhập tên của Người dùng vào thanh tìm kiếm của hộp thoại chat và bắt đầu trao đổi.
 
-![Chat](https://docs.erpnext.com/docs/v16/assets/img/using-erpnext/using-chat-1.gif)
+![Chat](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/using-erpnext/using-chat-1.gif)
 
 Khi bạn sử dụng công cụ này lần đầu tiên, bạn có thể bắt đầu một cuộc trò chuyện mới theo các bước sau:
 
@@ -28,18 +28,18 @@ Thực hiện các bước tương tự mỗi khi bạn muốn bắt đầu mộ
 
 Đối với mỗi cuộc trò chuyện mới được mở trong hệ thống, một Phòng Chat (Chat Room) sẽ được tạo ra. Danh sách tất cả các Phòng Chat của bạn có thể được tìm thấy trong Chat Room List khi bạn tìm kiếm thông qua thanh tìm kiếm toàn cầu (Global search).
 
-<img class="screenshot" alt="Assign" src="https://docs.erpnext.com/docs/v16/assets/img/collaboration-tools/chat-1.png">
+<img class="screenshot" alt="Assign" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/collaboration-tools/chat-1.png">
 
 ## Chat Message
 
 Mọi tin nhắn được gửi bởi một Người dùng đều được hiển thị trong Chat Message List. Tại đây, bạn cũng có thể quản lý các tin nhắn đã gửi.
 
-<img class="screenshot" alt="Assign" src="https://docs.erpnext.com/docs/v16/assets/img/collaboration-tools/chat-1.png">
+<img class="screenshot" alt="Assign" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/collaboration-tools/chat-1.png">
 
 ## Chat Profile Report
 
 Báo cáo này sẽ hiển thị cho bạn danh sách tất cả các hồ sơ người dùng đang hoạt động trong tài khoản ERPNext mà bạn có thể bắt đầu trò chuyện.
 
-![Chat](https://docs.erpnext.com/docs/v16/assets/img/using-erpnext/using-chat-4.png)
+![Chat](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/using-erpnext/using-chat-4.png)
 
 {next}

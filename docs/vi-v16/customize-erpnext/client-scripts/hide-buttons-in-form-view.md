@@ -3,7 +3,7 @@
 
 Trong một Đơn bán hàng đã được Xác nhận, bạn có thể thấy các nút như **Cập nhật mặt hàng (Update Items)**, **Trạng thái (Status)**. Ngoài ra còn có nhiều tùy chọn khác dưới nút 'Tạo (Create)'.
 
-<img alt="Custom Script" class="screenshot" src="https://docs.erpnext.com/docs/v16/assets/img/customize/sales_order_buttons.png">
+<img alt="Custom Script" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/sales_order_buttons.png">
 
 Bạn có thể viết script tùy chỉnh như hiển thị dưới đây để ẩn các nút này.
 

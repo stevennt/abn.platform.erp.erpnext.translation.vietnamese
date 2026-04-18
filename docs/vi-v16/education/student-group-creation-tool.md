@@ -15,7 +15,7 @@
 1. Nhấp vào **Lấy khóa học** (Get Courses): Tất cả các khóa học trong Chương trình đã chọn sẽ được liệt kê tại đây. Bạn có thể chọn và xóa các khóa học từ danh sách đã được thêm vào. Bạn cũng có thể chọn và thêm các khóa học từ các chương trình khác vào danh sách này.
 1. Nhấp vào **Tạo Nhóm học sinh** (Create Students Groups). Nhiều Nhóm học sinh cho mỗi khóa học và khóa sẽ được tạo ra.
 
-![Student Group Creation Tool](https://docs.erpnext.com/docs/v16/assets/img/education/education-student-group-creation-tool.gif)
+![Student Group Creation Tool](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-student-group-creation-tool.gif)
 
 ## 2. Video hướng dẫn về Công cụ tạo Nhóm học sinh
 

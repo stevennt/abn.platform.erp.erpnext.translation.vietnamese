@@ -17,24 +17,24 @@ Cấp bậc Nhân viên cũng giúp bạn truy xuất hồ sơ Nhân viên hàng
 
 Trước khi tạo Cấp bậc Nhân viên, bạn nên tạo các tài liệu sau:
 
-* [Chính sách nghỉ phép](/docs/v13/user/manual/en/human-resources/leave-policy)
-* [Cấu trúc lương](/docs/v13/user/manual/en/human-resources/salary-structure)
+* [Chính sách nghỉ phép](leave-policy.md)
+* [Cấu trúc lương](salary-structure.md)
 
 ## 2. Cách tạo Cấp bậc Nhân viên
 
 1. Đi tới danh sách Cấp bậc Nhân viên, nhấn vào New.
 2. Nhập Tên của Cấp bậc Nhân viên.
-3. Nhập [Chính sách nghỉ phép](/docs/v13/user/manual/en/human-resources/leave-policy) mặc định và [Cấu trúc lương](/docs/v13/user/manual/en/human-resources/salary-structure) mặc định cho Cấp bậc đó.
+3. Nhập [Chính sách nghỉ phép](leave-policy.md) mặc định và [Cấu trúc lương](salary-structure.md) mặc định cho Cấp bậc đó.
 3. Lưu.
 
-    <img class="screenshot" alt="Employee Grade" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/employee-grade.png">
+    <img class="screenshot" alt="Employee Grade" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/employee-grade.png">
 
 Dưới đây là các Cấp bậc Nhân viên khác nhau đã được tạo.
 
-<img class="screenshot" alt="New Employee Grade" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/employee-grade1.png">
+<img class="screenshot" alt="New Employee Grade" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/employee-grade1.png">
 
-Bạn cũng có thể truy cập [Nhân viên](/docs/v13/user/manual/en/human-resources/employee), [Loại nghỉ phép](/docs/v13/user/manual/en/human-resources/leave-type), [Mẫu tiếp nhận nhân viên mới](/docs/v13/user/manual/en//human-resources/employee-onboarding) và [Mẫu thôi việc nhân viên](/docs/v13/user/manual/en//human-resources/employee-separation).
+Bạn cũng có thể truy cập [Nhân viên](employee.md), [Loại nghỉ phép](leave-type.md), [Mẫu tiếp nhận nhân viên mới](employee-onboarding.md) và [Mẫu thôi việc nhân viên](employee-separation.md).
 
 ## 3. Các chủ đề liên quan
 
-1. [Loại nghỉ phép](/docs/v13/user/manual/en/human-resources/leave-type)
+1. [Loại nghỉ phép](leave-type.md)

@@ -5,7 +5,7 @@
 
 Tài liệu này có thể được sử dụng để duy trì Nhật ký Giảng viên dưới dạng danh sách các chủ đề/khóa học mà Giảng viên đảm nhiệm. Nhật ký này sẽ lưu giữ toàn bộ lịch sử các khóa học đã được giảng dạy bởi Giảng viên.
 
-![Instructor](https://docs.erpnext.com/docs/v16/assets/img/education/education-instructor-1.png)
+![Instructor](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-instructor-1.png)
 
 Để truy cập danh sách giảng viên, hãy đi đến:
 
@@ -30,7 +30,7 @@ Trước khi tạo một giảng viên, bạn nên tạo trước các mục sau
 1. Chọn Phòng ban mà bạn đang tạo Giảng viên.
 1. **Lưu**.
 
- ![Instructor](https://docs.erpnext.com/docs/v16/assets/img/education/education-instructor.gif)
+ ![Instructor](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-instructor.gif)
 
 ## 3. Các tính năng
 
@@ -44,7 +44,7 @@ Trước khi tạo một giảng viên, bạn nên tạo trước các mục sau
 * **Nhóm học sinh**: Nhóm học sinh mà người dùng đang lập Nhật ký Giảng viên.
 * **Chi tiết khác**: Bất kỳ chi tiết nào khác liên quan đến Nhật ký Giảng viên có thể được ghi lại tại đây.
 
- ![Instructor](https://docs.erpnext.com/docs/v16/assets/img/education/education-instructor-2.png)
+ ![Instructor](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-instructor-2.png)
 
 ### 3.2. Sau khi Xác nhận
 
@@ -54,11 +54,11 @@ Sau khi Giảng viên và Nhật ký Giảng viên được **Lưu**, bạn có 
 1. [Lịch trình khóa học](../user/manual/en/education/course-schedule)
 3. [Kế hoạch đánh giá](../user/manual/en/education/assessment_plan)
 
- ![Instructor](https://docs.erpnext.com/docs/v16/assets/img/education/education-instructor-3.png)
+ ![Instructor](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-instructor-3.png)
 
 > Lưu ý: Khi tạo Kế hoạch đánh giá từ Giảng viên, người dùng có thể chọn liệu Giảng viên sẽ được giữ vai trò là Người giám sát hay là Người chấm thi cho kế hoạch đánh giá đó.
 
-  ![Instructor](https://docs.erpnext.com/docs/v16/assets/img/education/education-instructor-4.png)
+  ![Instructor](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-instructor-4.png)
 
 ## 4. Video hướng dẫn cho Giảng viên
 

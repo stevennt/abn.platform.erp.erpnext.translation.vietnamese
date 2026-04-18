@@ -8,14 +8,14 @@ Bạn có thể đi đến danh sách sản phẩm bằng cách nhấp vào nút
 trang chủ hoặc truy cập đường dẫn **/all-products**. Ví dụ,
 `https://apple.erpnext.com/all-products`
 
-![Product Listing](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/website/product-listing.png)
+![Product Listing](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/website/product-listing.png)
 *Danh sách sản phẩm*
 
 ## 1. Cài đặt Sản phẩm (Products Settings)
 
 Danh sách sản phẩm có thể được cấu hình từ Cài đặt Sản phẩm. Đi tới **Website > Portal > Products Settings**.
 
-![Products Settings](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/website/products-settings.png)
+![Products Settings](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/website/products-settings.png)
 *Products Settings*
 
 Dưới đây là một số tùy chọn cấu hình:
@@ -39,7 +39,7 @@ Bạn cũng có thể thêm các bộ lọc vào danh sách của mình. Có hai
 Bật hộp kiểm Field Filters trong Products Settings và thêm các trường mà dựa vào đó
 bạn muốn có các bộ lọc.
 
-![Field Filters](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/website/field-filters.png)
+![Field Filters](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/website/field-filters.png)
 *Field Filters*
 
 #### Bộ lọc Thuộc tính (Attribute Filters)
@@ -47,12 +47,12 @@ bạn muốn có các bộ lọc.
 Bật hộp kiểm Attribute Filters trong Products Settings và thêm các
 thuộc tính mà dựa vào đó bạn muốn có các bộ lọc.
 
-![Attribute Filters](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/website/attribute-filters.png)
+![Attribute Filters](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/website/attribute-filters.png)
 *Attribute Filters*
 
 Đi tới Danh sách sản phẩm của bạn, nó sẽ hiển thị các bộ lọc ở thanh bên.
 
-![Product Listing with Filters](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/website/product-listing-with-filters.png)
+![Product Listing with Filters](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/website/product-listing-with-filters.png)
 *Product Listing with Filters*
 
 {next}

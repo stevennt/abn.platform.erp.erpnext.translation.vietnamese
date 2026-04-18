@@ -20,7 +20,7 @@ Trong phiên bản v16, báo cáo này được cải tiến để hỗ trợ qu
 
 Dưới đây là ví dụ về cách Báo cáo Sổ cái Kho hiển thị một **Phiếu kho** loại *Phiếu nhập vật tư*.
 
-![Stock Ledger Report](https://docs.erpnext.com/docs/v16/assets/img/stock/stock-ledger.png)
+![Stock Ledger Report](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/stock-ledger.png)
 
 Ví dụ hiển thị một Mặt hàng **Chair** với số lượng *1000 đơn vị*, Đơn giá nhập (Giá cơ bản) là *3.000 VNĐ* được nhận vào Kho *Stores - L*, cùng với các tính toán về Giá trị tính giá và Giá trị tồn kho.
 

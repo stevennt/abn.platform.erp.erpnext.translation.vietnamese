@@ -13,9 +13,9 @@ Trong ERPNext, bạn có thể tạo bản ghi Thư mời làm việc để gử
 
 Trước khi tạo Thư mời làm việc, bạn nên tạo các mục sau:
 
-* [Staffing Plan](/docs/v13/user/manual/en/human-resources/staffing-plan)
-* [Job Applicant](/docs/v13/user/manual/en/human-resources/job-applicant)
-* [Job Opening](/docs/v13/user/manual/en/human-resources/job-opening)
+* [Staffing Plan](staffing-plan.md)
+* [Job Applicant](job-applicant.md)
+* [Job Opening](job-opening.md)
 
 
 ## 2. Cách tạo Thư mời làm việc
@@ -26,9 +26,9 @@ Trước khi tạo Thư mời làm việc, bạn nên tạo các mục sau:
 1. Lưu và Xác nhận.
 
 
-    <img class="screenshot" alt="Job Offer" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/job-offer.png">
+    <img class="screenshot" alt="Job Offer" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/job-offer.png">
 
-> **Lưu ý:** Thư mời làm việc chỉ có thể được tạo dựa trên một [Job Applicant](/docs/v13/user/manual/en/human-resources/job-applicant)
+> **Lưu ý:** Thư mời làm việc chỉ có thể được tạo dựa trên một [Job Applicant](job-applicant.md)
 
 ## 3. Các tính năng
 
@@ -45,7 +45,7 @@ Tất cả các Điều khoản và Điều kiện liên quan đến Thư mời 
 
 Bạn có thể tạo một mẫu in được thiết kế sẵn để in Thư mời làm việc của mình. Để làm như vậy, hãy chọn Letter Head và Print Heading trong phần Printing Details.
 
-<img class="screenshot" alt="Job Offer" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/job-offer-print.png">
+<img class="screenshot" alt="Job Offer" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/job-offer-print.png">
 
 
 

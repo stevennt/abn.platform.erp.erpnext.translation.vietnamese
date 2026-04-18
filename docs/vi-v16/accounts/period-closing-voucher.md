@@ -27,7 +27,7 @@ Bằng cách này, số dư trong các Tài khoản Thu nhập và Chi phí củ
 4. Nhập ghi chú nếu có.
 5. **Lưu** và **Xác nhận**.
 
-![Period Closing Voucher](https://docs.erpnext.com/docs/v16/assets/img/accounts/period-closing-voucher.png)
+![Period Closing Voucher](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/period-closing-voucher.png)
 
 ### 1.1 Xem trước Bút toán (Ledger Preview)
 
@@ -45,7 +45,7 @@ Khi bạn nhấn **Xác nhận**, hệ thống sẽ tự động tạo các bút
 
 Bạn nên chọn một tài khoản nợ phải trả như *Reserves and Surplus*, hoặc bất kỳ tài khoản Dự trữ doanh thu nào hoặc vào tài khoản Vốn chủ sở hữu làm Tài khoản kết chuyển.
 
-![Period Closing Voucher ledger](https://docs.erpnext.com/docs/v16/assets/img/accounts/period-closing-voucher-ledger.png)
+![Period Closing Voucher ledger](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/period-closing-voucher-ledger.png)
 
 > **Lưu ý:** Nếu các bút toán kế toán được thực hiện trong một Năm tài chính đang khóa, ngay cả sau khi Bút toán khóa sổ kỳ đã được tạo cho Năm tài chính đó, bạn vẫn nên tạo một Bút toán khóa sổ kỳ khác. Bút toán sau này sẽ chỉ chuyển số dư P&L còn tồn đọng vào Tài khoản kết chuyển.
 

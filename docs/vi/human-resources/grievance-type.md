@@ -17,4 +17,4 @@ Trong ERPNext, bạn có thể tạo một Loại khiếu nại để xử lý c
 1. Nhập tên và mô tả
 1. Lưu tài liệu của bạn
 
-    <img class="screenshot" alt="Grievance Type" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/grievance-type.png">
+    <img class="screenshot" alt="Grievance Type" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/grievance-type.png">

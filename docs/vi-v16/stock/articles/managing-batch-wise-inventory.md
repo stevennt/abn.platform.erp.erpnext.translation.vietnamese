@@ -5,13 +5,13 @@ Tập hợp các mặt hàng có cùng đặc tính và thuộc tính có thể 
 
 Để duy trì các lô hàng cho một Mặt hàng, bạn cần thiết lập 'Has Batch No' thành "Yes" trong Danh mục Mặt hàng (Item Master).
 
-<img alt="Batch Item" class="screenshot" src="https://docs.erpnext.com/docs/v16/assets/img/articles/batchwise-stock-1.png">
+<img alt="Batch Item" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/batchwise-stock-1.png">
 
 Bạn có thể tạo một Lô hàng mới từ:
 
 `Kho > Chứng từ > Lô hàng > Mới`
 
-Đọc [Lô hàng](https://docs.erpnext.com/docs/v13/user/manual/en/batch.html) để tìm hiểu thêm.
+Đọc [Lô hàng](batch.html) để tìm hiểu thêm.
 
 Đối với mặt hàng có quản lý theo lô, việc cập nhật Số lô (Batch No.) trong các giao dịch kho (Phiếu nhập hàng & Phiếu giao hàng) là bắt buộc.
 
@@ -19,13 +19,13 @@ Bạn có thể tạo một Lô hàng mới từ:
 
 Khi tạo Phiếu nhập hàng, bạn nên tạo Lô hàng mới hoặc chọn một Lô hàng đã có sẵn trong danh mục. Một Lô hàng có thể được liên kết với một Mặt hàng theo lô.
 
-<img alt="Batch in Purchase Receipt" class="screenshot" src="https://docs.erpnext.com/docs/v16/assets/img/articles/batchwise-stock-2.png">
+<img alt="Batch in Purchase Receipt" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/batchwise-stock-2.png">
 
 #### Phiếu giao hàng (DN)
 
 Xác định Lô hàng trong bảng Mặt hàng của Phiếu giao hàng. Nếu mặt hàng theo lô được thêm vào dưới dạng Gói sản phẩm (Product Bundle), bạn cũng có thể cập nhật Số lô của nó trong bảng Phiếu đóng gói.
 
-<img alt="Batch in Delivery Note" class="screenshot" src="https://docs.erpnext.com/docs/v16/assets/img/articles/batchwise-stock-3.png">
+<img alt="Batch in Delivery Note" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/batchwise-stock-3.png">
 
 #### Các tính năng nâng cao trong v16
 
@@ -43,7 +43,7 @@ Trong phiên bản v16, việc quản lý lô hàng và tồn kho được tăng
 
 `Kho > Báo cáo tiêu chuẩn > Lịch sử số dư theo Lô hàng`
 
-<img alt="Batchwise Stock Balance" class="screenshot" src="https://docs.erpnext.com/docs/v16/assets/img/articles/batchwise-stock-4.png">
+<img alt="Batchwise Stock Balance" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/batchwise-stock-4.png">
 
 <div class="embed-container">
     <iframe src="https://www.youtube.com/embed/J0QKl7ABPKM?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>

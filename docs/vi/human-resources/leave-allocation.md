@@ -12,10 +12,10 @@
 
 Trước khi tạo Phân bổ nghỉ phép, bạn nên tạo các tài liệu sau:
 
-* [Nhân viên](/docs/v13/user/manual/en/human-resources/employee)
-* [Loại nghỉ phép](/docs/v13/user/manual/en/human-resources/leave-type)
-* [Kỳ nghỉ phép](/docs/v13/user/manual/en/human-resources/leave-period)
-* [Chính sách nghỉ phép](/docs/v13/user/manual/en/human-resources/leave-policy)
+* [Nhân viên](employee.md)
+* [Loại nghỉ phép](leave-type.md)
+* [Kỳ nghỉ phép](leave-period.md)
+* [Chính sách nghỉ phép](leave-policy.md)
 
 ## 2. Cách tạo Phân bổ nghỉ phép
 
@@ -25,31 +25,31 @@ Trước khi tạo Phân bổ nghỉ phép, bạn nên tạo các tài liệu sa
 1. Lưu và Xác nhận.
 
     <img class="screenshot" alt="Leave Allocation"
-    src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/leave-allocation.png">
+    src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/leave-allocation.png">
 
 > **Lưu ý:** Bật tùy chọn 'Cộng dồn ngày nghỉ chưa sử dụng từ các lần phân bổ trước' trong trường hợp bạn muốn chuyển số ngày nghỉ chưa sử dụng từ kỳ phân bổ trước cho Loại nghỉ phép cụ thể này.
 
 ### 2.1 Phân bổ nghỉ phép thông qua Kỳ nghỉ phép
 
- Các ngày nghỉ thường được phân bổ cho một [Kỳ nghỉ phép](/docs/v13/user/manual/en/human-resources/leave-period) nhất định. Sau khi Kỳ nghỉ phép được tạo và Lưu, bạn có thể nhấn vào nút **Cấp** để tạo các Phân bổ nghỉ phép dựa trên [Chính sách nghỉ phép](/docs/v13/user/manual/en/human-resources/leave-policy) áp dụng cho mỗi Nhân viên.
+ Các ngày nghỉ thường được phân bổ cho một [Kỳ nghỉ phép](leave-period.md) nhất định. Sau khi Kỳ nghỉ phép được tạo và Lưu, bạn có thể nhấn vào nút **Cấp** để tạo các Phân bổ nghỉ phép dựa trên [Chính sách nghỉ phép](leave-policy.md) áp dụng cho mỗi Nhân viên.
 
  <img class="screenshot" alt="Grant Leaves from Leave Period"
-    src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/grant-button.png">
+    src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/grant-button.png">
 
- Bạn có thể phân bổ ngày nghỉ dựa trên [Cấp bậc nhân viên](/docs/v13/user/manual/en/human-resources/employee-grade), [Phòng ban](/docs/v13/user/manual/en/human-resources/department) hoặc [Chức danh](/docs/v13/user/manual/en/human-resources/designation).
+ Bạn có thể phân bổ ngày nghỉ dựa trên [Cấp bậc nhân viên](employee-grade.md), [Phòng ban](department.md) hoặc [Chức danh](designation.md).
 
-Sau khi được cấp, các ngày nghỉ sẽ tự động được phân bổ cho các Nhân viên đã chọn dựa trên Chính sách nghỉ phép được thiết lập trong hồ sơ [Nhân viên](/docs/v13/user/manual/en/human-resources/employee) của họ. Bạn có thể kiểm tra các ngày nghỉ mới được phân bổ trong danh sách Phân bổ nghỉ phép.
+Sau khi được cấp, các ngày nghỉ sẽ tự động được phân bổ cho các Nhân viên đã chọn dựa trên Chính sách nghỉ phép được thiết lập trong hồ sơ [Nhân viên](employee.md) của họ. Bạn có thể kiểm tra các ngày nghỉ mới được phân bổ trong danh sách Phân bổ nghỉ phép.
 
 <img class="screenshot" alt="Manual Leave Allocation"
-    src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/leave-allocation2.png">
+    src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/leave-allocation2.png">
 
 
 ## 3. Các chủ đề liên quan
 
-1. [Đơn xin nghỉ phép](/docs/v13/user/manual/en/human-resources/leave-application)
-1. [Yêu cầu nghỉ bù](/docs/v13/user/manual/en/human-resources/compensatory-leave-request)
-1. [Quy đổi ngày nghỉ thành tiền](/docs/v13/user/manual/en/human-resources/leave-encashment)
-1. [Danh sách chặn nghỉ phép](/docs/v13/user/manual/en/human-resources/leave-block-list)
-1. [Danh sách ngày lễ](/docs/v13/user/manual/en/human-resources/holiday-list)
+1. [Đơn xin nghỉ phép](leave-application.md)
+1. [Yêu cầu nghỉ bù](compensatory-leave-request.md)
+1. [Quy đổi ngày nghỉ thành tiền](leave-encashment.md)
+1. [Danh sách chặn nghỉ phép](leave-block-list.md)
+1. [Danh sách ngày lễ](holiday-list.md)
 
 {next}

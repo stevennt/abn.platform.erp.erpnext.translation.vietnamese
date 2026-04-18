@@ -5,10 +5,10 @@ Cài đặt Sản xuất có thể được tìm thấy tại:
 
 > Trang chủ > Sản xuất > Cài đặt > Cài đặt Sản xuất
 
-<img class="screenshot" alt="Manufacturing Settings" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/manufacturing-settings-1.png">
+<img class="screenshot" alt="Manufacturing Settings" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/manufacturing-settings-1.png">
 
 ### Lập kế hoạch năng lực
-[Lập kế hoạch năng lực](/docs/v13/user/manual/en/manufacturing/capacity-planning) là quá trình mà một tổ chức quyết định có chấp nhận các đơn hàng mới hay không dựa trên các nguồn lực và các lệnh sản xuất hiện có.
+[Lập kế hoạch năng lực](capacity-planning.md) là quá trình mà một tổ chức quyết định có chấp nhận các đơn hàng mới hay không dựa trên các nguồn lực và các lệnh sản xuất hiện có.
 
 ### Tỷ lệ phần trăm cho phép sản xuất vượt mức
 

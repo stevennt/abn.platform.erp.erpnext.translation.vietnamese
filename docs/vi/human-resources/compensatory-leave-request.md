@@ -17,13 +17,13 @@
 
 Trước khi tạo Yêu cầu Nghỉ bù, cần phải tạo các chứng từ sau:
 
-* [Nhân viên](/docs/v13/user/manual/en/human-resources/employee)
-* [Kỳ nghỉ phép](/docs/v13/user/manual/en/human-resources/leave-period)
-* [Loại nghỉ phép](/docs/v13/user/manual/en/human-resources/leave-type)
-* [Chính sách nghỉ phép](/docs/v13/user/manual/en/human-resources/leave-policy)
-* [Phân bổ nghỉ phép](/docs/v13/user/manual/en/human-resources/leave-allocation)
-* [Danh sách ngày lễ](/docs/v13/user/manual/en/human-resources/holiday-list)
-* [Chấm công](/docs/v13/user/manual/en/human-resources/attendance)
+* [Nhân viên](employee.md)
+* [Kỳ nghỉ phép](leave-period.md)
+* [Loại nghỉ phép](leave-type.md)
+* [Chính sách nghỉ phép](leave-policy.md)
+* [Phân bổ nghỉ phép](leave-allocation.md)
+* [Danh sách ngày lễ](holiday-list.md)
+* [Chấm công](attendance.md)
 
 
 ## 2. Cách tạo Yêu cầu Nghỉ bù
@@ -36,7 +36,7 @@ Trước khi tạo Yêu cầu Nghỉ bù, cần phải tạo các chứng từ s
 1. Lưu và Xác nhận.
 
     <img class="screenshot" alt="Compensatory Leave Request"
-    src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/compensatory-leave.png">
+    src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/compensatory-leave.png">
 
 
 
@@ -45,6 +45,6 @@ Khi Xác nhận Yêu cầu Nghỉ bù, ERPNext sẽ cập nhật bản ghi Phân
 
 ## 3. Các chủ đề liên quan
 
-1. [Đơn xin nghỉ phép](/docs/v13/user/manual/en/human-resources/leave-application)
-1. [Quy đổi ngày nghỉ thành tiền](/docs/v13/user/manual/en/human-resources/leave-encashment)
-1. [Danh sách chặn nghỉ phép](/docs/v13/user/manual/en/human-resources/leave-block-list)
+1. [Đơn xin nghỉ phép](leave-application.md)
+1. [Quy đổi ngày nghỉ thành tiền](leave-encashment.md)
+1. [Danh sách chặn nghỉ phép](leave-block-list.md)

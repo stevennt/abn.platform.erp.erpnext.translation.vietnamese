@@ -18,16 +18,16 @@ Các Kiểu in tiêu chuẩn trong ERPNext là: Monochrome, Modern, và Classic.
 
 Các kiểu bạn tạo ở đây sẽ được áp dụng cho cả mẫu in tiêu chuẩn và mẫu in tùy chỉnh. Để tìm hiểu các lớp CSS khác nhau hiện có, bạn có thể tạo một mẫu in tiêu chuẩn, mở trong trang mới và xem mã nguồn.
 
-Một Kiểu in mặc định có thể được thiết lập từ [Cài đặt in](/docs/v13/user/manual/en/setting-up/print/print-settings).
+Một Kiểu in mặc định có thể được thiết lập từ [Cài đặt in](print-settings.md).
 
 Tất cả các kiểu Mẫu in đều dựa trên Bootstrap (Phiên bản 3) CSS Framework.
 
-<img class="screenshot" alt="Print Style" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/print/print-style.png">
+<img class="screenshot" alt="Print Style" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/print/print-style.png">
 
 Nếu bạn đã bật chế độ nhà phát triển (developer mode) và tích vào Standard, hệ thống sẽ tạo tệp JSON cho Kiểu in đó. Bạn có thể đóng góp một kiểu in mặc định bằng cách này.
 
 ### 2. Các chủ đề liên quan
-1. [Mẫu in](/docs/v13/user/manual/en/setting-up/print/print-format)
-1. [Tiêu đề in](/docs/v13/user/manual/en/setting-up/print/print-headings)
-1. [Tiêu đề thư](/docs/v13/user/manual/en/setting-up/print/letter-head)
-1. [Mẫu in séc](/docs/v13/user/manual/en/setting-up/print/cheque-print-template)
+1. [Mẫu in](print-format.md)
+1. [Tiêu đề in](print-headings.md)
+1. [Tiêu đề thư](letter-head.md)
+1. [Mẫu in séc](cheque-print-template.md)

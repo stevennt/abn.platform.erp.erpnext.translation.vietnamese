@@ -25,7 +25,7 @@ Trước khi tạo và sử dụng Quy tắc định giá, bạn nên tạo các
 
 1. [Mặt hàng](../stock/item.md)
 1. [Nhóm mặt hàng](../stock/item-group.md)
-1. [Khách hàng](https://docs.erpnext.com/docs/v13/user/manual/en/CRM/customer)
+1. [Khách hàng](../CRM/customer.md)
 1. [Nhà cung cấp](../buying/supplier.md)
 
 ## 2. Cách tạo Quy tắc định giá
@@ -33,7 +33,7 @@ Trước khi tạo và sử dụng Quy tắc định giá, bạn nên tạo các
 1. Thiết lập tiêu đề cho quy tắc.
 1. Chọn Áp dụng cho (Apply On) từ Mã mặt hàng (Item Code), Nhóm mặt hàng (Item Group), Thương hiệu (Brand), hoặc Giao dịch (Transaction).
 1. Chọn bạn muốn áp dụng Chiết khấu giá (Price discount) hay Chiết khấu sản phẩm (Product discount). Nếu bạn muốn tặng sản phẩm miễn phí, hãy chọn chiết khấu sản phẩm.
- ![Pricing Rule](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/pricing-rule.png)
+ ![Pricing Rule](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/pricing-rule.png)
 
 1. Đối với một mặt hàng duy nhất, chọn Mã mặt hàng và chọn các mặt hàng đó.
 1. Nếu bạn muốn Quy tắc định giá được áp dụng cho tất cả các mặt hàng, hãy chọn 'Nhóm mặt hàng' và chọn **Tất cả nhóm mặt hàng** (nhóm mặt hàng cha).
@@ -81,7 +81,7 @@ Xét một kịch bản trong đó Số tiền tối thiểu là 1.500 và Số 
 ### 3.1 Áp dụng quy tắc cho mục khác (Apply Rule On Other)
 Tính năng này kiểm tra điều kiện trên Mặt hàng thứ nhất nhưng áp dụng quy tắc cho một Mặt hàng khác.
 
-![Apply Pricing Rule on Other Item](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/pricing-rule-on-other-item.png)
+![Apply Pricing Rule on Other Item](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/pricing-rule-on-other-item.png)
 
 Ví dụ, thiết lập Mặt hàng 1 và Mặt hàng 2 trong bảng 'Áp dụng quy tắc cho' và thiết lập 'Áp dụng quy tắc cho mục khác' cho Mặt hàng 3. Bây giờ, nếu giao dịch có Mặt hàng 1, Mặt hàng 2 và Mặt hàng 3, Quy tắc định giá sẽ áp dụng cho Mặt hàng 3 vì hai Mặt hàng đầu tiên đã có mặt trong giao dịch.
 
@@ -91,11 +91,11 @@ Thiết lập xem Quy tắc định giá là dành cho việc Bán hay Mua Mặt
 
 Dựa trên lựa chọn của bạn, bạn có thể thiết lập khả năng áp dụng cho một trong các danh mục chính sau.
 
-* [Khách hàng](https://docs.erpnext.com/docs/v13/user/manual/en/CRM/customer)
-* [Nhóm khách hàng](https://docs.erpnext.com/docs/v13/user/manual/en/CRM/customer-group)
-* Khu vực (/docs/v13/user/manual/en/selling/territory)
-* Đối tác bán hàng (/docs/v13/user/manual/en/selling/sales-partner)
-* Chiến dịch (/docs/v13/user/manual/en/CRM/campaign)
+* [Khách hàng](../CRM/customer.md)
+* [Nhóm khách hàng](../CRM/customer-group.md)
+* Khu vực (selling/territory)
+* Đối tác bán hàng (selling/sales-partner)
+* Chiến dịch (CRM/campaign)
 * [Nhà cung cấp](../buying/supplier.md)
 * Nhóm nhà cung cấp
 
@@ -104,7 +104,7 @@ Chỉ định số lượng tối thiểu, số lượng tối đa, số tiền 
 
 Lưu ý rằng nếu số lượng hoặc số tiền thấp hơn hoặc vượt quá các giới hạn được thiết lập ở đây, Quy tắc định giá sẽ không được áp dụng. Tuy nhiên, nó sẽ được áp dụng nếu bạn đã bật các tùy chọn Điều kiện hỗn hợp hoặc Lũy kế.
 
-![Pricing Rule Quantity and Amount](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/pricing-rule-quantity-and-amount.png)
+![Pricing Rule Quantity and Amount](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/pricing-rule-quantity-and-amount.png)
 
 ### 3.4 Hiệu lực (Validity)
 Bạn cũng có thể thiết lập một khoảng thời gian để Quy tắc định giá có hiệu lực. Điều này hữu ích cho một s

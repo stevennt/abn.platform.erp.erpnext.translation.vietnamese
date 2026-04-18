@@ -21,13 +21,13 @@ Trước khi tạo và sử dụng một Mặt hàng, bạn nên tạo các mụ
 1. Chọn một Nhóm mặt hàng.
 1. Nhập số lượng tồn kho đầu kỳ và đơn giá bán tiêu chuẩn.
 3. Lưu.
-  ![Item Saved](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/item-saved.png)
+  ![Item Saved](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/item-saved.png)
 
 ### 2.1 Thuộc tính Mặt hàng
 
   * **Tên mặt hàng:** Tên mặt hàng là tên thực tế của sản phẩm hoặc dịch vụ của bạn.
 
-  * **Mã mặt hàng:** Mã mặt hàng là dạng viết tắt để biểu thị Mặt hàng của bạn. Nếu bạn có rất ít Mặt hàng, bạn nên để Tên mặt hàng và Mã mặt hàng giống nhau. Điều này giúp người dùng mới nhận diện và cập nhật chi tiết Mặt hàng trong tất cả các giao dịch. Trong trường hợp bạn có nhiều Mặt hàng với tên dài và danh sách lên đến hàng trăm, bạn nên sử dụng mã. Để hiểu về cách đặt Mã mặt hàng, hãy xem [Mã hóa mặt hàng](articles/item-codification.md). Bạn cũng có thể tạo Mã mặt hàng dựa trên [Chuỗi đặt tên](https://docs.erpnext.com/docs/v13/user/manual/en/setting-up/settings/naming-series) bằng cách bật tính năng này trong [Cài đặt kho](stock-settings.md#1-item-naming-by).
+  * **Mã mặt hàng:** Mã mặt hàng là dạng viết tắt để biểu thị Mặt hàng của bạn. Nếu bạn có rất ít Mặt hàng, bạn nên để Tên mặt hàng và Mã mặt hàng giống nhau. Điều này giúp người dùng mới nhận diện và cập nhật chi tiết Mặt hàng trong tất cả các giao dịch. Trong trường hợp bạn có nhiều Mặt hàng với tên dài và danh sách lên đến hàng trăm, bạn nên sử dụng mã. Để hiểu về cách đặt Mã mặt hàng, hãy xem [Mã hóa mặt hàng](articles/item-codification.md). Bạn cũng có thể tạo Mã mặt hàng dựa trên [Chuỗi đặt tên](../setting-up/settings/naming-series.md) bằng cách bật tính năng này trong [Cài đặt kho](stock-settings.md#1-item-naming-by).
 
   * **Nhóm mặt hàng:** Nhóm mặt hàng được sử dụng để phân loại một Mặt hàng theo các tiêu chí khác nhau như sản phẩm, nguyên vật liệu, dịch vụ, bán thành phẩm, vật tư tiêu hao hoặc tất cả các Nhóm mặt hàng. Hãy tạo danh sách Nhóm mặt hàng mặc định của bạn trong Thiết lập > Nhóm mặt hàng và chọn trước tùy chọn này khi điền chi tiết Mặt hàng mới trong [Nhóm mặt hàng](item-group.md). Các nhóm mặt hàng có thể là bán thành phẩm, nguyên vật liệu, v.v., hoặc dựa trên trường hợp sử dụng kinh doanh của bạn.
 
@@ -36,7 +36,7 @@ Trước khi tạo và sử dụng một Mặt hàng, bạn nên tạo các mụ
 ### 2.2 Các tùy chọn khi tạo một mặt hàng
 * **Vô hiệu hóa**: Nếu bạn vô hiệu hóa một Mặt hàng, nó sẽ không thể được chọn trong bất kỳ giao dịch nào.
 
-* **Cho phép mặt hàng thay thế**: Đôi khi khi sản xuất thành phẩm, một số nguyên vật liệu cụ thể có thể không có sẵn. Nếu bạn tích vào ô này, bạn có thể tạo và chọn một mặt hàng thay thế từ danh sách Mặt hàng thay thế. Để biết thêm, hãy truy cập trang [Mặt hàng thay thế](https://docs.erpnext.com/docs/v13/user/manual/en/manufacturing/item-alternative).
+* **Cho phép mặt hàng thay thế**: Đôi khi khi sản xuất thành phẩm, một số nguyên vật liệu cụ thể có thể không có sẵn. Nếu bạn tích vào ô này, bạn có thể tạo và chọn một mặt hàng thay thế từ danh sách Mặt hàng thay thế. Để biết thêm, hãy truy cập trang [Mặt hàng thay thế](../manufacturing/item-alternative.md).
 
 * **Duy trì tồn kho:** Nếu bạn duy trì tồn kho của Mặt hàng này trong Kho của mình, ERPNext sẽ tạo một bút toán sổ kho cho mỗi giao dịch của mặt hàng này. Hãy đảm bảo bỏ chọn tùy chọn này khi tạo Mặt hàng không lưu kho (sản xuất theo đơn hàng/thiết kế riêng) hoặc một dịch vụ.
 
@@ -46,9 +46,9 @@ Trước khi tạo và sử dụng một Mặt hàng, bạn nên tạo các mụ
 
 * **Đơn giá bán tiêu chuẩn**: Khi *tạo* một Mặt hàng, việc nhập giá trị cho trường này sẽ tự động tạo một [Giá mặt hàng](item-price.md) ở hệ thống phía sau. Việc nhập giá trị sau khi Mặt hàng đã được Lưu sẽ không có tác dụng. Trong trường hợp đó, Giá mặt hàng được tạo từ bất kỳ giao dịch nào với Mặt hàng đó. Đây là mức giá mà bạn sẽ bán mặt hàng. Giá này sẽ được lấy vào Đơn bán hàng và Hóa đơn bán hàng.
 
-* **Là tài sản cố định**: Tích vào ô này nếu mặt hàng này là Tài sản của công ty. Xem [Phân hệ Tài sản](https://docs.erpnext.com/docs/v13/user/manual/en/asset) để biết thêm.
+* **Là tài sản cố định**: Tích vào ô này nếu mặt hàng này là Tài sản của công ty. Xem [Phân hệ Tài sản](../asset) để biết thêm.
 
-* **Tự động tạo tài sản khi mua hàng**: Nếu Mặt hàng là Tài sản của Công ty, hãy tích vào ô này nếu bạn muốn tự động tạo tài sản khi mua mặt hàng này thông qua [Chu trình mua hàng](../buying/purchase-order.md). Xem [Trang Tài sản](https://docs.erpnext.com/docs/v13/user/manual/en/asset/asset) để biết thêm.
+* **Tự động tạo tài sản khi mua hàng**: Nếu Mặt hàng là Tài sản của Công ty, hãy tích vào ô này nếu bạn muốn tự động tạo tài sản khi mua mặt hàng này thông qua [Chu trình mua hàng](../buying/purchase-order.md). Xem [Trang Tài sản](../asset/asset.md) để biết thêm.
 
 * **Phần trăm dung sai**: Tùy chọn này sẽ chỉ khả dụng khi bạn tạo và Lưu mặt hàng. Đây là tỷ lệ phần trăm mà bạn được phép lập hóa đơn vượt mức hoặc giao hàng vượt mức cho Mặt hàng này. Nếu không được thiết lập, nó sẽ lấy từ [Cài đặt kho](stock-settings.md#3-limit-percent).
 
@@ -65,7 +65,7 @@ Dành cho Ấn Độ:
 
 * **Thương hiệu**: Nếu bạn có nhiều thương hiệu, hãy lưu chúng trong mục Bán hàng > Thương hiệu và chọn trước chúng khi tạo Mặt hàng mới.
 * **Mô tả**: Mô tả của mặt hàng. Văn bản từ Mã mặt hàng sẽ được tự động lấy theo mặc định.
-  ![Item brand and description](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/item-brand-description.png)
+  ![Item brand and description](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/item-brand-description.png)
 
 ### 3.2 Mã vạch
 
@@ -82,7 +82,7 @@ Mã vạch có thể được ghi lại trong Mặt hàng để quét nhanh và 
 
   Thời hạn bảo hành là khoảng thời gian mà một sản phẩm đã mua có thể được trả lại hoặc đổi mới.
 
-  <img class="screenshot" alt="Item Warranty" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/item-inventory.png">
+  <img class="screenshot" alt="Item Warranty" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/item-inventory.png">
 
 * **Đơn vị tính trọng lượng**: Đơn vị tính của mặt hàng. Có thể là Cái, Kilo, v.v. Đơn vị tính trọng lượng bạn sử dụng nội bộ có thể khác với đơn vị tính mua hàng.
 * **Trọng lượng trên mỗi đơn vị**: Trọng lượng thực tế trên mỗi đơn vị của mặt hàng. Ví dụ: 1 kilo bánh quy hoặc 10 bánh quy mỗi gói.
@@ -101,7 +101,7 @@ Khi tồn kho của một mặt hàng giảm xuống dưới một số lượng
 
 * **Loại Yêu cầu vật tư**: Loại [Yêu cầu vật tư](material-request.md) mà kho sẽ được đặt hàng lại. Điều này phụ thuộc vào việc bạn mua Mặt hàng, tự sản xuất hay chuyển giữa các Kho.
 
-  <img alt="Item Reorder" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/item-reorder.png">
+  <img alt="Item Reorder" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/item-reorder.png">
 
 > **Lưu ý**: Yêu cầu vật tư được tạo vào lúc 12 giờ đêm tùy thuộc vào mức đặt hàng lại đã thiết lập.
 
@@ -116,7 +116,7 @@ Lưu ý rằng nếu bạn bán hàng nghìn mặt hàng, và nếu các mặt h
 
 Trong ERPNext, bạn sẽ phải ghi Số serial trong một số bút toán kế toán. Nếu sản phẩm của bạn không phải là Mặt hàng tiêu dùng lâu bền lớn, nếu nó không có bảo hành và không có khả năng bị thu hồi, hãy tránh việc cấp số serial.
 
-<img alt="Serial No modal" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/serial_no_modal.gif">
+<img alt="Serial No modal" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/serial_no_modal.gif">
 
 ### 3.7 Lô hàng
 

@@ -11,7 +11,7 @@ Trong ERPNext, bạn có thể tạo một Sự không phù hợp bằng cách c
 
 ## 1. Điều kiện tiên quyết
 
-1. [Quy trình Chất lượng](/docs/v13/user/manual/en/quality-management/quality_procedure)
+1. [Quy trình Chất lượng](quality_procedure.md)
 
 ## 2. Cách tạo Sự không phù hợp
 
@@ -20,8 +20,8 @@ Trong ERPNext, bạn có thể tạo một Sự không phù hợp bằng cách c
 1. Ghi lại các hành động khắc phục / phòng ngừa nếu có
 1. Cập nhật trạng thái
 
-![Non Conformance](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/quality-management/non-conformance.png)
+![Non Conformance](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/quality-management/non-conformance.png)
 
 ## 3. Các chủ đề liên quan
 
-1. [Quy trình Chất lượng](/docs/v13/user/manual/en/quality-management/quality_procedure)
+1. [Quy trình Chất lượng](quality_procedure.md)

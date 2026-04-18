@@ -31,7 +31,7 @@ Tương tự như cấu hình Loại Tài liệu Tiêu chuẩn, bạn có thể 
 - Nhập tên trường (fieldname) cho trường ngày tháng của DocType. Trường này sẽ được sử dụng khi lọc hồ sơ y tế trong Lịch sử Bệnh nhân theo ngày. Ví dụ: tên trường ngày cho Patient Encounter là `encounter_date`.
 - Sau đó, nhấp vào nút **Add / Edit Fields** để cấu hình các trường.
 
-<img class="screenshot" alt="ERPNext Healthcare" src="https://docs.erpnext.com/docs/v16/assets/img/healthcare/patient-history-settings.gif">
+<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/patient-history-settings.gif">
 
 ## 3. Các Chủ đề Liên quan
 

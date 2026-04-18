@@ -27,11 +27,11 @@ Bạn cần tạo các tài khoản sổ cái sau để hạch toán các giao d
 1. Sau khi **Xác nhận** (Submit) biểu mẫu Chiết khấu hóa đơn, bạn có thể kiểm tra trước các bút toán liên quan thông qua tính năng Ledger Preview (Xem trước sổ cái) trước khi thực hiện các bước tiếp theo.
 1. Nhấn vào **Disburse Loan** (Giải ngân khoản vay).
 
- ![Disburse Loan in Invoice Discounting](https://docs.erpnext.com/docs/v16/assets/img/accounts/invoice-discounting.png)
+ ![Disburse Loan in Invoice Discounting](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/invoice-discounting.png)
 
 1. Bạn sẽ được đưa đến màn hình [Journal Entry](journal-entry.md) (Bút toán). Nhấn **Lưu** (Save) và **Xác nhận** (Submit) Bút toán này.
 
-  ![Journal Entry](https://docs.erpnext.com/docs/v16/assets/img/accounts/invoice-discounting-journal-entry.png)
+  ![Journal Entry](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/invoice-discounting-journal-entry.png)
 
 ## 3. Các tính năng
 
@@ -46,7 +46,7 @@ Bạn cũng có thể chỉ định kết hợp nhiều bộ lọc trên.
 
 ### 3.2 Tất toán khoản vay
 Khi bạn hoàn trả khoản vay vào cuối thời hạn vay hoặc trước đó, bạn có thể cập nhật bằng cách nhấn vào nút 'Close Loan' (Tất toán khoản vay).
-  ![Journal Entry](https://docs.erpnext.com/docs/v16/assets/img/accounts/invoice-discounting-close-loan.png)
+  ![Journal Entry](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/invoice-discounting-close-loan.png)
 Hệ thống sẽ lập Bút toán. Hãy kiểm tra và **Xác nhận** (Submit) nó.
 
 ### 3.3 Tự động cập nhật sổ cái khi kết thúc thời hạn vay

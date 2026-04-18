@@ -12,7 +12,7 @@ Một quầy bán lẻ có thể có nhiều người vận hành trong suốt c
 1. Nhập bất kỳ chi phí nào phát sinh trong ca như đồ ăn nhẹ, trà, cà phê, v.v.
 1. Trong bảng Thanh toán, nhập phương thức Thanh toán và số tiền đã nhận.
 1. Lưu và Xác nhận.
-    ![POS Cashier Closing](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/pos-cashier-closing.png)
+    ![POS Cashier Closing](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/pos-cashier-closing.png)
 
 * **Custody**: Số tiền trong ngăn kéo tiền mặt.
 * **Returns**: Số tiền cho các Mặt hàng được Khách hàng trả lại.

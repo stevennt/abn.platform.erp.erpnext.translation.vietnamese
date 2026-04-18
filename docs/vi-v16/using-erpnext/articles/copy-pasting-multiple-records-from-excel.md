@@ -10,7 +10,7 @@ Giả sử, bạn có một danh sách các Mặt hàng được lưu trong mộ
 
 * Chuẩn bị dữ liệu nguồn trong Excel hoặc trình soạn thảo văn bản với mỗi cột được phân tách bằng một dấu tab.
 
- ![Copy Pasting](https://docs.erpnext.com/docs/v16/assets/img/using-erpnext/using-copy-paste-1.png)
+ ![Copy Pasting](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/using-erpnext/using-copy-paste-1.png)
 
 * Kéo chuột để chọn các bản ghi, sau đó nhấp vào nút menu sao chép hoặc nhấn Ctrl + C (Cmd + C) để:
 
@@ -18,11 +18,11 @@ Giả sử, bạn có một danh sách các Mặt hàng được lưu trong mộ
 
  **Trường hợp 2:** Khi không có tiêu đề cột được xác định, dữ liệu sẽ được ánh xạ vào các cột đang hiển thị.
 
- ![Copy Pasting](https://docs.erpnext.com/docs/v16/assets/img/using-erpnext/using-copy-paste-4.png)
+ ![Copy Pasting](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/using-erpnext/using-copy-paste-4.png)
 
 * Đặt con trỏ vào trường nhập liệu mục tiêu của bảng con, và dán dữ liệu vào. Khác với tính năng nhập liệu thông qua tải tệp lên, tính năng sao chép & dán này sẽ tự động kích hoạt các sự kiện thay đổi trường (field change events).
 
- ![Copy Pasting](https://docs.erpnext.com/docs/v16/assets/img/using-erpnext/using-copy-paste-3.gif)
+ ![Copy Pasting](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/using-erpnext/using-copy-paste-3.gif)
 
 Để đảm bảo hiệu suất, bạn chỉ nên dán không quá 100 bản ghi trong mỗi lần thực hiện.
 

@@ -5,8 +5,8 @@ Quản lý vòng đời nhân viên liên quan đến các giai đoạn khác nh
 
 
 ## 1. Các chủ đề
-1. [Tiếp nhận nhân viên mới](/docs/v13/user/manual/en/human-resources/employee-onboarding)
-1. [Thăng tiến nhân viên](/docs/v13/user/manual/en/human-resources/employee_promotion)
-1. [Nghỉ việc](/docs/v13/user/manual/en/human-resources/employee-separation)
-1. [Điều chuyển nhân viên](/docs/v13/user/manual/en/human-resources/employee_transfer)
-1. [Sơ đồ kỹ năng nhân viên](/docs/v13/user/manual/en/human-resources/employee_skill_map)
+1. [Tiếp nhận nhân viên mới](employee-onboarding.md)
+1. [Thăng tiến nhân viên](employee_promotion.md)
+1. [Nghỉ việc](employee-separation.md)
+1. [Điều chuyển nhân viên](employee_transfer.md)
+1. [Sơ đồ kỹ năng nhân viên](employee_skill_map.md)

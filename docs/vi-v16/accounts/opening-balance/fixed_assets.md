@@ -5,7 +5,7 @@
 
 ## 1. Tạo bản ghi Tài sản
 
-> Để biết thêm chi tiết về Tài sản, [vui lòng truy cập trang này](https://docs.erpnext.com/docs/v13/user/manual/en/asset/asset).
+> Để biết thêm chi tiết về Tài sản, [vui lòng truy cập trang này](../../asset/asset.md).
 
 Tạo bản ghi Tài sản cho từng tài sản mà công ty bạn sở hữu mà chưa khấu hao hết.
 
@@ -21,9 +21,9 @@ Tạo bản ghi Tài sản cho từng tài sản mà công ty bạn sở hữu m
 1. Tích vào **Is Existing Asset.**
 1. **Lưu**.
 
- ![Opening Stock Balance](https://docs.erpnext.com/docs/v16/assets/img/accounts/asset-opening-balance.png)
+ ![Opening Stock Balance](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/asset-opening-balance.png)
 
-> Để biết thêm chi tiết về Tài sản, [vui lòng truy cập trang này](https://docs.erpnext.com/docs/v13/user/manual/en/asset/asset).
+> Để biết thêm chi tiết về Tài sản, [vui lòng truy cập trang này](../../asset/asset.md).
 
 ## 2. Tạo Bút toán để cập nhật Sổ cái
 
@@ -40,7 +40,7 @@ Khi bạn tạo một Tài sản mà có tích vào ô 'Is Existing Asset', Sổ
 1. **Lưu**.
 1. **Xác nhận**.
 
-![Journal Entry Fixed Asset Opening](https://docs.erpnext.com/docs/v16/assets/img/accounts/journal-entry-fixed-asset.png)
+![Journal Entry Fixed Asset Opening](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/journal-entry-fixed-asset.png)
 
 ---
 **Thông tin cập nhật v16:**

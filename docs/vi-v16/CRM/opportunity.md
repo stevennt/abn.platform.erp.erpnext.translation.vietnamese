@@ -13,11 +13,11 @@ Khi bạn nhận thấy dấu hiệu cho thấy khách hàng tiềm năng đang 
 1. Đi đến danh sách Cơ hội và nhấp vào 'Add Opportunity'.
 1. Trong 'Opportunity From', chọn Lead nếu cơ hội đến từ một khách hàng tiềm năng.
 
-   ![Creating New Opportunity](https://docs.erpnext.com/docs/v16/assets/img/crm/creating-opportunity.gif)
+   ![Creating New Opportunity](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/crm/creating-opportunity.gif)
 
 1. Bạn cũng có thể đi đến một Lead có trạng thái 'Open' và chọn “Opportunity” trong menu thả xuống **Create** như hình dưới đây.
 
-    ![Create Opportunity From Lead](https://docs.erpnext.com/docs/v16/assets/img/crm/lead-to-opportunity.png)
+    ![Create Opportunity From Lead](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/crm/lead-to-opportunity.png)
 
 1. Trong 'Opportunity From', chọn Khách hàng nếu cơ hội đến từ một khách hàng.
 
@@ -27,7 +27,7 @@ Khi bạn nhận thấy dấu hiệu cho thấy khách hàng tiềm năng đang 
 
 1. Bạn có thể ghi lại chi tiết các Mặt hàng cần thiết bằng cách nhấp vào ô kiểm 'With Items' và thêm chi tiết mặt hàng và số lượng trong phần 'Items'.
 
-    ![Item Details in Opportunity](https://docs.erpnext.com/docs/v16/assets/img/crm/item-details-in-opportunity.png)
+    ![Item Details in Opportunity](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/crm/item-details-in-opportunity.png)
 
 1. Nhập Nguồn (Source) của cơ hội trong phần SOURCE.
 
@@ -41,7 +41,7 @@ Việc liên hệ với các cơ hội theo thời gian để xây dựng mối 
 
 Bạn có thể xác định [Assignment Rules](/docs/v16/user/manual/en/automation/assignment-rule) để tự động phân bổ các cơ hội cho nhân viên kinh doanh.
 
-![Opportunity Assignment](https://docs.erpnext.com/docs/v16/assets/img/crm/opportunity-assignment-rule.png)
+![Opportunity Assignment](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/crm/opportunity-assignment-rule.png)
 
 ### 2.3 Tự động đóng Cơ hội
 
@@ -49,12 +49,12 @@ Nếu bạn không nhận được phản hồi từ một cơ hội trong một
 
 Bạn có thể thiết lập số ngày trong [Selling Settings](/docs/v16/user/manual/en/selling/selling-settings).
 
-![Auto Close Opportunities](https://docs.erpnext.com/docs/v16/assets/img/crm/auto-close-opportunities.png)
+![Auto Close Opportunities](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/crm/auto-close-opportunities.png)
 
 ### 2.4 Tạo Báo giá
 Bạn có thể tạo [Quotation](/docs/v16/user/manual/en/selling/quotation) từ menu thả xuống **Make**. Các giá trị trường liên quan sẽ được sao chép sang.
 
-![Create Quotation From Opportunity](https://docs.erpnext.com/docs/v16/assets/img/crm/create-quotation-from-opportunity.png)
+![Create Quotation From Opportunity](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/crm/create-quotation-from-opportunity.png)
 
 ### 2.5 Tạo Báo giá của Nhà cung cấp
 
@@ -66,7 +66,7 @@ Bạn có thể cần lấy báo giá từ Nhà cung cấp dựa trên yêu cầ
 
 Khi một cơ hội bị mất, bạn có thể ghi lại các lý do dẫn đến việc mất đó. Điều này sẽ giúp bạn phân tích các xu hướng trong một thời gian dài và xác định các thông tin chi tiết cần thiết để cải thiện tại các lĩnh vực khác nhau trong tổ chức.
 
-![Quotation Lost Reason](https://docs.erpnext.com/docs/v16/assets/img/crm/quotation-lost-reason.png)
+![Quotation Lost Reason](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/crm/quotation-lost-reason.png)
 
 ### 2.7 Thời gian phản hồi đầu tiên
 

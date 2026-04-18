@@ -9,6 +9,6 @@
 
 Một Khách hàng tiềm năng có thể được chuyển đổi thành Khách hàng bằng cách chọn “Customer” từ menu thả xuống **Make**. Sau khi Khách hàng được tạo, Khách hàng tiềm năng sẽ trở thành “Converted” (Đã chuyển đổi) và bất kỳ Cơ hội nào tiếp theo từ cùng một nguồn đó đều có thể được tạo cho Khách hàng này.
 
-![Lead, Customer and Contact](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/crm/lead-to-customer.gif)
+![Lead, Customer and Contact](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/crm/lead-to-customer.gif)
 
 {next}

@@ -13,6 +13,6 @@ Trong danh mục Công ty, hãy nhấp vào nút **Delete Company Transactions**
 
 Hành động này sẽ xóa sạch tất cả dữ liệu liên quan đến công ty đó như Báo giá, Hóa đơn, Đơn mua hàng, v.v. Vì vậy, hãy cẩn thận.
 
-<img alt="Delete Transactions" class="screenshot" src="https://docs.erpnext.com/docs/v16/assets/img/articles/delete-transactions.gif">
+<img alt="Delete Transactions" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/delete-transactions.gif">
 
 **Lưu ý:** Nếu bạn muốn xóa chính bản ghi công ty, hãy sử dụng nút "Delete" thông thường từ các tùy chọn Menu. Thao tác này cũng sẽ xóa Hệ thống tài khoản, Danh mục Trung tâm chi phí và các bản ghi Kho của công ty đó.

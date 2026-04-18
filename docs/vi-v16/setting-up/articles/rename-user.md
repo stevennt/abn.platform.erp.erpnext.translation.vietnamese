@@ -15,12 +15,12 @@ Mở Người dùng cần đổi tên.
 
 Từ Menu, chọn Rename.
 
-<img alt="Rename" class="screenshot" src="https://docs.erpnext.com/docs/v16/assets/img/articles/rename-user-1.png">
+<img alt="Rename" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/rename-user-1.png">
 
 #### Bước 3: Cập nhật
 
 Nhập Địa chỉ Email hợp lệ và nhấn vào Rename.
 
-<img alt="Update" class="screenshot" src="https://docs.erpnext.com/docs/v16/assets/img/articles/rename-user-2.png">
+<img alt="Update" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/rename-user-2.png">
 
 Sau khi đổi tên thành công, Người dùng sẽ có thể đăng nhập bằng ID người dùng đã được cập nhật.

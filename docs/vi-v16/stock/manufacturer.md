@@ -15,10 +15,10 @@ Trong ERPNext v16, Nhà sản xuất được sử dụng để định danh cá
 1. Nhập tên Nhà sản xuất và nhập mô tả nếu cần.
 1. Nhấn **Lưu**.
 
-    ![Manufacturer](https://docs.erpnext.com/docs/v16/assets/img/stock/manufacturer.png)
+    ![Manufacturer](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/manufacturer.png)
 
 Sau khi tạo Nhà sản xuất, thông tin này có thể được thiết lập trong biểu mẫu Mặt hàng với Mã số bộ phận của Nhà sản xuất để định danh.
-![Manufacturer](https://docs.erpnext.com/docs/v16/assets/img/stock/manufacturer-part.png)
+![Manufacturer](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/manufacturer-part.png)
 
 ### 1.1 Chi tiết bổ sung
 Các chi tiết sau có thể được thiết lập cho một Nhà sản xuất:
@@ -41,7 +41,7 @@ Khi sử dụng Nhà sản xuất để định danh Mặt hàng, hệ thống c
 ## 3. Các tính năng khác
 ### 3.1 Địa chỉ và Liên hệ
 
-Một [Địa chỉ](https://docs.erpnext.com/docs/v13/user/manual/en/setup/address) và [Liên hệ](https://docs.erpnext.com/docs/v13/user/manual/en/setup/contact) có thể được thiết lập cho Nhà sản xuất này để phục vụ việc quản lý thông tin liên lạc và vận chuyển.
+Một [Địa chỉ](setup/address) và [Liên hệ](setup/contact) có thể được thiết lập cho Nhà sản xuất này để phục vụ việc quản lý thông tin liên lạc và vận chuyển.
 
 ## 4. Các chủ đề liên quan
 1. [Mặt hàng](item.md)

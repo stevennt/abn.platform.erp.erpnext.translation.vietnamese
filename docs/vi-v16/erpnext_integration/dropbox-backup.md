@@ -16,7 +16,7 @@ Bạn có thể tự động hóa việc tải xuống bản sao lưu cơ sở d
 
 Thiết lập Tần suất để tải xuống bản sao lưu vào tài khoản Dropbox của bạn.
 
-<img class="screenshot" alt="set frequency" src="https://docs.erpnext.com/docs/v16/assets/img/setup/integrations/setup-backup-frequency.png">
+<img class="screenshot" alt="set frequency" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/integrations/setup-backup-frequency.png">
 
 #### Bước 2: Cho phép truy cập Dropbox
 
@@ -26,13 +26,13 @@ Sau khi thiết lập tần suất và cập nhật các chi tiết khác, hãy 
 
 Đăng nhập vào tài khoản Dropbox của bạn bằng cách nhập thông tin đăng nhập.
 
-<img class="screenshot" alt="Login" src="https://docs.erpnext.com/docs/v16/assets/img/setup/integrations/dropbox-2.png">
+<img class="screenshot" alt="Login" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/integrations/dropbox-2.png">
 
 #### Bước 4: Cho phép
 
 Sau khi đăng nhập thành công, bạn sẽ thấy một thông báo xác nhận như sau. Nhấp vào "Allow" để cho phép tài khoản ERPNext của bạn có quyền truy cập vào tài khoản Dropbox của bạn.
 
-<img class="screenshot" alt="Allow" src="https://docs.erpnext.com/docs/v16/assets/img/setup/integrations/dropbox-3.png">
+<img class="screenshot" alt="Allow" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/integrations/dropbox-3.png">
 
 Với thao tác này, một thư mục có tên "ERPNext" sẽ được tạo trong tài khoản Dropbox của bạn, và bản sao lưu cơ sở dữ liệu sẽ bắt đầu được tự động tải xuống trong đó.
 
@@ -44,23 +44,23 @@ Với thao tác này, một thư mục có tên "ERPNext" sẽ được tạo tr
 <a href="https://www.dropbox.com/developers/apps" target="_blank" style="line-height: 1.42857143;">https://www.dropbox.com/developers/apps</a>
 
 #### Bước 2: Tạo một ứng dụng Dropbox mới
-<img class="screenshot" alt="Create new" src="https://docs.erpnext.com/docs/v16/assets/img/setup/integrations/dropbox-open-3.png">
+<img class="screenshot" alt="Create new" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/integrations/dropbox-open-3.png">
 
 #### Bước 3: Điền thông tin chi tiết cho ứng dụng mới của bạn
-<img class="screenshot" alt="Choose Dropbox API and type as APP Folder" src="https://docs.erpnext.com/docs/v16/assets/img/setup/integrations/dropbox-open-1.png">
+<img class="screenshot" alt="Choose Dropbox API and type as APP Folder" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/integrations/dropbox-open-1.png">
 
-<img class="screenshot" alt="Setup APP Name" src="https://docs.erpnext.com/docs/v16/assets/img/setup/integrations/dropbox-open-2.png">
+<img class="screenshot" alt="Setup APP Name" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/integrations/dropbox-open-2.png">
 
 #### Bước 4: Chèn Redirect URI tên miền tùy chỉnh của bạn
 `https://{yourwebsite.com}/api/method/frappe.integrations.doctype.dropbox_settings.dropbox_settings.dropbox_auth_finish`
 
-<img class="screenshot" alt="Set Redirect URL" src="https://docs.erpnext.com/docs/v16/assets/img/setup/integrations/dropbox_redirect_uri.png">
+<img class="screenshot" alt="Set Redirect URL" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/integrations/dropbox_redirect_uri.png">
 
 #### Bước 5: Trong một cửa sổ mới, hãy mở trang Cài đặt Dropbox trong bản cài đặt ERPNext của bạn
 
 #### Bước 6: Thiết lập tần suất sao lưu và email
 Thiết lập tần suất để tải xuống các bản sao lưu trang web của bạn vào tài khoản Dropbox.
-<img class="screenshot" alt="set frequency" src="https://docs.erpnext.com/docs/v16/assets/img/setup/integrations/setup-backup-frequency.png">
+<img class="screenshot" alt="set frequency" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/integrations/setup-backup-frequency.png">
 
 #### Bước 7: Nhập các Khóa từ cửa sổ Ứng dụng Dropbox của bạn
 Từ trang Ứng dụng Dropbox, hãy nhập app key và app secret (không bị ẩn) vào trang cài đặt Dropbox của ERPNext.
@@ -85,7 +85,7 @@ Trang đăng nhập Dropbox sẽ mở ra trong một tab mới. Điều này có
 
 #### Bước 10: Cho phép truy cập Dropbox
 Sau khi đăng nhập thành công, bạn sẽ thấy một thông báo xác nhận như sau. Nhấp vào "Allow" để cho phép tài khoản ERPNext của bạn có quyền truy cập vào tài khoản Dropbox của bạn.
-<img class="screenshot" alt="Allow" src="https://docs.erpnext.com/docs/v16/assets/img/setup/integrations/dropbox-3.png">
+<img class="screenshot" alt="Allow" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/integrations/dropbox-3.png">
 
 #### Bước 11: Xác nhận Sao lưu hoạt động
 Từ trang Dropbox của ERPNext, nhấp vào `Take Backup Now` và sau đó đi tới chế độ xem tệp Dropbox của bạn. Bạn sẽ thấy một thư mục mới trong Dropbox có tên là `Apps` và bên trong đó là thư mục {New App} của bạn. Bên trong đó sẽ có các thư mục sao lưu cho cả tệp và cơ sở dữ liệu.

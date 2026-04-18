@@ -5,7 +5,7 @@
 
 Ví dụ, Học phí đào tạo và Phí nội trú sẽ được thiết lập thành các Loại học phí khác nhau.
 
-![Fee Category](https://docs.erpnext.com/docs/v16/assets/img/education/education-fee-category-1.png)
+![Fee Category](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-fee-category-1.png)
 
 Để truy cập Loại học phí, hãy đi đến:
 
@@ -13,6 +13,6 @@ Ví dụ, Học phí đào tạo và Phí nội trú sẽ được thiết lập
 
 Để tạo một Loại học phí mới, hãy đi đến danh sách Loại học phí và nhấn vào **Mới**. Nhập **Name** (Tên) và **Description** (Mô tả) cho Loại học phí.
 
-![Fee Category](https://docs.erpnext.com/docs/v16/assets/img/education/education-fee-category-2.gif)
+![Fee Category](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-fee-category-2.gif)
 
 {next}

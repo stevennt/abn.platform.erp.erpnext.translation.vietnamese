@@ -8,7 +8,7 @@ Giỏ hàng.
 
 > Trang chủ > Website > Portal > Shopping Cart Settings
 
-![Shopping Cart Settings](https://docs.erpnext.com/docs/v16/assets/img/website/shopping-cart-settings.png)
+![Shopping Cart Settings](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/website/shopping-cart-settings.png)
 *Shopping Cart Settings*
 
 Bạn thậm chí có thể xây dựng một **trang đích (landing page)** cho cửa hàng của mình tại một đường dẫn tùy chỉnh (ví dụ: /*store*).
@@ -34,7 +34,7 @@ Các Mặt hàng không có biến thể sẽ có trang sản phẩm riêng và 
 Thông tin tồn kho cũng sẽ được hiển thị nếu tùy chọn này được bật trong
 Shopping Cart Settings.
 
-![Item without Variants](https://docs.erpnext.com/docs/v16/assets/img/website/item-without-variants.png)
+![Item without Variants](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/website/item-without-variants.png)
 *Mặt hàng không có biến thể*
 
 ### 1.2 Mặt hàng có biến thể
@@ -42,7 +42,7 @@ Shopping Cart Settings.
 Vì các Mẫu Mặt hàng (Item Templates) không thể được mua trực tiếp, nên sẽ có nút Cấu hình để
 chọn biến thể cụ thể và thêm vào giỏ hàng.
 
-![Item with Variants](https://docs.erpnext.com/docs/v16/assets/img/website/item-with-variants.gif)
+![Item with Variants](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/website/item-with-variants.gif)
 *Mặt hàng có biến thể*
 
 ## 2. Báo giá từ Giỏ hàng
@@ -51,7 +51,7 @@ Nếu tính năng thanh toán bị vô hiệu hóa, khi khách hàng thêm một
 vào nút **Yêu cầu báo giá** để nhận báo giá cho mặt hàng đó. Một [Báo giá](../user/manual/selling/quotation)
 sẽ được tạo trong hệ thống.
 
-![Cart Quotation](https://docs.erpnext.com/docs/v16/assets/img/website/cart-quotation.png)
+![Cart Quotation](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/website/cart-quotation.png)
 *Báo giá từ giỏ hàng*
 
 ## 3. Thanh toán Giỏ hàng
@@ -61,8 +61,8 @@ Shopping Cart Settings. Bạn phải có [Tích hợp PayPal](../user/manual/erp
 hoặc [Tích hợp Razorpay](../user/manual/erpnext_integration/razorpay-integration)
 để cho phép thanh toán.
 
-![Cart Checkout Settings](https://docs.erpnext.com/docs/v16/assets/img/website/cart-checkout-settings.png)
+![Cart Checkout Settings](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/website/cart-checkout-settings.png)
 *Cài đặt thanh toán giỏ hàng*
 
-![Cart Checkout](https://docs.erpnext.com/docs/v16/assets/img/website/cart-checkout.png)
+![Cart Checkout](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/website/cart-checkout.png)
 *Thanh toán giỏ hàng*

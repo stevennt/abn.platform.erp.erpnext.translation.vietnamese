@@ -9,7 +9,7 @@ Tình nguyện viên đơn giản là các liên hệ trong cơ sở dữ liệu
 
 > Non Profit > Volunteer > New
 
-<img class="screenshot" alt="Volunteer" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/non_profit/volunteer/volunteer.png">
+<img class="screenshot" alt="Volunteer" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/non_profit/volunteer/volunteer.png">
 
 **Email:** Trường Email là ID của DocType Thành viên.
 

@@ -9,7 +9,7 @@ Bạn có thể bản địa hóa ERPNext để sử dụng múi giờ, định 
 
 > Trang chủ > Thiết lập > Cài đặt Hệ thống
 
-<img class="screenshot" alt="System Settings" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/settings/system-settings.png">
+<img class="screenshot" alt="System Settings" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/settings/system-settings.png">
 
 
 ## 1. Các phần trong Cài đặt Hệ thống
@@ -38,7 +38,7 @@ Việc duy trì sao lưu hệ thống thường xuyên là một thói quen tố
 
 ### 1.4 Quyền hạn
 
-Sử dụng quyền hạn, bạn có thể giới hạn quyền truy cập của người dùng vào các loại tài liệu. Sự giới hạn có thể dựa trên các trường như Công ty, Khu vực, Chi nhánh, v.v. Để biết thêm về Quyền người dùng, [nhấp vào đây](/docs/v13/user/manual/en/setting-up/users-and-permissions/user-permissions).
+Sử dụng quyền hạn, bạn có thể giới hạn quyền truy cập của người dùng vào các loại tài liệu. Sự giới hạn có thể dựa trên các trường như Công ty, Khu vực, Chi nhánh, v.v. Để biết thêm về Quyền người dùng, [nhấp vào đây](../users-and-permissions/user-permissions.md).
 
 
 Nếu ô chọn Áp dụng Quyền người dùng nghiêm ngặt được tích và Quyền người dùng được xác định cho một DocType cho một Người dùng, thì tất cả các tài liệu mà giá trị của liên kết để **trống** sẽ không được hiển thị cho Người dùng đó.
@@ -57,7 +57,7 @@ Nếu ô chọn Áp dụng Quyền người dùng nghiêm ngặt được tích,
 * **Chỉ cho phép một phiên cho mỗi người dùng**: Nếu bạn muốn sử dụng một bộ thông tin đăng nhập duy nhất cho nhiều người dùng, hãy tích vào ô này. Số lượng phiên đồng thời có thể được thay đổi trong danh mục Người dùng. Các phiên trên điện thoại di động không được tính ở đây.
 * **Cho phép Đăng nhập bằng Số điện thoại**: Bằng cách tích vào ô 'Cho phép Đăng nhập bằng Số điện thoại', bạn có thể đăng nhập vào ERPNext bằng số điện thoại hợp lệ đã được thiết lập trong tài khoản Người dùng của mình.
 
-* **Cho phép Đăng nhập bằng Tên người dùng**: Cho phép người dùng đăng nhập thông qua tên người dùng được thiết lập trong [danh mục Người dùng](/docs/v13/user/manual/en/setting-up/users-and-permissions/adding-users).
+* **Cho phép Đăng nhập bằng Tên người dùng**: Cho phép người dùng đăng nhập thông qua tên người dùng được thiết lập trong [danh mục Người dùng](../users-and-permissions/adding-users.md).
 * **Hiển thị Lỗi đầy đủ và Cho phép Báo cáo sự cố cho Nhà phát triển**: Điều này sẽ hiển thị toàn bộ lỗi trên màn hình và cho phép báo cáo sự cố. Nếu bạn có kiến thức kỹ thuật trong lĩnh vực này, bạn có thể hiểu rõ hơn về lỗi bằng cách đọc toàn bộ thông báo.
 * **Xóa thẻ EXIF từ ảnh đã tải lên**: Siêu dữ liệu được lưu trữ trong các tệp ảnh ở định dạng EXIF có thể bị khai thác để lấy thông tin nhạy cảm của người dùng. Tùy chọn này cho phép người dùng xóa dữ liệu đó khỏi ảnh trước khi tải lên.
 

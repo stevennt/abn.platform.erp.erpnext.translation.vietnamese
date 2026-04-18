@@ -19,7 +19,7 @@ Bạn phải có Ứng dụng Twitter cho công ty của mình. ERPNext tương 
 ### 1.1 Tạo Ứng dụng Nhà phát triển Twitter (Twitter Developer App)
 
 Tạo Ứng dụng bằng liên kết `https://developer.twitter.com/` và kiểm tra xem Ứng dụng đã có quyền truy cập **Read and write** (Đọc và ghi) hay chưa.
-![Twitter App Permission](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/crm/twitter-app-permission.png)
+![Twitter App Permission](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/crm/twitter-app-permission.png)
 
 ### 1.2. Cấu hình Callback URL
 1. Chọn Ứng dụng của bạn và đi tới **App Details**.
@@ -28,7 +28,7 @@ Tạo Ứng dụng bằng liên kết `https://developer.twitter.com/` và kiể
 `https://{yoursite}/api/method/erpnext.crm.doctype.twitter_settings.twitter_settings.callback`
 4. Nhấp **Lưu** để thực hiện thay đổi.
 
-![Twitter App Callback URL](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/crm/twitter-callback-url.png)
+![Twitter App Callback URL](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/crm/twitter-callback-url.png)
 
 
 ## 2. Cách thiết lập Cài đặt Twitter
@@ -36,16 +36,16 @@ Tạo Ứng dụng bằng liên kết `https://developer.twitter.com/` và kiể
 Để truy cập Cài đặt Twitter, hãy đi tới:
 > Trang chủ > CRM > Settings > Twitter Settings
 
-![Twitter Settings](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/crm/twitter-settings.png)
+![Twitter Settings](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/crm/twitter-settings.png)
 
 ### 2.1 API Key và API Key Secret
 
 Bạn lấy **API Key** và **API Key Secret** từ tài khoản Nhà phát triển Twitter của mình bằng cách đi tới:
 > `https://developer.twitter.com/` > My Apps > `{Your App}` > Keys and tokens
 
-![Twitter Keys Tokens](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/crm/twitter-key-token.png)
+![Twitter Keys Tokens](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/crm/twitter-key-token.png)
 
 Sau khi bạn Lưu tài liệu bằng cách điền **API Key** và **API Key Secret**, hệ thống sẽ chuyển hướng đến trang đăng nhập của Twitter. Sau khi cung cấp thông tin đăng nhập Twitter hợp lệ và nhấp vào **Authorize app**, thành viên sẽ phê duyệt yêu cầu của ứng dụng để truy cập dữ liệu thành viên của họ và tương tác với Twitter.
-![Twitter Authorize App](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/crm/twitter-authorize-app.png)
+![Twitter Authorize App](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/crm/twitter-authorize-app.png)
 
 {next}

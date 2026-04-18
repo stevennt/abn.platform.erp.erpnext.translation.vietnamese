@@ -13,7 +13,7 @@ Bán hàng là các hoạt động giao tiếp diễn ra với Khách hàng trư
 1. [Phân tích bán hàng](sales-analytics.md)
 1. [Đối tác bán hàng](sales-partner.md)
 1. [Địa bàn](territory.md)
-1. [Mã giảm giá](https://docs.erpnext.com/docs/v13/user/manual/en/website/coupon-code)
+1. [Mã giảm giá](../website/coupon-code.md)
 
 ### 1.2 Thiết lập
 1. [Thiết lập bán hàng](selling-settings.md)

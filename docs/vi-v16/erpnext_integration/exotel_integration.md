@@ -19,8 +19,8 @@ Tích hợp này cho phép bạn tích hợp Exotel vào tài khoản ERPNext c�
 - Trong connect API của bạn, dưới mục "Create popup..." và dán URL sau:
 `https://<your-site>/api/method/erpnext.erpnext_integrations.exotel_integration.handle_incoming_call`
 
-![Connect Applet](https://docs.erpnext.com/docs/v16/assets/img/erpnext_integrations/exotel_integration/connect_applet.png)
-![Call Popup Section](https://docs.erpnext.com/docs/v16/assets/img/erpnext_integrations/exotel_integration/create_popup_section.png)
+![Connect Applet](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/erpnext_integrations/exotel_integration/connect_applet.png)
+![Call Popup Section](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/erpnext_integrations/exotel_integration/create_popup_section.png)
 
 > **Lưu ý:** Thay thế `<your-site>` trong URL bằng tên trang web của bạn. Ví dụ, nếu tên trang web là **frappe.erpnext.com** thì URL sẽ là:
 `https://frappe.erpnext.com/api/method/erpnext.erpnext_integrations.exotel_integration.handle_incoming_call`
@@ -28,18 +28,18 @@ Tích hợp này cho phép bạn tích hợp Exotel vào tài khoản ERPNext c�
 - Sau đó, thêm một Passthru applet dưới mục "After Call Conversation ends" và dán URL sau:
 `https://<your-site>/api/method/erpnext.erpnext_integrations.exotel_integration.handle_end_call`
 
-![After Conversation Ends Section](https://docs.erpnext.com/docs/v16/assets/img/erpnext_integrations/exotel_integration/after_conversation_ends_section.png)
+![After Conversation Ends Section](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/erpnext_integrations/exotel_integration/after_conversation_ends_section.png)
 
-![After call ends section](https://docs.erpnext.com/docs/v16/assets/img/erpnext_integrations/exotel_integration/passthru_end_call.png)
+![After call ends section](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/erpnext_integrations/exotel_integration/passthru_end_call.png)
 
 > **Lưu ý:** Hãy đảm bảo đã tích chọn "Make Passthru Async".
 
 - Tương tự, thêm một Passthru applet dưới mục "If nobody answers..." và dán URL sau:
 `https://<your-site>/api/method/erpnext.erpnext_integrations.exotel_integration.handle_missed_call`
 
-![No Response Section](https://docs.erpnext.com/docs/v16/assets/img/erpnext_integrations/exotel_integration/no_response.png)
+![No Response Section](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/erpnext_integrations/exotel_integration/no_response.png)
 
-![After call ends section](https://docs.erpnext.com/docs/v16/assets/img/erpnext_integrations/exotel_integration/passthru_missed_call.png)
+![After call ends section](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/erpnext_integrations/exotel_integration/passthru_missed_call.png)
 
 > **Lưu ý:** Hãy đảm bảo đã tích chọn "Make Passthru Async".
 

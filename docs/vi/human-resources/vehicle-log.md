@@ -11,7 +11,7 @@
 
 Trước khi tạo Nhật ký xe, bạn cần phải tạo các tài liệu sau:
 
-* [Vehicle](/docs/v13/user/manual/en/human-resources/vehicle)
+* [Vehicle](vehicle.md)
 
 
 ## 2. Cách tạo Nhật ký xe
@@ -21,12 +21,12 @@ Trước khi tạo Nhật ký xe, bạn cần phải tạo các tài liệu sau:
 1. Nhập thông tin Chỉ số đồng hồ đo quãng đường như Ngày và Chỉ số đồng hồ (Odometer).
 1. Nhập Chi tiết đổ nhiên liệu [tùy chọn] như Số lượng nhiên liệu, Giá nhiên liệu, Nhà cung cấp và Tham chiếu hóa đơn.
 
-    <img class="screenshot" alt="Vehicle Log" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/vehicle-log1.png">
+    <img class="screenshot" alt="Vehicle Log" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/vehicle-log1.png">
 
 
 1. Ngoài ra, Chi tiết bảo dưỡng xe cũng có thể được thêm vào như hình dưới đây (tùy chọn).
 
-    <img class="screenshot" alt="Vehicle Log" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/vehicle-log2.png">
+    <img class="screenshot" alt="Vehicle Log" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/vehicle-log2.png">
 
 1. Lưu. Sau khi thông tin được lưu, các giá trị Model và Make sẽ được tự động lấy về.
 
@@ -35,13 +35,13 @@ Trước khi tạo Nhật ký xe, bạn cần phải tạo các tài liệu sau:
 
 ## 3. Các tính năng
 
-Quản lý đội xe trong ERPNext cho phép bạn tự động tạo [Expense Claim](/docs/v13/user/manual/en/human-resources/expense-claim) cho các Chi phí xe của mình.
+Quản lý đội xe trong ERPNext cho phép bạn tự động tạo [Expense Claim](expense-claim.md) cho các Chi phí xe của mình.
 
 ### 3.1 Tạo Expense Claim cho Chi phí xe
 
 Nhấn vào nút Make Expense Claim. Nút này chỉ xuất hiện trong trường hợp Nhật ký xe đã được Xác nhận.
 
-<img class="screenshot" alt="Expense Claim Button" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/vehicle-log-expense-claim-button.png">
+<img class="screenshot" alt="Expense Claim Button" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/vehicle-log-expense-claim-button.png">
 
 Khi bạn nhấn vào 'Make Expense Claim',
 
@@ -49,8 +49,8 @@ Khi bạn nhấn vào 'Make Expense Claim',
   2. Tổng chi phí nhiên liệu và chi phí bảo dưỡng được tính toán và chuyển sang Số tiền Expense Claim.
   3. Nhân viên có thể Xác nhận Expense Claim để xử lý tiếp theo.
 
-	<img class="screenshot" alt="Vehicle Log" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/vehicle-log-expense-claim.png">
+	<img class="screenshot" alt="Vehicle Log" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/vehicle-log-expense-claim.png">
 
 ## 4. Các chủ đề liên quan
 
-1. [Expense Claim](/docs/v13/user/manual/en/human-resources/expense-claim)
+1. [Expense Claim](expense-claim.md)

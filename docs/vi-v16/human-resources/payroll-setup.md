@@ -31,7 +31,7 @@ Tài liệu này cho phép bạn định nghĩa từng thành phần Thu nhập 
 #### Thu nhập
 
 <img class="screenshot" alt="Salary Component Earnings"
-	src="https://docs.erpnext.com/docs/v16/assets/img/human-resources/salary-component.png">
+	src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/salary-component.png">
 
 * Là Thành phần bổ sung: Tùy chọn này chỉ định rằng thành phần này chỉ có thể được thanh toán dưới dạng Lương bổ sung. Ví dụ về thành phần này có thể là Thưởng hiệu suất hoặc tiền lương nhận được khi đi công tác tại chỗ, v.v. Các thành phần như vậy không được coi là một phần của Cấu trúc lương thông thường. Thay vào đó, Lương bổ sung với các thành phần này có thể được Xác nhận khi cần thiết và sẽ được tự động thêm vào Phiếu lương.
 
@@ -50,13 +50,13 @@ Tài liệu này cho phép bạn định nghĩa từng thành phần Thu nhập 
  - Tạo Bút toán thanh toán riêng cho Yêu cầu phúc lợi: Một số phúc lợi linh hoạt có thể được yêu cầu về mặt pháp lý là phải thanh toán thông qua các chứng từ riêng biệt. Nếu bạn kích hoạt tùy chọn này, khi hạch toán bút toán ngân hàng, số tiền thanh toán cho các thành phần đó sẽ được hạch toán thành một bút toán riêng cho mỗi Nhân viên.
 
 	<img class="screenshot" alt="Flexible Salary Component"
-	src="https://docs.erpnext.com/docs/v16/assets/img/human-resources/salary-component-1.png">
+	src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/salary-component-1.png">
 
 	> Lưu ý: Việc tính Thuế thông thường không bao gồm Phúc lợi linh hoạt vì trong hầu hết các trường hợp, các khoản này được miễn Thuế. Để tính thuế cho các thành phần này bất kỳ lúc nào trước kỳ lương cuối cùng, hãy sử dụng "Khấu trừ thuế cho phúc lợi nhân viên chưa yêu cầu" trong Bút toán lương / Phiếu lương khi đang xử lý Lương.
 
 #### Khấu trừ
 
 <img class="screenshot" alt="Salary Component Deduction"
-	src="https://docs.erpnext.com/docs/v16/assets/img/human-resources/salary-component-2.png">
+	src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/salary-component-2.png">
 
 * Biến đổi dựa trên Lương chịu thuế: Nếu bạn kích hoạt tùy chọn này...

@@ -22,7 +22,7 @@ Nút **View > Patient History** có sẵn trong tất cả các biểu mẫu mà
 - **Tài liệu cho các lần tương tác của Bệnh nhân (Documents for Patient Interactions)**: Một dòng thời gian các tài liệu được truy xuất từ Hồ sơ y tế của Bệnh nhân được hiển thị trong phần này. Bạn có thể thấy tên DocType, liên kết đến tài liệu và ngày mà hồ sơ được tạo. Khi tải trang, bản tóm tắt của mỗi tài liệu sẽ được hiển thị. Bạn có thể sử dụng mũi tên bên dưới mỗi tài liệu để xem chi tiết.
 - **Bộ lọc (Filters)**: Bạn có thể lọc tất cả các DocType mà bạn muốn xem các lần tương tác bằng cách sử dụng bộ lọc danh sách chọn nhiều. Sử dụng bộ lọc phạm vi ngày, bạn có thể lấy được luồng lịch sử giữa hai ngày bất kỳ.
 
-<img class="screenshot" alt="Patient History" src="https://docs.erpnext.com/docs/v16/assets/img/healthcare/patient-history-1.gif">
+<img class="screenshot" alt="Patient History" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/patient-history-1.gif">
 
 ## 2. Thêm Hồ sơ y tế thủ công
 
@@ -30,7 +30,7 @@ Hồ sơ y tế sẽ tự động theo dõi tất cả các Khiếu nại, Chẩ
 
 Trong tài liệu Bệnh nhân, **Create > Medical Record** sẽ cho phép bạn ghi chép các ghi chú một cách thủ công. Bạn cũng có thể đính kèm tệp khi thực hiện việc này, và Hồ sơ y tế sẽ hiển thị các liên kết đến tệp đính kèm bên cạnh các ghi chú. Bạn cũng có thể thêm Hồ sơ y tế từ Patient Encounter.
 
-<img class="screenshot" alt="Patient Medical Record" src="https://docs.erpnext.com/docs/v16/assets/img/healthcare/medical_record_2.png">
+<img class="screenshot" alt="Patient Medical Record" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/medical_record_2.png">
 
 ## 3. Các chủ đề liên quan
 

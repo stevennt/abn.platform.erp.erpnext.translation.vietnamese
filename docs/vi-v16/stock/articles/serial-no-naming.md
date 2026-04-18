@@ -17,11 +17,11 @@ Nếu các mặt hàng nhận về đã có mã vạch số serial, bạn chỉ 
 
 Khi **Xác nhận** [PR](pr.md) hoặc [SE](stock_entry.md) (Phiếu kho) cho mặt hàng có quản lý số serial, các Số serial sẽ được cập nhật vào hệ thống. Với tính năng mới trong v16, bạn có thể theo dõi chi tiết giá trị hàng tồn kho theo từng số serial thông qua **Kế toán tồn kho theo mặt hàng (Item-Level Stock Accounting)**.
 
-<img alt="Serial Nos Entry" class="screenshot" src="https://docs.erpnext.com/docs/v16/assets/img/articles/serial-naming-1.png">
+<img alt="Serial Nos Entry" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/serial-naming-1.png">
 
 Các số serial đã tạo sẽ được cập nhật cho từng mặt hàng.
 
-<img alt="Serial Nos Created" class="screenshot" src="https://docs.erpnext.com/docs/v16/assets/img/articles/serial-naming-2.png">
+<img alt="Serial Nos Created" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/serial-naming-2.png">
 
 ### 2. Quản lý số serial cho hàng sản xuất
 
@@ -31,7 +31,7 @@ Các số serial đã tạo sẽ được cập nhật cho từng mặt hàng.
 
 Khi Mặt hàng được thiết lập là có quản lý số serial, hệ thống sẽ cho phép bạn điền Chuỗi (Series) cho mặt hàng đó.
 
-<img alt="Serial Nos Created" class="screenshot" src="https://docs.erpnext.com/docs/v16/assets/img/articles/serial-naming-3.png">
+<img alt="Serial Nos Created" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/serial-naming-3.png">
 
 #### 2.2 Tạo số serial khi sản xuất
 
@@ -39,7 +39,7 @@ Khi **Xác nhận** lệnh sản xuất hoặc [SE](stock_entry.md) (Phiếu kho
 
 Trong phiên bản v16, khi thực hiện các nghiệp vụ này, bạn có thể sử dụng tính năng **Xem trước sổ cái (Ledger Preview)** để kiểm tra ngay các [Bút toán](journal_entry.md) liên quan đến giá trị của từng số serial cụ thể.
 
-<img alt="Serial Nos Created" class="screenshot" src="https://docs.erpnext.com/docs/v16/assets/img/articles/serial-naming-4.png">
+<img alt="Serial Nos Created" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/serial-naming-4.png">
 
 ---
 **Lưu ý nâng cao trong v16:**

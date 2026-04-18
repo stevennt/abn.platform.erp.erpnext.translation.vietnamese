@@ -4,19 +4,19 @@
 
 **Bút toán Trả nợ khoản vay được sử dụng để theo dõi việc hoàn trả các khoản nợ vay.**
 
-<img class="screenshot" alt="Make Loan Repayment" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/loan-management/loan-repayment-flow.png">
+<img class="screenshot" alt="Make Loan Repayment" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/loan-management/loan-repayment-flow.png">
 
 Để truy cập danh sách Giải ngân khoản vay, hãy đi đến:
 > Home > Loan Management > Disbursement and Repayment > Loan Repayment
 
 
-<img class="screenshot" alt="Loan Repayment" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/loan-management/loan-repayment.png">
+<img class="screenshot" alt="Loan Repayment" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/loan-management/loan-repayment.png">
 
 ## 1. Điều kiện tiên quyết
 Trước khi tạo Giải ngân khoản vay, bạn phải tạo các mục sau trước:
 
-* [Khoản vay](/docs/v13/user/manual/en/loan-management/loan)
-* [Dồn tích lãi vay](/docs/v13/user/manual/en/loan-management/loan-interest-accrual)
+* [Khoản vay](loan.md)
+* [Dồn tích lãi vay](loan-interest-accrual.md)
 
 
 ## 2. Cách tạo Trả nợ khoản vay
@@ -30,5 +30,5 @@ Trước khi tạo Giải ngân khoản vay, bạn phải tạo các mục sau t
 ### 2.1. Các cách khác để tạo Trả nợ khoản vay
 Bạn cũng có thể tạo Trả nợ khoản vay từ một Khoản vay đã giải ngân thông qua nút **Tạo** ở góc trên bên phải của Khoản vay.
 
-<img class="screenshot" alt="Create Loan Repayment" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/loan-management/create-loan-repayment.png">
+<img class="screenshot" alt="Create Loan Repayment" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/loan-management/create-loan-repayment.png">
 {next}

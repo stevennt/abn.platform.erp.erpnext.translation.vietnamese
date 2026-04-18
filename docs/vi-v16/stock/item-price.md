@@ -15,7 +15,7 @@
 1. Chọn Bảng giá là giá Bán/Mua hoặc bất kỳ bảng giá nào khác mà bạn đã tạo.
 1. Nhập đơn giá thực tế vào trường Đơn giá.
 1. Lưu.
-    <img class="screenshot" alt="Item Price list" src="https://docs.erpnext.com/docs/v16/assets/img/stock/item-price-1.png">
+    <img class="screenshot" alt="Item Price list" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/item-price-1.png">
 
 
 ### 1.1 Chọn Bảng giá

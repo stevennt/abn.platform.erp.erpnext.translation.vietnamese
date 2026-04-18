@@ -14,7 +14,7 @@ ERPNext cung cấp các khả năng tùy chỉnh giao diện nâng cao để tha
 
 > **Lưu ý:** Hãy đảm bảo bạn đã thiết lập Giao diện Website trong Cài đặt Website để giao diện được áp dụng.
 
-![Select Website Theme in Website Settings](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/website/website-theme.png)
+![Select Website Theme in Website Settings](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/website/website-theme.png)
 
 ## 2. Các tính năng
 
@@ -43,7 +43,7 @@ Nếu bạn xem qua giao diện mặc định được tạo bởi hộp thoại
 
 Phần "Các tệp Giao diện được bao gồm" liệt kê tất cả các ứng dụng đã cài đặt. Mỗi ứng dụng có thể mang theo tệp giao diện riêng của nó (`[app]/public/scss/website.scss`). Một giao diện có thể là đầy đủ, cung cấp kiểu dáng cho toàn bộ website, hoặc chỉ là một phần bổ sung. Ví dụ: nó có thể chỉ định kiểu dáng cho các thành phần mà nó giới thiệu. Bằng cách tích vào các ô, bạn có thể chọn giao diện nào sẽ được bao gồm trong website của mình.
 
-![Included Theme Files](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/website/website-theme-included-theme-files.gif)
+![Included Theme Files](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/website/website-theme-included-theme-files.gif)
 
 ### 2.4 JS tùy chỉnh
 

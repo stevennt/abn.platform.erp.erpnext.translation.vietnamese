@@ -24,7 +24,7 @@ Khi Khách hàng tiềm năng đến từ các trang web khác HOẶC từ các 
 
 	> Home > Settings > Shopping Cart Settings
 
-	<img class="screenshot" alt="Shopping Cart Settings to enable Coupon Code" src="https://docs.erpnext.com/docs/v16/assets/img/selling/coupon-code-shoppingcart-settings.png">
+	<img class="screenshot" alt="Shopping Cart Settings to enable Coupon Code" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/selling/coupon-code-shoppingcart-settings.png">
 
 1. Tạo một Quy tắc định giá có bật cờ **Coupon Code Based**.
 
@@ -52,7 +52,7 @@ Khi Khách hàng tiềm năng đến từ các trang web khác HOẶC từ các 
 
 5. Nhấn Lưu
 
-	<img class="screenshot" alt="Coupon Code Doctype" src="https://docs.erpnext.com/docs/v16/assets/img/selling/coupon-code.png">
+	<img class="screenshot" alt="Coupon Code Doctype" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/selling/coupon-code.png">
 
 ## 3. Các tính năng
 
@@ -63,7 +63,7 @@ Khi Khách hàng tiềm năng đến từ các trang web khác HOẶC từ các 
 3. **Used** - đối với mỗi Đơn bán hàng được Xác nhận với mã coupon, số lần đã sử dụng sẽ tăng thêm 1.
 4. **Coupon Code Description** - có thể được sử dụng khi tạo Mẫu email để thông báo cho khách hàng tiềm năng về mã coupon và thông tin chương trình
 
-	<img class="screenshot" alt="Pricing Rule Coupon Code Based" src="https://docs.erpnext.com/docs/v16/assets/img/selling/coupon-code-pricing-rule.png">
+	<img class="screenshot" alt="Pricing Rule Coupon Code Based" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/selling/coupon-code-pricing-rule.png">
 
 
 
@@ -75,7 +75,7 @@ Khi Khách hàng tiềm năng đến từ các trang web khác HOẶC từ các 
 
 2. Áp dụng mã một cách rõ ràng, bằng cách điền mã và nhấn nút "Apply Coupon Code" như hiển thị dưới đây trong trang giỏ hàng
 
-	<img class="screenshot" alt="Shopping Cart Apply CouponCode" src="https://docs.erpnext.com/docs/v16/assets/img/selling/coupon-code-pricing-rule.png">
+	<img class="screenshot" alt="Shopping Cart Apply CouponCode" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/selling/coupon-code-pricing-rule.png">
 
 Giá sẽ được cập nhật sau khi áp dụng mã coupon thành công.
 

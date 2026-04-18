@@ -4,7 +4,7 @@
 
 **Loại khoản vay là nơi bạn có thể xác định các loại khoản vay khác nhau và các thuộc tính của chúng như lãi suất, chi tiết tài khoản khoản vay, v.v.**
 
-<img class="screenshot" alt="Make Loan Type" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/loan-management/loan-type-flow.png">
+<img class="screenshot" alt="Make Loan Type" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/loan-management/loan-type-flow.png">
 
 Để truy cập danh sách Loại khoản vay, hãy đi tới:
 > Home > Loan Management > Loan > Loan Type
@@ -18,7 +18,7 @@
 1. Nhấp vào "Lưu" để lưu bản nháp của loại khoản vay.
 1. Nhấp vào "Xác nhận" để xác nhận loại khoản vay.
 
-<img class="screenshot" alt="Loan Type" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/loan-management/loan-type.png">
+<img class="screenshot" alt="Loan Type" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/loan-management/loan-type.png">
 
 ## 2. Tính năng
 ### 2.1 Tạo Khoản vay có kỳ hạn và Khoản vay theo yêu cầu

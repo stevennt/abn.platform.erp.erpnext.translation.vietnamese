@@ -7,13 +7,13 @@ Nhân viên bán hàng cũng có thể được cập nhật trong danh mục Kh
 
 Ngoài ra, trong phiên bản v16, tại giao diện Khách hàng, bạn có thể truy cập nhanh các nút **Đơn bán hàng** hoặc **Báo giá** để xem lịch sử giao dịch của khách hàng đó.
 
-<img class="screenshot" alt="Sales Person Customer" src="https://docs.erpnext.com/docs/v16/assets/img/selling/sales-person-in-customer.png">
+<img class="screenshot" alt="Sales Person Customer" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/selling/sales-person-in-customer.png">
 
 #### Mức đóng góp của Nhân viên bán hàng
 
 Nếu có nhiều nhân viên bán hàng cùng làm việc trên một đơn hàng, thì mức đóng góp (%) cần được thiết lập cho mỗi Nhân viên bán hàng.
 
-<img class="screenshot" alt="Sales Person Order" src="https://docs.erpnext.com/docs/v16/assets/img/selling/sales-person-in-sales-order.png">
+<img class="screenshot" alt="Sales Person Order" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/selling/sales-person-in-sales-order.png">
 
 Khi Lưu giao dịch, dựa trên Tổng ròng và mức Đóng góp (%), `Mức đóng góp vào Tổng ròng` sẽ được tính toán cho mỗi Nhân viên bán hàng.
 
@@ -31,7 +31,7 @@ Báo cáo này có thể được tạo dựa trên Đơn bán hàng, Phiếu gi
 
 **Lưu ý về Ngày chốt (Cutoff date):** Đối với Phiếu giao hàng (DN) được tạo từ Đơn bán hàng (SO), hệ thống v16 cho phép quản lý chặt chẽ hơn thông qua ngày chốt (Cutoff date) để đảm bảo tính chính xác của dữ liệu tồn kho và doanh thu tại thời điểm giao hàng.
 
-<img class="screenshot" alt="Sales Person Report" src="https://docs.erpnext.com/docs/v16/assets/img/selling/sales-person-wise-transaction-summary-report.png">
+<img class="screenshot" alt="Sales Person Report" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/selling/sales-person-wise-transaction-summary-report.png">
 
 #### Hoa hồng theo Nhân viên bán hàng
 

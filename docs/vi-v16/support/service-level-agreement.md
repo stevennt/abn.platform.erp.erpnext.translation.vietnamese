@@ -16,7 +16,7 @@ Trước khi tạo và sử dụng Thỏa thuận mức độ dịch vụ, bạn
 
 * Bật **Track Service Level Agreement** trong Cài đặt hỗ trợ
 
-    ![Service Level Agreement](https://docs.erpnext.com/docs/v16/assets/img/support/sla-setting.png)
+    ![Service Level Agreement](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/support/sla-setting.png)
 
 ## 2. Cách tạo Thỏa thuận mức độ dịch vụ
 1. Đi tới danh sách Thỏa thuận mức độ dịch vụ, nhấn vào Mới.
@@ -30,30 +30,30 @@ Trước khi tạo và sử dụng Thỏa thuận mức độ dịch vụ, bạn
 1. Ngày bắt đầu / Ngày kết thúc (Start / End Date): Xác định hiệu lực của thỏa thuận.
 1. Mức độ ưu tiên (Priorities): Bạn có thể thiết lập nhiều Mức độ ưu tiên của Vấn đề cùng với Thời gian phản hồi và Thời gian giải quyết (tính bằng giờ và phút).
 
-    ![Service Level](https://docs.erpnext.com/docs/v16/assets/img/support/priorities.png)
+    ![Service Level](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/support/priorities.png)
 1. Mức độ ưu tiên mặc định (Default Priority): Mức độ ưu tiên được chọn trong bảng Priorities sẽ được áp dụng trong Thỏa thuận mức độ dịch vụ.
 1. Giờ hỗ trợ (Support Hours): Bao gồm các Ngày trong tuần mà dịch vụ Hỗ trợ được cung cấp. Có Giờ bắt đầu và Giờ kết thúc của ngày làm việc.
 
-    ![SLA Support Hours](https://docs.erpnext.com/docs/v16/assets/img/support/sla-support-hours.png)
+    ![SLA Support Hours](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/support/sla-support-hours.png)
 1. Lưu.
 
-    ![SLA](https://docs.erpnext.com/docs/v16/assets/img/support/sla.png)
+    ![SLA](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/support/sla.png)
 
 ## 3. Các tính năng
 ### 3.1 Áp dụng cho các Vấn đề mới
 
 Sau khi một SLA được Lưu, nó sẽ được áp dụng cho các Vấn đề được tạo bởi Khách hàng/Khu vực theo tùy chọn bạn đã chọn trong 'Entity Type'.
 
-![SLA in Issue](https://docs.erpnext.com/docs/v16/assets/img/support/sla-entity-type.png)
+![SLA in Issue](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/support/sla-entity-type.png)
 
 ### 3.2 Đặt lại (Resetting) một SLA
 Một SLA cũng có thể được đặt lại cho đến khi thời gian không bị quá hạn. Ví dụ: nếu SLA là 3 ngày, bạn chỉ có thể đặt lại SLA trong vòng 3 ngày kể từ khi Vấn đề được tạo. Sau đó, Mức độ dịch vụ sẽ hiển thị là thất bại (failed).
 
-![SLA Issue](https://docs.erpnext.com/docs/v16/assets/img/support/reset-sla.gif)
+![SLA Issue](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/support/reset-sla.gif)
 
 ### 3.3 Thời gian phản hồi / giải quyết trong Vấn đề
 Thời gian để phản hồi một Vấn đề và thời gian để giải quyết sẽ được hiển thị:
-    ![SLA in Issue](https://docs.erpnext.com/docs/v16/assets/img/support/sla-in-issue.png)
+    ![SLA in Issue](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/support/sla-in-issue.png)
 
 Các thời gian này dựa trên khung thời gian được thiết lập trong trường 'Mức độ ưu tiên' (Priority) trong bảng Priorities của Mức độ dịch vụ.
 
@@ -62,11 +62,11 @@ Các thời gian này dựa trên khung thời gian được thiết lập trong
 Từ phiên bản 13 trở đi, ERPNext cho phép bạn tạm dừng SLA đối với các vấn đề khi bạn đang chờ đợi một sự kiện nào đó xảy ra. Bạn có thể làm điều này bằng cách chọn một trạng thái được cấu hình trong bảng "Tạm dừng SLA khi" (Pause SLA On).
 
 * Thiết lập các trạng thái mà bạn muốn tạm dừng SLA trong tài liệu SLA. Bạn cũng có thể thêm các trạng thái tùy chỉnh tại đây.
-    <img class="screenshot" alt="Service Level" src="https://docs.erpnext.com/docs/v16/assets/img/support/pause-sla.png">
+    <img class="screenshot" alt="Service Level" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/support/pause-sla.png">
 * Khi trạng thái được chuyển sang bất kỳ trạng thái nào ở trên, các trường giải quyết và phản hồi sẽ được bỏ trống và các chỉ số trên trang tổng quan sẽ thay đổi thành:
-    <img class="screenshot" alt="Service Level" src="https://docs.erpnext.com/docs/v16/assets/img/support/hold-indicator.png">
+    <img class="screenshot" alt="Service Level" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/support/hold-indicator.png">
 * Khi trạng thái của vấn đề chuyển trở lại trạng thái không tạm dừng (trạng thái không được cấu hình trong bảng "Tạm dừng SLA khi"), trường **Tổng thời gian tạm dừng** (Total Hold time) sẽ được thiết lập trong tài liệu Vấn đề của bạn.
-    <img class="screenshot" alt="Service Level" src="https://docs.erpnext.com/docs/v16/assets/img/support/total-hold-time.png">
+    <img class="screenshot" alt="Service Level" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/support/total-hold-time.png">
 Thời gian Phản hồi và Giải quyết sẽ được tính toán lại bằng cách cộng thêm thời gian tạm dừng, từ đó khởi động lại bộ đếm thời gian SLA của bạn.
 
 {next}

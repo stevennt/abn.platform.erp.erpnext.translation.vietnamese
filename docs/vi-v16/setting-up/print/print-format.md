@@ -19,7 +19,7 @@ Mọi giao dịch đều có một Mẫu in mặc định được gọi là 'St
 1. Nhập tên và chọn DocType mà Mẫu in này sẽ được sử dụng.
 1. Module áp dụng sẽ được tự động lựa chọn.
 
-  ![Print Format menu](https://docs.erpnext.com/docs/v16/assets/img/setup/print/print-format-menu.png)
+  ![Print Format menu](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/print/print-format-menu.png)
 
 1. Lưu.
 
@@ -34,16 +34,16 @@ Các trường trong giao dịch và các bảng con của chúng có thể đư
 Ví dụ, nếu bạn muốn ẩn 'Mặt hàng' (Item Code) khi in một Báo giá (Quotation), hãy nhấp vào biểu tượng in để vào màn hình in.
 
 Đi tới Menu > Customize, chọn Quotation Item trong trường 'Enter Form Type'.
-![Print Format Customize](https://docs.erpnext.com/docs/v16/assets/img/setup/print/print-format-customize1.png)
+![Print Format Customize](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/print/print-format-customize1.png)
 
 Để biết thêm, hãy truy cập trang [Customize Print Format](/docs/v16/user/manual/customize-erpnext/print-format).
 
 Trong bảng các trường (fields table), mở rộng dòng 'Item Code', cuộn xuống và đánh dấu vào ô 'Print Hide'.
-![Print Format Print Hide](https://docs.erpnext.com/docs/v16/assets/img/setup/print/print-format-customize2.png)
+![Print Format Print Hide](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/print/print-format-customize2.png)
 
 
 Một Mẫu in mới được tạo có thể được chọn trên màn hình in của một giao dịch. Từ đó, bạn có thể xem giao diện của nó và tiến hành in.
-![Selecting a Print Format](https://docs.erpnext.com/docs/v16/assets/img/setup/print/print-format-selection.png)
+![Selecting a Print Format](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/print/print-format-selection.png)
 
 ## 2. Video
 <div class="embed-container">

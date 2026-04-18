@@ -13,9 +13,9 @@ ERPNext cho phép bạn tạo kết quả đào tạo và chia sẻ với nhân 
 
 Trước khi tạo Kết quả đào tạo, bạn nên tạo các tài liệu sau:
 
-* [Chương trình đào tạo](/docs/v13/user/manual/en/human-resources/training-program)
-* [Sự kiện đào tạo](/docs/v13/user/manual/en/human-resources/training-event)
-* [Nhân viên](/docs/v13/user/manual/en/human-resources/employee)
+* [Chương trình đào tạo](training-program.md)
+* [Sự kiện đào tạo](training-event.md)
+* [Nhân viên](employee.md)
 
 
 ## 2. Cách tạo Kết quả đào tạo
@@ -25,13 +25,13 @@ Trước khi tạo Kết quả đào tạo, bạn nên tạo các tài liệu sa
 1. Nhập Số giờ, Điểm số và Nhận xét tương ứng với Tên nhân viên.
 1. Lưu và Xác nhận
 
-    <img class="screenshot" alt="Employee" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/training-result.png">
+    <img class="screenshot" alt="Employee" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/training-result.png">
 
-Khi Kết quả đào tạo được xác nhận, tất cả nhân viên sẽ nhận được một email thông báo rằng họ phải chia sẻ phản hồi của mình thông qua [Phản hồi đào tạo](/docs/v13/user/manual/en/human-resources/training-feedback). Việc này cũng được quản lý thông qua Cảnh báo Email, vì vậy bạn cũng có thể tùy chỉnh cảnh báo này.
+Khi Kết quả đào tạo được xác nhận, tất cả nhân viên sẽ nhận được một email thông báo rằng họ phải chia sẻ phản hồi của mình thông qua [Phản hồi đào tạo](training-feedback.md). Việc này cũng được quản lý thông qua Cảnh báo Email, vì vậy bạn cũng có thể tùy chỉnh cảnh báo này.
 
 
 > **Lưu ý:** Bạn cũng có thể truy cập Kết quả đào tạo trực tiếp từ Trang tổng quan Sự kiện đào tạo.
 
 ## 3. Các chủ đề liên quan
 
-1. [Phản hồi đào tạo](/docs/v13/user/manual/en/human-resources/training-feedback)
+1. [Phản hồi đào tạo](training-feedback.md)

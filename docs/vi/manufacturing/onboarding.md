@@ -3,7 +3,7 @@
 
 ERPNext được tích hợp sẵn đầy đủ cho tất cả các yêu cầu của một doanh nghiệp sản xuất như quản lý Kho, Trạm làm việc / Máy móc, Công đoạn, Thành phẩm, Nguyên vật liệu, theo dõi Định mức nguyên vật liệu, lập kế hoạch và thực hiện Lệnh sản xuất, thu mua, và nhiều tính năng khác nữa.
 
-<img class="screenshot" alt="BOM" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/onboarding.png">
+<img class="screenshot" alt="BOM" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/onboarding.png">
 
 ## 1. Dữ liệu danh mục
 
@@ -11,11 +11,11 @@ Phân hệ Sản xuất trong ERPNext giúp bạn quản lý Kho (địa điểm
 
 Chi tiết thêm như dưới đây:
 
-1. [Kho](/docs/v13/user/manual/en/stock/warehouse)
-1. [Trạm làm việc / Máy móc](/docs/v13/user/manual/en/manufacturing/workstation)
-1. [Công đoạn](/docs/v13/user/manual/en/manufacturing/operation)
-1. [Nguyên vật liệu / Thành phẩm](/docs/v13/user/manual/en/stock/item)
-1. [Quy trình sản xuất](/docs/v13/user/manual/en/manufacturing/routing)
+1. [Kho](../stock/warehouse.md)
+1. [Trạm làm việc / Máy móc](workstation.md)
+1. [Công đoạn](operation.md)
+1. [Nguyên vật liệu / Thành phẩm](../stock/item.md)
+1. [Quy trình sản xuất](routing.md)
 
 
 ## 2. Dữ liệu giao dịch
@@ -24,10 +24,10 @@ Phân hệ Sản xuất trong ERPNext giúp bạn duy trì Định mức nguyên
 
 Chi tiết thêm như dưới đây:
 
-1. [Định mức nguyên vật liệu](/docs/v13/user/manual/en/manufacturing/bill-of-materials)
-1. [Lệnh sản xuất](/docs/v13/user/manual/en/manufacturing/work-order)
-1. [Thẻ công việc](/docs/v13/user/manual/en/manufacturing/job-card)
-1. [Kế hoạch sản xuất](/docs/v13/user/manual/en/manufacturing/production-plan)
+1. [Định mức nguyên vật liệu](bill-of-materials.md)
+1. [Lệnh sản xuất](work-order.md)
+1. [Thẻ công việc](job-card.md)
+1. [Kế hoạch sản xuất](production-plan.md)
 
 ## 3. Các loại Kế hoạch sản xuất
 
@@ -39,7 +39,7 @@ Nhìn chung, có ba loại Hệ thống Kế hoạch sản xuất:
 
 Hầu hết các doanh nghiệp sản xuất quy mô vừa và nhỏ đều dựa trên hệ thống sản xuất theo đơn hàng hoặc sản xuất theo thiết kế và ERPNext cũng vậy.
 
-Đối với các hệ thống sản xuất theo thiết kế, phân hệ Sản xuất nên được sử dụng cùng với [phân hệ Dự án](/docs/v13/user/manual/en/projects).
+Đối với các hệ thống sản xuất theo thiết kế, phân hệ Sản xuất nên được sử dụng cùng với [phân hệ Dự án](../projects).
 
 ## 4. Tác động của Sản xuất đối với Tồn kho
 
@@ -53,6 +53,6 @@ Xem video sau để biết về các tính năng trong phân hệ sản xuất.
  <iframe src="https://www.youtube.com/embed/xE74wdQU5cc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
-<!-- <img class="screenshot" alt="Task" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/manufacturing.png"> -->
+<!-- <img class="screenshot" alt="Task" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/manufacturing.png"> -->
 
 {next}

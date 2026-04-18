@@ -23,7 +23,7 @@
 Trong bảng Bậc thuế, bạn có thể xác định mức thuế cho các bậc thu nhập khác nhau. Để xác định bậc thuế, cần nhập Số tiền từ (From Amount) và Số tiền đến (To Amount). Đối với bậc đầu tiên, Số tiền từ là tùy chọn và đối với bậc cuối cùng, Số tiền đến là tùy chọn. Cả hai số tiền đều được bao gồm khi tính toán thuế dựa trên thu nhập chịu thuế.
 
 
-<img class="screenshot" alt="Income Tax Slab" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/income-tax-slab.png">
+<img class="screenshot" alt="Income Tax Slab" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/income-tax-slab.png">
 
 Bậc thuế có thể được áp dụng dựa trên các điều kiện cụ thể. Các điều kiện có thể được viết bằng cách sử dụng tất cả tên trường của các tài liệu Nhân viên, Cấu trúc lương, Phân bổ cấu trúc lương và Phiếu lương.
 
@@ -48,7 +48,7 @@ annual_taxable_earning > 500000
 Nếu các loại thuế khác được áp dụng trên thuế thu nhập đã tính, bạn có thể nhập chúng bằng bảng này. Bạn cũng có thể xác định số tiền chịu thuế tối thiểu và tối đa mà loại thuế này sẽ được áp dụng.
 Ví dụ, Phụ phí Y tế và Giáo dục được áp dụng bổ sung trên thuế thu nhập cho tất cả mọi người ở Ấn Độ.
 
-<img class="screenshot" alt="Other Charged on Income Tax" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/other-taxes-on-income-tax.png">
+<img class="screenshot" alt="Other Charged on Income Tax" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/other-taxes-on-income-tax.png">
 
 
 ### 2.3 Các thuộc tính khác
@@ -58,9 +58,9 @@ Ví dụ, Phụ phí Y tế và Giáo dục được áp dụng bổ sung trên 
 
 ## 3. Các chủ đề liên quan
 
-1. [Thành phần lương](/docs/v13/user/manual/en/human-resources/salary-component)
-1. [Cấu trúc lương](/docs/v13/user/manual/en/human-resources/salary-structure)
-1. [Phân bổ cấu trúc lương](/docs/v13/user/manual/en/human-resources/salary-structure-assignment)
-1. [Bút toán lương](/docs/v13/user/manual/en/human-resources/payroll-entry)
-1. [Khai báo miễn thuế của nhân viên](/docs/v13/user/manual/en/human-resources/employee-tax-exemption-declaration)
-1. [Nộp minh chứng miễn thuế của nhân viên](/docs/v13/user/manual/en/human-resources/employee-tax-exemption-proof-submission)
+1. [Thành phần lương](salary-component.md)
+1. [Cấu trúc lương](salary-structure.md)
+1. [Phân bổ cấu trúc lương](salary-structure-assignment.md)
+1. [Bút toán lương](payroll-entry.md)
+1. [Khai báo miễn thuế của nhân viên](employee-tax-exemption-declaration.md)
+1. [Nộp minh chứng miễn thuế của nhân viên](employee-tax-exemption-proof-submission.md)

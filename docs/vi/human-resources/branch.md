@@ -14,7 +14,7 @@ ERPNext cho phép bạn tạo và lưu giữ hồ sơ về các chi nhánh khác
 
 Trước khi tạo Chi nhánh, bạn bắt buộc phải tạo các tài liệu sau:
 
-* [Company](/docs/v13/user/manual/en/setting-up/company-setup)
+* [Company](../setting-up/company-setup.md)
 
 ## 2. Cách tạo Chi nhánh
 
@@ -23,15 +23,15 @@ Trước khi tạo Chi nhánh, bạn bắt buộc phải tạo các tài liệu 
 2. Nhập tên của Chi nhánh.
 3. Lưu.
 
-<img class="screenshot" alt="Branch" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/branch.png">
+<img class="screenshot" alt="Branch" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/branch.png">
 
-Bạn có thể liên kết Chi nhánh với danh mục [Employee](/docs/v13/user/manual/en/human-resources/employee).
+Bạn có thể liên kết Chi nhánh với danh mục [Employee](employee.md).
 
 ## 3. Các chủ đề liên quan
 
-1. [Employee](/docs/v13/user/manual/en/human-resources/employee)
-1. [Employment Type](/docs/v13/user/manual/en/human-resources/employment-type)
-1. [Department](/docs/v13/user/manual/en/human-resources/department)
-1. [Designation](/docs/v13/user/manual/en/human-resources/designation)
-1. [Employee Grade](/docs/v13/user/manual/en/human-resources/employee-grade)
-1. [Employee Group](/docs/v13/user/manual/en/human-resources/employee-group)
+1. [Employee](employee.md)
+1. [Employment Type](employment-type.md)
+1. [Department](department.md)
+1. [Designation](designation.md)
+1. [Employee Grade](employee-grade.md)
+1. [Employee Group](employee-group.md)

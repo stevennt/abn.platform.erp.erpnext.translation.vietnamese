@@ -3,7 +3,7 @@ Phân hệ Giáo dục trong ERPNext được thiết kế để đáp ứng yê
 
 Nó giúp bạn quản lý hành chính một cách hiệu quả và cho phép bạn tập trung vào điều quan trọng nhất đối với học viện của mình, **đó là giáo dục!**
 
-<img class="screenshot" alt="School Hero" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/school-hero.png">
+<img class="screenshot" alt="School Hero" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/school-hero.png">
 
 ## Nội dung của Phân hệ Giáo dục ERPNext
 
@@ -21,7 +21,7 @@ Sử dụng mô-đun Giáo dục của ERPNext, bạn có thể quản lý hiệ
 
 Để xem bản demo trực tuyến về từng chức năng của mô-đun Giáo dục ERPNext, [vui lòng nhấp vào đây.](https://www.youtube.com/watch?v=f6foQOyGzdA&list=PL3lFfCEoMxvxyjnARY_C1zLoOE55LcMKB)
 
-<img class="screenshot" alt="Fees Section" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/assessment.png">
+<img class="screenshot" alt="Fees Section" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/assessment.png">
 
 ## Ai sử dụng ERPNext Giáo dục?
 

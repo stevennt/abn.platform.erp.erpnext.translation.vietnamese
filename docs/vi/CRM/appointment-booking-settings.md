@@ -2,11 +2,11 @@
 
 Bạn có thể tìm thấy tất cả các cài đặt liên quan đến việc đặt lịch hẹn trong Cài đặt Đặt lịch hẹn.
 
-![Appointment Booking Settings](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/crm/appointment-booking-settings.png)
+![Appointment Booking Settings](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/crm/appointment-booking-settings.png)
 
 ## 1. Cho phép lập lịch hẹn
 
-Ô đánh dấu này sẽ cho phép lập lịch hẹn và cũng cho phép kích hoạt Route `/book_appointment` cho người dùng website (khách hàng của bạn). Khách hàng của bạn sẽ thấy một giao diện cổng thông tin. Để biết thêm chi tiết, hãy truy cập [Trang Lịch hẹn](/docs/v13/user/manual/en/CRM/appointment)
+Ô đánh dấu này sẽ cho phép lập lịch hẹn và cũng cho phép kích hoạt Route `/book_appointment` cho người dùng website (khách hàng của bạn). Khách hàng của bạn sẽ thấy một giao diện cổng thông tin. Để biết thêm chi tiết, hãy truy cập [Trang Lịch hẹn](appointment.md)
 
 ## 2. Chi tiết về Nhân viên hỗ trợ
 
@@ -24,7 +24,7 @@ Ví dụ: nếu nhân viên của bạn làm việc từ Thứ Hai đến Thứ 
 
 ### 2.3 Danh sách ngày nghỉ
 
-Bạn có thể liên kết một [danh sách ngày nghỉ](https://erpnext.com/docs/v13/user/manual/en/human-resources/holiday-list) tại đây để áp dụng cho lịch hẹn. Nếu ngày đó là ngày nghỉ, việc lập lịch hẹn vào ngày đó sẽ không được cho phép.
+Bạn có thể liên kết một [danh sách ngày nghỉ](human-resources/holiday-list) tại đây để áp dụng cho lịch hẹn. Nếu ngày đó là ngày nghỉ, việc lập lịch hẹn vào ngày đó sẽ không được cho phép.
 
 ## 3. Chi tiết cuộc hẹn
 

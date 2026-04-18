@@ -45,7 +45,7 @@ Giá trị tồn kho theo phương pháp thường xuyên được kích hoạt 
 
 5. Đi tới: **Home > Accounting > Company**
 
-    <img class="screenshot" alt="Perpetual Inventory" src="https://docs.erpnext.com/docs/v16/assets/img/accounts/perpetual-1.png">
+    <img class="screenshot" alt="Perpetual Inventory" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/perpetual-1.png">
 
 #### 2. Các tính năng mới trong v16 liên quan đến Kho
 
@@ -56,5 +56,5 @@ Giá trị tồn kho theo phương pháp thường xuyên được kích hoạt 
 * **Xem trước Sổ cái (Ledger Preview):** Xem nhanh các bút toán liên quan trực tiếp từ giao diện quản lý kho.
 
 #### 3. Các chủ đề liên quan
-1. [Kế toán hàng tồn kho](https://docs.erpnext.com/docs/v13/user/manual/en/accounting-of-inventory-stock)
-1. [Kiểm kê thường xuyên](https://docs.erpnext.com/docs/v13/user/manual/en/perpetual-inventory)
+1. [Kế toán hàng tồn kho](accounting-of-inventory-stock)
+1. [Kiểm kê thường xuyên](perpetual-inventory)

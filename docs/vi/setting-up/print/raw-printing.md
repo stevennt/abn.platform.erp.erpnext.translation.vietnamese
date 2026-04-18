@@ -17,7 +17,7 @@ Các hướng dẫn thêm về việc cài đặt Ứng dụng QZ Tray có thể
 
 ### 1.2 Tạo Mẫu in Lệnh thô (Raw Commands Print Format)
 
-Để có thể gửi các lệnh thô đến máy in, trước tiên bạn cần tạo một mẫu in bằng các lệnh thô. Ngôn ngữ Jinja Templating được sử dụng trong các lệnh thô tương tự như trong [mẫu in HTML tùy chỉnh](/docs/v13/user/manual/en/customize-erpnext/print-format).
+Để có thể gửi các lệnh thô đến máy in, trước tiên bạn cần tạo một mẫu in bằng các lệnh thô. Ngôn ngữ Jinja Templating được sử dụng trong các lệnh thô tương tự như trong [mẫu in HTML tùy chỉnh](../../customize-erpnext/print-format.md).
 
 Để tạo một mẫu in mới cho In thô:
 
@@ -28,7 +28,7 @@ Các hướng dẫn thêm về việc cài đặt Ứng dụng QZ Tray có thể
 5. Điền vào trường **Raw Commands** các lệnh thô cần thiết để gửi đến máy in.
 6. Nhấp Lưu.
 
-  ![Raw Commands Print Format](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/print/raw-command-print-format.png)
+  ![Raw Commands Print Format](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/print/raw-command-print-format.png)
 
 Hiện tại, bất kỳ ngôn ngữ máy in dựa trên chuỗi nào cũng có thể được sử dụng trong trường `Raw Commands` trong mẫu in. Việc viết các lệnh thô yêu cầu kiến thức về ngôn ngữ gốc của máy in do nhà sản xuất máy in cung cấp. Vui lòng tham khảo hướng dẫn dành cho nhà phát triển do nhà sản xuất máy in cung cấp về cách viết các lệnh gốc của họ.
 
@@ -51,19 +51,19 @@ Có hai cách để gửi lệnh In thô đến máy in của bạn.
 1. Chọn mẫu in phù hợp. Đối với mẫu in bằng Lệnh thô, thông báo "No Preview available" sẽ được hiển thị thay cho bản xem trước bản in.
 2. Nhấp vào nút in.
 3. Vui lòng cho phép yêu cầu kết nối từ QZ Tray cho các hành động mà bạn đã khởi tạo (Phím tắt: Alt + A).
-   -  ![QZ Tray Prompt](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/print/qz-tray-prompt.png)
+   -  ![QZ Tray Prompt](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/print/qz-tray-prompt.png)
 4. Bạn có thể được yêu cầu chọn "print format - printer mapping" (mẫu in - ánh xạ máy in).
    -  Việc ánh xạ này được sử dụng để gửi lệnh in đến máy in phù hợp.
    -  Máy in cần phải được cài đặt trên máy tính của bạn để có thể ánh xạ nó với một mẫu in.
-     ![print format - printer mapping](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/print/printer-settings.png)
+     ![print format - printer mapping](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/print/printer-settings.png)
    -  Việc ánh xạ này được lưu cục bộ trên cùng một máy tính và sẽ phải được thiết lập trên mỗi máy khách.
    -  Bạn cũng có thể chỉnh sửa việc này bằng cách nhấp vào nút **Printer Settings**.
 
-      ![Raw Printing from Print View](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/print/raw-printing-from-print-view.gif)
+      ![Raw Printing from Print View](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/print/raw-printing-from-print-view.gif)
 
 ### 2.2 Gọi các hàm In thô từ một client script
 
-Thông thường sẽ có yêu cầu rằng một lệnh in phải được thực hiện khi có một sự kiện nhất định xảy ra (như Xác nhận, Lưu, Sửa đổi, v.v.). Bạn có thể viết một [client script](/docs/v13/user/manual/en/customize-erpnext/client-scripts) để thực hiện việc này cho bạn.
+Thông thường sẽ có yêu cầu rằng một lệnh in phải được thực hiện khi có một sự kiện nhất định xảy ra (như Xác nhận, Lưu, Sửa đổi, v.v.). Bạn có thể viết một [client script](../../customize-erpnext/client-scripts) để thực hiện việc này cho bạn.
 
 Dưới đây là các hàm In thô liên quan:
 
@@ -107,6 +107,6 @@ Dưới đây là các hàm In thô liên quan:
 Bạn cũng có thể truy cập trực tiếp các hàm được cung cấp bởi thư viện `qz-tray.js` thông qua đối tượng `qz`. [Nhấp vào đây để xem tài liệu thư viện qz-tray.js](https://qz.io/api/). Lưu ý: Đối tượng `qz` chỉ được khởi tạo sau khi gọi `frappe.ui.form.qz_connect` lần đầu tiên. Trong trường hợp bạn cần đối tượng `qz` trước đó, bạn có thể sử dụng `frappe.ui.form.qz_init`.
 
 ### 3. Các chủ đề liên quan
-1. [Cài đặt in](/docs/v13/user/manual/en/setting-up/print/print-settings)
-1. [Mẫu in](/docs/v13/user/manual/en/setting-up/print/print-format)
-1. [Kiểu in](/docs/v13/user/manual/en/setting-up/print/print-style)
+1. [Cài đặt in](print-settings.md)
+1. [Mẫu in](print-format.md)
+1. [Kiểu in](print-style.md)

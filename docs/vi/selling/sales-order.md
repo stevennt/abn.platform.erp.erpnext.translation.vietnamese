@@ -5,7 +5,7 @@
 
 Nó thường là một Hợp đồng ràng buộc với Khách hàng của bạn. Khi khách hàng xác nhận Báo giá, bạn có thể chuyển đổi Báo giá của mình thành Đơn bán hàng.
 
-![Sales Flow](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/selling/selling-flow-so.png)
+![Sales Flow](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/selling/selling-flow-so.png)
 
 Để truy cập Đơn bán hàng, hãy đi đến:
 > Home > Selling > Sales > Sales Order
@@ -13,14 +13,14 @@ Nó thường là một Hợp đồng ràng buộc với Khách hàng của bạ
 ## 1. Điều kiện tiên quyết
 Trước khi tạo và sử dụng Đơn bán hàng, bạn nên tạo các mục sau trước:
 
-* [Khách hàng](https://docs.erpnext.com/docs/v13/user/manual/en/CRM/customer)
+* [Khách hàng](../CRM/customer.md)
 * [Mặt hàng](../stock/item.md)
 
 ## 2. Cách tạo Đơn bán hàng
 1. Đi đến danh sách Đơn bán hàng, nhấn vào Mới.
 1. Chọn Khách hàng.
 1. Thiết lập 'Ngày giao hàng' - áp dụng cho toàn bộ đơn hàng.
-1. Với Loại đơn hàng (Order Type), bạn có thể thiết lập đó là Đơn bán hàng, Đơn bảo trì, hoặc từ [Giỏ hàng](https://docs.erpnext.com/docs/v13/user/manual/en/website/shopping-cart) trực tuyến của trang web. Theo mặc định, giá trị này được đặt là "Sales".
+1. Với Loại đơn hàng (Order Type), bạn có thể thiết lập đó là Đơn bán hàng, Đơn bảo trì, hoặc từ [Giỏ hàng](../website/shopping-cart.md) trực tuyến của trang web. Theo mặc định, giá trị này được đặt là "Sales".
 1. Trong phần "Đơn mua hàng của Khách hàng", bạn có thể nhập Số đơn mua hàng của Khách hàng hoặc các chi tiết khác có thể hữu ích để tham chiếu.
 1. Nhập các mặt hàng và số lượng cần giao trong bảng Mặt hàng. Nếu Đơn giá Mặt hàng đã được thiết lập cho các mặt hàng, trường Đơn giá sẽ được tự động điền. Nếu không, hãy nhập Đơn giá mặt hàng theo cách thủ công. Bạn cũng có thể ghi đè Đơn giá Mặt hàng được tự động điền trong trường hợp bạn muốn thay đổi giá trị đó.
 1. Nhấn "Lưu" để lưu bản nháp của Đơn bán hàng.
@@ -29,11 +29,11 @@ Trước khi tạo và sử dụng Đơn bán hàng, bạn nên tạo các mục
 ### 2.1 Các cách khác để tạo Đơn bán hàng
 1. Bạn cũng có thể tạo Đơn bán hàng từ một Báo giá đã được xác nhận thông qua nút Tạo ở góc trên bên phải.
 
-  ![Make Sales Order from Quotation](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/selling/make-SO-from-quote.png)
+  ![Make Sales Order from Quotation](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/selling/make-SO-from-quote.png)
 
 1. Hoặc bạn có thể tạo một Đơn bán hàng mới và lấy thông tin chi tiết từ một Báo giá.
 
-  ![Make Sales Order from Quotation](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/selling/so-from-quote.gif)
+  ![Make Sales Order from Quotation](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/selling/so-from-quote.gif)
 
 Để cho phép các Quy tắc định giá theo từng Khách hàng, từng Mặt hàng ("Khách hàng A" trả 1,00 $ cho "Mặt hàng 1" nhưng "Khách hàng B" trả 1,25 $ cho "Mặt hàng 1"), có một hộp kiểm gọi là 'Allow User to Edit Price List Rate in Transaction' trong [Cài đặt bán hàng](selling-settings.md). Điều này cho phép lưu giá mặt hàng cụ thể cho từng khách hàng khi bạn thay đổi giá trong Đơn bán hàng.
 
@@ -77,7 +77,7 @@ Bạn sẽ được yêu cầu chọn một Kho giao hàng ngay cả đối vớ
 
 Dưới đây là hình ảnh của một Phiếu đóng gói:
 
-![Packing List](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/selling/so-packing-list.png)
+![Packing List](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/selling/so-packing-list.png)
 
 ### 3.4 Thuế và Phí
 Để thêm thuế vào Báo giá, bạn có thể chọn một [Mẫu thuế và phí bán hàng](sales-taxes-and-charges-template.md) hoặc thêm thuế theo cách thủ công trong bảng Thuế và phí bán hàng.

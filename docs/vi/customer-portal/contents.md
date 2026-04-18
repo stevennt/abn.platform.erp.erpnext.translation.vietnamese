@@ -7,9 +7,9 @@ Cổng thông tin này cho phép khách hàng đăng nhập và tìm kiếm các
 
 ### Các chủ đề
 
-1. [Đơn hàng, Hóa đơn và Trạng thái giao hàng của Khách hàng](/docs/v13/user/manual/en/customer-portal/customer-orders-invoices-and-shipping-status)
-1. [Đăng nhập Cổng thông tin](/docs/v13/user/manual/en/customer-portal/portal-login)
-1. [Đăng ký](/docs/v13/user/manual/en/customer-portal/sign-up)
-1. [Các vấn đề](/docs/v13/user/manual/en/customer-portal/issues)
+1. [Đơn hàng, Hóa đơn và Trạng thái giao hàng của Khách hàng](customer-orders-invoices-and-shipping-status.md)
+1. [Đăng nhập Cổng thông tin](portal-login.md)
+1. [Đăng ký](sign-up.md)
+1. [Các vấn đề](issues.md)
 
 {index}

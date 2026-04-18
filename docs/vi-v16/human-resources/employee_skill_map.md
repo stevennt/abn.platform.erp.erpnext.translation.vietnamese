@@ -9,7 +9,7 @@ Bản đồ kỹ năng nhân viên là một bản ghi giúp tổ chức của b
 Đảm bảo rằng bạn đã thiết lập các Kỹ năng cần thiết cho các chức danh từ DocType Skill.
 
 Ví dụ về Kỹ năng cho một Chức danh:
-![Designation Skills](https://docs.erpnext.com/docs/v16/assets/img/human-resources/designation-skills.png)
+![Designation Skills](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/designation-skills.png)
 
 ## 1. Cách tạo Bản đồ kỹ năng nhân viên
 
@@ -20,6 +20,6 @@ Ví dụ về Kỹ năng cho một Chức danh:
 1. Trong bảng Trainings, chọn Sự kiện đào tạo và Ngày đào tạo.
 1. **Lưu**.
 
-![Employee Skill Map](https://docs.erpnext.com/docs/v16/assets/img/human-resources/employee-skill-map.png)
+![Employee Skill Map](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/employee-skill-map.png)
 
 {next}

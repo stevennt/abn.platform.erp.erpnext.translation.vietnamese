@@ -16,25 +16,25 @@ Việc quản lý các mẫu đã thu thập và in nhãn cho các mẫu đó, t
 5. Thiết lập Ngày và Giờ thu thập mẫu trong trường "Collected On".
 6. Lưu và Xác nhận.
 
-  ![Sample Collection](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/sample-collection.png)
+  ![Sample Collection](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/sample-collection.png)
 
 ## 2. Các tính năng
 
 ## 2.1 Tự động hóa Thu thập mẫu
 
-Bạn cũng có thể tự động hóa việc tạo chứng từ Thu thập mẫu cho mỗi Lab Test bằng cách bật tùy chọn 'Create Sample Collection document for Lab Test' trong [Healthcare Settings](/docs/v13/user/manual/en/healthcare/healthcare_settings) và cấu hình các mẫu trong Lab Test Template.
+Bạn cũng có thể tự động hóa việc tạo chứng từ Thu thập mẫu cho mỗi Lab Test bằng cách bật tùy chọn 'Create Sample Collection document for Lab Test' trong [Healthcare Settings](healthcare_settings.md) và cấu hình các mẫu trong Lab Test Template.
 
-![Lab Sample Collection](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/lab-sample-collection.png)
+![Lab Sample Collection](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/lab-sample-collection.png)
 
 ## 2.2 Dán nhãn mẫu
 
-Việc in các thẻ nhận dạng mẫu cũng có thể thực hiện được trong ERPNext. Theo mặc định, một mẫu in có tên "Sample ID Print" được cung cấp sẵn, nhưng bạn luôn có thể tùy chỉnh trực tiếp bằng cách sử dụng [Print Format Builder](/docs/v13/user/manual/en/setting-up/print/print-format-builder.html) hoặc thậm chí tạo một [Print Format](/docs/v13/user/manual/en/customize-erpnext/print-format.html) tùy chỉnh nếu cần. Số lượng nhãn cần thiết phải được thiết lập trong trường "No. of prints" trong chứng từ Thu thập mẫu. Theo đó, bấy nhiêu nhãn sẽ được tạo ra trong chế độ xem in.
+Việc in các thẻ nhận dạng mẫu cũng có thể thực hiện được trong ERPNext. Theo mặc định, một mẫu in có tên "Sample ID Print" được cung cấp sẵn, nhưng bạn luôn có thể tùy chỉnh trực tiếp bằng cách sử dụng [Print Format Builder](../setting-up/print/print-format-builder.html.md) hoặc thậm chí tạo một [Print Format](../customize-erpnext/print-format.html.md) tùy chỉnh nếu cần. Số lượng nhãn cần thiết phải được thiết lập trong trường "No. of prints" trong chứng từ Thu thập mẫu. Theo đó, bấy nhiêu nhãn sẽ được tạo ra trong chế độ xem in.
 
-![Sample Print](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/sample-print.png)
+![Sample Print](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/sample-print.png)
 
 ## 3. Các chủ đề liên quan
 
-1. [Lab Test](/docs/v13/user/manual/en/healthcare/lab_test)
-1. [Lab Test Template](/docs/v13/user/manual/en/healthcare/lab_test_template)
+1. [Lab Test](lab_test.md)
+1. [Lab Test Template](lab_test_template.md)
 
 {next}

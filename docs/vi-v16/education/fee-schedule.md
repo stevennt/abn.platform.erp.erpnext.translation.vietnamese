@@ -20,7 +20,7 @@
 1. Chọn và thêm **Nhóm học sinh (Student Group)**.
 1. **Lưu (Save)** và **Xác nhận (Submit)**.
 
-![Fee Schedule](https://docs.erpnext.com/docs/v16/assets/img/education/education-fee-schedule-1.gif)
+![Fee Schedule](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-fee-schedule-1.gif)
 
 ## 3. Các tính năng
 
@@ -45,6 +45,6 @@ Làm việc với ERPNext cho phép bạn cập nhật các **Bút toán (JE)** 
 
 * **Trung tâm chi phí (Cost Center)**: Chọn và thêm tên Trung tâm chi phí của Cơ sở giáo dục để phục vụ cho các Chiều kích kế toán.
 
-![Fees Schedule](https://docs.erpnext.com/docs/v16/assets/img/education/education-fee-schedule-2.png)
+![Fees Schedule](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-fee-schedule-2.png)
 
 {next}

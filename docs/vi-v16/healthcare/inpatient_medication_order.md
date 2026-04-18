@@ -30,14 +30,14 @@ Bạn có thể tạo Đơn thuốc Nội trú theo hai cách.
 8. **Lưu** và **Xác nhận**. Ngày kết thúc (End Date) sẽ được thiết lập tự động dựa trên thời gian kê đơn.
 9. Bạn có thể xem Tổng số đơn (Total Orders) và Số đơn đã hoàn thành (Completed Orders) trong phần Chi tiết khác (Other Details).
 
-<img class="screenshot" alt="IPMO-PE" src="https://docs.erpnext.com/docs/v16/assets/img/healthcare/ipmo-manual.gif">
+<img class="screenshot" alt="IPMO-PE" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/ipmo-manual.gif">
 
 ### 2.2 IPMO từ Lượt khám của Bệnh nhân (Patient Encounter)
 
 1. Sau khi tạo Lượt khám của Bệnh nhân (Patient Encounter) cho một bệnh nhân nội trú, với các loại thuốc được kê trong bảng Đơn thuốc (Drug Prescription), bạn có thể thấy tùy chọn để tạo Đơn thuốc Nội trú tại mục **Create > Inpatient Medication Order**.
 2. Bạn có thể sử dụng nút này để tạo IPMO. Một IPMO với chế độ xem mở rộng của lịch trình sẽ được tạo. **Lưu** và **Xác nhận**.
 
-<img class="screenshot" alt="IPMO-PE" src="https://docs.erpnext.com/docs/v16/assets/img/healthcare/ipmo-pe.gif">
+<img class="screenshot" alt="IPMO-PE" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/ipmo-pe.gif">
 
 ### 2.3 Trạng thái
 
@@ -49,7 +49,7 @@ Trạng thái của IPMO được quản lý bởi tổng số các mục đơn 
 * **Completed**: Tất cả các mục đơn thuốc trong bảng Đơn thuốc đã được hoàn thành.
 * **Cancelled**: Đơn thuốc Nội trú đã bị **Hủy**.
 
-<img class="screenshot" alt="IPMO-PE" src="https://docs.erpnext.com/docs/v16/assets/img/healthcare/ipmo-status.png">
+<img class="screenshot" alt="IPMO-PE" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/ipmo-status.png">
 
 ## 3. Các chủ đề liên quan
 

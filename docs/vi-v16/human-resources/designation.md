@@ -19,7 +19,7 @@ ERPNext cho phép bạn tạo các chức danh khác nhau và cũng có thể n�
 1. **Lưu**.
 
 
-    <img class="screenshot" alt="Designation" src="https://docs.erpnext.com/docs/v16/assets/img/human-resources/designation.png">
+    <img class="screenshot" alt="Designation" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/designation.png">
 
 
 
