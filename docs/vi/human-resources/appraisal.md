@@ -21,14 +21,14 @@ Trước khi tạo Đánh giá, hãy đảm bảo bạn đã tạo các mục sa
 1. Đi tới: Appraisal > New.
 1. Chọn Mẫu đánh giá. Nếu chưa có, hãy tạo một Mẫu đánh giá. Nhập Tên mẫu đánh giá và các Khu vực kết quả chính (KRAs) cùng với trọng số của chúng.
 
-    <img class="screenshot" alt="Appraisal" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/appraisal-template.png">
+    <img class="screenshot" alt="Appraisal" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/appraisal-template.png">
 
 
 1. Sau khi chọn Mẫu đánh giá, hãy chọn Nhân viên, Ngày bắt đầu và Ngày kết thúc.
 1. Dựa trên mẫu đã chọn, các KRA sẽ được lấy vào phần Mục tiêu. Nhập điểm (0-5) cho mỗi KRA. Dựa trên trọng số đã nêu, Điểm đạt được sẽ được tính toán cho mỗi KRA.
 1. Lưu và Xác nhận.
 
-    <img class="screenshot" alt="Appraisal" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/appraisal.png">
+    <img class="screenshot" alt="Appraisal" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/appraisal.png">
 
 
 

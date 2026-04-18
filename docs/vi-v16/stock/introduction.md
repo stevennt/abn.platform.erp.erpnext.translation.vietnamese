@@ -25,7 +25,7 @@ ERPNext v16 mang đến những cải tiến mạnh mẽ để tối ưu hóa qu
 
 Dưới đây là chế độ xem Tóm tắt tồn kho mặt hàng trong ERPNext.
 
-<img class="screenshot" alt="ERPNext Stock" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/stock-hero.png">
+<img class="screenshot" alt="ERPNext Stock" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/stock-hero.png">
 
 ## 2. Một Nhà phân phối chia sẻ về việc triển khai ERPNext
 

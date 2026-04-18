@@ -30,7 +30,7 @@ Bạn cũng có thể thêm các Mặt hàng có Số serial hoặc Số lô và
 1. Tài khoản chênh lệch (Difference Account) sẽ được thiết lập là 'Temporary Opening'.
 1. Lưu và Xác nhận.
 
-    ![Opening Stock](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/opening_stock.png)
+    ![Opening Stock](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/opening_stock.png)
 
 > Lưu ý: Tùy chọn Duy trì tồn kho (Maintain Stock) phải được bật trong danh mục Mặt hàng để tính năng này hoạt động.
 
@@ -48,7 +48,7 @@ Bạn cũng có thể thêm các Mặt hàng có Số serial hoặc Số lô và
 1. Trung tâm chi phí (Cost Center) mặc định sẽ là 'Main', thay đổi nếu cần.
 1. Lưu và Xác nhận.
 
-    ![Stock Reconciliation](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/stock_recon.png)
+    ![Stock Reconciliation](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/stock_recon.png)
 
 
 ## 3. Các tính năng
@@ -61,33 +61,33 @@ Nếu bạn có nhiều mặt hàng, bạn có thể tải lên chi tiết thôn
 
   Mở một Đối chiếu tồn kho mới và nhấn vào nút Download để tải xuống mẫu dưới định dạng CSV.
 
-  <img class="screenshot" alt="Stock Reconciliation" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/stock-recon-1.png">
+  <img class="screenshot" alt="Stock Reconciliation" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/stock-recon-1.png">
 
 2. Nhập dữ liệu vào mẫu CSV.
 
   Định dạng CSV có phân biệt chữ hoa chữ thường. Không chỉnh sửa các tiêu đề đã được thiết lập sẵn trong mẫu. Trong cột Mã mặt hàng (Item Code) và Kho (Warehouse), hãy nhập chính xác Mã mặt hàng và Kho đã được tạo trong tài khoản ERPNext của bạn. Đối với số lượng, hãy nhập mức tồn kho mà bạn muốn thiết lập cho mặt hàng đó tại một kho cụ thể.
 
-  <img class="screenshot" alt="Stock Reconciliation" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/stock-reco-data.png">
+  <img class="screenshot" alt="Stock Reconciliation" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/stock-reco-data.png">
 
 
 3. Tải tệp CSV có chứa dữ liệu lên bằng cách nhấn vào nút 'Upload'.
 
-  <img class="screenshot" alt="Stock Reconciliation" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/stock-recon-2.png">
+  <img class="screenshot" alt="Stock Reconciliation" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/stock-recon-2.png">
 
 
 4. Xem lại, Lưu và Xác nhận.
 
-  <img class="screenshot" alt="Stock Reconciliation" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/stock-reco-upload.gif">
+  <img class="screenshot" alt="Stock Reconciliation" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/stock-reco-upload.gif">
 
 5. Kiểm tra Báo cáo Sổ cái kho (Stock Ledger Report) để xem số dư tồn kho đã được cập nhật.
 
-  <img class="screenshot" alt="Stock Reconciliation" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/stock-reco-ledger.png">
+  <img class="screenshot" alt="Stock Reconciliation" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/stock-reco-ledger.png">
 
 ### 3.2 Lấy Số dư tồn kho và Giá trị tính giá tại một Ngày và Giờ cụ thể
 
 Bạn có thể nhập số dư tồn kho và giá trị tính giá tại một ngày và giờ cụ thể từ một Kho được chọn bằng cách nhấn vào nút **Items**. Bạn có thể cập nhật Số lượng và Giá trị tính giá khi cần thiết.
 
-<img class="screenshot" alt="Stock Reconciliation Items Button" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/stock_reconciliation_items_button.gif">
+<img class="screenshot" alt="Stock Reconciliation Items Button" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/stock_reconciliation_items_button.gif">
 
 ## 4. Cách thức hoạt động của Đối chiếu tồn kho
 

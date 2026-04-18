@@ -3,7 +3,7 @@
 
 Trong danh mục Thuế Bán hàng và Thuế Mua hàng, bạn sẽ thấy một cột gọi là Loại (Type). Dưới đây là phần giải thích ngắn gọn về ý nghĩa của từng Loại và cách bạn có thể sử dụng chúng.
 
-![Calculate Tax Based On](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/calculate-tax-based-on.png)
+![Calculate Tax Based On](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/calculate-tax-based-on.png)
 
 **Actual (Thực tế):** Tùy chọn này cho phép bạn nhập trực tiếp số tiền chi phí. Ví dụ: 500 Rs chi phí cho Vận chuyển.
 

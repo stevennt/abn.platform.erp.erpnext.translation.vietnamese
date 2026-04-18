@@ -23,10 +23,10 @@ Trước khi tạo Tuyển sinh học sinh, bạn nên tạo các mục sau trư
 
 Sau khi Tuyển sinh học sinh đã được Lưu, bạn sẽ có thể thấy một liên kết ở thanh bên trái, ghi là **See on Website**. Liên kết này sẽ cho phép bạn xem Cổng thông tin Tuyển sinh học sinh trên trang web do ERPNext tạo ra.
 
-![Student Admission](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-student-admission-4.png)
+![Student Admission](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-student-admission-4.png)
 
 Đây là giao diện của Tuyển sinh học sinh trong chế độ xem trang web:
-![Student Admission](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-student-admission-5.png)
+![Student Admission](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-student-admission-5.png)
 
 ### 2.1. Các chi tiết bổ sung khi tạo Tuyển sinh học sinh
 
@@ -36,7 +36,7 @@ Sau khi Tuyển sinh học sinh đã được Lưu, bạn sẽ có thể thấy 
 1. **Admission End Date**: Chọn ngày cuối cùng để đăng ký Quy trình Tuyển sinh trực tuyến.
 1. **Publish on Website**: Tích vào ô này khi nội dung của cổng thông tin đã sẵn sàng và Quy trình Tuyển sinh có thể được bắt đầu trên trang web.
 
-    ![Student Admission](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-student-admission-2.png)
+    ![Student Admission](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-student-admission-2.png)
 
 ### 2.2. Điều kiện hợp lệ Và Chi tiết
 
@@ -47,6 +47,6 @@ Sau khi Tuyển sinh học sinh đã được Lưu, bạn sẽ có thể thấy 
 * **Naming Series**: Tại đây bạn có thể xác định Chuỗi đặt tên, dựa vào đó các đơn đăng ký của Người đăng ký tuyển sinh sẽ được đặt tên và sắp xếp.
 * **Introduction**: Bạn có thể thêm thông tin giới thiệu ngắn gọn về quy trình tuyển sinh để người đăng ký tuyển sinh có thể hiểu rõ hơn.
 
-    ![Student Admission](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-student-admission-3.png)
+    ![Student Admission](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-student-admission-3.png)
 
 {next}

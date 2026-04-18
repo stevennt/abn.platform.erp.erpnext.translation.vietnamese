@@ -13,7 +13,7 @@
 
 Chọn loại tài liệu mà bạn muốn tùy chỉnh Thứ tự Sắp xếp.
 
-<img alt="Sort Order field" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/customize-sorting-order-2.png">
+<img alt="Sort Order field" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/customize-sorting-order-2.png">
 
 #### Bước 3: Cập nhật Chi tiết Sắp xếp
 
@@ -21,7 +21,7 @@ Trong Customize Form, bạn sẽ tìm thấy các trường này.
 
 <img alt="Sort Order Field" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/customize-sort-field.png">
 
-<img alt="Sort Order field" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/customize-sorting-order-1.png">
+<img alt="Sort Order field" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/customize-sorting-order-1.png">
 
 1. Sort Field: Chọn Trường mà dựa vào đó việc sắp xếp sẽ được thực hiện. Trong trường hợp này sẽ là trường "Item_Code".
 2. Sort Order: Thứ tự Sắp xếp sẽ có hai tùy chọn khả thi, **Asc** cho thứ tự tăng dần, và **Desc** cho thứ tự giảm dần.

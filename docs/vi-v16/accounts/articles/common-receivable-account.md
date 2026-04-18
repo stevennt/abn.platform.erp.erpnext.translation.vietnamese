@@ -3,7 +3,7 @@
 
 Theo mô hình bên liên quan (party model), một tài khoản phải thu chung có tên là **Debtor** sẽ được tự động tạo. Đây là Tài khoản phải thu mặc định cho tất cả Khách hàng.
 
-<img alt="Role Desk Permission" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/common-receivable.png">
+<img alt="Role Desk Permission" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/common-receivable.png">
 
 Nếu cần, bạn cũng có thể tạo một tài khoản phải thu mới và cập nhật trong danh mục Khách hàng.
 

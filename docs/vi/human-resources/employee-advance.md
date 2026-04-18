@@ -22,7 +22,7 @@ Sau khi Tạm ứng Nhân viên được tạo bởi Nhân viên, Người phê 
 1. Chọn Tài khoản tạm ứng và Phương thức thanh toán.
 1. Lưu.
 
-    <img class="screenshot" alt="Expense Claim" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/employee-advance.png">
+    <img class="screenshot" alt="Expense Claim" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/employee-advance.png">
 
 > Lưu ý: Nhân viên chỉ có thể Lưu Tạm ứng Nhân viên chứ không thể Xác nhận nó. Nó chỉ có thể được xác nhận bởi Người phê duyệt chi phí.
 
@@ -43,17 +43,17 @@ Sau khi xác nhận bản ghi Tạm ứng Nhân viên, người dùng kế toán
 
 Bút toán thanh toán sẽ trông như sau:
 
-<img class="screenshot" alt="Employee Advance Payment via Payment Entry" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/employee-advance-payment-entry.png">
+<img class="screenshot" alt="Employee Advance Payment via Payment Entry" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/employee-advance-payment-entry.png">
 
 #### Tạm ứng Nhân viên qua Bút toán
 Ngoài ra, một [Bút toán](../accounts/journal-entry.md) cũng có thể được tạo cho khoản Tạm ứng Nhân viên.
 
 
-<img class="screenshot" alt="Employee Advance Payment via Journal Entry" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/employee-advance-journal-entry1.png">
+<img class="screenshot" alt="Employee Advance Payment via Journal Entry" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/employee-advance-journal-entry1.png">
 
 > Lưu ý: Đảm bảo rằng Loại đối tác (Party Type) được chọn là Employee và Loại tham chiếu (Reference Type) được chọn là Employee Advance.
 
-<img class="screenshot" alt="Employee Advance Payment via Journal Entry" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/employee-advance-journal-entry2.png">
+<img class="screenshot" alt="Employee Advance Payment via Journal Entry" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/employee-advance-journal-entry2.png">
 
 #### Tạm ứng Nhân viên đã được thanh toán
 Khi xác nhận Bút toán thanh toán/Bút toán, số tiền đã thanh toán và trạng thái sẽ được cập nhật trong bản ghi Tạm ứng Nhân viên.
@@ -74,10 +74,10 @@ Khi khoản tạm ứng được thanh toán cho Nhân viên, có ba tình huố
 Tạo Tạm ứng Nhân viên, tạo một bút toán thanh toán để cho biết số tiền đã được thanh toán.
 
 * Nếu số tiền chưa được sử dụng, hãy nhấp vào nút **Return** để hoàn trả số tiền Tạm ứng đã thanh toán
-    ![Return Button](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/advance-return-button.png)
+    ![Return Button](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/advance-return-button.png)
 * Nếu toàn bộ khoản tạm ứng đã được sử dụng, nó sẽ được phản ánh trong trường Số tiền đã yêu cầu (Claimed Amount)
 * Nếu chỉ một phần số tiền được yêu cầu và phần còn lại được hoàn trả, số tiền hoàn trả sẽ được hiển thị trong trường 'Returned Amount'.
-    ![Return advance Amount](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/advance-returned-amount.png)
+    ![Return advance Amount](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/advance-returned-amount.png)
 
 ## 4. Các chủ đề liên quan
 

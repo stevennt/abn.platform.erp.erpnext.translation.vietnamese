@@ -18,25 +18,25 @@
 1. Nhấp vào Lưu (Save).
 1. Trang web sẽ chỉ được xuất bản khi ô **Published** được tích.
 
-![New Web Page with Page Builder](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/website/new-web-page-with-page-builder.png)
+![New Web Page with Page Builder](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/website/new-web-page-with-page-builder.png)
 _Trang Web mới với Trình xây dựng Trang_
 
-![Page Builder Edit Values Dialog](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/website/page-builder-edit-values-dialog.png)
+![Page Builder Edit Values Dialog](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/website/page-builder-edit-values-dialog.png)
 _Hộp thoại Edit Values của Trình xây dựng Trang_
 
 Xem Trang Web của bạn bằng cách nhấp vào **See on Website** ở thanh bên.
 
-![Web Page](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/website/web-page-with-page-builder-preview.png)
+![Web Page](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/website/web-page-with-page-builder-preview.png)
 _Trang Web với Trình xây dựng Trang_
 
 ### 1.1 Thêm các Phần (Sections)
 
 Bạn có thể thêm nhiều phần hơn vào trang của mình bằng cách thêm nhiều hàng trong bảng Page Building Blocks. Khung làm việc đi kèm với một bộ Mẫu Web tuyệt vời để bạn có thể tạo ra tất cả các loại trang khác nhau.
 
-![More Sections](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/website/web-page-with-more-sections.png)
+![More Sections](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/website/web-page-with-more-sections.png)
 _Trang Web với một phần khác_
 
-![More Sections - Preview](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/website/web-page-with-more-sections-preview.png)
+![More Sections - Preview](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/website/web-page-with-more-sections-preview.png)
 _Trang Web với một phần khác - Xem trước_
 
 ### 1.2 Tùy chọn Phần (Section Options)
@@ -50,7 +50,7 @@ Nếu bạn nhấp để mở rộng một hàng trong bảng Page Building Bloc
 - **Hide Block**: Nếu được tích, nó sẽ ẩn khối phần đó.
 - **CSS Class**: Thêm bất kỳ lớp CSS nào và định kiểu cho nó trong trường CSS ở phần Style.
 
-![Section Options](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/website/page-builder-section-options.png)
+![Section Options](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/website/page-builder-section-options.png)
 _Tùy chọn Phần_
 
 

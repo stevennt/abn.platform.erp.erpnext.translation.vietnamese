@@ -7,7 +7,7 @@ Nhân viên có quyền hưởng các phúc lợi linh hoạt mà họ có thể
 
 > Human Resources > Payroll > Employee Benefit Application > New Employee Benefit Application
 
-<img class="screenshot" alt="Employee Benefit Application" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/employee-benefit-application.png">
+<img class="screenshot" alt="Employee Benefit Application" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/employee-benefit-application.png">
 
 Tại đây, Nhân viên có thể xem Mức phúc lợi tối đa theo Phân bổ cấu trúc lương và sau đó chọn từ các Thành phần thu nhập thuộc Cấu trúc lương đã được phân bổ cho nhân viên. Họ cũng có thể nhập số tiền mà họ muốn nhận như một phần của Phiếu lương.
 

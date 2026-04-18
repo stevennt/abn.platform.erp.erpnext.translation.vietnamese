@@ -10,13 +10,13 @@ Giấy báo có được phát hành cho giá trị của hàng hóa do Khách h
 Người dùng có thể tạo Giấy báo có dựa trên Hóa đơn bán hàng hoặc họ có thể tạo trực tiếp Giấy báo có từ Hóa đơn bán hàng mà không cần tham chiếu. Lưu ý rằng để tạo Giấy báo có, hóa đơn phải được thanh toán bằng [Bút toán thanh toán](payment-entry.md).
 
 1. Đi tới Hóa đơn bán hàng tương ứng và nhấp vào **Create > Return / Credit Note**.
-    ![Credit Note from Invoice](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/credit-note-from-invoice.png)
+    ![Credit Note from Invoice](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/credit-note-from-invoice.png)
 
 1. Thông tin Khách hàng và Mặt hàng sẽ được lấy từ các thông tin đã thiết lập trong Hóa đơn bán hàng.
 1. Nếu Khách hàng đã thanh toán một phần hoặc toàn bộ, hãy tạo một Bút toán thanh toán đối với Hóa đơn bán hàng gốc.
 1. Lưu và Xác nhận.
     
- ![Credit Note](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/credit-note.png)
+ ![Credit Note](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/credit-note.png)
 
 Số lượng Mặt hàng và Số tiền thanh toán sẽ là số âm vì đây là một khoản trả hàng.
 
@@ -24,7 +24,7 @@ Số lượng Mặt hàng và Số tiền thanh toán sẽ là số âm vì đâ
 Sau khi một Bút toán thanh toán được tạo đối với Hóa đơn bán hàng gốc, số tiền sẽ được cộng vào tài khoản của Khách hàng dưới dạng số âm để lần tới khi họ mua hàng, số tiền này sẽ được điều chỉnh.
 
 Đây là cách sổ cái bị ảnh hưởng sau khi có một bút toán thanh toán đối với hóa đơn bị trả lại:
-![Credit Note Ledger](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/credit-note-ledger.png)
+![Credit Note Ledger](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/credit-note-ledger.png)
 
 Tham khảo trang [Hóa đơn bán hàng](sales-invoice.md) để biết thêm các chi tiết khác.
 
@@ -37,7 +37,7 @@ Khách hàng Rohan đã mua ống PVC trị giá 300 Rs + thuế và tại thờ
 
 Giấy báo có với bút toán thanh toán trong ERPNext cho ví dụ trên như dưới đây:
 
-![Creating Credit Note](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/creating-credit-note.gif)
+![Creating Credit Note](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/creating-credit-note.gif)
 
 ### 3. Các chủ đề liên quan
 1. [Bút toán thanh toán](payment-entry.md)

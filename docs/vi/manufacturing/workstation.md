@@ -25,19 +25,19 @@ Dữ liệu liên quan đến chi phí vận hành, tiền thuê, tiền điện
 
 Tùy chọn, bạn có thể nhập mô tả cho Trạm làm việc.
 
-![Workstation](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/workstation.png)
+![Workstation](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/workstation.png)
 
 Có thể thêm các khung giờ mà Trạm làm việc sẽ hoạt động. Khi thêm một Danh sách ngày nghỉ (Holiday list), các ngày được liệt kê là ngày nghỉ sẽ không được tính là ngày làm việc của Trạm làm việc.
-![Workstation Hours](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/workstation-hours.png)
+![Workstation Hours](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/workstation-hours.png)
 
 Sau khi Lưu Trạm làm việc, các hành động sau có thể được thực hiện đối với nó:
-![Workstation submit](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/workstation-submit.png)
+![Workstation submit](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/workstation-submit.png)
 
 ## 2. Các tính năng
 ### 2.1 Năng lực sản xuất
 Năng lực sản xuất là tổng số công việc có thể được thực hiện cùng một lúc tại trạm làm việc tương ứng.
 
-<img class="screenshot" alt="Work Order" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/work_station_capacity.png">
+<img class="screenshot" alt="Work Order" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/work_station_capacity.png">
 
 ### 2.2 Giờ làm việc
 Trong bảng Giờ làm việc (Working Hours), bạn có thể thêm thời gian bắt đầu và kết thúc cho một Trạm làm việc. Ví dụ, một Trạm làm việc có thể hoạt động từ 9 giờ sáng đến 1 giờ chiều, sau đó từ 2 giờ chiều đến 5 giờ chiều. Bạn cũng có thể chỉ định giờ làm việc dựa trên các ca làm việc. Khi lập lịch cho một [Work Order](work-order.md), hệ thống sẽ kiểm tra tính khả dụng của Trạm làm việc dựa trên giờ làm việc đã chỉ định.

@@ -15,7 +15,7 @@ Trong ERPNext, hãy tạo Bút toán thanh toán cho séc hậu ngày.
 
 Giả sử Ngày ghi trên séc của bạn là ngày 31 tháng 12 năm 2016 (hoặc bất kỳ ngày nào trong tương lai). Kết quả là, bút toán này trong sổ cái ngân hàng của bạn sẽ xuất hiện vào Ngày hạch toán được cập nhật.
 
-![Posting Date in Payment Entry](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/posting-date-in-payment-entry.png)
+![Posting Date in Payment Entry](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/posting-date-in-payment-entry.png)
 
 Lưu ý: Ngày tham chiếu của Bút toán thanh toán phải bằng hoặc nhỏ hơn Ngày hạch toán.
 

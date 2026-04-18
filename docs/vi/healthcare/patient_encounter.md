@@ -21,7 +21,7 @@ ERPNext Healthcare cho phép bạn ghi lại mọi lần tiếp xúc với bện
 Bạn cũng có thể tạo và ghi lại chi tiết tiếp xúc cho một bệnh nhân từ Lịch hẹn Bệnh nhân, Tiếp xúc Bệnh nhân hoặc các chứng từ danh mục Bệnh nhân bằng cách sử dụng nút **Create > Patient Encounter**.
 Nếu bạn đang tạo Tiếp xúc Bệnh nhân một cách thủ công, bạn có thể tìm kiếm Bệnh nhân theo tên, email, số điện thoại, v.v.
 
-<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/patient_encounter_1.png">
+<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/patient_encounter_1.png">
 
 ## 2. Các tính năng
 
@@ -29,23 +29,23 @@ Nếu bạn đang tạo Tiếp xúc Bệnh nhân một cách thủ công, bạn 
 
 Bạn cũng có thể đính kèm một hoặc nhiều Mã Y tế để chỉ định Chẩn đoán trong phần Medical Coding. Bạn sẽ phải chọn Tiêu chuẩn Mã Y tế mà bạn muốn dùng để mã hóa chẩn đoán, sau đó chọn Mã bằng cách tìm kiếm chính Mã đó hoặc Mô tả Mã.
 
-<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/encounter_4.png">
+<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/encounter_4.png">
 
 ### 2.2 Thuốc
 
 Bạn có thể kê đơn thuốc trong phần Medication bằng cách chọn các mã thuốc (Mặt hàng Kho) và liều lượng phù hợp. Nếu bạn không quản lý Kho và các Mặt hàng chưa được cấu hình, bạn có thể chỉ cần nhập tên Thuốc và hàm lượng trong trường Strength để được in ra. Bạn có thể tùy chọn thêm nhận xét trong mục bảng Thuốc và chọn Dạng bào chế (Viên nén, Siro).
 
-<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/encounter_medication.png">
+<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/encounter_medication.png">
 
 Nếu bạn có duy trì tồn kho, Kho thuốc có thể được quản lý bằng cách sử dụng Phân hệ Kho:
 
-<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/healthcare-inventory.png">
+<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/healthcare-inventory.png">
 
 ### 2.3 Xét nghiệm (Thăm dò)
 
 Trong phần Investigations, bạn có thể chỉ định các Xét nghiệm cho Bệnh nhân. Nếu bạn đã cấu hình các Mẫu Xét nghiệm, bạn có thể chọn từ danh sách và tùy chọn thêm nhận xét.
 
-<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/encounter_investigation.png">
+<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/encounter_investigation.png">
 
 Các Xét nghiệm có thể được cấu hình để tự động tạo khi Xác nhận Hóa đơn bán hàng bằng cách tích vào _Create Lab Test(s) on Sales Invoice Submission_ trong [Healthcare Settings](healthcare_settings.md).
 
@@ -53,13 +53,13 @@ Các Xét nghiệm có thể được cấu hình để tự động tạo khi X
 
 Bạn cũng có thể chỉ định một Thủ thuật Lâm sàng để thực hiện cho Bệnh nhân trong phần Procedures. Chọn Mẫu Thủ thuật Lâm sàng và tùy chọn chỉ định ngày thực hiện Thủ thuật.
 
-<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/encounter_procedures.png">
+<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/encounter_procedures.png">
 
 ### 2.5 Trị liệu
 
 Nếu cơ sở Y tế của bạn cung cấp các dịch vụ Phục hồi chức năng và Vật lý trị liệu, bạn có thể chỉ định các liệu pháp trong Tiếp xúc Bệnh nhân và một Kế hoạch Trị liệu sẽ được tự động tạo khi Xác nhận Tiếp xúc Bệnh nhân.
 
-<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/therapy-encounter.jpg">
+<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/therapy-encounter.jpg">
 
 ### 2.6 Thanh toán và Đơn thuốc
 
@@ -67,7 +67,7 @@ Người dùng Nhà thuốc (Bán hàng / Kế toán) có thể lấy các đơn
 
 Các chỉ định Thủ thuật Lâm sàng có thể được lấy bằng nút **Get Prescribed Clinical Procedures** khi đặt Lịch hẹn cho thủ thuật đó. Sau đó, chúng sẽ có sẵn để thanh toán thông qua **Get items from > Healthcare Services**.
 
-<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/prescription.png">
+<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/prescription.png">
 
 ## 3. Các hành động
 

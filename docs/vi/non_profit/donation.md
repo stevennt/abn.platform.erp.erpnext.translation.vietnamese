@@ -15,7 +15,7 @@ Trước khi tạo một khoản Quyên góp, trước tiên bạn cần tạo m
 
 > Non Profit > Donation > New
 
-<img class="screenshot" alt="Donation" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/non_profit/donation.png">
+<img class="screenshot" alt="Donation" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/non_profit/donation.png">
 
 1. Chọn Nhà tài trợ. Tên và Email của Nhà tài trợ sẽ được tự động lấy ra.
 2. Thiết lập Ngày quyên góp.
@@ -49,13 +49,13 @@ Bạn có thể tìm thấy hướng dẫn thiết lập razorpay [tại đây](
 
 Nếu _Automate Donation Payment Entries_ được bật, bạn sẽ phải thiết lập Tài khoản Nợ mặc định và Tài khoản Thanh toán Quyên góp cho Bút toán thanh toán.
 
-<img class="screenshot" alt="Donation Settings" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/non_profit/donation-settings.png">
+<img class="screenshot" alt="Donation Settings" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/non_profit/donation-settings.png">
 
 #### 3.2.2 Thiết lập webhook
 
 Bạn có thể thiết lập một webhook từ bảng điều khiển RazorPay trong phần Cài đặt. Bạn có thể đọc thêm về webhooks trong RazorPay [tại đây](https://razorpay.com/docs/v13/webhooks/). Webhook này sẽ thông báo cho trang ERPNext của bạn bất cứ khi nào một khoản quyên góp mới được tạo.
 
-<img class="screenshot" alt="Donation Webhook" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/non_profit/donation-webhook.png">
+<img class="screenshot" alt="Donation Webhook" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/non_profit/donation-webhook.png">
 
 Bạn sẽ cần các chi tiết sau để thiết lập webhook.
 

@@ -27,7 +27,7 @@ Sau khi thông tin được lưu, hãy nhấp vào nút **Get Employees** để 
 
 Sau khi danh sách Nhân viên được lấy ra, hãy nhấp vào nút **Create Salary Slips** để tạo các Phiếu lương.
 
-<img class="screenshot" alt="Payroll Entry" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/payroll-entry-get-employees.png">
+<img class="screenshot" alt="Payroll Entry" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/payroll-entry-get-employees.png">
 
 > **Lưu ý:** Nếu các Phiếu lương đã được tạo, hệ thống sẽ không tạo thêm bất kỳ Phiếu lương nào nữa. Bạn cũng có thể chỉ lưu biểu mẫu dưới dạng Nháp và tạo Phiếu lương sau.
 
@@ -38,7 +38,7 @@ Sau khi danh sách Nhân viên được lấy ra, hãy nhấp vào nút **Create
 
 Sau khi kiểm tra các Phiếu lương, bạn có thể Xác nhận tất cả chúng cùng một lúc bằng cách nhấp vào nút **Submit Salary Slip**.
 
-<img class="screenshot" alt="Payroll Entry" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/payroll-entry.png">
+<img class="screenshot" alt="Payroll Entry" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/payroll-entry.png">
 
 Thao tác này cũng sẽ hạch toán tài khoản Phải trả lương mặc định đối với các Khoản mục chi phí tương ứng (như đã cấu hình trong Thành phần lương) để ghi nhận việc trích trước lương cho nhân viên.
 
@@ -47,7 +47,7 @@ Bạn có thể chọn Trung tâm chi phí trong Bút toán thanh toán lương 
 
 Nếu bạn muốn hạch toán chi phí cho nhiều trung tâm chi phí dựa trên Nhân viên/Phòng ban, bạn có thể thực hiện bằng cách thiết lập Trung tâm chi phí lương trong danh mục gốc Nhân viên/Phòng ban. Trung tâm chi phí được chỉ định trong danh mục gốc Nhân viên/Phòng ban sẽ được ưu tiên hơn Trung tâm chi phí được chọn trong Bút toán thanh toán lương.
 
-<img class="screenshot" alt="Payroll Entry" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/payroll-make-accrual-entry.png">
+<img class="screenshot" alt="Payroll Entry" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/payroll-make-accrual-entry.png">
 
 > **Lưu ý:** Việc Xác nhận các Phiếu lương riêng lẻ bằng tay sẽ không tạo Bút toán để ghi nhận trích trước lương.
 
@@ -65,7 +65,7 @@ Bút toán thanh toán lương là một Bút toán ghi nợ tổng các thành 
 
 Bút toán thanh toán lương sẽ dẫn bạn đến Bút toán với các bộ lọc liên quan để xem các Chứng từ bút toán nháp đã được tạo. Bạn sẽ phải thiết lập số tham chiếu và ngày cho các giao dịch và Xác nhận Bút toán.
 
-<img class="screenshot" alt="Payroll Entry" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/payroll-make-bank-entry.png">
+<img class="screenshot" alt="Payroll Entry" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/payroll-make-bank-entry.png">
 
 > **Lưu ý:** Đối với các Thành phần lương là Phúc lợi linh hoạt và có tích chọn _Create Separate Payment Entry Against Benefit Claim_ (Tạo Bút toán thanh toán riêng cho yêu cầu phúc lợi), ERPNext sẽ hạch toán các Bút toán nháp riêng biệt.
 

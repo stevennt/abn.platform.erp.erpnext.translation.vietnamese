@@ -7,11 +7,11 @@ Biểu mẫu **Năm học** có Ngày bắt đầu và Ngày kết thúc cho Nă
 
 Trong một Năm học, bạn có thể có nhiều **Học kỳ**.
 
-![Academic Year](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-academic-year-1.png)
+![Academic Year](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-academic-year-1.png)
 
 Một Năm học có thể được liên kết thêm với [Nhóm học sinh](student-group.md), nhóm này có thể được tạo từ một Năm học.
 
-![Academic Year](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-academic-year-2.png)
+![Academic Year](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-academic-year-2.png)
 
 Nếu Năm học đã được chỉ định trong [Cài đặt giáo dục](education-settings.md) thì nó sẽ trở thành Học kỳ mặc định trong tất cả các biểu mẫu và có thể chỉnh sửa nếu cần.
 

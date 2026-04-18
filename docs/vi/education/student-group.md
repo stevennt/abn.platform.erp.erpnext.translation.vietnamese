@@ -5,7 +5,7 @@
 
 Ví dụ, nếu một nhóm học sinh cùng học một chương trình sẽ được gọi là một khóa học sinh (student batch), thì từ trong nhóm này, một nhóm các học sinh đã đăng ký cùng một khóa học tự chọn sẽ được gọi là Nhóm học sinh (Student Group).
 
-![Student Group](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-student-workflow.png)
+![Student Group](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-student-workflow.png)
 
 Để truy cập Nhóm học sinh, hãy đi tới:
 
@@ -31,7 +31,7 @@ Trước khi tạo Nhóm học sinh, bạn nên tạo các mục sau trước:
 1. **Student Group Name**: Nhập tên của nhóm học sinh.
 1. Lưu.
 
-![Student Group](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-student-group-1)
+![Student Group](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-student-group-1)
 
 ### 2.1. Các tùy chọn bổ sung khi tạo Nhóm học sinh
 
@@ -42,7 +42,7 @@ Ngoài các tùy chọn bắt buộc ở trên, các trường sau cũng cần �
 1. **Batch**: Chọn Khóa học mà bạn muốn lấy danh sách học sinh cho nhóm học sinh.
 1. **Max Strength**: Nhập Số lượng học sinh tối đa có thể tham gia Nhóm học sinh này. Nếu số lượng học sinh được chọn trong nhóm nhiều hơn Max Strength, hệ thống sẽ không cho phép bạn Lưu nhóm này và một thông báo lỗi sẽ hiển thị.
 
-    ![Student Group](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-student-group-max-student-limit-error.png)
+    ![Student Group](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-student-group-max-student-limit-error.png)
 
 1. **Student Category**: Nếu bạn muốn học sinh thuộc một danh mục cụ thể tham gia nhóm này, bạn có thể chọn danh mục đó.
 1. **Course**: Tùy chọn này chỉ xuất hiện khi Nhóm được Dựa trên Khóa học (Based on a Course). Bạn có thể chọn một khóa học cụ thể tại đây, và danh sách chỉ những học sinh đã đăng ký khóa học này sẽ được lấy ra để tạo nhóm học sinh này.
@@ -57,7 +57,7 @@ Ngoài các tùy chọn bắt buộc ở trên, các trường sau cũng cần �
 
 * **Instructors**: Chọn các Giảng viên sẽ giảng dạy hoặc hướng dẫn nhóm học sinh cụ thể này.
 
-![Student Group](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-student-group-4.png)
+![Student Group](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-student-group-4.png)
 
 ## 3. Sau khi tạo Nhóm học sinh
 
@@ -68,11 +68,11 @@ Sau khi nhóm học sinh đã được tạo và Lưu, các mục sau có thể 
 1. **Assessment Plan**: Bạn sẽ được chuyển hướng đến danh sách [Assessment Plan](assessment_plan.md), nơi tất cả các kế hoạch đánh giá cho nhóm học sinh của bạn sẽ được liệt kê và bạn cũng sẽ được phép tạo Kế hoạch đánh giá mới cho nhóm.
 1. **Update Email Group**: Khi bạn chọn tùy chọn này, các Địa chỉ Email của Học sinh trong nhóm này sẽ được thêm vào Nhóm Email và bạn sẽ có thể gửi bản tin cho tất cả những người đăng ký trong Nhóm học sinh này.
 
-    ![Student Group](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-student-group-update-email.png)
+    ![Student Group](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-student-group-update-email.png)
 
 1. **Newsletters**: Bạn sẽ có thể gửi [Newsletters](../CRM/newsletter.md) đến tất cả những người đăng ký từ trong nhóm học sinh với tùy chọn này.
 
-![Student Group](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-student-group-4.png)
+![Student Group](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-student-group-4.png)
 
 
 

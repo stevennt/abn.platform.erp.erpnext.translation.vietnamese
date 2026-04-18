@@ -6,7 +6,7 @@ Trong ERPNext, việc lưu các ngân hàng khác nhau cho phép bạn tải lê
 Để truy cập Ngân hàng, hãy đi tới:
 > Trang chủ > Kế toán > Sao kê ngân hàng > Ngân hàng
 
-![Bank](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/bank.png)
+![Bank](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/bank.png)
 
 ## 1. Cách tạo một Ngân hàng
 Việc tạo một Ngân hàng rất đơn giản, hãy đi tới danh sách Ngân hàng, nhấn vào Mới, và nhập tên.

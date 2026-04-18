@@ -6,7 +6,7 @@ Bạn cũng có thể cân nhắc tạo nhiều Hồ sơ POS cho mỗi người 
 
 ERPNext Healthcare thêm một số trường tùy chỉnh vào tài liệu `Item` để bạn có thể cấu hình các loại thuốc một cách hiệu quả. Ngoài ra, hãy đọc [Cài đặt Healthcare](healthcare_settings.md) để thiết lập các Mặt hàng mặc định, Tài khoản, v.v.
 
-<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/item_custom_fields.png">
+<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/item_custom_fields.png">
 
 >Lưu ý rằng các trường này chỉ hiển thị nếu thiết lập của bạn đã bật lĩnh vực Healthcare.
 

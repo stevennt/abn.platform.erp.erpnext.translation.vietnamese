@@ -13,13 +13,13 @@ Accounts > Documents > Chart of Accounts
 
 Nhấp vào tài khoản mà bạn muốn hợp nhất với một tài liệu khác, sau đó nhấp vào tùy chọn 'Edit'.
 
-![Merging Documents](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/using-erpnext/using-merge-documents-1.png)
+![Merging Documents](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/using-erpnext/using-merge-documents-1.png)
 
 #### Bước 3: Hợp nhất Tài khoản
 
 Tài liệu sẽ mở ra với các tùy chọn khác nhau hiển thị ở phía trên. Nhấp vào 'Merge Account'. Nhập tên của tài khoản mà bạn muốn hợp nhất với tài khoản hiện tại.
 
-![Merging Documents](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/using-erpnext/using-merge-documents-2.gif)
+![Merging Documents](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/using-erpnext/using-merge-documents-2.gif)
 
 ### Hiệu quả của việc Hợp nhất
 

@@ -7,7 +7,7 @@ Ví dụ: Nếu Tổng cộng của một Đơn bán hàng vượt quá 1.000 US
 
 Tương tự như vậy, bạn có thể xác định Quy tắc Ủy quyền dựa trên các trường như Tổng ròng, Tổng cộng, % Chiết khấu và chỉ định ai sẽ là người phê duyệt chứng từ nếu điều kiện ủy quyền được khớp.
 
-![Authorization Rule](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/authorization-rule.png)
+![Authorization Rule](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/authorization-rule.png)
 
 Hãy cùng xem xét một ví dụ chi tiết về Quy tắc Ủy quyền để hiểu rõ hơn.
 
@@ -25,11 +25,11 @@ Giả sử Quản lý bán hàng cần ủy quyền cho các Đơn bán hàng, c
 1. Bạn cũng có thể chọn một Quản lý bán hàng cụ thể.
 1. Lưu.
 
-![Authorization Rule](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/new-authorization-rule.png)
+![Authorization Rule](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/new-authorization-rule.png)
 
 Nếu Nhân viên bán hàng cố gắng xác nhận Đơn bán hàng có giá trị cao hơn 10.000, họ sẽ nhận được thông báo lỗi.
 
-![Authorization Rule Validation Message](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/authorization-rule-validation-message.png)
+![Authorization Rule Validation Message](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/authorization-rule-validation-message.png)
 
 > Nếu bạn muốn hạn chế Nhân viên bán hàng xác nhận các Đơn bán hàng, thay vì tạo Quy tắc Ủy quyền, bạn nên xóa quyền xác nhận của Nhân viên bán hàng trong [Role Permission Manager](../setting-up/users-and-permissions/role-based-permissions.md).
 

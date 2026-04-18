@@ -7,10 +7,10 @@ Trong ERPNext, bạn cũng có thể tạo các giao dịch bằng ngoại tệ.
 
 Để quản lý chênh lệch tiền tệ, hãy tạo Tài khoản **Exchange Gain/Loss** (Lãi/Lỗ tỷ giá). Tài khoản này thường được tạo ở bên Chi phí của báo cáo kết quả hoạt động kinh doanh (P&L). Tuy nhiên, bạn có thể đặt nó dưới một nhóm khác tùy theo yêu cầu kế toán của mình.
 
-![Exchange Gain/Loss Ledger](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/exchange-gain-loss-ledger.png)
+![Exchange Gain/Loss Ledger](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/exchange-gain-loss-ledger.png)
 
 ## Hạch toán Bút toán thanh toán
 
-![Auto Calculate Exchange Gain Loss](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/exchange-gain-loss-auto-calculation.gif)
+![Auto Calculate Exchange Gain Loss](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/exchange-gain-loss-auto-calculation.gif)
 
 {next}

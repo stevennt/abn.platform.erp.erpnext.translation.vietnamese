@@ -6,4 +6,4 @@ Mỗi website của tài khoản ERPNext đều được tự động tạo ra t
 
 Để biết các bước chính xác về cách tải lên Banner Website và thay đổi kích thước của nó, vui lòng tham khảo hướng dẫn dưới đây.
 
-<img class="screenshot" alt="Website Banner image" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/brand-logo.gif">
+<img class="screenshot" alt="Website Banner image" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/brand-logo.gif">

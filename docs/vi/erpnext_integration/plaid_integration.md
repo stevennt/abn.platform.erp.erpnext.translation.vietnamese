@@ -18,7 +18,7 @@ Nếu phiên bản của bạn đã được kết nối với Plaid, bạn có 
 
 Để kích hoạt Plaid trên một phiên bản, hãy nhấp vào nút "Enable" trong DocType Plaid Settings.
 
-<img class="screenshot" alt="Enable Plaid" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/erpnext_integrations/plaid_enable.gif">
+<img class="screenshot" alt="Enable Plaid" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/erpnext_integrations/plaid_enable.gif">
 
 Sau khi được kích hoạt, bạn có thể tạo một tài khoản mới trực tiếp từ Trang tổng quan Đối chiếu ngân hàng.
 
@@ -27,14 +27,14 @@ Sau khi được kích hoạt, bạn có thể tạo một tài khoản mới tr
 
 Để liên kết một trong các tài khoản ngân hàng hiện có của bạn với ERPNext, hãy nhấp vào "Link a new bank account" và làm theo các bước do Plaid đề xuất.
 
-<img class="screenshot" alt="Link your bank account" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/erpnext_integrations/new_account_creation.gif">
+<img class="screenshot" alt="Link your bank account" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/erpnext_integrations/new_account_creation.gif">
 
 
 ## Đồng bộ hóa ngân hàng
 
 Để đồng bộ hóa một tài khoản ngân hàng với ERPNext, hãy chọn một tài khoản và nhấp vào nút "Action" để chọn "Synchronize this account".
 
-<img class="screenshot" alt="Synchronize your bank account" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/erpnext_integrations/plaid_synchronization.gif">
+<img class="screenshot" alt="Synchronize your bank account" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/erpnext_integrations/plaid_synchronization.gif">
 
 Việc đồng bộ hóa dựa trên "Last integration date" có sẵn trong DocType "Bank Account".
 

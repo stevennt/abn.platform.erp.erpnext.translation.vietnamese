@@ -15,7 +15,7 @@ Ví dụ về URL Cổng SMS:
     http://instant.smses.com/web2sms.php?username=<USERNAME>&password;=<PASSWORD>&to;=<MOBILENUMBER>&sender;=<SENDERID>&message;=<MESSAGE>
 
 
-<img class="screenshot" alt="SMS Setting 2" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/sms-settings2.jpg">
+<img class="screenshot" alt="SMS Setting 2" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/sms-settings2.jpg">
 
 > Lưu ý: Đối với URL Cổng SMS, chỉ bao gồm chuỗi ký tự trước dấu "?".
 
@@ -28,7 +28,7 @@ URL trên sẽ gửi SMS từ tài khoản abcd đến số điện thoại 9900
 
 Lưu ý rằng một số tham số trong URL là cố định. Bạn sẽ nhận được các giá trị cố định từ Nhà cung cấp SMS của mình như tên đăng nhập, mật khẩu, v.v. Các giá trị cố định này nên được nhập vào bảng Tham số cố định (Static Parameters).
 
-<img class="screenshot" alt="SMS Setting" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/sms-settings1.png">
+<img class="screenshot" alt="SMS Setting" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/sms-settings1.png">
 
 ### Các chủ đề liên quan
 1. [Tài khoản Email](email/email-account.md)

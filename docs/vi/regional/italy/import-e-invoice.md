@@ -16,7 +16,7 @@ ERPNext có tính năng để nhập hóa đơn của nhà cung cấp từ các 
 ### 2. Cách sử dụng Nhập hóa đơn nhà cung cấp (Import Supplier Invoice)
 
 1. Điều hướng đến DocType Nhập hóa đơn nhà cung cấp (Import Supplier Invoice) từ thanh tìm kiếm toàn cầu và nhập Dãy số hóa đơn (Invoice Series), Công ty (Company), Nhóm nhà cung cấp (Supplier Group), Tài khoản thuế (Tax Account), Mã mặt hàng (Item Code) và Bảng giá mua mặc định (Default Buying Price List).
-    <img class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/regional/italy/import_einvoice.png">
+    <img class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/regional/italy/import_einvoice.png">
 
    - Dãy số hóa đơn (Invoice Series) - Dãy số mà các Hóa đơn mua hàng mới sẽ được tạo theo đó.
    - Công ty (Company) - Công ty mà các Hóa đơn mua hàng mới sẽ được tạo cho công ty đó.
@@ -30,7 +30,7 @@ ERPNext có tính năng để nhập hóa đơn của nhà cung cấp từ các 
 3. Đính kèm tệp zip chứa các hóa đơn XML.
 
 4. Nhấn vào Nhập hóa đơn (Import invoices) và các Hóa đơn mua hàng sẽ được tạo. Các Nhà cung cấp sẽ được tạo nếu họ chưa tồn tại trong hệ thống.
-    <img class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/regional/italy/purchase_invoices_created.png">
+    <img class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/regional/italy/purchase_invoices_created.png">
 
 5. Nếu việc nhập tệp hoàn tất thành công, bạn sẽ thấy trạng thái Nhập tệp hoàn tất (File Import Completed). Nếu có bất kỳ lỗi nào, bạn có thể xem chúng từ Nhật ký lỗi (Error Log).
-    <img class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/regional/italy/file_import_completed.png">
+    <img class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/regional/italy/file_import_completed.png">

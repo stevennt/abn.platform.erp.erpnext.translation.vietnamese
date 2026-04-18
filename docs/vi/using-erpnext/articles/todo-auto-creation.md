@@ -3,7 +3,7 @@
 
 Mọi Tài liệu trong ERPNext đều có một tùy chọn gọi là 'Assign To' (Giao cho) ở thanh bên. Sử dụng tùy chọn này, bất kỳ Tài liệu nào cũng có thể được giao cho người dùng. Người dùng đó sẽ đồng thời được giao một Việc cần làm (ToDo).
 
-![ToDo Auto Creation](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/using-erpnext/using-todo-auto-assign-1.gif)
+![ToDo Auto Creation](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/using-erpnext/using-todo-auto-assign-1.gif)
 
 Trong các điều kiện như vậy, ba trạng thái của Việc cần làm được xác định dựa trên các cập nhật về việc giao việc.
 
@@ -19,4 +19,4 @@ Trong cùng một kịch bản như trên, giả sử phiếu hỗ trợ đã đ
 
 Đồng thời, Việc cần làm liên kết với Phiếu hỗ trợ cũng sẽ được mở lại.
 
-![ToDo](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/using-erpnext/using-to-do-6.png)
+![ToDo](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/using-erpnext/using-to-do-6.png)

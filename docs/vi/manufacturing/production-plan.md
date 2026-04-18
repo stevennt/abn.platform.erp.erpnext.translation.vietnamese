@@ -32,14 +32,14 @@ Kế hoạch sản xuất cũng có thể được tạo thủ công, nơi bạn
 
 1. Chọn tùy chọn Sales Order từ danh sách thả xuống 'Get Items From'. Hệ thống sẽ hiển thị các bộ lọc, sử dụng bộ lọc đó bạn có thể lấy các Đơn bán hàng để sản xuất. Bạn không cần sử dụng tất cả các bộ lọc này nếu chỉ có một vài Đơn bán hàng trong một khoảng thời gian cụ thể.
 
-  ![Production Plan fetch items](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/pp_fetch_from.png)
+  ![Production Plan fetch items](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/pp_fetch_from.png)
 
 1. Nhấp vào Get Sales Orders để lấy các đơn bán hàng dựa trên các bộ lọc trên.
 
-  ![Sales Order Filters](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/sales_order_filter.png)
+  ![Sales Order Filters](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/sales_order_filter.png)
 
 1. Nhấp vào 'Get Items for Work Order' để lấy các mặt hàng từ các Đơn bán hàng trên. Chỉ những mặt hàng có Định mức nguyên vật liệu mới được lấy ra.
-  ![Get items for Production Plan](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/get_items_wo.png)
+  ![Get items for Production Plan](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/get_items_wo.png)
 
 1. Khi mở rộng một dòng trong bảng Mặt hàng cần sản xuất (Items to Manufacture), bạn sẽ thấy tùy chọn 'Include Exploded Items'. Khi tích vào đây, các nguyên vật liệu của các mặt hàng lắp ráp phụ sẽ được bao gồm trong quy trình sản xuất.
 
@@ -47,21 +47,21 @@ Kế hoạch sản xuất cũng có thể được tạo thủ công, nơi bạn
 
 1. Chọn tùy chọn Material Request từ danh sách thả xuống Get Items From. Hệ thống sẽ hiển thị các bộ lọc, sử dụng bộ lọc đó chúng ta có thể lấy các Yêu cầu vật tư để sản xuất.
 
-  <img class="screenshot" alt="Material Request Filters" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/material_request_filter.png">
+  <img class="screenshot" alt="Material Request Filters" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/material_request_filter.png">
 
 1. Nhấp vào 'Get Material Request' để lấy các yêu cầu vật tư dựa trên các bộ lọc trên.
 
-  <img class="screenshot" alt="Material Requests" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/material_requests.png">
+  <img class="screenshot" alt="Material Requests" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/material_requests.png">
 
 1. Nhấp vào Get Items for Work Order để lấy các mặt hàng từ các yêu cầu vật tư trên.
 
-  <img class="screenshot" alt="Material Request Item" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/material_request_items.png">
+  <img class="screenshot" alt="Material Request Item" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/material_request_items.png">
 
 ### 2.3 Lập kế hoạch cho Yêu cầu vật tư
 
 Nhấp vào nút 'Get Raw Materials for Production' sẽ lấy các Mặt hàng nguyên vật liệu cần thiết vào bảng Kế hoạch yêu cầu vật tư (Material Request Plan). Ví dụ, để sản xuất 200 cây nhựa, bạn cần 100 thanh nhựa nguyên liệu nhưng chỉ có 20 trong Kho của mình, khi đó nhấp vào nút này sẽ thêm một dòng với số lượng 80 trong cột Số lượng yêu cầu (Required Quantity).
 
-<img class="screenshot" alt="Material Request Plan" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/material_request_plan.png">
+<img class="screenshot" alt="Material Request Plan" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/material_request_plan.png">
 
 Sử dụng các hộp kiểm sau để thực hiện các hành động nhất định:
 
@@ -71,13 +71,13 @@ Sử dụng các hộp kiểm sau để thực hiện các hành động nhất 
   * <b>For Warehouse</b>: Người dùng có thể thiết lập Kho mà họ muốn tạo yêu cầu vật tư. Khi tạo Phiếu kho trong quá trình sản xuất, hệ thống sẽ tìm kiếm tồn kho nguyên vật liệu trong Kho này.
   * <b>Download Materials Required</b>:- Khi hộp kiểm này được tích, Người dùng sẽ nhận được bảng tính Excel với các nguyên vật liệu cần thiết để hoàn thành Kế hoạch sản xuất này. Người dùng có thể chọn Kho để kiểm tra số lượng hiện có trong Kho tương ứng. Nếu Người dùng để trống trường 'For Warehouse' thì hệ thống sẽ cung cấp bảng tính Excel với các nguyên vật liệu và số lượng hiện có theo từng Kho của các nguyên vật liệu tương ứng. Bảng tính Excel sẽ trông giống như sau:
 
- <img class="screenshot" alt="Material Request Plan" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/material_request_excel.png">
+ <img class="screenshot" alt="Material Request Plan" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/material_request_excel.png">
 
 ### 2.4 Sau khi Xác nhận
 
 Sau khi Kế hoạch sản xuất được Xác nhận, Người dùng có tùy chọn tạo Lệnh sản xuất cho các mặt hàng sản xuất và Yêu cầu vật tư cho các nguyên vật liệu. Người dùng cũng có thể thiết lập Trạng thái là **Closed** trong Kế hoạch sản xuất.
 
-<img class="screenshot" alt="Make PO or MR" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/make_prod_mr_wo.png">
+<img class="screenshot" alt="Make PO or MR" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/make_prod_mr_wo.png">
 
 #### 2.4.1 Đóng một Kế hoạch sản xuất
 

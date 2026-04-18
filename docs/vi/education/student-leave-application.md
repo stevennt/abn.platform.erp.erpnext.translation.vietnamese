@@ -22,13 +22,13 @@
 6. Trong trường hợp học sinh không đến trường để tham gia hoặc đại diện cho trường trong bất kỳ sự kiện nào, học sinh đó có thể được đánh dấu là "Có mặt" ngay từ chính Đơn xin nghỉ học bằng cách tích vào ô _Đánh dấu là Có mặt_.
 7. Lưu. 'Tổng số ngày nghỉ' sẽ được tính toán và thiết lập trong tài liệu sau khi loại trừ các ngày lễ nằm trong [Danh sách ngày lễ](../human-resources/holiday-list.md) mặc định của bạn.
 
-    ![Student Leave Application](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/student-leave-application.png)
+    ![Student Leave Application](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/student-leave-application.png)
 
 ### 1.2 Khi Xác nhận Đơn xin nghỉ học của Học sinh
 
 Sau khi Đơn xin nghỉ học của Học sinh được xác nhận, một bản ghi Chấm công Học sinh sẽ tự động được tạo với trạng thái là 'Vắng mặt'. Nếu ô _Đánh dấu là Có mặt_ được tích, thì trạng thái của Bản ghi Chấm công sẽ được thiết lập là 'Có mặt'. Đơn xin nghỉ học được liên kết với tài liệu Chấm công Học sinh này để tham chiếu.
 
-![Student Attendance](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/leave-attendance-record.png)
+![Student Attendance](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/leave-attendance-record.png)
 
 Nếu bất kỳ ngày nào trong thời gian nghỉ là ngày lễ, thì việc tạo bản ghi Chấm công Học sinh cho ngày đó sẽ được bỏ qua.
 

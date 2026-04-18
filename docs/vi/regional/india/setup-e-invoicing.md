@@ -39,25 +39,25 @@ Theo hệ thống hóa đơn điện tử mới, các doanh nghiệp có doanh t
 
 Tạo một Hóa đơn bán hàng và để nó ở trạng thái Nháp. Nhấp vào nhóm nút **E-Invoicing** và sau đó nhấp vào **Generate IRN**. Nếu Hóa đơn bán hàng không có bất kỳ lỗi xác thực nào, IRN sẽ được tạo và cập nhật trong Hóa đơn bán hàng. Bây giờ bạn có thể Xác nhận hóa đơn và in Hóa đơn điện tử kèm hình ảnh mã QR bằng cách chọn Mẫu in "GST E-Invoice" khi in.
 
-![Generate IRN in Invoice](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/regional/india/generate-irn-in-invoice.png)
+![Generate IRN in Invoice](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/regional/india/generate-irn-in-invoice.png)
 
 Sau khi quá trình tạo IRN thành công, mã QR và IRN sẽ được lưu trong Hóa đơn bán hàng. Một khi các thông tin này đã được tạo, các trường trong Hóa đơn bán hàng không thể chỉnh sửa được nữa.
 
-![IRN in Invoice](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/regional/india/irn-in-invoice.png)
+![IRN in Invoice](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/regional/india/irn-in-invoice.png)
 
 Bạn có thể in Hóa đơn điện tử bằng Mẫu in GST E-Invoice mặc định. Hoặc bạn có thể tự chỉnh sửa mẫu in của riêng mình để bao gồm các trường hóa đơn điện tử.
 
-![E Invoice Print Format](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/regional/india/einv-print-format.png)
+![E Invoice Print Format](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/regional/india/einv-print-format.png)
 
 ### 2.4 Hủy IRN
 
 Nếu bạn đã tạo IRN cho một hóa đơn có dữ liệu sai, bạn có thể hủy nó bằng nút **Cancel IRN** trong nhóm nút E-Invoicing. Nhấp vào đó sẽ mở ra một cửa sổ bật lên yêu cầu lý do hủy và ghi chú.
 
-![E Invoice Cancel IRN Button](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/regional/india/einv-cancel-irn-button.png)
+![E Invoice Cancel IRN Button](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/regional/india/einv-cancel-irn-button.png)
 
 Sau khi bạn hủy IRN, hóa đơn sẽ trông giống như thế này.
 
-![E Invoice WIth IRN Cancelled](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/regional/india/einv-cancelled-irn.png)
+![E Invoice WIth IRN Cancelled](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/regional/india/einv-cancelled-irn.png)
 
 ## 3. Lệnh vận chuyển điện tử (E-Way bill)
 
@@ -65,18 +65,18 @@ Sau khi bạn hủy IRN, hóa đơn sẽ trông giống như thế này.
 
 Hóa đơn điện tử giúp giảm bớt bước bổ sung liên quan đến việc tạo Lệnh vận chuyển điện tử. Giờ đây bạn có thể cung cấp **Thông tin đơn vị vận chuyển** cùng với việc tạo IRN để tạo Lệnh vận chuyển cho hóa đơn. Bạn có thể tìm thấy phần Thông tin đơn vị vận chuyển ở phần dưới của hóa đơn. Bạn phải chọn **Đơn vị vận chuyển**, **Phương thức vận chuyển** và **Khoảng cách** để tạo Lệnh vận chuyển điện tử. Bạn cũng có thể tạo Lệnh vận chuyển điện tử sau khi đã tạo IRN và Xác nhận hóa đơn.
 
-![E Invoice Generate Eway Bill](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/regional/india/einv-generate-ewaybill-button.png)
+![E Invoice Generate Eway Bill](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/regional/india/einv-generate-ewaybill-button.png)
 
 Bạn sẽ thấy một cửa sổ bật lên với thông tin liên quan trước khi gửi:
-![E Way Bill Dialog](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/regional/india/einv-gen-ewaybill-dialog.png)
+![E Way Bill Dialog](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/regional/india/einv-gen-ewaybill-dialog.png)
 
 ### 3.2 Hủy Lệnh vận chuyển điện tử
 
 Quy trình tương tự như việc hủy IRN. Nhấp vào Cancel E-Way Bill và sau đó nhập lý do và ghi chú cho việc hủy.
 
-![Cancel E-way Bill](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/regional/india/einv-cancel-ewaybill-button.png)
+![Cancel E-way Bill](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/regional/india/einv-cancel-ewaybill-button.png)
 
-<img class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/regional/india/einv_cancelled_ewaybill.png">
-![](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/regional/india/)
+<img class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/regional/india/einv_cancelled_ewaybill.png">
+![](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/regional/india/)
 
 {next}

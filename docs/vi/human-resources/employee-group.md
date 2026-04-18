@@ -22,7 +22,7 @@ Trước khi tạo Nhóm nhân viên, bạn nên tạo các tài liệu sau:
 1. Chọn và thêm ID Nhân viên vào nhóm. Tên Nhân viên sẽ được tự động lấy về.
 1. Lưu.
 
-    <img class="screenshot" alt="Employee Group" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/employee-group.png">
+    <img class="screenshot" alt="Employee Group" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/employee-group.png">
 
 ## 3. Các tính năng
 

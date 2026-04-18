@@ -5,7 +5,7 @@
 
 > Trang chủ > Tùy chỉnh > Custom Script
 
-![Client Script](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/customize-erpnext-client-scripts.png)
+![Client Script](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/customize-erpnext-client-scripts.png)
 
 ## 1. Cách tạo Custom Script
 

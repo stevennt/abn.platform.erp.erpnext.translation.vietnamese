@@ -21,7 +21,7 @@ Trong mục Người dùng, rất nhiều thông tin có thể được nhập v
 1. Thêm địa chỉ Email và tên của người dùng.
 1. Lưu.
 
-    <img class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/users-and-permissions/add-user-details.png" alt="Add User Details">
+    <img class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/users-and-permissions/add-user-details.png" alt="Add User Details">
 
 Các chi tiết như Tên đăng nhập và Ngôn ngữ cũng có thể được thay đổi.
 
@@ -31,7 +31,7 @@ Các chi tiết như Tên đăng nhập và Ngôn ngữ cũng có thể được
 
 Sau khi Lưu, bạn sẽ thấy một danh sách các vai trò và các ô đánh dấu bên cạnh chúng. Chỉ cần đánh dấu các vai trò mà bạn muốn người dùng có và Lưu tài liệu. Các vai trò có các quyền đã được định nghĩa trước, để biết thêm về vai trò, [nhấn vào đây](role-based-permissions.md). Bạn có thể thiết lập [Hồ sơ vai trò](role-and-role-profile.md) để sử dụng như một mẫu giúp chọn nhiều vai trò cùng lúc.
 
-<img class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/users/user-2.png" alt="User Roles">
+<img class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/users/user-2.png" alt="User Roles">
 
 ### 2.2 Thông tin thêm
 Thông tin thêm về nhân viên có thể được thiết lập từ phần này:
@@ -71,13 +71,13 @@ Với tùy chọn này, bạn có thể theo dõi các tài liệu khác nhau tr
 
 Người dùng sẽ có quyền truy cập vào tất cả các module mà họ có quyền truy cập dựa trên vai trò. Nếu bạn muốn hạn chế quyền truy cập của một số module nhất định cho người dùng này, hãy bỏ đánh dấu các module từ danh sách này.
 
-<img class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/users/user-3.png" alt="User Block Module">
+<img class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/users/user-3.png" alt="User Block Module">
 
 #### 2.7.1 Hồ sơ Module
 
 Hồ sơ vai trò đóng vai trò như một mẫu để lưu trữ và lựa chọn quyền truy cập vào nhiều module. Hồ sơ vai trò này sau đó có thể được gán cho một Người dùng. Ví dụ, Người dùng Nhân sự sẽ có quyền truy cập vào nhiều module như Nhân sự, Bảng lương, v.v. Hồ sơ vai trò rất hữu ích để cung cấp quyền truy cập vào nhiều module cùng một lúc khi thêm nhiều người dùng.
 
-<img class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/users/module-profile.png" alt="Module Profile">
+<img class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/users/module-profile.png" alt="Module Profile">
 
 ### 2.8 Cài đặt Bảo mật
 

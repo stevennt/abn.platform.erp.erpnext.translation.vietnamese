@@ -36,14 +36,14 @@ Trước khi tạo và sử dụng Phiếu chi phí chuyển đến, bạn nên 
 1. Nhập Tài khoản chi phí và Số tiền cho Chi phí bổ sung trong bảng Thuế và phí. Số tiền sẽ được phân bổ đều dựa trên số lượng hoặc số tiền theo lựa chọn của bạn.
 1. Lưu và Xác nhận.
 
-    <img class="screenshot" alt="Landed Cost Voucher" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/landed-cost-voucher.png">
+    <img class="screenshot" alt="Landed Cost Voucher" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/landed-cost-voucher.png">
 
 
 Trong chứng từ, bạn có thể chọn nhiều Phiếu nhập hàng/Hóa đơn mua hàng và lấy tất cả các mặt hàng từ các Phiếu nhập hàng đó. Sau đó, bạn nên thêm các khoản phí áp dụng vào bảng “Thuế và phí”. Bạn có thể dễ dàng xóa một mặt hàng nếu các khoản phí đã thêm không áp dụng cho mặt hàng đó.
 
 Các khoản phí được thêm vào sẽ được phân bổ tỷ lệ cho tất cả các mặt hàng dựa trên số tiền hoặc số lượng của chúng. Nếu bạn chọn dựa trên số tiền, Mặt hàng có số tiền cao nhất sẽ được phân bổ tỷ lệ phí cao nhất. Trong trường hợp dựa trên số lượng, Mặt hàng có số lượng lớn nhất sẽ được phân bổ phần lớn các khoản phí và các Mặt hàng khác sẽ được phân bổ số tiền ít hơn. Điều này được hiển thị trong ảnh chụp màn hình sau:
 
-<img class="screenshot" alt="Landed Cost Voucher" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/landed-cost-distribution.png">
+<img class="screenshot" alt="Landed Cost Voucher" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/landed-cost-distribution.png">
 
 ## 3. Các hành động liên quan
 ### 3.1 Thêm Chi phí chuyển đến ngay trong Phiếu nhập hàng

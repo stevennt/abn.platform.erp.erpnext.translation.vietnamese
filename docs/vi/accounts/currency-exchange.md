@@ -14,7 +14,7 @@ Biểu mẫu Tỷ giá hối đoái trong ERPNext lưu trữ các tỷ giá hố
 1. Chọn xem tỷ giá hối đoái áp dụng cho giao dịch bán, mua, hoặc cả hai.
 1. Lưu.
 
-    ![Currency Exchange](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/currency-exchange.png)
+    ![Currency Exchange](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/currency-exchange.png)
 
 ## 2. Các chủ đề liên quan
 1. [Đánh giá lại tỷ giá hối đoái](exchange-rate-revaluation.md)

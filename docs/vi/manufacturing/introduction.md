@@ -2,13 +2,13 @@
 # Giới thiệu
 ERPNext được tích hợp sẵn đầy đủ mọi tính năng cho tất cả các yêu cầu của một doanh nghiệp sản xuất như theo dõi Định mức nguyên vật liệu, lập kế hoạch và thực hiện Lệnh sản xuất, thu mua và nhiều tính năng khác nữa.
 
-<img class="screenshot" alt="BOM" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/BOM-hero.png">
+<img class="screenshot" alt="BOM" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/BOM-hero.png">
 
 ## 1. Định mức nguyên vật liệu, Lệnh sản xuất và hơn thế nữa
 
 Phân hệ Sản xuất trong ERPNext giúp bạn duy trì Định mức nguyên vật liệu (BOM) đa cấp cho các Mặt hàng của mình. Nó giúp ích trong việc tính giá thành sản phẩm, lập kế hoạch sản xuất, tạo lệnh sản xuất cho xưởng sản xuất, tạo thẻ công việc và lập kế hoạch tồn kho bằng cách lấy yêu cầu vật tư thông qua BOM (còn được gọi là Lập kế hoạch nhu cầu nguyên vật liệu MRP).
 
-<img class="screenshot" alt="BOM" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/manufacturing-hero.png">
+<img class="screenshot" alt="BOM" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/manufacturing-hero.png">
 
 Bạn cũng có thể theo dõi hiệu quả các hoạt động như:
 
@@ -45,6 +45,6 @@ Xem video sau để tìm hiểu về từng tính năng trong phân hệ sản x
  <iframe src="https://www.youtube.com/embed/xE74wdQU5cc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </div>
 
-<img class="screenshot" alt="Task" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/manufacturing.png">
+<img class="screenshot" alt="Task" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/manufacturing.png">
 
 {next}

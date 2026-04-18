@@ -15,7 +15,7 @@
 1. Đi đến bất kỳ tài liệu nào, bạn sẽ thấy tùy chọn để theo dõi tài liệu đó.
 1. Nhấp vào 'Follow'.
 
-<img class="screenshot" alt="Defining Criteria" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/email/document-follow-how-to-follow.png">
+<img class="screenshot" alt="Defining Criteria" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/email/document-follow-how-to-follow.png">
 
 1. Sau khi theo dõi, bạn cũng có thể ngừng theo dõi một tài liệu.
 
@@ -32,7 +32,7 @@ Các trường hợp tài liệu sẽ được theo dõi __tự động__ sau kh
 
 Đây là giao diện của một thông báo email cho tính năng Theo dõi tài liệu:
 
-<img class="screenshot" alt="Defining Criteria" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/email/document-follow-email.png">
+<img class="screenshot" alt="Defining Criteria" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/email/document-follow-email.png">
 
 ### 2. Các chủ đề liên quan
 1. [Linking Emails to Document](linking-emails-to-document.md)

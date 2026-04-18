@@ -9,21 +9,21 @@ Cổng thanh toán tạo điều kiện thuận lợi cho việc chuyển giao t
 
 `Explore > Integrations > RazorPay Settings`
 
-<img class="screenshot" alt="Razorpay Settings" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/integrations/razorpay-api.gif">
+<img class="screenshot" alt="Razorpay Settings" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/integrations/razorpay-api.gif">
 
 #### Thiết lập RazorPay
 
 Để kích hoạt dịch vụ thanh toán RazorPay, bạn cần cấu hình các tham số như API Key, API Secret
 
-<img class="screenshot" alt="Razorpay Settings" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/integrations/razorpay_settings.png">
+<img class="screenshot" alt="Razorpay Settings" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/integrations/razorpay_settings.png">
 
 Khi kích hoạt dịch vụ, hệ thống sẽ tạo bản ghi Cổng thanh toán (Payment Gateway) và tài khoản trong Hệ thống tài khoản với loại tài khoản là Ngân hàng.
 
-<img class="screenshot" alt="Razorpay COA" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/integrations/razorpay_coa.png">
+<img class="screenshot" alt="Razorpay COA" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/integrations/razorpay_coa.png">
 
 Ngoài ra, hệ thống cũng sẽ tạo một mục Tài khoản Cổng thanh toán (Payment Gateway Account). Tài khoản Cổng thanh toán là trung tâm cấu hình, từ đây bạn có thể thiết lập tài khoản từ Hệ thống tài khoản hiện có, cũng như mẫu nội dung email yêu cầu thanh toán mặc định.
 
-<img class="screenshot" alt="Payment Gateway Account" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/integrations/payment_gateway_account_razorpay.png">
+<img class="screenshot" alt="Payment Gateway Account" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/integrations/payment_gateway_account_razorpay.png">
 
 Sau khi kích hoạt dịch vụ và cấu hình Tài khoản Cổng thanh toán, hệ thống của bạn đã có thể chấp nhận các thanh toán trực tuyến.
 

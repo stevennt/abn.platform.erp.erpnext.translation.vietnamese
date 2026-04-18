@@ -18,11 +18,11 @@ DocType Grant Application cho phép bạn ghi lại chi tiết của Người đ
 > My Account trên website > Grant Application từ thanh bên > Apply for new Grant Application.
 
 
-<img class="screenshot" alt="Online Grant Application row" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/non_profit/grant_application/grant_application_row.png">
+<img class="screenshot" alt="Online Grant Application row" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/non_profit/grant_application/grant_application_row.png">
 
-<img class="screenshot" alt="Online Grant Application" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/non_profit/grant_application/online_grant_application_1.png">
+<img class="screenshot" alt="Online Grant Application" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/non_profit/grant_application/online_grant_application_1.png">
 
-<img class="screenshot" alt="Online Grant Application" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/non_profit/grant_application/grant_portal.png">
+<img class="screenshot" alt="Online Grant Application" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/non_profit/grant_application/grant_portal.png">
 
 
 Để Tạo Đơn xin cấp kinh phí, hãy đi tới:
@@ -30,7 +30,7 @@ DocType Grant Application cho phép bạn ghi lại chi tiết của Người đ
 > Non Profit > Grant Application > New.
 
 
-<img class="screenshot" alt="Grant Application" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/non_profit/grant_application/grant_application.png">
+<img class="screenshot" alt="Grant Application" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/non_profit/grant_application/grant_application.png">
 
 
 **Email:** Email là trường bắt buộc.

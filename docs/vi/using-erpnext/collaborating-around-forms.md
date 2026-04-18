@@ -11,30 +11,30 @@ Nếu một Tài liệu yêu cầu một hành động nào đó từ một ngư
 
 Ví dụ: một [Khách hàng tiềm năng](../CRM/lead.md) mới có thể được giao cho một người dùng cụ thể để đảm bảo rằng họ đang theo dõi khách hàng đó.
 
-![Collaborating Around Forms](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/using-erpnext/using-assignment-1.png)
+![Collaborating Around Forms](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/using-erpnext/using-assignment-1.png)
 
 ### Bình luận (Comments)
 
 Đối với nhiều Tài liệu, có thể có những thông tin không thuộc về một giao dịch. Để ghi lại những thông tin như vậy, tính năng 'Bình luận' là một lựa chọn thay thế tuyệt vời. Xem thêm tại [Bình luận](articles/comments.md).
 
-![Collaborating Around Forms](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/using-erpnext/using-collaborating-2.png)
+![Collaborating Around Forms](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/using-erpnext/using-collaborating-2.png)
 
 ### Chia sẻ (Share)
 
 Bạn có thể chia sẻ một tài liệu với một người dùng cụ thể trong tài khoản ERPNext của mình. Bất kể vai trò hay quyền hạn của họ là gì, Người dùng sẽ có thể truy cập vào tài liệu đã được chia sẻ với họ.
 
-![Notes](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/using-erpnext/using-notes-4.png)
+![Notes](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/using-erpnext/using-notes-4.png)
 
 ### Thẻ (Tags)
 
 Bạn cũng có thể thêm thẻ vào các Tài liệu khác nhau để phân loại chúng thành các danh mục. [Nhấp vào đây](tags.html.md) để biết thêm về thẻ.
 
-![Tags](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/using-erpnext/using-tags-2.png)
+![Tags](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/using-erpnext/using-tags-2.png)
 
 ### Đánh giá (Reviews)
 
 Đối với mỗi Tài liệu, có một tùy chọn để thêm Đánh giá cho bất kỳ Người dùng nào tham gia vào Tài liệu đó. Điều này bao gồm tất cả những Người dùng mà Tài liệu này đã được giao, và tất cả những Người dùng đã Bình luận về Tài liệu này. Người dùng có thể nhận được Điểm Đánh giá bằng cách sử dụng [Hệ thống Điểm Năng lượng](../setting-up/energy-point-system.md).
 
-![Collaborating Around Forms](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/using-erpnext/using-collaborating-5.png)
+![Collaborating Around Forms](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/using-erpnext/using-collaborating-5.png)
 
 {next}

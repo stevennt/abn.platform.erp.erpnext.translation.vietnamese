@@ -5,7 +5,7 @@
 
 **Trả lời:** Có 3 tùy chọn có sẵn trong trường <i>Valuation Based On</i>:
 
-<img alt="Nested BOM" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/valuation-based-on-1.png">
+<img alt="Nested BOM" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/valuation-based-on-1.png">
 
 **Valuation Rate:** Giá trị tính giá của mặt hàng được xác định dựa trên giá trị mua hoặc sản xuất của nó.
 

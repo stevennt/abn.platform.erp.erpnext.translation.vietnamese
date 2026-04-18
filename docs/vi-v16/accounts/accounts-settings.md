@@ -3,7 +3,7 @@
 
 Có nhiều cài đặt kế toán khác nhau trong ERPNext để hạn chế và cấu hình các hành động trong phân hệ Kế toán.
 
-![Account Settings](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/account-settings.png)
+![Account Settings](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/account-settings.png)
 
 ## 1. Tài khoản bị đóng băng đến ngày
 Đóng băng các giao dịch kế toán đến một ngày cụ thể, không ai có thể tạo/sửa đổi bút toán ngoại trừ Vai trò được chỉ định.
@@ -50,7 +50,7 @@ Bật tính năng này sẽ tự động lấy Điều khoản thanh toán dựa
 
 ## 15. Cài đặt In
 
-![Account Settings](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/print-accounts-settings.png)
+![Account Settings](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/print-accounts-settings.png)
 
 * **Hiển thị Thuế bao gồm trong bản in**: Các loại thuế được áp dụng sẽ được hiển thị trong chế độ xem in.
 * **Hiển thị Lịch trình thanh toán trong bản in**: Bảng Lịch trình thanh toán sẽ hiển thị khi sử dụng [Điều khoản thanh toán](payment-terms.md). Bật tính năng này sẽ hiển thị bảng này trong chế độ xem in.

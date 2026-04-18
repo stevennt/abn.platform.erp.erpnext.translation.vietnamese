@@ -19,7 +19,7 @@ Có hơn 20-25 biểu mẫu đánh giá mà bạn sẽ cần điền trong quá 
 5. Bạn có thể tùy chọn thêm một số Assessment Descriptions (Mô tả đánh giá) và hướng dẫn về các quy tắc tính điểm.
 6. Lưu.
 
-<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/patient-assessment-template.png">
+<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/patient-assessment-template.png">
 
 ## 3. Các chủ đề liên quan
 1. [Patient Assessment](patient_assessment.md)

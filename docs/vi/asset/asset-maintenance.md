@@ -22,7 +22,7 @@ Trước khi tạo và sử dụng Bảo trì Tài sản, bạn nên tạo các 
 
 * [Asset](asset.md) với mục 'Maintenance Required' đã được chọn.
 
-    <img class="screenshot" alt="Asset" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/asset/maintenance-required.png">
+    <img class="screenshot" alt="Asset" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/asset/maintenance-required.png">
 
 * [Asset Maintenance Team](asset-maintenance-team.md)
 
@@ -38,7 +38,7 @@ Trước khi tạo và sử dụng Bảo trì Tài sản, bạn nên tạo các 
 1. Lưu.
 1. Sau khi lưu, bạn có thể giao tác vụ cho một người dùng.
 
-<img class="screenshot" alt="Asset" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/asset/asset-maintenance.png">
+<img class="screenshot" alt="Asset" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/asset/asset-maintenance.png">
 
 Nếu Mặt hàng có số serial, bạn có thể nhập Số serial.
 
@@ -53,7 +53,7 @@ Nếu Mặt hàng có số serial, bạn có thể nhập Số serial.
 
 Khi giao việc bảo trì cho một người dùng, nó sẽ xuất hiện trong danh sách ToDo của người dùng đó.
 
-<img class="screenshot" alt="Asset" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/asset/asset-maintenance.png">
+<img class="screenshot" alt="Asset" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/asset/asset-maintenance.png">
 
 ## 4. Các chủ đề liên quan
 1. [Asset Value Adjustment](asset-value-adjustment.md)

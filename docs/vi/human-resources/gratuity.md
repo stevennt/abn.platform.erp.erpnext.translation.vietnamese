@@ -26,7 +26,7 @@ Trước khi tạo Trợ cấp thôi việc, bạn nên tạo các mục sau:
 1. Tích vào ô Pay via Salary Slip nếu bạn muốn thanh toán trợ cấp thôi việc thông qua Phiếu lương.
 1. Lưu và Xác nhận
 
-<img class="screenshot" alt="Gratuity" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/gratuity.png">
+<img class="screenshot" alt="Gratuity" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/gratuity.png">
 
 ## 3. Các phương thức thanh toán Trợ cấp thôi việc
 
@@ -35,17 +35,17 @@ Trong ERPNext, chúng tôi cho phép bạn thanh toán số tiền thông qua Ph
 ### 3.1 Thanh toán qua Phiếu lương
 Để thanh toán số tiền Trợ cấp thôi việc qua Phiếu lương, bạn cần tích vào ô **Pay via Salary Slip**. Chọn **Payroll Date** (Ngày tính lương) và **Salary Component** (Thành phần lương), các mục này sẽ xuất hiện sau khi tích chọn.
 
-<img class="screenshot" alt="payment conf via salary slip" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/payment-conf-via-salary-slip.png">
+<img class="screenshot" alt="payment conf via salary slip" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/payment-conf-via-salary-slip.png">
 
 Sau khi Xác nhận, hệ thống sẽ tự động tạo Lương bổ sung (Additional Salary) với Ngày tính lương và Thành phần lương tương ứng.
 
-<img class="screenshot" alt="gratuity payment via salary slip" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/gratuity-payment-via-salary-slip.png">
+<img class="screenshot" alt="gratuity payment via salary slip" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/gratuity-payment-via-salary-slip.png">
 
 ### Thanh toán qua Bút toán thanh toán
 Để thanh toán số tiền Trợ cấp thôi việc qua Bút toán thanh toán, bạn cần đảm bảo rằng ô **Pay via Salary Slip** không được tích chọn. Sau đó, hệ thống sẽ cho phép bạn chọn **Payable Account** (Tài khoản phải trả), **Expense Account** (Tài khoản chi phí) và **Mode of Payment** (Phương thức thanh toán).
 
-<img class="screenshot" alt="payment conf via payment entry" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/payment-conf-via-payment-entry.png">
+<img class="screenshot" alt="payment conf via payment entry" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/payment-conf-via-payment-entry.png">
 
 Sau khi Xác nhận bản ghi, hãy nhấp vào nút "Create Payment Entry", nút này sẽ chuyển hướng bạn đến Biểu mẫu Bút toán thanh toán, hãy điền đầy đủ thông tin, Lưu và Xác nhận.
 
-<img class="screenshot" alt="gratuity payment via payment entry" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/gratuity-payment-via-payment-entry.png">
+<img class="screenshot" alt="gratuity payment via payment entry" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/gratuity-payment-via-payment-entry.png">

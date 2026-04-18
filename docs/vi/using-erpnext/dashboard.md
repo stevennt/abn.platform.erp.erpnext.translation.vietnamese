@@ -20,17 +20,17 @@ Mỗi Trang tổng quan bao gồm một hoặc nhiều Biểu đồ Trang tổng
 
 Khi bạn nhấp vào `Show Dashboard`, bạn sẽ có thể xem Trang tổng quan hiển thị các biểu diễn đồ họa cho các giao dịch của mình.
 
-![Accounting Dashboard](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/dashboard.png)
+![Accounting Dashboard](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/dashboard.png)
 
 ## 2. Thêm Biểu đồ vào Trang tổng quan
 
 Thêm các biểu đồ vào trang tổng quan này bằng cách chọn `Dashboard Chart` hiện có hoặc tạo mới.
 
-![Adding Dashboard to Charts](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/dashboard-add-charts.png)
+![Adding Dashboard to Charts](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/dashboard-add-charts.png)
 
 Lưu các thay đổi và nhấp vào nút `Show Dashboard` để xem trang tổng quan.
 
-![Show Dashboard Button](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/dashboard-show-dashboard-button.png)
+![Show Dashboard Button](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/dashboard-show-dashboard-button.png)
 
 ## 3. Tạo Biểu đồ Trang tổng quan mới
 
@@ -42,29 +42,29 @@ Cung cấp tên cho biểu đồ, tên này sẽ hiển thị trong trang tổng
 
 **Lưu ý:** `Dashboard Chart Source` mới chỉ có thể được tạo bởi Người dùng Quản trị viên trong Chế độ Nhà phát triển (Developer Mode).
 
-![Select Dashboard Chart Source](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/dashboard-chart-from-source.png)
+![Select Dashboard Chart Source](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/dashboard-chart-from-source.png)
 
 Sau khi thiết lập trường Nguồn Biểu đồ, bảng bộ lọc sẽ được hiển thị.
 
 Nhấp vào bảng để chỉnh sửa các bộ lọc.
 
-![Dashboard Chart Filter](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/dashboard-chart-filter.png)
+![Dashboard Chart Filter](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/dashboard-chart-filter.png)
 
 Một cửa sổ modal sẽ hiển thị để thiết lập bộ lọc. Nhấp vào `Set` để thiết lập bộ lọc.
-![Dashboard Chart Filter Modal](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/dashboard-chart-filter-modal.png)
+![Dashboard Chart Filter Modal](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/dashboard-chart-filter-modal.png)
 
 Sau khi thiết lập trường Nguồn Biểu đồ, bảng Bộ lọc sẽ được cập nhật với các giá trị bộ lọc đã chọn.
-![Dashboard Chart Filter](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/dashboard-chart-filter-updated.png)
+![Dashboard Chart Filter](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/dashboard-chart-filter-updated.png)
 
 ## 4. Sử dụng Trang tổng quan
 
 Mỗi biểu đồ sẽ được hiển thị theo các trường được thiết lập trong Biểu đồ Trang tổng quan tương ứng. Kết quả từ nguồn biểu đồ trang tổng quan được lưu vào bộ nhớ đệm để tránh các truy vấn dư thừa. Vì dữ liệu biểu đồ có thể bị cũ, mỗi biểu đồ cũng sẽ hiển thị thời gian đồng bộ hóa cuối cùng.
 
-![Dashboard Last Synced](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/dashboard-last-synced.png)
+![Dashboard Last Synced](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/dashboard-last-synced.png)
 
 Các bộ lọc được sử dụng để tạo dữ liệu biểu đồ cũng có thể được thay đổi bằng cách nhấp vào `Set Filters`. Biểu đồ sẽ được làm mới tự động theo các bộ lọc vừa được thiết lập.
 
-![Dashboard Filters](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/dashboard-filters.png)
+![Dashboard Filters](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/dashboard-filters.png)
 
 Để lấy dữ liệu mới nhất, mỗi biểu đồ phải được làm mới một cách cưỡng bách bằng cách nhấp vào nút **Force Refresh** từ menu thả xuống.
 

@@ -14,19 +14,19 @@ Lịch làm việc của Chuyên gia y tế sẽ giúp bạn cấu hình thời 
 3. Sau khi đặt tên cho lịch làm việc, nhấn vào nút **Add Time Slots** để tạo các khung giờ cho mỗi ngày trong tuần.
 4. Lưu
 
-<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/practitioner_schedule.png">
+<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/practitioner_schedule.png">
 
 Nếu bạn không muốn lịch làm việc này được sử dụng trong bất kỳ giao dịch nào, bạn có thể tích vào ô "Disabled".
 
-<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/practitioner_schedule_1.png">
+<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/practitioner_schedule_1.png">
 
 Để áp dụng lịch làm việc cho một chuyên gia y tế, hãy mở master Healthcare Practitioner và chọn các lịch làm việc cũng như tùy chọn đơn vị dịch vụ nơi chuyên gia y tế sẽ làm việc.
 
-<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/practitioner_availability.png">
+<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/practitioner_availability.png">
 
 Các khung giờ này sau đó sẽ được hiển thị khi kiểm tra thời gian trống của chuyên gia y tế trong quá trình đặt Lịch hẹn (Appointment).
 
-<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/check_availability.png">
+<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/check_availability.png">
 
 ## 2. Các chủ đề liên quan
 

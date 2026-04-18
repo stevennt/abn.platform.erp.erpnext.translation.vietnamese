@@ -23,7 +23,7 @@ Nhật ký học sinh có thể được sử dụng để ghi lại kết quả
 1. Nhập ID học sinh. Ngay khi bạn thực hiện việc này, tên của học sinh sẽ tự động được lấy ra.
 1. Lưu.
 
-    ![Student Log](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-student-log-1.png)
+    ![Student Log](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-student-log-1.png)
 
 ### 3.1. Các tùy chọn bổ sung khi tạo Nhật ký học sinh
 
@@ -34,7 +34,7 @@ Nhật ký học sinh có thể được sử dụng để ghi lại kết quả
     - Medical: Nếu học sinh được phát hiện không ăn trưa, hoặc nếu họ phàn nàn về một vấn đề y tế nào đó.
     - Achievement: Nếu học sinh ghi bàn cho đội trong một trận bóng đá.
 
-        ![Student Log](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-student-log-2.png)
+        ![Student Log](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-student-log-2.png)
 
 * **Date**: Bạn có thể chọn ngày mà nhật ký được nhập vào.
 * **Academic Year**: Bạn có thể chọn năm học mà nhật ký này được lập.
@@ -43,6 +43,6 @@ Nhật ký học sinh có thể được sử dụng để ghi lại kết quả
 * **Student Batch**: Chọn lớp (batch) mà học sinh này là thành viên.
 * **Log**: Trường này sẽ chứa ghi chú nhật ký của bạn cho học sinh.
 
-    ![Student Log](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-student-log-3.png)
+    ![Student Log](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-student-log-3.png)
 
 {next}

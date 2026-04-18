@@ -13,15 +13,15 @@
 
 Bạn có thể thiết lập nhiều cổng thanh toán Braintree nếu cần. Việc lựa chọn tài khoản cổng thanh toán sẽ quyết định tài khoản braintree nào được sử dụng để thanh toán.
 
-![Braintree Settings](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/integrations/braintree_account.png)
+![Braintree Settings](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/integrations/braintree_account.png)
 
 Khi kích hoạt dịch vụ, hệ thống sẽ tạo bản ghi Cổng thanh toán (Payment Gateway) và một tài khoản trong Hệ thống tài khoản với loại tài khoản là Ngân hàng.
 
-![Braintree COA](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/integrations/braintree_coa.png)
+![Braintree COA](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/integrations/braintree_coa.png)
 
 Hệ thống cũng sẽ tạo một tài khoản cổng thanh toán. Bạn có thể thay đổi tài khoản ngân hàng mặc định nếu cần và tạo một mẫu cho yêu cầu thanh toán.
 
-![Payment Gateway Account](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/integrations/payment_gateway_account_braintree.png)
+![Payment Gateway Account](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/integrations/payment_gateway_account_braintree.png)
 
 Sau khi cấu hình Tài khoản cổng thanh toán, hệ thống của bạn có thể chấp nhận thanh toán trực tuyến thông qua Braintree.
 

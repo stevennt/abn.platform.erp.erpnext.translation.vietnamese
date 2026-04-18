@@ -19,7 +19,7 @@ DocType cho phép bạn chèn các biểu mẫu tùy chỉnh vào ERPNext theo y
 1. **Module**: Nhập module mà bạn muốn thêm DocType mới vào.
 1. Lưu.
 
-![Custom DocType](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/doctype-employee-transfer.png)
+![Custom DocType](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/doctype-employee-transfer.png)
 
 ### 1.1. Chi tiết bổ sung
 
@@ -27,19 +27,19 @@ DocType cho phép bạn chèn các biểu mẫu tùy chỉnh vào ERPNext theo y
 
  Bạn có thể chọn thêm bao nhiêu trường tùy ý. Nhãn (Label), Loại trường (Field Type), Các trường bắt buộc (Mandatory Fields) và các Tùy chọn (Options) liên quan khác cũng có thể được thêm tại đây. Tìm hiểu thêm về các loại trường [tại đây](articles/field-types.html.md).
 
- ![Fields in Custom DocType](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/doctype-employee-transfer-fields.png)
+ ![Fields in Custom DocType](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/doctype-employee-transfer-fields.png)
 
 1. **Naming**
 
  Tại đây bạn có thể chọn xem có muốn mỗi biểu mẫu trong DocType này được đặt tên tự động hay không. Như đã nêu trong phần mô tả, bạn có thể chọn mẫu để đặt tên cho các biểu mẫu. Mẫu này có thể là một Trường trong DocType, Chuỗi đặt tên (Naming Series), Nhắc nhở (Prompt), Một Chuỗi đặt tên đã xác định, hoặc Tên dựa trên Định dạng (Format based Name). Đối với việc đặt tên, bạn cũng có thể thêm Mô tả (Description) và Kiểu chữ (Name Case - như Title Case hoặc UPPER CASE) để thuận tiện cho mình.
 
- ![Naming Custom DocType](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/doctype-employee-transfer-naming.png)
+ ![Naming Custom DocType](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/doctype-employee-transfer-naming.png)
 
 1. **Form Settings**
 
  Các Cài đặt bổ sung cho Biểu mẫu, Trường hình ảnh, Tệp đính kèm, Dòng thời gian (Timeline), v.v. có thể được cấu hình tại đây. Để biết thêm về Biểu mẫu, hãy truy cập [Customize Form](customize-form.md).
 
- ![Custom DocType Form Settings](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/doctype-employee-transfer-form-settings.png)
+ ![Custom DocType Form Settings](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/doctype-employee-transfer-form-settings.png)
 
 1. **View Settings**
 
@@ -49,7 +49,7 @@ DocType cho phép bạn chèn các biểu mẫu tùy chỉnh vào ERPNext theo y
 
  Bạn có thể xác định các Quy tắc phân quyền cho DocType tại đây, và cấu hình những người dùng nào sẽ có thể sử dụng hoặc thực hiện thay đổi đối với DocType này. Tìm hiểu thêm về [Người dùng và Phân quyền](../setting-up/users-and-permissions) tại đây.
 
- ![Custom DocType Permissions](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/doctype-employee-transfer-permissions.png)
+ ![Custom DocType Permissions](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/doctype-employee-transfer-permissions.png)
 
 1. **Web View**
 
@@ -62,14 +62,14 @@ DocType cho phép bạn chèn các biểu mẫu tùy chỉnh vào ERPNext theo y
 1. **Is Single**: Nếu được tích, Doctype này sẽ trở thành một biểu mẫu duy nhất, giống như Đơn bán hàng, mà người dùng sẽ không thể tạo lại nhiều bản ghi. Ví dụ: Cài đặt Bán hàng trong Phân hệ Bán hàng là một DocType Single.
 1. **Is Tree**: Một số DocType trong ERPNext được cấu trúc dưới dạng Cây (Tree), trong đó có một số DocType Cha và một số DocType Con. Ví dụ: DocType Công ty được cấu trúc dưới dạng Cây, có các Công ty mẹ cũng như các Công ty con, mà chúng ta gọi là công ty con. Nếu bạn muốn các DocType của mình được cấu trúc tương tự, bạn có thể bật tùy chọn này.
 
-    ![DocType Tree View](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/doctype-treeview.png)
+    ![DocType Tree View](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/doctype-treeview.png)
 
 1. **Quick Entry**: Bạn có thể chọn xem có muốn tạo Nhập nhanh (Quick Entry) cho DocType này hay không. Điều này sẽ cho phép bạn chỉ nhập một vài chi tiết bắt buộc và Lưu DocType để tạo một bản Nhập nhanh. Ví dụ, tích vào Quick Entry trong [Bút toán](../accounts/journal-entry.md#11-quick-entry).
 1. **Track Changes**: Bạn có thể chọn tùy chọn này nếu muốn duy trì nhật ký các thay đổi được thực hiện đối với mỗi Biểu mẫu. Xem [Phiên bản tài liệu](../using-erpnext/document-versioning.md) để hiểu thêm về điều này.
 1. **Track Seen**: Bạn có thể chọn tùy chọn này nếu muốn duy trì nhật ký của tất cả Người dùng đã xem Biểu mẫu này.
 1. **Track Views**: Bạn có thể chọn tùy chọn này nếu muốn duy trì nhật ký về tất cả các lần mỗi Người dùng đã Xem Biểu mẫu này.
 
-  ![DocType Tree View](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/doctype-track-views.png)
+  ![DocType Tree View](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/doctype-track-views.png)
 
 1. **Custom?**: Trường này sẽ được tích mặc định khi thêm DocType Tùy chỉnh. Tương tự, nếu bạn đang tùy chỉnh một DocType đã tồn tại trong hệ thống, trường này mặc định sẽ không được tích.
 

@@ -5,11 +5,11 @@
 
 Ví dụ, trong chương trình Chuyên ngành Kinh tế, khóa học Phương pháp Toán học trong Kinh tế sẽ là một khóa học, trong khi đó, trong khóa học 'Đại số tuyến tính' sẽ là một chủ đề.
 
-![Topic](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-program-workflow.png)
+![Topic](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-program-workflow.png)
 
 Nội dung của chủ đề có thể dưới dạng một bài viết, một video hoặc một bài kiểm tra.
 
-![Topic](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-topic-1.png)
+![Topic](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-topic-1.png)
 
 Để truy cập danh sách Chủ đề, hãy đi đến:
 
@@ -31,6 +31,6 @@ Trước khi tạo một Chủ đề mới, bạn nên tạo các nội dung sau
 4. Chọn Nội dung cho Chủ đề. Bạn có thể tạo một Bài viết, Video hoặc Bài kiểm tra mới ngay tại đây.
 5. Tùy chọn thêm mô tả và Lưu.
 
-    ![Topic](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-topic-3.gif)
+    ![Topic](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-topic-3.gif)
 
 {next}

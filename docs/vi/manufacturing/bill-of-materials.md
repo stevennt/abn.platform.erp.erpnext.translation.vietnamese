@@ -9,7 +9,7 @@ Một BOM cũng có thể bao gồm các công đoạn sản xuất cần thiế
 
 **BOM** là danh sách tất cả các vật tư (mua ngoài hoặc tự làm) và các công đoạn được sử dụng để sản xuất một thành phẩm hoặc cụm lắp ráp. Trong ERPNext, mỗi mặt hàng (cụm lắp ráp) có thể có BOM riêng, từ đó tạo thành một cây các Mặt hàng với nhiều cấp độ.
 
-<img class="screenshot" alt="Work Order" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/manufacturing-flow-bom.png">
+<img class="screenshot" alt="Work Order" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/manufacturing-flow-bom.png">
 
 Để tạo các Yêu cầu mua hàng chính xác, bạn phải luôn duy trì các BOM chính xác.
 
@@ -36,21 +36,21 @@ Trước khi tạo và sử dụng BOM, bạn nên tạo các mục sau trước
  1. Nếu Mặt hàng này là một cụm lắp ráp, BOM mặc định của nó sẽ được lấy ra.
  1. Chọn Kho nguồn để theo dõi tồn kho.
  1. Nhập tỷ lệ phế phẩm sẽ còn lại sau khi nguyên vật liệu này được sử dụng.
-  ![BOM Materials](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/bom-materials.png)
+  ![BOM Materials](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/bom-materials.png)
 
 1. Trong phần Phế phẩm, chọn Mặt hàng phế phẩm sẽ được tạo ra khi sản xuất và số lượng của nó. Mặt hàng phế phẩm cũng có thể có Đơn giá nếu nó là sản phẩm phụ chứ không phải là chất thải. Bỏ qua phần này nếu 100% nguyên vật liệu được sử dụng hết hoàn toàn.
-  ![BOM Scrap](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/bom-scrap.png)
+  ![BOM Scrap](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/bom-scrap.png)
 
 1. Lưu và Xác nhận.
 
 Trong bảng Mặt hàng, bạn sẽ thấy tùy chọn 'Include Item in Manufacturing' (Bao gồm Mặt hàng trong Sản xuất). Các Nguyên vật liệu cần được tích chọn ô này. Trong trường hợp có các Công đoạn hoặc dịch vụ bạn cần đưa vào BOM mà không nhất thiết là một Mặt hàng dùng để sản xuất, hãy bỏ tích ô này. Ví dụ, việc xử lý nhựa với hóa chất đòi hỏi một số chi phí nhưng nó không phải là một Mặt hàng và chi phí đó cần được theo dõi.
 
-  <img class="screenshot" alt="Task" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/bom-item-include.png">
+  <img class="screenshot" alt="Task" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/bom-item-include.png">
 
 ### 2.1 Định mức nguyên vật liệu có Công đoạn
 Để thêm [Công đoạn](operation.md), hãy tích vào ô 'With Operations' (Có Công đoạn). Bây giờ, một bảng Công đoạn có thể được nhìn thấy. Tùy chọn này hữu ích để theo dõi chi phí của các Công đoạn khác nhau được thực hiện để sản xuất [Mặt hàng](../stock/item.md). Các Công đoạn có thể được thêm dễ dàng bằng cách thiết lập một mẫu với [Quy trình công nghệ](routing.md) chính.
 
-<img class="screenshot" alt="Task" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/bom-operations.png">
+<img class="screenshot" alt="Task" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/bom-operations.png">
 
 1. Trong bảng “Operations” (Công đoạn), thêm các công đoạn cần được thực hiện để sản xuất Mặt hàng cụ thể này.
 1. Đối với mỗi công đoạn, bạn sẽ được yêu cầu nhập [Máy móc/Trạm làm việc](workstation.md) nơi Công đoạn sẽ được thực hiện. Một Máy móc/Trạm làm việc mặc định có thể được thiết lập từ tài liệu [Công đoạn](operation.md).
@@ -60,7 +60,7 @@ Trong bảng Mặt hàng, bạn sẽ thấy tùy chọn 'Include Item in Manufac
 
 Transfer Material Against (Chuyển vật tư theo) cần được thiết lập cho một BOM có Công đoạn. Vật tư có thể được chuyển theo một [Lệnh sản xuất](work-order.md) theo lô hoặc theo từng [Thẻ công việc](job-card.md) riêng lẻ. Việc thay đổi này ảnh hưởng đến việc 'Chuyển vật tư để sản xuất' được thực hiện theo Lệnh sản xuất cùng một lúc hay thực hiện nhiều lần theo từng Thẻ công việc riêng lẻ. Việc thiết lập tùy chọn này phụ thuộc vào các yếu tố như thời gian sản xuất mặt hàng, giá trị của các mặt hàng được sản xuất, số lượng linh kiện được sử dụng trong sản xuất, kỹ năng của nhân công tham gia, v.v.
 
-![BOM transfer materials against](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/bom-transfer-materials.png)
+![BOM transfer materials against](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/manufacturing/bom-transfer-materials.png)
 
 ### 2.2 Các tùy chọn bổ sung khi tạo Định mức nguyên vật liệu
 

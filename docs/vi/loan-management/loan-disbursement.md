@@ -4,13 +4,13 @@
 
 **Sau khi Khoản vay được phê duyệt, số tiền vay đã sẵn sàng để được giải ngân. Để thực hiện việc đó, một bản ghi Giải ngân khoản vay sẽ được tạo.**
 
-<img class="screenshot" alt="Make Loan Disbursement" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/loan-management/loan-disbursement-flow.png">
+<img class="screenshot" alt="Make Loan Disbursement" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/loan-management/loan-disbursement-flow.png">
 
 Để truy cập danh sách Giải ngân khoản vay, hãy đi tới:
 > Home > Loan Management > Disbursement and Repayment > Loan Disbursement
 
 
-<img class="screenshot" alt="Loan Disbursement" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/loan-management/loan-disbursement.png">
+<img class="screenshot" alt="Loan Disbursement" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/loan-management/loan-disbursement.png">
 
 ## 1. Điều kiện tiên quyết
 Trước khi tạo Giải ngân khoản vay, bạn phải tạo các mục sau trước:
@@ -29,7 +29,7 @@ Trước khi tạo Giải ngân khoản vay, bạn phải tạo các mục sau t
 ### 2.1. Các cách khác để tạo Giải ngân khoản vay
 Bạn cũng có thể tạo Giải ngân khoản vay từ một Khoản vay đã được phê duyệt thông qua nút **Create** ở góc trên bên phải.
 
-<img class="screenshot" alt="Create Loan Disbursement" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/loan-management/create-loan-disbursement.png">
+<img class="screenshot" alt="Create Loan Disbursement" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/loan-management/create-loan-disbursement.png">
 
 ## 3. Các tính năng
 

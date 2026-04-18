@@ -8,7 +8,7 @@ Có hai loại báo cáo trong ERPNext để chia sẻ. Báo cáo Số dư cổ 
 Để truy cập báo cáo Số dư cổ phần, hãy đi tới:
 > Home > Accounting > Share Management > Share Balance
 
-![Share Balance Report](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/share-balance-report.png)
+![Share Balance Report](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/share-balance-report.png)
 
 ## 2. Sổ cái cổ phần
 
@@ -17,7 +17,7 @@ Có hai loại báo cáo trong ERPNext để chia sẻ. Báo cáo Số dư cổ 
 Để truy cập báo cáo Sổ cái cổ phần, hãy đi tới:
 > Home > Accounting > Share Management > Share Ledger
 
-![Share Ledger Report](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/share-ledger-report.png)
+![Share Ledger Report](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/share-ledger-report.png)
 
 ### 3. Các chủ đề liên quan
 1. [Cổ đông](shareholder.md)

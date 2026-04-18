@@ -22,7 +22,7 @@ Các chi tiết sẽ được tự động lấy về nếu bạn nhấp vào 'S
 1. Nhập House Rent Payment Amount (Số tiền thanh toán tiền thuê nhà), Rented From Date (Ngày bắt đầu thuê) và Rented To Date (Ngày kết thúc thuê).
 1. Lưu và Xác nhận.
 
-    <img class="screenshot" alt="Employee Tax Exemption Proof Submission" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/employee-tax-exemption-proof-submission.png">
+    <img class="screenshot" alt="Employee Tax Exemption Proof Submission" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/employee-tax-exemption-proof-submission.png">
 
 
 

@@ -18,7 +18,7 @@ Tiền lương trả cho nhân viên bao gồm nhiều thành phần khác nhau,
 1. Nhập tên Công ty và Tài khoản mặc định của Thành phần Lương trong bảng Tài khoản.
 3. Lưu.
 
- <img class="screenshot" alt="Salary Component" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/salary-component1.png">
+ <img class="screenshot" alt="Salary Component" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/salary-component1.png">
 
 ## 2. Các tính năng
 
@@ -28,7 +28,7 @@ Ngoài các trường bắt buộc nêu trên, một số tính năng bổ sung 
 
 Trong phần này, Điều kiện và Công thức cần thiết để tính toán Thành phần Lương có thể được chỉ định. Để chỉ định công thức, hãy bật hộp kiểm 'Amount based on formula' (Số tiền dựa trên công thức).
 
-<img class="screenshot" alt="Salary Component" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/salary-component2.png">
+<img class="screenshot" alt="Salary Component" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/salary-component2.png">
 
 Trong trường hợp Thành phần Lương dựa trên một số tiền đã được xác định trước, ERPNext cho phép bạn nhập trực tiếp số tiền vào trường Số tiền (tắt hộp kiểm 'Amount based on formula').
 
@@ -53,7 +53,7 @@ Một số thuộc tính bổ sung của Thành phần Lương có thể đượ
 
 Phần này được hiển thị nếu Thành phần Lương là một Thành phần Thu nhập. Các kế hoạch Phúc lợi linh hoạt cho phép nhân viên hưởng các phúc lợi mà họ muốn hoặc cần từ một gói chương trình do người sử dụng lao động cung cấp. Chúng có thể bao gồm bảo hiểm y tế, kế hoạch hưu trí, chi phí điện thoại, v.v. Để thiết lập một Thành phần Lương là Phúc lợi linh hoạt, hãy tích vào hộp kiểm 'Is Flexible Benefit'.
 
-<img class="screenshot" alt="Flexible Benefit" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/flexible-ben.png">
+<img class="screenshot" alt="Flexible Benefit" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/flexible-ben.png">
 
 Nhập số tiền tối đa hàng năm cho phúc lợi linh hoạt này vào trường 'Max Benefit Amount (Yearly)' (Số tiền phúc lợi tối đa hàng năm). Một số thuộc tính bổ sung của Phúc lợi linh hoạt có thể được bật bằng cách sử dụng các hộp kiểm như sau:
 

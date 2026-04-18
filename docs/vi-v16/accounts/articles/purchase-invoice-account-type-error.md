@@ -3,7 +3,7 @@
 
 **Câu hỏi:** Khi Lưu Hóa đơn mua hàng, tôi nhận được thông báo xác thực rằng Tài khoản ghi có (Credit To Account) phải là một tài khoản Bảng cân đối kế toán.
 
-![Credit To Account in Purchase Invoice](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/credit-to-ledger-in-purchase-invoice.png)
+![Credit To Account in Purchase Invoice](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/credit-to-ledger-in-purchase-invoice.png)
 
 **Trả lời:** Khi Xác nhận một Hóa đơn mua hàng, khoản phải trả sẽ được cập nhật cho Nhà cung cấp. Theo các tiêu chuẩn kế toán, Tài khoản phải trả được xếp vào nhóm Nợ phải trả ngắn hạn (bên Có của Bảng cân đối kế toán).
 

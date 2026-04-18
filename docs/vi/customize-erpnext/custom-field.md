@@ -12,7 +12,7 @@ Bạn có thể đi tới [Tùy chỉnh Biểu mẫu (Customize Form)](customize
 
 Bạn cũng có thể đi tới chế độ xem danh sách của bất kỳ DocType nào và chọn Tùy chỉnh (Customize) từ các tùy chọn Menu.
 
-![Tùy chọn Tùy chỉnh trong Chế độ xem danh sách](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/customize-option-in-list-view.png)
+![Tùy chọn Tùy chỉnh trong Chế độ xem danh sách](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/customize-option-in-list-view.png)
 
 ## 1. Cách tạo Trường tùy chỉnh
 
@@ -22,30 +22,30 @@ Bạn cũng có thể đi tới chế độ xem danh sách của bất kỳ DocT
 4. **Field Type**: ERPNext đã có sẵn một bộ các Loại trường có thể được lấy từ menu thả xuống này. Bạn có thể chọn Loại cho Trường tùy chỉnh của mình từ menu này.
 5. Cập nhật.
 
-![Trường tùy chỉnh mới](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/new-custom-field.png)
+![Trường tùy chỉnh mới](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/new-custom-field.png)
 
   *Tìm hiểu thêm về các Loại trường [tại đây](articles/field-types.html.md).*
 
 Bạn cũng có thể đi tới [Tùy chỉnh Biểu mẫu (Customize Form)](customize-form.md) để thêm, chỉnh sửa hoặc xóa một Trường trong một Biểu mẫu cụ thể.
 
-![Thêm Trường tùy chỉnh từ Tùy chỉnh Biểu mẫu](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/customize-erpnext-custom-field-from-customize-form.gif)
+![Thêm Trường tùy chỉnh từ Tùy chỉnh Biểu mẫu](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/customize-erpnext-custom-field-from-customize-form.gif)
 
 ### 1.1. Chi tiết bổ sung
 
 1. **Options**: Trường này sẽ xuất hiện khi bạn muốn dữ liệu của mình mang tính cụ thể hoặc chỉ định dữ liệu. Ví dụ: khi bạn đã chọn Loại trường là 'Select Field' (Trường lựa chọn), bạn sẽ cần nhập các tùy chọn lựa chọn tại đây.
 
-  ![Trường tùy chỉnh với Loại trường là Select](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/custom-field-with-select-fieldtype.png)
+  ![Trường tùy chỉnh với Loại trường là Select](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/custom-field-with-select-fieldtype.png)
 
 1. **Fetch From**: Khi bạn muốn Trường tùy chỉnh là 'Link Field' (Trường liên kết), bạn sẽ cần chỉ định Biểu mẫu mà Trường này sẽ được liên kết tới. Ví dụ: bạn muốn tạo một Trường tùy chỉnh 'Project' (Dự án) trong DocType 'Item' (Mặt hàng). Bạn sẽ cần thiết lập Loại trường là 'Link' và nhập 'Project' vào trường Fetch From để đảm bảo rằng Trường được cập nhật với danh sách tất cả các DocType cần thiết.
 1. **Fetch If Empty**: Ô kiểm này sẽ đảm bảo rằng Trường này sẽ không bị ghi đè dựa trên Fetch From nếu giá trị đã tồn tại.
 1. **Default Value**: Nhập giá trị mặc định của Trường mà bạn muốn được lấy cho Trường này.
 1. **Depends On**: Bạn có thể xác định một điều kiện tại đây để Trường được hiển thị. Ví dụ: trong DocType Item, hai trường 'Asset Category' (Danh mục tài sản) và 'Asset Naming Series' (Chuỗi đặt tên tài sản) sẽ chỉ xuất hiện nếu Trường 'Is Fixed Asset' (Là tài sản cố định) được tích chọn. Điều kiện phụ thuộc ở đây sẽ là `is_fixed_asset`.
 
-  ![Tùy chọn Depends On](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/custom-field-dpends-on.png)
+  ![Tùy chọn Depends On](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/custom-field-dpends-on.png)
 
 1. **Field Description**: Bạn có thể thêm mô tả của Trường tại đây, mô tả này có thể được hiển thị bên dưới Trường này.
 
-   ![Mô tả Trường tùy chỉnh](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/custom-field-description.png)
+   ![Mô tả Trường tùy chỉnh](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/custom-field-description.png)
 
 1. **Permission Level**: Tùy chọn này cho phép bạn chỉ định vai trò nào trong tổ chức của mình sẽ có thể chỉnh sửa Trường này. Bạn có thể xem [Phân quyền dựa trên Vai trò (Role Based Permissions)](../setting-up/users-and-permissions/role-based-permissions.md) để hiểu thêm về phần này.
 1. **In Preview**: Nếu [Hiển thị cửa sổ xem trước (Show Preview Popup)](customize-form.md#13-more-properties) cho loại tài liệu được tích chọn, Trường sẽ được bao gồm trong cửa sổ hiện ra khi di chuột qua các liên kết của loại tài liệu (trong chế độ xem danh sách và các trường liên kết khác).

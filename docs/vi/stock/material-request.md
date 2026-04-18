@@ -11,7 +11,7 @@ Yêu cầu vật tư có thể có các mục đích sau:
 * **Sản xuất:** Nếu vật tư được yêu cầu cần được sản xuất.
 * **Khách hàng cung cấp**: Nếu vật tư được yêu cầu sẽ do Khách hàng cung cấp. Để biết thêm về điều này, hãy truy cập trang [Mặt hàng do Khách hàng cung cấp](../manufacturing/articles/customer-provided-items.md).
 
-<img class="screenshot" alt="Material Request" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/buying/material-request-flowchart.png">
+<img class="screenshot" alt="Material Request" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/buying/material-request-flowchart.png">
 
 Để truy cập danh sách Yêu cầu vật tư, hãy đi đến:
 > Trang chủ > Kho > Giao dịch kho > Yêu cầu vật tư
@@ -21,7 +21,7 @@ Yêu cầu vật tư có thể có các mục đích sau:
 1. Nhập ngày cần hàng.
 1. Chọn một trong các mục đích được liệt kê ở trên.
 1. Bạn có thể lấy Mặt hàng từ một Định mức nguyên vật liệu, Đơn bán hàng hoặc Gói sản phẩm.
-  ![MR fetch from](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/mr-fetch-from.png)
+  ![MR fetch from](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/mr-fetch-from.png)
 1. Chọn Mặt hàng và thiết lập số lượng.
 1. Chọn Kho cần dùng Mặt hàng.
 1. Bạn có thể thay đổi ngày Cần hàng cho từng Mặt hàng riêng biệt trong bảng này.
@@ -91,7 +91,7 @@ Bạn có thể tạo các tài liệu sau:
 * [Đơn mua hàng](../buying/purchase-order.md)
 * [Báo giá của Nhà cung cấp](../buying/supplier-quotation.md)
 
-<img class="screenshot" alt="Material Request" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/material-request.png">
+<img class="screenshot" alt="Material Request" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/material-request.png">
 
 
 ### 2.7 Tự động tạo Yêu cầu vật tư

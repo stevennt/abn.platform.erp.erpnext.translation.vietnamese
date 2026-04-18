@@ -16,7 +16,7 @@ ERPNext cho phép bạn chọn một Loại hình nhân viên từ danh sách đ
 2. Nhập Tên của Loại hình nhân viên.
 3. Lưu.
 
-    <img class="screenshot" alt="Employment Type" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/employment-type.png">
+    <img class="screenshot" alt="Employment Type" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/employment-type.png">
 
 Loại hình nhân viên có thể được liên kết với danh mục chính [Employee](employee.md).
 

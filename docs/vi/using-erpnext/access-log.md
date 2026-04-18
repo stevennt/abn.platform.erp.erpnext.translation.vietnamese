@@ -26,16 +26,16 @@ Trong ERPNext, Nhật ký truy cập có sẵn cho Quản trị viên hệ thố
 
 > Trang chủ > Người dùng và Quyền > Nhật ký > Nhật ký truy cập
 
-![Access Log](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/using-erpnext/using-access-log-3.png)
+![Access Log](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/using-erpnext/using-access-log-3.png)
 
 Trong trường hợp nhật ký truy cập được tạo khi thực hiện sự kiện xuất một Báo cáo, nút **Hiển thị báo cáo** sẽ được tạo trong nhật ký tương ứng. Khi nhấp vào nút này, báo cáo đã xuất có thể được xem cùng với các bộ lọc đã thiết lập.
 
-![Access Log](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/using-erpnext/using-access-log-1.png)
+![Access Log](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/using-erpnext/using-access-log-1.png)
 
 Tương tự, một nút **Hiển thị tài liệu** sẽ được tạo trong trường hợp các sự kiện liên quan trực tiếp đến tài liệu như In tài liệu và Tải xuống tệp riêng tư.
 
-![Access Log](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/using-erpnext/using-access-log-2.png)
+![Access Log](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/using-erpnext/using-access-log-2.png)
 
 Các sự kiện như [In thô](../setting-up/print/raw-printing.md) sẽ lưu thông tin cùng với mẫu đã chọn cho tài liệu đó.
 
-![Access Log](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/using-erpnext/using-acces-log-4.png)
+![Access Log](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/using-erpnext/using-acces-log-4.png)

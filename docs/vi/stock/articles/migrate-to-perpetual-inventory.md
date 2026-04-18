@@ -45,7 +45,7 @@ Giá trị tồn kho theo phương pháp thường xuyên được kích hoạt 
 
 1. Đi tới: **Home > Accounting > Company**
 
-    <img class="screenshot" alt="Perpetual Inventory" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/perpetual-1.png">
+    <img class="screenshot" alt="Perpetual Inventory" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/perpetual-1.png">
 
 #### 2. Các chủ đề liên quan
 1. [Kế toán hàng tồn kho](../accounting-of-inventory-stock.md)

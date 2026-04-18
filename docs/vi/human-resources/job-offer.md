@@ -26,7 +26,7 @@ Trước khi tạo Thư mời làm việc, bạn nên tạo các mục sau:
 1. Lưu và Xác nhận.
 
 
-    <img class="screenshot" alt="Job Offer" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/job-offer.png">
+    <img class="screenshot" alt="Job Offer" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/job-offer.png">
 
 > **Lưu ý:** Thư mời làm việc chỉ có thể được tạo dựa trên một [Job Applicant](job-applicant.md)
 
@@ -45,7 +45,7 @@ Tất cả các Điều khoản và Điều kiện liên quan đến Thư mời 
 
 Bạn có thể tạo một mẫu in được thiết kế sẵn để in Thư mời làm việc của mình. Để làm như vậy, hãy chọn Letter Head và Print Heading trong phần Printing Details.
 
-<img class="screenshot" alt="Job Offer" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/job-offer-print.png">
+<img class="screenshot" alt="Job Offer" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/job-offer-print.png">
 
 
 

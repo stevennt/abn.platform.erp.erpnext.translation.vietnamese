@@ -14,7 +14,7 @@ Tại đó, bạn thêm một client mới, chọn open-id làm client protocol 
 
 Việc thêm dịch vụ ERNext của bạn dưới dạng một client đang được [cung cấp dưới dạng dịch vụ bởi fairkom](https://erp.fairkom.net/cloud/fairlogin-client).
 
-![ERPnext keycloak Settings](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/erpnext_integrations/fairloginKeycloakERPnext.png)
+![ERPnext keycloak Settings](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/erpnext_integrations/fairloginKeycloakERPnext.png)
 
 ## Thiết lập fairlogin
 
@@ -26,7 +26,7 @@ Việc thêm dịch vụ ERNext của bạn dưới dạng một client đang đ
 - Access Token URL https://id.fairkom.net/auth/realms/fairlogin/protocol/openid-connect/token
 - API Endpoint https://id.fairkom.net/auth/realms/fairlogin/protocol/openid-connect/userinfo
 
-![ERPnext fairlogin Settings](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/erpnext_integrations/fairloginERPnextSettings.png)
+![ERPnext fairlogin Settings](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/erpnext_integrations/fairloginERPnextSettings.png)
 
 Khi kích hoạt dịch vụ, hệ thống sẽ cho phép đăng nhập bằng bất kỳ tài khoản fairlogin nào.
 

@@ -16,7 +16,7 @@ Sau khi xuất dữ liệu, bạn có thể sử dụng chính tệp đó để 
 1. Bạn cũng có thể thêm bộ lọc để chỉ chọn các dữ liệu cụ thể, ví dụ: Tổng cộng >= 1,000 cho Đơn bán hàng.
 1. Nhấp vào Xuất để tải tệp xuống.
 
-    ![Data Export](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/data-export.png)
+    ![Data Export](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/data-export.png)
 
 ### Các chủ đề liên quan
 1. [Nhập dữ liệu](data-import.md)

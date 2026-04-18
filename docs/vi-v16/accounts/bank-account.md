@@ -8,7 +8,7 @@ Bạn có thể thêm Tài khoản Ngân hàng trong ERPNext cho Công ty, Nhà 
 Để truy cập Tài khoản Ngân hàng, hãy đi tới:
 > Trang chủ > Kế toán > Sao kê ngân hàng > Tài khoản Ngân hàng
 
-![Bank Account](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/bank-account.png)
+![Bank Account](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/accounts/bank-account.png)
 
 ## 1. Điều kiện tiên quyết
 Trước khi tạo và sử dụng Tài khoản Ngân hàng, bạn nên tạo các mục sau trước:

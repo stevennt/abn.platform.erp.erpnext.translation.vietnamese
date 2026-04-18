@@ -15,17 +15,17 @@ Nhập các chi tiết sau để tạo báo cáo:
 3. Year (Năm)
 4. Month (Tháng)
 
-![GSTR 3B Report](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/regional/india/gstr-3b-input.png)
+![GSTR 3B Report](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/regional/india/gstr-3b-input.png)
 
 Nhấp vào Lưu để tạo báo cáo. Một báo cáo hiện có cũng có thể được cập nhật/tạo lại bằng cách nhấp vào Lưu.
 
 Sau khi lưu, bạn có thể thấy kết quả JSON trong trường văn bản bên dưới, kết quả này cũng có thể được tải xuống bằng cách sử dụng nút Download JSON ở góc trên bên phải như hiển thị trong hình dưới đây.
 
-![GSTR 3B With JSON](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/regional/india/gstr-3b-report.png)
+![GSTR 3B With JSON](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/regional/india/gstr-3b-report.png)
 
 Nếu bạn muốn in báo cáo, nó cũng có thể được in và xem trong GSTR3B Form bằng cách nhấp vào View Form như hiển thị bên dưới.
 
-![Download Option in GSTR 3B](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/regional/india/gstr-3b-download.png)
+![Download Option in GSTR 3B](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/regional/india/gstr-3b-download.png)
 
 Lưu ý: Để đảm bảo báo cáo được tính toán chính xác và đúng đắn, vui lòng lưu ý những điều sau.
 
@@ -33,7 +33,7 @@ Lưu ý: Để đảm bảo báo cáo được tính toán chính xác và đún
 
 2. Đối với các mặt hàng không chịu thuế (Nil rated), được miễn thuế (exempted) hoặc không thuộc diện GST (non-gst), ô Is nill rated hoặc Is Non GST phải được tích chọn trong thông tin mặt hàng (item master).
 
-![GST Exempted](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/regional/india/gst-item.png)
+![GST Exempted](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/regional/india/gst-item.png)
 
 3. Các tài khoản (account heads) phù hợp đã được nhập trong GST Settings.
 

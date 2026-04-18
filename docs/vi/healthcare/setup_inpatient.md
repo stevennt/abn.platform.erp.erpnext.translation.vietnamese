@@ -10,13 +10,13 @@ Bạn có thể xác định các thuộc tính tiêu chuẩn của các `Health
 
 `Healthcare > Setup > Healthcare Service Unit Type > New Healthcare Service Unit Type`
 
-<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/healthcare_service_unit_type.png">
+<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/healthcare_service_unit_type.png">
 
 ERPNext sẽ tự động tạo một Mặt hàng với các chi tiết mà bạn cung cấp tại đây để chức năng lập hóa đơn có thể hoạt động.
 
 Bạn cũng có thể tạo các Healthcare Service Units để thiết lập các phòng khám và các khu vực khác nơi có thể lập lịch hẹn bằng cách tích vào tùy chọn `Allow Appointments`. Các đơn vị dịch vụ như vậy không được liên kết với danh mục Mặt hàng vì việc lập hóa đơn sẽ sử dụng Mặt hàng được chọn trong danh mục [Healthcare Practitioner](healthcare_practitioner.html.md) hoặc các mặt hàng được cấu hình trong [Healthcare Settings](healthcare_settings.md)
 
-<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/healthcare_service_unit_type_1.png">
+<img class="screenshot" alt="ERPNext Healthcare" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/healthcare/healthcare_service_unit_type_1.png">
 
 Lưu ý rằng việc bật `Allow Overlap` sẽ cho phép các lịch hẹn chồng lấn nhau đối với Healthcare Practitioner có mặt tại đơn vị dịch vụ. Điều này sẽ hữu ích khi bạn tạo các đơn vị dịch vụ nơi nhiều Bệnh nhân có thể được điều trị cùng một lúc, ví dụ như trung tâm yoga hoặc phòng vật lý trị liệu.
 

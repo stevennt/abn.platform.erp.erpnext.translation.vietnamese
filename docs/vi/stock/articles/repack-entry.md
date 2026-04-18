@@ -23,7 +23,7 @@ Chọn Mục đích là 'Repack Entry'.
 
 Đối với các mặt hàng được đóng gói lại/đầu ra, chỉ có Kho Đích được cung cấp. Bạn sẽ phải cung cấp giá trị tính giá cho các mặt hàng đóng gói lại.
 
-<img alt="Repack Entry" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/repack-1.png">
+<img alt="Repack Entry" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/repack-1.png">
 
 Cập nhật Số lượng cho tất cả các mặt hàng đã chọn.
 
@@ -31,6 +31,6 @@ Cập nhật Số lượng cho tất cả các mặt hàng đã chọn.
 
 Khi Xác nhận Phiếu kho, tồn kho của mặt hàng đầu vào sẽ bị giảm ở Kho Nguồn, và tồn kho của mặt hàng đóng gói lại/đầu ra sẽ được thêm vào Kho Đích.
 
-<img alt="Repack Stock Entry" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/repack-2.png">
+<img alt="Repack Stock Entry" class="screenshot" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/articles/repack-2.png">
 
 <!-- markdown -->

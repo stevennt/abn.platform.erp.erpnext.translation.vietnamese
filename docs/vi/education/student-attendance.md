@@ -13,7 +13,7 @@ Bản ghi Điểm danh có thể được tạo cho Học sinh theo hàng ngày.
 
 Chọn **Học sinh, Lịch trình khóa học và Nhóm học sinh** mà bạn muốn đánh dấu điểm danh cho ngày đã chọn. Thiết lập Trạng thái thành Có mặt/Vắng mặt và Lưu.
 
-![Student Attendance](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-student-attendance-1.gif)
+![Student Attendance](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/education/education-student-attendance-1.gif)
 
 **[Công cụ Điểm danh học sinh](student-attendance-tool.md)** có thể được sử dụng để cập nhật điểm danh hàng loạt dựa trên **Lớp học, Khóa học hoặc Hoạt động**.
 

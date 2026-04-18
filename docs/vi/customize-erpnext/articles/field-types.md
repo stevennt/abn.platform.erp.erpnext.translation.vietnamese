@@ -15,91 +15,91 @@ Trường Dynamic Link là trường có thể tìm kiếm và giữ giá trị 
 
 Trường này sẽ cho phép bạn có một ô đánh dấu (checkbox) tại đây.
 
-![Check Field TYpe](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/field-type-check.png)
+![Check Field TYpe](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/field-type-check.png)
 
 #### Select
 
 Select sẽ là một trường danh sách thả xuống. Bạn có thể thêm nhiều kết quả trong trường Option, phân tách bằng dòng mới.
 
-![Select Field Type](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/field-type-select.png)
+![Select Field Type](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/field-type-select.png)
 
 #### Table
 
 Table là một loại trường Link hiển thị một DocType khác ngay trong biểu mẫu hiện tại. Ví dụ, Bảng Mặt hàng trong Đơn bán hàng là một trường Table, được liên kết với DocType Mặt hàng Đơn bán hàng.
 
-![Table Field Type](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/field-type-table.png)
+![Table Field Type](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/field-type-table.png)
 
 #### Attach
 
 Trường Attach cho phép bạn duyệt tìm một tệp từ Trình quản lý tệp và đính kèm tệp đó vào đây.
 
-![Attach Field Type](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/field-type-attach.png)
+![Attach Field Type](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/field-type-attach.png)
 
 #### Attach Image
 
 Attach Image là trường mà bạn sẽ được phép đính kèm các hình ảnh định dạng jpeg, png, v.v. Hình ảnh này sẽ trở thành hình ảnh đại diện cho DocType cụ thể đó. Ví dụ, nếu bạn muốn có hình ảnh của một Mặt hàng trong DocType của nó, bạn có thể chọn trường của mình là trường Attach Image.
 
-![Field Type Image](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/field-type-image.png)
+![Field Type Image](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/field-type-image.png)
 
 #### Text Editor
 
 Text Editor là một trường văn bản. Nó có các tùy chọn định dạng văn bản. Trong ERPNext, trường này thường được sử dụng để định nghĩa các Điều khoản và Điều kiện.
 
-![Field Type Text Editor](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/field-type-text-editor.png)
+![Field Type Text Editor](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/field-type-text-editor.png)
 
 #### Date
 
 Trường này sẽ cho phép bạn nhập Ngày vào trường này.
 
-![Field Type Date](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/field-type-date.png)
+![Field Type Date](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/field-type-date.png)
 
 #### Date and Time
 
 Trường này sẽ cung cấp cho bạn bộ chọn ngày và giờ. Ngày và giờ hiện tại (theo máy tính của bạn) được thiết lập theo mặc định.
 
-![Field Type Date and Time](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/field-type-date-and-time.png)
+![Field Type Date and Time](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/field-type-date-and-time.png)
 
 #### Barcode
 
 Trong trường này, bạn có thể chỉ định trường là Barcode để cho phép nhập số Mã vạch. Sau khi bạn thực hiện việc đó, Mã vạch sẽ tự động được tạo dựa trên số đó.
 
-![Field Type Barcode](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/field-type-barcode.png)
+![Field Type Barcode](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/field-type-barcode.png)
 
 #### Button
 
 Loại trường này sẽ là một nút hành động, chẳng hạn như Lưu, Xác nhận, v.v.
 
-![Field Type Button](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/field-type-button.png)
+![Field Type Button](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/field-type-button.png)
 
 #### Code
 
 Nếu Loại trường được chọn là code, bạn sẽ có thể nhập một đoạn Mã vào trường.
 
-![Field Type Code](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/field-type-code.png)
+![Field Type Code](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/field-type-code.png)
 
 #### Color
 
 Bạn sẽ có tùy chọn chỉ định màu sắc cho Biểu mẫu này.
 
-![Field Type Colour](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/field-type-colour.png)
+![Field Type Colour](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/field-type-colour.png)
 
 #### Column Break
 
 Vì ERPNext có nhiều bố cục cột, bằng cách sử dụng Column Breaks, bạn có thể chia một tập hợp các trường thành tối đa hai cột.
 
-![Field Type Column Break](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/field-type-column-break.png)
+![Field Type Column Break](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/field-type-column-break.png)
 
 #### Currency
 
 Trường Currency giữ giá trị số, như Giá Mặt hàng, Số tiền, v.v. Trường Currency có thể có giá trị lên đến sáu chữ số thập phân. Ngoài ra, bạn có thể hiển thị ký hiệu tiền tệ cho trường Currency.
 
-![Field Type Currency](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/field-type-currency.png)
+![Field Type Currency](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/field-type-currency.png)
 
 #### Data
 
 Trường data sẽ là một trường văn bản đơn giản. Nó cho phép bạn nhập giá trị lên đến 140 ký tự, khiến đây trở thành loại trường phổ biến nhất. Để bật các xác thực cho đầu vào Email, Tên hoặc Số điện thoại, hãy đặt tùy chọn thành "Email", "Name", "Phone" trong Settings > DocType.
 
-![Field Type Data](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/field-type-data.png)
+![Field Type Data](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/field-type-data.png)
 
 #### Float
 
@@ -109,7 +109,7 @@ Trường Float mang giá trị số, lên đến chín chữ số thập phân.
 
 Thiết lập này sẽ được áp dụng cho tất cả các trường float.
 
-![Field Type Float](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/field-type-float.png)
+![Field Type Float](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/field-type-float.png)
 
 #### Geolocation
 
@@ -117,13 +117,13 @@ Sử dụng trường Geolocation để lưu trữ GeoJSON <a href="https://tool
 
 Đọc [Trường Geolocation](geolocation-field.md) để hiểu thêm.
 
-![Field Type Geolocation](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/field-type-geolocation.png)
+![Field Type Geolocation](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/field-type-geolocation.png)
 
 #### HTML
 
 Bạn có thể chọn trường là trường HTML khi bạn muốn dữ liệu được nhập dưới định dạng HTML.
 
-![Field Type HTML](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/field-type-html.png)
+![Field Type HTML](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/field-type-html.png)
 
 #### Image
 
@@ -131,22 +131,22 @@ Trường Image sẽ hiển thị một tệp hình ảnh được chọn trong 
 
 Đối với trường Image, trong phần Option (trong Doctype), cần cung cấp tên của trường nơi tệp hình ảnh được đính kèm. Bằng cách tham chiếu đến giá trị trong trường đó, hình ảnh sẽ được hiển thị trong trường Image.
 
-![Field Type Image](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/field-type-image2.png)
+![Field Type Image](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/field-type-image2.png)
 
 #### Int (Integer)
 
 Trường integer giữ giá trị số, không có chữ số thập phân.
 
-![Field Type Integer](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/field-type-integer.png)
+![Field Type Integer](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/field-type-integer.png)
 
 #### Small Text
 
 Trường Small Text chứa nội dung văn bản và có giới hạn ký tự nhiều hơn trường Data.
 
-![Field Type Small Text](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/field-type-small-text.png)
+![Field Type Small Text](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/field-type-small-text.png)
 
 #### Long Text
 
 Bạn có thể xác định trường của mình là trường Long Text khi bạn muốn nhập dữ liệu với giới hạn ký tự không giới hạn.
 
-![Field Type Long Text](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/field-type-long-text
+![Field Type Long Text](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/customize/field-type-long-text

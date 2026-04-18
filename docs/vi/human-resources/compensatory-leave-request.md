@@ -36,7 +36,7 @@ Trước khi tạo Yêu cầu Nghỉ bù, cần phải tạo các chứng từ s
 1. Lưu và Xác nhận.
 
     <img class="screenshot" alt="Compensatory Leave Request"
-    src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/compensatory-leave.png">
+    src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/compensatory-leave.png">
 
 
 

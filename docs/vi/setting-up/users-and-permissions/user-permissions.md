@@ -24,7 +24,7 @@ Thiết lập Quyền người dùng đặc biệt hữu ích khi bạn muốn h
 3. Tại mục For Value, chọn mục cụ thể mà bạn muốn cho phép (tên của "Company").
 4. Nếu bạn tích vào 'Is Default', giá trị được chọn trong 'For Value' sẽ được sử dụng mặc định cho bất kỳ giao dịch nào trong tương lai của người dùng này. Nghĩa là nếu công ty 'Unico Plastics Inc.' được chọn làm 'For Value', Công ty này sẽ được thiết lập làm mặc định cho tất cả các giao dịch trong tương lai của người dùng này.
 
-    <img src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/users-and-permissions/user-perms/new-user-permission.png" class="screenshot" alt="Creating a new user permission">
+    <img src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/users-and-permissions/user-perms/new-user-permission.png" class="screenshot" alt="Creating a new user permission">
 
     > Lưu ý: Chỉ có thể thiết lập một quyền người dùng duy nhất làm mặc định cho một loại tài liệu cụ thể đối với một người dùng cụ thể.
 
@@ -38,7 +38,7 @@ Trong phần Kiểm soát nâng cao, bạn có thể kiểm soát tốt hơn nơ
 Bạn có thể tùy chọn chỉ áp dụng quyền người dùng cho một loại tài liệu cụ thể bằng cách thiết lập Document Type sau khi bỏ tích ô Apply To All Document Types.
 Việc thiết lập tùy chọn **Applicable For** sẽ làm cho quyền người dùng hiện tại chỉ có hiệu lực dưới Master Document Type đã chọn.
 
-<img src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/users-and-permissions/user-perms/advanced-control.png" class="screenshot" alt="Applicable For">
+<img src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/users-and-permissions/user-perms/advanced-control.png" class="screenshot" alt="Applicable For">
 
 Trong Quyền người dùng ở trên, người dùng sẽ chỉ có thể truy cập các Đơn bán hàng của công ty đã được chọn.
 
@@ -52,7 +52,7 @@ Giả sử **For Value** là 'Unico Plastics Inc.', có một công ty con là '
 
 **Hide Descendants** chỉ hiển thị khi chọn một DocType có Chế độ xem cây. Bằng cách bật hộp kiểm này, quyền cho các cấp con của **For Value** sẽ không được cấp.
 
-<img src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/users-and-permissions/user-perms/hide-descendant-permissions.png" class="screenshot" alt="Hide Descendant Permissions">
+<img src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/users-and-permissions/user-perms/hide-descendant-permissions.png" class="screenshot" alt="Hide Descendant Permissions">
 
 Một người dùng có thể xem các bản ghi của 'Unico Plastics Inc.' sẽ không thể xem các bản ghi của 'Unico Toys'.
 
@@ -62,7 +62,7 @@ Một cách khác để cho phép mọi người xem các tài liệu đã bị 
 
 Ví dụ, nếu bạn không muốn Tài sản bị hạn chế đối với bất kỳ người dùng nào, hãy chọn **Asset** trong loại biểu mẫu. Trong bảng các trường, mở rộng trường Company và tích vào "Ignore User Permissions".
 
-<img src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/users-and-permissions/user-perms/ignore-user-permissions.png" class="screenshot" alt="Ignore User Permissions on specific properties">
+<img src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/users-and-permissions/user-perms/ignore-user-permissions.png" class="screenshot" alt="Ignore User Permissions on specific properties">
 
 
 ### 2.3 Quyền nghiêm ngặt (Strict Permissions)
@@ -77,12 +77,12 @@ Cuối cùng, sau khi bạn đã tạo mô hình phân quyền chặt chẽ, và
 
 Tích vào hộp kiểm Show Permissions sẽ hiển thị các mức độ truy cập đọc/ghi/xác nhận và các mức độ khác.
 
-<img src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/users-and-permissions/user-perms/permitted-documents.png" class="screenshot" alt="Permitted Documents for User report">
+<img src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/users-and-permissions/user-perms/permitted-documents.png" class="screenshot" alt="Permitted Documents for User report">
 
 Lưu ý: Nếu bạn không thể truy cập Đơn bán hàng hoặc bất kỳ loại tài liệu nào khác trong danh sách này, hãy đảm bảo rằng bạn đã thiết lập [vai trò](role-based-permissions.md) một cách chính xác.
 
 Ví dụ, người dùng Bruce bị hạn chế trong Công ty 'Unico Plastics Inc.'
-![User restricted to Company](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/users-and-permissions/user-perms/user-restricted-to-company.png)
+![User restricted to Company](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/users-and-permissions/user-perms/user-restricted-to-company.png)
 
 ### 3. Các chủ đề liên quan
 1. [Thêm người dùng](adding-users.md)

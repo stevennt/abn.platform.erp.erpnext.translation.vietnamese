@@ -21,7 +21,7 @@ Nó phản ánh cùng một giá trị như đã nhập trong trường *Rate* c
 
 Dưới đây là cách Báo cáo Sổ cái Kho hiển thị một **Phiếu kho** loại *Phiếu nhập vật tư*.
 
-![Stock Ledger Report](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/stock-ledger.png)
+![Stock Ledger Report](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/stock/stock-ledger.png)
 
 Nó hiển thị một mặt hàng **Chair** với số lượng *1000 đơn vị* với Đơn giá nhập (Giá cơ bản) là *Rs.3000* được nhận vào kho *Stores - L*, cùng với việc tính toán Giá trị tính giá và Giá trị tồn kho.
 

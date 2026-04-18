@@ -27,7 +27,7 @@ Trước khi tạo Thông báo tuyển dụng, bạn nên tạo các mục sau:
 1. Lưu.
 
 
-    <img class="screenshot" alt="Job Opening" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/job-opening.png">
+    <img class="screenshot" alt="Job Opening" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/job-opening.png">
 
 Sau khi Thông báo tuyển dụng được lưu, bạn có thể tạo trực tiếp một [Ứng viên](job-applicant.md) mới từ trang tổng quan.
 

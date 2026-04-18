@@ -23,7 +23,7 @@ Trước khi tạo và sử dụng Khiếu nại Bảo hành, bạn nên tạo c
 1. Chọn Số serial của Mặt hàng mà Khiếu nại Bảo hành sẽ được ghi nhận. Hệ thống sau đó sẽ tự động lấy chi tiết của Số serial và cho biết mặt hàng này đang trong thời hạn bảo hành hay AMC.
 1. Nhập mô tả về Vấn đề. Người dùng có thể tải lên một hình ảnh và tạo một bảng.
 1. Lưu.
-    ![Warranty Claim](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/support/warranty-claim.png)
+    ![Warranty Claim](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/support/warranty-claim.png)
 
 ### 2.1 Các tùy chọn bổ sung khi tạo Khiếu nại Bảo hành
 
@@ -50,14 +50,14 @@ Các chi tiết về Bảo hành/AMC sẽ được lấy dựa theo Số serial.
 * Warranty Expiry Date (Ngày hết hạn bảo hành)
 * AMC Expiry date (Ngày hết hạn AMC)
 
-    ![Warranty Serial](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/support/warranty-serial.png)
+    ![Warranty Serial](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/support/warranty-serial.png)
 
 ### 3.2 Resolution (Giải quyết)
 * **Resolution Date (Ngày giải quyết):** Khi bảo hành hoặc AMC được đóng (Closed), ngày và giờ hiện tại sẽ tự động được lấy vào trường Ngày giải quyết. Trường này cũng có thể chỉnh sửa được.
 * **Resolved By (Người giải quyết):** Thiết lập ID Email của Người dùng đã giải quyết Khiếu nại Bảo hành. ID email được liên kết với [User](../setting-up/users-and-permissions/adding-users.md) được tạo trong hệ thống.
 * **Resolved Details (Chi tiết giải quyết):** Đây là một trường văn bản. Người dùng có thể nhập chi tiết về khiếu nại Bảo hành hoặc AMC. Người dùng cũng có thể tải lên hình ảnh, nhập hoặc tạo một bảng.
 
-    ![Warranty Resolution](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/support/warranty-resolution.png)
+    ![Warranty Resolution](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/support/warranty-resolution.png)
 
 ### 3.3 Chi tiết Khách hàng
 
@@ -71,7 +71,7 @@ Các chi tiết sau của [Customer](../CRM/customer.md) sẽ được lấy ra:
 
 **Service Address (Địa chỉ dịch vụ):** Người dùng có thể nhập Địa chỉ dịch vụ nếu nó khác với Địa chỉ khách hàng.
 
-![Warranty Customer](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/support/warranty-customer.png)
+![Warranty Customer](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/support/warranty-customer.png)
 
 ### 3.4 Thông tin thêm
 

@@ -22,7 +22,7 @@ Hoặc
 1. Nếu khách hàng được tạo từ một khách hàng tiềm năng, bạn có thể chọn khách hàng tiềm năng đó trong trường Từ khách hàng tiềm năng.
 1. Lưu.
 
-    ![Creating New Customer](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/crm/create-customer.gif)
+    ![Creating New Customer](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/crm/create-customer.gif)
 
 Bạn có thể không cho phép tạo đơn bán hàng và hóa đơn bán hàng đối với một khách hàng bằng cách nhấn vào 'Disabled'.
 
@@ -33,7 +33,7 @@ Bạn cũng có thể tải lên thông tin chi tiết của khách hàng thông
 ## 2. Các tính năng
 Luồng giao dịch chung cho một khách hàng như sau:
 
-![Sales Flowchart](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/crm/customer-to selling-flowchart.jpeg)
+![Sales Flowchart](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/crm/customer-to selling-flowchart.jpeg)
 
 > Lưu ý: Khách hàng tách biệt với Liên hệ và Địa chỉ. Một Khách hàng có thể có nhiều Liên hệ và Địa chỉ.
 
@@ -45,7 +45,7 @@ Luồng giao dịch chung cho một khách hàng như sau:
 
 Nếu tùy chọn "Yêu cầu Phiếu giao hàng" hoặc "Yêu cầu Đơn bán hàng" được cấu hình là "Có" trong [Cài đặt bán hàng](../selling/selling-settings.md), tùy chọn này có thể được ghi đè cho một khách hàng cụ thể bằng cách bật "Cho phép tạo Hóa đơn bán hàng không cần Đơn bán hàng" hoặc "Cho phép tạo Hóa đơn mua hàng không cần Phiếu giao hàng" trong Hồ sơ khách hàng.
 
-![Sales Order Mandatory Setting](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/crm/customer-so-dn-required.png)
+![Sales Order Mandatory Setting](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/crm/customer-so-dn-required.png)
 
 ### 2.3 Thiết lập Danh mục khấu trừ thuế
 

@@ -34,6 +34,6 @@ Trước khi tạo Nhóm Tóm tắt Công việc Hàng ngày, bạn cần phải
 >3. Email sẽ không được gửi cho người dùng của một Nhóm Tóm tắt Công việc Hàng ngày đã bị vô hiệu hóa.
 
 
-<img class="screenshot" alt="Daily Work Summary Group" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/daily-work-summary-group.png">
+<img class="screenshot" alt="Daily Work Summary Group" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/human-resources/daily-work-summary-group.png">
 
 {next}

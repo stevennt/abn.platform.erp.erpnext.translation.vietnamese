@@ -12,11 +12,11 @@ Khi tạo Đơn bán hàng từ WooCommerce, nếu Khách hàng hoặc Mặt hà
 1. Từ thanh bên của trang web WooCommerce, nhấp vào Cài đặt (Settings).
 2. Nhấp vào tab "Advanced" sau đó nhấp vào liên kết REST API.
 
-    ![Woocommerce API](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/erpnext_integrations/wc-add-key.png)
+    ![Woocommerce API](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/erpnext_integrations/wc-add-key.png)
 
 3. Nhấp vào nút "Add key". Cung cấp các chi tiết cần thiết và nhấp vào nút "Generate API key".
 
-    ![Woocommerce API Key](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/erpnext_integrations/wc-generate-keys.png)
+    ![Woocommerce API Key](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/erpnext_integrations/wc-generate-keys.png)
 
 ### 1.2 Cài đặt Woocommerce
 
@@ -30,7 +30,7 @@ Khi tạo Đơn bán hàng từ WooCommerce, nếu Khách hàng hoặc Mặt hà
 8. Nhấp Lưu (Save).
 9. Sau khi lưu Cài đặt Woocommerce, "Secret" và "Endpoint" sẽ được tạo tự động.
 
-![Woocommerce Settings](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/erpnext_integrations/woocommerce-settings.png)
+![Woocommerce Settings](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/erpnext_integrations/woocommerce-settings.png)
 
 ### 1.3 Cài đặt Webhook Woocommerce
 
@@ -43,11 +43,11 @@ Khi tạo Đơn bán hàng từ WooCommerce, nếu Khách hàng hoặc Mặt hà
 7. Sao chép "Secret" từ DocType "Woocommerce Settings" trong trang ERPNext của bạn và dán vào trường "Secret".
 8. Giữ nguyên API VERSION và nhấp vào Lưu Webhook (Save Webhook). Bây giờ nó đã được thiết lập thành công.
 
-![Woocommerce Webhook](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/erpnext_integrations/wc-webhook.png)
+![Woocommerce Webhook](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/erpnext_integrations/wc-webhook.png)
 
 Một ảnh GIF dưới đây để hiển thị toàn bộ quy trình:
 
-![Woocommerce Set Up](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/erpnext_integrations/woocommerce-setup.gif)
+![Woocommerce Set Up](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/erpnext_integrations/woocommerce-setup.gif)
 
 > **Lưu ý:** Trong ảnh chụp màn hình và GIF ở trên, thay vì URL giao hàng trên trang web woocommerce, bạn cần dán URL mà bạn sẽ nhận được sau khi lưu "Woocommerce Settings" vào trường "Endpoint" trong bản cài đặt ERPNext của mình. Ở đây, một URL khác đã được dán vì đang sử dụng localhost.
 
@@ -63,7 +63,7 @@ Một ảnh GIF dưới đây để hiển thị toàn bộ quy trình:
 8. Bây giờ trên bản cài đặt ERPNext của bạn, hãy kiểm tra các DocType sau: Khách hàng (Customer), Địa chỉ (Address), Mặt hàng (Item), Đơn bán hàng (Sales Order). Chúng sẽ được lấy về và tạo từ dữ liệu webhook.
 9. Trong trường hợp các đơn hàng không được đồng bộ, bạn có thể kiểm tra lỗi trong **Home > Settings > Core > Error Log**.
 
-![Woocommerce Set Up](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/erpnext_integrations/woocommerce-order.gif)
+![Woocommerce Set Up](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/erpnext_integrations/woocommerce-order.gif)
 
 ## 2. Các tính năng
 
@@ -76,7 +76,7 @@ Trong DocType Woocommerce Settings:
 - **Sales Order Series**: Bạn có thể thiết lập một chuỗi riêng cho các Đơn bán hàng được tạo thông qua woocommerce. Chuỗi mặc định là "SO-WOO-".
 - **UOM**: Đây là Đơn vị tính mặc định được sử dụng cho Mặt hàng và Đơn bán hàng. Đơn vị tính mặc định là "Nos".
 
-![Woocommerce Defaults](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/erpnext_integrations/wc-defaults.png)
+![Woocommerce Defaults](https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/erpnext_integrations/wc-defaults.png)
 
 ## 3. Các chủ đề liên quan
 1. [Đơn bán hàng](../selling/sales-order.md)

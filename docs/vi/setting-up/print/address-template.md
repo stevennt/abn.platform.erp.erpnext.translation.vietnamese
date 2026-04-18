@@ -37,7 +37,7 @@ Công cụ tạo mẫu dựa trên HTML và hệ thống [Jinja Templating](http
 
 Đây là một ví dụ:
 
-<img class="screenshot" alt="Print Heading" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/wwwhttps://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/print/address-format.png">
+<img class="screenshot" alt="Print Heading" src="https://raw.githubusercontent.com/frappe/erpnext_documentation/master/erpnext_documentation/www/docs/v13/assets/img/setup/print/address-format.png">
 
 ### 2. Các chủ đề liên quan
 1. [Mẫu Điều khoản và Điều kiện](terms-and-conditions.md)
