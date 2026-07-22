@@ -3189,7 +3189,7 @@ msgstr "In nền (bắt buộc đối với >25 tài liệu)"
 #: frappe/core/doctype/system_settings/system_settings.json
 #: frappe/desk/doctype/system_health_report/system_health_report.json
 msgid "Background Workers"
-msgstr "Công nhân nền"
+msgstr "Tác vụ nền"
 
 #: frappe/desk/page/backups/backups.js:28
 msgid "Backup Encryption Key"
@@ -28126,7 +28126,7 @@ msgstr "Tổng cộng"
 #. Report'
 #: frappe/desk/doctype/system_health_report/system_health_report.json
 msgid "Total Background Workers"
-msgstr "Tổng số công nhân nền"
+msgstr "Tổng số Tác vụ nền"
 
 #. Label of the total_errors (Int) field in DocType 'System Health Report'
 #: frappe/desk/doctype/system_health_report/system_health_report.json
